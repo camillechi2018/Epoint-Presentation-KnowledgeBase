@@ -149,7 +149,7 @@
       "shape_id": 31,
       "shape_name": "文本框 30",
       "type": "text",
-      "max_chars": 31,
+      "max_chars": 44,
       "source_sample_chars": 114,
       "source_text": "AI技术应用：推动AI技术应用于产品开发中，开发智能化功能，提升产品的市场竞争力和创新性。通过数据分析、机器学习等技术。\n技术培训与分享：定期组织团队进行技术培训与知识分享，提升团队成员的技术水平和行业认知，提升团队的创新能力。",
       "bounds_pt": [
@@ -234,7 +234,7 @@
       "semantic_role": "body",
       "semantic_path": "items[3].body",
       "max_lines": 2,
-      "max_width_units": 64
+      "max_width_units": 56
     }
   ],
   "objects": {

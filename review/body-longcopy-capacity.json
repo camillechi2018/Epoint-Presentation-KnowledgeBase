@@ -4399,7 +4399,7 @@
               "semantic_role": "body",
               "is_narrative": true,
               "physical_max_cjk_chars": 75,
-              "registered_max_chars": 31,
+              "registered_max_chars": 44,
               "source_chars": 114,
               "box_width_pt": 426.1,
               "box_height_pt": 83.3,
@@ -4412,18 +4412,18 @@
               "semantic_role": "body",
               "is_narrative": true,
               "physical_max_cjk_chars": 75,
-              "registered_max_chars": 31,
+              "registered_max_chars": 44,
               "source_chars": 114,
               "box_width_pt": 426.1,
               "box_height_pt": 83.3,
               "font_size_pt": 16.0
             }
           ],
-          "manual_line_breaks": "not_tested",
-          "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 31,
+          "manual_line_breaks": "two_lines_tested_blue_red_2026-11-13",
+          "copy_form": "manual_two_line_wrap_or_shorter",
+          "registered_min_max_chars": 44,
           "use_for_planning_cjk_chars": 31,
-          "normal_fill_tested_chars": 31
+          "normal_fill_tested_chars": 44
         },
         {
           "semantic_path": "items[2].body",
@@ -4567,7 +4567,14 @@
         },
         "tested_lines": 3,
         "visual_result": "passed locally; source text not republished in knowledge base",
-        "historical_two_line_review_retained": true
+        "historical_two_line_review_retained": true,
+        "additional_case": {
+          "scope": "items[1].body; blue and red",
+          "tested_chars_including_line_break": 44,
+          "tested_lines": 2,
+          "method": "real-material fill, PowerPoint render, visual inspection, text-fit and layout checks",
+          "visual_result": "passed locally; source text not republished in knowledge base"
+        }
       }
     },
     {
