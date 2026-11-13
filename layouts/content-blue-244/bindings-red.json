@@ -56,7 +56,9 @@
       "semantic_role": "label",
       "semantic_path": "center.subtitle",
       "max_lines": 1,
-      "max_width_units": 13
+      "max_width_units": 13,
+      "required": false,
+      "missing_action": "clear_text"
     },
     {
       "field": "text_50",

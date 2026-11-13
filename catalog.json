@@ -11751,7 +11751,6 @@
         "required_binding_paths": [
           "page.title",
           "center.title",
-          "center.subtitle",
           "aspects[0].heading",
           "aspects[0].body",
           "aspects[2].heading",
@@ -11765,7 +11764,10 @@
           "aspects[5].heading",
           "aspects[5].body"
         ],
-        "access_mode": "field_complete"
+        "access_mode": "field_complete",
+        "optional_binding_paths": [
+          "center.subtitle"
+        ]
       }
     },
     {

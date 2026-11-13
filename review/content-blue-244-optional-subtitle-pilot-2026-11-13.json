@@ -1,0 +1,29 @@
+{
+  "layout_id": "content-blue-244",
+  "scope": "center.subtitle independent text shape only",
+  "status": "pilot_verified_draft",
+  "field_policy": {
+    "semantic_path": "center.subtitle",
+    "required": false,
+    "missing_action": "clear_text",
+    "blue_shape_id": 48,
+    "red_shape_id": 48
+  },
+  "tests": {
+    "blue_missing_subtitle_fill": "passed",
+    "red_missing_subtitle_fill": "passed",
+    "provided_subtitle_fill": "passed",
+    "blank_subtitle_clear": "passed",
+    "core_title_missing_rejected": "passed",
+    "long_body_rejected": "passed",
+    "powerpoint_render": "blue_and_red_1600x900",
+    "text_fit": "no_overflow",
+    "visual_review": "No visible clipping or orphaned decoration; center circle, title and six item groups remain",
+    "layout_checker_note": "Three right-aligned headings report text ink 5.4 pt beyond their own box; visually intact and unrelated to subtitle omission"
+  },
+  "previews": {
+    "blue": "review/content-blue-244-optional-subtitle-blue.png",
+    "red": "review/content-blue-244-optional-subtitle-red.png"
+  },
+  "coverage_note": "Synthetic short-copy pilot proves the optional-field mechanism. The existing 13-page company introduction remains 1 of 8 body pages filled from the knowledge base because its three six-item pages exceed native body capacity; this pilot does not claim material coverage growth."
+}
