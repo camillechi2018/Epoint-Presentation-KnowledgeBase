@@ -4360,7 +4360,7 @@
               "semantic_role": "body",
               "is_narrative": true,
               "physical_max_cjk_chars": 75,
-              "registered_max_chars": 32,
+              "registered_max_chars": 58,
               "source_chars": 110,
               "box_width_pt": 426.1,
               "box_height_pt": 83.3,
@@ -4373,18 +4373,18 @@
               "semantic_role": "body",
               "is_narrative": true,
               "physical_max_cjk_chars": 75,
-              "registered_max_chars": 32,
+              "registered_max_chars": 58,
               "source_chars": 110,
               "box_width_pt": 426.1,
               "box_height_pt": 83.3,
               "font_size_pt": 16.0
             }
           ],
-          "manual_line_breaks": "not_tested",
-          "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 32,
+          "manual_line_breaks": "three_lines_tested_blue_red_2026-11-13",
+          "copy_form": "manual_three_line_wrap_or_shorter",
+          "registered_min_max_chars": 58,
           "use_for_planning_cjk_chars": 32,
-          "normal_fill_tested_chars": 32
+          "normal_fill_tested_chars": 58
         },
         {
           "semantic_path": "items[1].body",
@@ -4438,7 +4438,7 @@
               "semantic_role": "body",
               "is_narrative": true,
               "physical_max_cjk_chars": 75,
-              "registered_max_chars": 31,
+              "registered_max_chars": 48,
               "source_chars": 111,
               "box_width_pt": 426.1,
               "box_height_pt": 83.3,
@@ -4451,18 +4451,18 @@
               "semantic_role": "body",
               "is_narrative": true,
               "physical_max_cjk_chars": 75,
-              "registered_max_chars": 31,
+              "registered_max_chars": 48,
               "source_chars": 111,
               "box_width_pt": 426.1,
               "box_height_pt": 83.3,
               "font_size_pt": 16.0
             }
           ],
-          "manual_line_breaks": "not_tested",
-          "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 31,
+          "manual_line_breaks": "three_lines_tested_blue_red_2026-11-13",
+          "copy_form": "manual_three_line_wrap_or_shorter",
+          "registered_min_max_chars": 48,
           "use_for_planning_cjk_chars": 31,
-          "normal_fill_tested_chars": 31
+          "normal_fill_tested_chars": 48
         },
         {
           "semantic_path": "items[3].body",
@@ -4477,7 +4477,7 @@
               "semantic_role": "body",
               "is_narrative": true,
               "physical_max_cjk_chars": 75,
-              "registered_max_chars": 32,
+              "registered_max_chars": 43,
               "source_chars": 138,
               "box_width_pt": 426.1,
               "box_height_pt": 83.3,
@@ -4490,18 +4490,18 @@
               "semantic_role": "body",
               "is_narrative": true,
               "physical_max_cjk_chars": 75,
-              "registered_max_chars": 32,
+              "registered_max_chars": 43,
               "source_chars": 138,
               "box_width_pt": 426.1,
               "box_height_pt": 83.3,
               "font_size_pt": 16.0
             }
           ],
-          "manual_line_breaks": "not_tested",
-          "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 32,
+          "manual_line_breaks": "two_lines_tested_2026-11-13",
+          "copy_form": "manual_two_line_wrap_or_shorter",
+          "registered_min_max_chars": 43,
           "use_for_planning_cjk_chars": 32,
-          "normal_fill_tested_chars": 32
+          "normal_fill_tested_chars": 42
         }
       ],
       "source_page": 112,
@@ -4556,7 +4556,19 @@
           }
         ]
       },
-      "long_copy_review_status": "长文案已验收"
+      "long_copy_review_status": "长文案已验收",
+      "capacity_extension_review": {
+        "review_date": "2026-11-13",
+        "scope": "items[0].body and items[2].body only; blue and red",
+        "method": "real-material fill, PowerPoint render, visual inspection, text-fit and layout checks",
+        "tested_chars_including_line_breaks": {
+          "items[0].body": 58,
+          "items[2].body": 48
+        },
+        "tested_lines": 3,
+        "visual_result": "passed locally; source text not republished in knowledge base",
+        "historical_two_line_review_retained": true
+      }
     },
     {
       "layout_id": "content-blue-119",

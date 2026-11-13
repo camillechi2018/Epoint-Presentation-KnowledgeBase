@@ -16,7 +16,7 @@
     "word_wrap": true,
     "normal_weight": true,
     "remove_bullets": true,
-    "max_rendered_lines": 2,
+    "max_rendered_lines": 3,
     "rows": [
       {
         "heading": "items[0].heading",
