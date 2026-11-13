@@ -4360,7 +4360,7 @@
               "semantic_role": "body",
               "is_narrative": true,
               "physical_max_cjk_chars": 75,
-              "registered_max_chars": 58,
+              "registered_max_chars": 59,
               "source_chars": 110,
               "box_width_pt": 426.1,
               "box_height_pt": 83.3,
@@ -4373,7 +4373,7 @@
               "semantic_role": "body",
               "is_narrative": true,
               "physical_max_cjk_chars": 75,
-              "registered_max_chars": 58,
+              "registered_max_chars": 59,
               "source_chars": 110,
               "box_width_pt": 426.1,
               "box_height_pt": 83.3,
@@ -4382,9 +4382,9 @@
           ],
           "manual_line_breaks": "three_lines_tested_blue_red_2026-11-13",
           "copy_form": "manual_three_line_wrap_or_shorter",
-          "registered_min_max_chars": 58,
+          "registered_min_max_chars": 59,
           "use_for_planning_cjk_chars": 32,
-          "normal_fill_tested_chars": 58
+          "normal_fill_tested_chars": 59
         },
         {
           "semantic_path": "items[1].body",
@@ -4399,7 +4399,7 @@
               "semantic_role": "body",
               "is_narrative": true,
               "physical_max_cjk_chars": 75,
-              "registered_max_chars": 44,
+              "registered_max_chars": 50,
               "source_chars": 114,
               "box_width_pt": 426.1,
               "box_height_pt": 83.3,
@@ -4412,18 +4412,18 @@
               "semantic_role": "body",
               "is_narrative": true,
               "physical_max_cjk_chars": 75,
-              "registered_max_chars": 44,
+              "registered_max_chars": 50,
               "source_chars": 114,
               "box_width_pt": 426.1,
               "box_height_pt": 83.3,
               "font_size_pt": 16.0
             }
           ],
-          "manual_line_breaks": "two_lines_tested_blue_red_2026-11-13",
-          "copy_form": "manual_two_line_wrap_or_shorter",
-          "registered_min_max_chars": 44,
+          "manual_line_breaks": "three_lines_tested_blue_red_2026-11-13",
+          "copy_form": "manual_three_line_wrap_or_shorter",
+          "registered_min_max_chars": 50,
           "use_for_planning_cjk_chars": 31,
-          "normal_fill_tested_chars": 44
+          "normal_fill_tested_chars": 50
         },
         {
           "semantic_path": "items[2].body",
@@ -4438,7 +4438,7 @@
               "semantic_role": "body",
               "is_narrative": true,
               "physical_max_cjk_chars": 75,
-              "registered_max_chars": 48,
+              "registered_max_chars": 55,
               "source_chars": 111,
               "box_width_pt": 426.1,
               "box_height_pt": 83.3,
@@ -4451,7 +4451,7 @@
               "semantic_role": "body",
               "is_narrative": true,
               "physical_max_cjk_chars": 75,
-              "registered_max_chars": 48,
+              "registered_max_chars": 55,
               "source_chars": 111,
               "box_width_pt": 426.1,
               "box_height_pt": 83.3,
@@ -4460,9 +4460,9 @@
           ],
           "manual_line_breaks": "three_lines_tested_blue_red_2026-11-13",
           "copy_form": "manual_three_line_wrap_or_shorter",
-          "registered_min_max_chars": 48,
+          "registered_min_max_chars": 55,
           "use_for_planning_cjk_chars": 31,
-          "normal_fill_tested_chars": 48
+          "normal_fill_tested_chars": 55
         },
         {
           "semantic_path": "items[3].body",
@@ -4477,7 +4477,7 @@
               "semantic_role": "body",
               "is_narrative": true,
               "physical_max_cjk_chars": 75,
-              "registered_max_chars": 43,
+              "registered_max_chars": 52,
               "source_chars": 138,
               "box_width_pt": 426.1,
               "box_height_pt": 83.3,
@@ -4490,18 +4490,18 @@
               "semantic_role": "body",
               "is_narrative": true,
               "physical_max_cjk_chars": 75,
-              "registered_max_chars": 43,
+              "registered_max_chars": 52,
               "source_chars": 138,
               "box_width_pt": 426.1,
               "box_height_pt": 83.3,
               "font_size_pt": 16.0
             }
           ],
-          "manual_line_breaks": "two_lines_tested_2026-11-13",
-          "copy_form": "manual_two_line_wrap_or_shorter",
-          "registered_min_max_chars": 43,
+          "manual_line_breaks": "three_lines_tested_blue_red_2026-11-13",
+          "copy_form": "manual_three_line_wrap_or_shorter",
+          "registered_min_max_chars": 52,
           "use_for_planning_cjk_chars": 32,
-          "normal_fill_tested_chars": 42
+          "normal_fill_tested_chars": 52
         }
       ],
       "source_page": 112,
@@ -4509,7 +4509,7 @@
       "preparation_methods": [
         "fill_layout_selected_only"
       ],
-      "operational_note": "按每个正文槽分别控制；组件最小值不能替代其他字段的上限",
+      "operational_note": "四槽现行绑定上限 59/50/55/52 字均含两个手动换行；单段纯中文规划值仍采用保守参考，不能把混合数字样页的上限当成任意同长度文案的保证。须逐槽预检并做 PowerPoint 视觉复核。",
       "normal_fill_longcopy_status": "normal_fill_and_text_fit_passed_pending_visual_review",
       "normal_fill_cases": [
         {
@@ -4574,6 +4574,18 @@
           "tested_lines": 2,
           "method": "real-material fill, PowerPoint render, visual inspection, text-fit and layout checks",
           "visual_result": "passed locally; source text not republished in knowledge base"
+        },
+        "company_intro_case": {
+          "scope": "four body fields; blue and red; two nonadjacent body pages",
+          "tested_chars_including_line_breaks": {
+            "items[0].body": 59,
+            "items[1].body": 50,
+            "items[2].body": 55,
+            "items[3].body": 52
+          },
+          "tested_lines": 3,
+          "method": "real-material fill, PowerPoint render, visual inspection, text-fit and layout checks",
+          "visual_result": "four editable pages passed locally; source text not republished in knowledge base"
         }
       }
     },
