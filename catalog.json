@@ -18762,8 +18762,10 @@
           "parallel-points"
         ],
         "required_content_fields": [
-          "summary",
           "conclusion"
+        ],
+        "optional_binding_paths": [
+          "summary"
         ],
         "visual_order_to_binding": {
           "title": [

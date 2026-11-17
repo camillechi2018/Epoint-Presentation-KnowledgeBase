@@ -43,7 +43,9 @@
         9620252,
         301041
       ],
-      "semantic_path": "summary"
+      "semantic_path": "summary",
+      "required": false,
+      "missing_action": "clear_text"
     },
     {
       "field": "text_39",
