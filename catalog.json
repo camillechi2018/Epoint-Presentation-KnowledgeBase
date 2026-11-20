@@ -16946,6 +16946,25 @@
     },
     {
       "id": "content-tech-021",
+      "body_component_contract": {
+        "version": 1,
+        "themes": {
+          "deep-blue-tech": {
+            "source": "sources/tech.pptx",
+            "page": 21,
+            "sha256": "e79ac2cfc2c634dc4040b8541ddca88173e87933960e346b4518ed1fa6e35564",
+            "title_id": 47,
+            "logo_id": 2,
+            "tech": {
+              "root_id": 44,
+              "art_id": 45,
+              "text_group_id": 46,
+              "variant": "standard",
+              "logo_anchor": "top_right"
+            }
+          }
+        }
+      },
       "version": "1.0.0-draft",
       "collection": "new-template-content",
       "style_family": "deep-blue-tech",
@@ -17408,6 +17427,25 @@
     },
     {
       "id": "content-tech-028",
+      "body_component_contract": {
+        "version": 1,
+        "themes": {
+          "deep-blue-tech": {
+            "source": "sources/tech.pptx",
+            "page": 28,
+            "sha256": "e79ac2cfc2c634dc4040b8541ddca88173e87933960e346b4518ed1fa6e35564",
+            "title_id": 9,
+            "logo_id": 3,
+            "tech": {
+              "root_id": 6,
+              "art_id": 7,
+              "text_group_id": 8,
+              "variant": "standard",
+              "logo_anchor": "bottom_right"
+            }
+          }
+        }
+      },
       "version": "1.0.0-draft",
       "collection": "new-template-content",
       "style_family": "deep-blue-tech",
@@ -19378,6 +19416,25 @@
     },
     {
       "id": "content-tech-058",
+      "body_component_contract": {
+        "version": 1,
+        "themes": {
+          "deep-blue-tech": {
+            "source": "sources/tech.pptx",
+            "page": 58,
+            "sha256": "e79ac2cfc2c634dc4040b8541ddca88173e87933960e346b4518ed1fa6e35564",
+            "title_id": 32,
+            "logo_id": 3,
+            "tech": {
+              "root_id": 29,
+              "art_id": 30,
+              "text_group_id": 31,
+              "variant": "wide",
+              "logo_anchor": "bottom_right"
+            }
+          }
+        }
+      },
       "version": "1.0.0-draft",
       "collection": "new-template-content",
       "style_family": "deep-blue-tech",
