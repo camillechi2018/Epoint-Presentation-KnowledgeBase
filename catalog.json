@@ -19778,11 +19778,11 @@
     {
       "id": "content-tech-016",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-016/body-deep-blue-tech.pptx",
-            "sha256": "f08990430fb1986d5b6e3aeddb01c0bd2cb39666c160ae261114164fc17e56e1",
+            "sha256": "54ba1c3a7a8bc599fc17715e9c6b17f22b0c60945a87833886090bf846b5f297",
             "bindings": "layouts/content-tech-016/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "2eb759610c56cc81a66d9fe0be77ee268942f70dbafcca5c7941bbc38f1b9cb8",
             "title_input": {
@@ -19816,7 +19816,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -19897,11 +19898,11 @@
     {
       "id": "content-tech-017",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-017/body-deep-blue-tech.pptx",
-            "sha256": "2872dffa058235343ac49e39709bff5b52a04300a39f24b7e26231fed2a1a46b",
+            "sha256": "884616dee33b49bb536ded727888d5a18e2752c92854626d1b885db0848b090a",
             "bindings": "layouts/content-tech-017/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "0b02d65d62796fa6973aa35a3ed40254eefefabd0a17d214d98dbadab60e5d15",
             "title_input": {
@@ -19935,7 +19936,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -19995,11 +19997,11 @@
     {
       "id": "content-tech-018",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-018/body-deep-blue-tech.pptx",
-            "sha256": "74d483bd0800f3ced1087e570c33e62e86bb0f26d8a04fc2d8c83f4475b5865a",
+            "sha256": "407c5bdfd73d0e304f278390b031081aa7ccf88c581ba8fcb7a1b2777fbd42e2",
             "bindings": "layouts/content-tech-018/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "3ff9d6cbe5467d1ff65c1188436a16c6d014838b6304f9d28ff64a16512dcf54",
             "title_input": {
@@ -20033,7 +20035,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -20115,11 +20118,11 @@
     {
       "id": "content-tech-019",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-019/body-deep-blue-tech.pptx",
-            "sha256": "e993158f2358bbccafcb3199de4080b454c28db050b50475855c426c215245e4",
+            "sha256": "10518d7f683572524419e908a06630249058ee5b76c37633b846f441ec2637e3",
             "bindings": "layouts/content-tech-019/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "188b720e71d8de3a662759e52dab4995d417375f8856bfe7108c3f95f80b2a72",
             "title_input": {
@@ -20153,7 +20156,8 @@
               "art_index": 2,
               "variant": "wide",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -20236,11 +20240,11 @@
     {
       "id": "content-tech-020",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-020/body-deep-blue-tech.pptx",
-            "sha256": "549564590ca5ad75d31986360e2d6b4bc1c72a22ce49bb037612fc8efa7349dd",
+            "sha256": "47628e14b47b28ffc1282d03d5a0015c1a62b8520352cc99184bbb997e0f40f9",
             "bindings": "layouts/content-tech-020/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "522f88df0cb2c903a54da2ee90656e86a805d313800f7394b2caf4d77103b24c",
             "title_input": {
@@ -20274,7 +20278,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -20354,11 +20359,11 @@
     {
       "id": "content-tech-021",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-021/body-deep-blue-tech.pptx",
-            "sha256": "1f41caeb6cde8945f6d15dd345464cdca76bcba12edf02c7e3972e57d78679e9",
+            "sha256": "cc4a52967adc8b1a233fbe5149b8efd710c638cfa418f61446db944c70cdcbd8",
             "bindings": "layouts/content-tech-021/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "c015358fcfa5df1c77e9058b4499881e0c2a0df01bfe51076b8bd28bd3066152",
             "title_input": {
@@ -20392,7 +20397,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "top_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -20474,11 +20480,11 @@
     {
       "id": "content-tech-022",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-022/body-deep-blue-tech.pptx",
-            "sha256": "7f5b4bfc1d8d940b21c1b284417e6682545642b8dcc286a0f5a96964a29596c2",
+            "sha256": "7dc611e7bec834340237e7141aa8c2d503c7c8c12f1a5d92ebd2f923cea5916e",
             "bindings": "layouts/content-tech-022/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "450d7eb294673b83a2c91475cbffff896d55645785d2ca938008632862c56120",
             "title_input": {
@@ -20512,7 +20518,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -20593,11 +20600,11 @@
     {
       "id": "content-tech-023",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-023/body-deep-blue-tech.pptx",
-            "sha256": "8968c1c56efc05e4457df740f9587ab932b5d07850d87b4e450e2732b93e17c1",
+            "sha256": "104de23ab078cd24cbba9c01453f72ab59c7d5ccb6e1b59430910c5c1bcb0f76",
             "bindings": "layouts/content-tech-023/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "3e655f2c390e58c822a55ff343a3c9f8a9af90a6ce52296c73cd4aa57b1da90d",
             "title_input": {
@@ -20631,7 +20638,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -20707,11 +20715,11 @@
     {
       "id": "content-tech-024",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-024/body-deep-blue-tech.pptx",
-            "sha256": "f4f4bf632e6380251eca917a7c7e90c27f0aa8edec888bd16f2660b3db88e043",
+            "sha256": "dcafadf635c833673cb4ba67d7ec1126c275f58f102ac949ee00d6beb03b4175",
             "bindings": "layouts/content-tech-024/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "10fbcbdcf1c7653ba3f1253b712090e5824a3d021166f8e3d4d2d404c5838a36",
             "title_input": {
@@ -20745,7 +20753,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -20870,11 +20879,11 @@
     {
       "id": "content-tech-026",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-026/body-deep-blue-tech.pptx",
-            "sha256": "8d099106466802119f1f508ffa9d03c65fa631188013aa9d038985d81725ca86",
+            "sha256": "d353051c967332c40f48f6c8a2254db481e75406a77fed5a508f5a7fc5ea74d2",
             "bindings": "layouts/content-tech-026/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "62fb48625f9adf96b418961f56d6ec0df130d5527ae7b9334b2658d1145da072",
             "title_input": {
@@ -20908,7 +20917,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -21031,11 +21041,11 @@
     {
       "id": "content-tech-028",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-028/body-deep-blue-tech.pptx",
-            "sha256": "80a09955700ec01d342db33d7a7b8faac11f00fe65ebc50a43ba9c4740de3cf7",
+            "sha256": "f04e3a5e56a08676eb11a7777b5188d6f90ecd25490dec73d32dd80afac43fa7",
             "bindings": "layouts/content-tech-028/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "90d0d2bbe6f9c046762cedb5e3abd24541d65c11a2d9e3dbb6b111f01a79d5d8",
             "title_input": {
@@ -21069,7 +21079,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -21149,11 +21160,11 @@
     {
       "id": "content-tech-029",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-029/body-deep-blue-tech.pptx",
-            "sha256": "8a937c25166f11900ae0c0d176b19bfa272413c33c1a1f13fd6285e8596f134a",
+            "sha256": "f8a79c3752aaa78b13e91a56f88d260144efd6c6f9140e37d098d94c93d0dd24",
             "bindings": "layouts/content-tech-029/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "b4da79db012e612fd8850dbe536101c4db33658184cdb902d7a051c1f8ca3997",
             "title_input": {
@@ -21187,7 +21198,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -21268,11 +21280,11 @@
     {
       "id": "content-tech-030",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-030/body-deep-blue-tech.pptx",
-            "sha256": "1e8bdbe460ff446cb83a349ed357f4860ddfeb2ccf29cb77af93b215103dec7a",
+            "sha256": "790b2b53648d079b615dc968446f84388ce3643dfbd1020d0362ac4a9d4bd098",
             "bindings": "layouts/content-tech-030/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "a369d9244bba831044c8ce271c3cdc85d88f009fa6a8572162d60c5fccacda96",
             "title_input": {
@@ -21306,7 +21318,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -21386,11 +21399,11 @@
     {
       "id": "content-tech-031",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-031/body-deep-blue-tech.pptx",
-            "sha256": "a93967871308aa12f713d2ba15c2fe9bd502d5431c9771fc4a498d450fb68700",
+            "sha256": "418f8f6f3dd23830d0e2cb6b466ad1d4e094b780331a90201d035c23fad8e775",
             "bindings": "layouts/content-tech-031/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "539e556d1788209be23f88c00701f89960d735eebc5a80cdc7294c3625cacbb9",
             "title_input": {
@@ -21424,7 +21437,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -21483,11 +21497,11 @@
     {
       "id": "content-tech-032",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-032/body-deep-blue-tech.pptx",
-            "sha256": "1dda93ca986d9885a195a147486d7df1c21457bdb8dd4dc1482088498b9fc300",
+            "sha256": "cd5571f714febd204b9307fc36c058f37b8b7e51777c81413e2ac2372296c77c",
             "bindings": "layouts/content-tech-032/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "fb7b719a4f8e2aa63d8cc795030ab3f90c6b0bdb1c57efeab23435da74a8a4bd",
             "title_input": {
@@ -21521,7 +21535,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -21609,11 +21624,11 @@
     {
       "id": "content-tech-033",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-033/body-deep-blue-tech.pptx",
-            "sha256": "7a2bb47eeb65e15153ad2d0905e3ef720c9236a7964e1f778a62c8e74a01a34e",
+            "sha256": "e928fc10852dbfb22aa9fe8d93e9283407a08bc77049ff84eb5aa797f27955c9",
             "bindings": "layouts/content-tech-033/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "d01612799afc29948045693979bdaa7c73ca75115ebd1d401ff1c52ce2fc9df3",
             "title_input": {
@@ -21647,7 +21662,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -21732,11 +21748,11 @@
     {
       "id": "content-tech-034",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-034/body-deep-blue-tech.pptx",
-            "sha256": "32d337c68bcf02bde9195ce23ab4feb8e75587386595afc5632a67a3faaad900",
+            "sha256": "e89e1e265b35bd0498f0acb53a7adee1a94f2e52c9244ffd939908476240d72d",
             "bindings": "layouts/content-tech-034/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "8b7e32d6b6e2e19336af5845cd9488dff5cdecd82127a0459ad51119aba345b2",
             "title_input": {
@@ -21770,7 +21786,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -21936,11 +21953,11 @@
     {
       "id": "content-tech-037",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-037/body-deep-blue-tech.pptx",
-            "sha256": "f642e1841f469f763c5becf2eb5706f82f743d8968b6069119ffd24e590bf6db",
+            "sha256": "1d5477ed49a36bf12d6dcf4c34c5267ea5c0189edc3256232d896c1e9c951866",
             "bindings": "layouts/content-tech-037/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "ed557d92290f4751b5adf4e61fbb804e779c224aed3d381a2450e114321df203",
             "title_input": {
@@ -21974,7 +21991,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -22054,11 +22072,11 @@
     {
       "id": "content-tech-038",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-038/body-deep-blue-tech.pptx",
-            "sha256": "c50725ab48d28568f1f9baf5ad897f36e743d5b43398cd1c4eb2cf00a6a6332e",
+            "sha256": "4d81d9a5e29df99737e30efbcae792c7dbeca07b89a108fbd551ea8c77f9f2f3",
             "bindings": "layouts/content-tech-038/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "d7ab2fae135624bbad19d516f38f381fd304a3cff62ef8abea8f6b6ce611a2dd",
             "title_input": {
@@ -22092,7 +22110,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -22217,11 +22236,11 @@
     {
       "id": "content-tech-040",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-040/body-deep-blue-tech.pptx",
-            "sha256": "676c1061aaf076ff4e03375ec840d003bff057a75b294be4e30080adacb27730",
+            "sha256": "a527286ddc8b4852d3ab4f8f5bc593844e3ca191e9cb48f77d2e67451dd7c927",
             "bindings": "layouts/content-tech-040/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "26d272d00a04e284ac43f1e782c022aeca870e63c3e27495e134f10e8e9c3944",
             "title_input": {
@@ -22255,7 +22274,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -22380,11 +22400,11 @@
     {
       "id": "content-tech-042",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-042/body-deep-blue-tech.pptx",
-            "sha256": "2dbb66e747b4a49c0ac454aab8c11aa384db73938f2e4fbb48dede2bdaafa75d",
+            "sha256": "5499bd9a1679dd28ce9b3cf19c8e36e5d2ed2f5b9933a37f5a8d4bcb0074b97b",
             "bindings": "layouts/content-tech-042/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "6ddc6aece62a419e7604653c20792b64a518448ae646e23b2e695171cbdf3449",
             "title_input": {
@@ -22418,7 +22438,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -22498,11 +22519,11 @@
     {
       "id": "content-tech-043",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-043/body-deep-blue-tech.pptx",
-            "sha256": "a6a6bceede3c371d2c6dbd371c6d183d99da30b5f357e347ea706430333cbf40",
+            "sha256": "e533e43c57dc4fa1f8edc6bc26acf7c792a7b6e71e13c71690a7333f053e246c",
             "bindings": "layouts/content-tech-043/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "5e3da2110fb84eac96e490ebdacaf534d849be6eb78fc09d17a36b041aaa8b61",
             "title_input": {
@@ -22536,7 +22557,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -22659,11 +22681,11 @@
     {
       "id": "content-tech-045",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-045/body-deep-blue-tech.pptx",
-            "sha256": "b9fa4a59f97c5c2bcb5b80c0e975760feec05c1b4eb84fb4aadee815569fecf4",
+            "sha256": "c1d18940119481969cd4d25b97a808e422837ec78f5d57806801cca48ab22c81",
             "bindings": "layouts/content-tech-045/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "f20bb9f1c35a8155c751f6e3352f8a6a24bab5fb509b33ddf5c2908ba96784a5",
             "title_input": {
@@ -22697,7 +22719,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -22774,11 +22797,11 @@
     {
       "id": "content-tech-046",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-046/body-deep-blue-tech.pptx",
-            "sha256": "e1dddac42bbeb4656d5931b6ea4932d8df54dad7a7ee3e90dcc96440d3943198",
+            "sha256": "c0a33acd751d2957e40e536847e6b8f2a4c9e747ffbfdf999366b051b3575eeb",
             "bindings": "layouts/content-tech-046/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "db99573938609ca4dd5b556502ad99e2e2b340b86a44528fdb9e70a963b7c415",
             "title_input": {
@@ -22812,7 +22835,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -22891,11 +22915,11 @@
     {
       "id": "content-tech-047",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-047/body-deep-blue-tech.pptx",
-            "sha256": "a899893aea436db468a35acf45083e110414a19a47d567e7c8621d01f851538b",
+            "sha256": "a34bf4c7ce9e44a203e30030bf55671e4431012d2dfafed003e5d5384dd2b5df",
             "bindings": "layouts/content-tech-047/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "31697540742d67f92d6cc54912c475c9938fe5e8ebb26439b8950e7cccd1f3b0",
             "title_input": {
@@ -22929,7 +22953,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -23013,11 +23038,11 @@
     {
       "id": "content-tech-048",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-048/body-deep-blue-tech.pptx",
-            "sha256": "c2125de72d6e7311e373452111ece5805b6d336093ff08201a54e3adb2dba4bb",
+            "sha256": "54098a295e3d9dc667d7ef5ad395642fb007ed476201f537397eaf27a86631fd",
             "bindings": "layouts/content-tech-048/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "1f737aef88339a58fea2b65e7d56601bb48fa55c4f5f43bb337ee00f3cc1603c",
             "title_input": {
@@ -23051,7 +23076,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -23281,11 +23307,11 @@
     {
       "id": "content-tech-052",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-052/body-deep-blue-tech.pptx",
-            "sha256": "60386b5892f4554c3befaa279b12f66aa27bc39fbf5e141b0b0d70ca8d0268f0",
+            "sha256": "9ced170d38a6add8900148e20e80af32db51028564392e475e216426a6121418",
             "bindings": "layouts/content-tech-052/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "c537e288919118929855df7454c51f773164c514309db207e5cee46027e8a025",
             "title_input": {
@@ -23319,7 +23345,8 @@
               "art_index": 2,
               "variant": "wide",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -23402,11 +23429,11 @@
     {
       "id": "content-tech-053",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-053/body-deep-blue-tech.pptx",
-            "sha256": "f92860b732c7a9a277e3e36c2fd994f77c570fd97b1d5c5afbf4f1227340fad2",
+            "sha256": "e24d73cb8c79e5bd308f319a3d4400f0789a5b229e09fffd9340c152dbbbe977",
             "bindings": "layouts/content-tech-053/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "ffe6f14ea36233153144f855623bd4aaf06637c0dfc67f2fdba74c62eb345500",
             "title_input": {
@@ -23440,7 +23467,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -23500,11 +23528,11 @@
     {
       "id": "content-tech-054",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-054/body-deep-blue-tech.pptx",
-            "sha256": "36045bb77a5a369299d1f47e1474578b413f9684f0f90f970a6adf3066b78d6a",
+            "sha256": "a90a2b305f455291b6079b7fcda17de9b7ea855b57ebf9d39fe17fc2407cdd79",
             "bindings": "layouts/content-tech-054/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "3a63d197b79c35783fbcde428eac6247b8b19788f22519ff0ae10221429ea93e",
             "title_input": {
@@ -23538,7 +23566,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -23618,11 +23647,11 @@
     {
       "id": "content-tech-055",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-055/body-deep-blue-tech.pptx",
-            "sha256": "90a06b4c48a817ee45396b6d5ea8691494cc16164be3c01c4747ee7c80b1f1e6",
+            "sha256": "8c5157eb6c40326f4e111ae0bf9ed43ab444888a61823fef171a6e27464fd588",
             "bindings": "layouts/content-tech-055/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "ab198d50b1bdd2116309b1acbaf7363c62341dbcb8512b0c0156952825d33fe3",
             "title_input": {
@@ -23641,7 +23670,8 @@
               "variant": "standard",
               "logo_anchor": "bottom_right",
               "omit_art": true
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -23713,11 +23743,11 @@
     {
       "id": "content-tech-056",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-056/body-deep-blue-tech.pptx",
-            "sha256": "60c838016c0cc52f7655b123c7f4ccc695a13fd3ef4be5271e5b5bbf897e7e54",
+            "sha256": "264ca16e53a6cfa6b729399f8b52a5d10c9176f3bb1740347e3ea4bd0a5d34ba",
             "bindings": "layouts/content-tech-056/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "e5158141edcc86c05eed54072fb0217f112e83602a61aab57d68a77438be5d27",
             "title_input": {
@@ -23751,7 +23781,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -23810,11 +23841,11 @@
     {
       "id": "content-tech-057",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-057/body-deep-blue-tech.pptx",
-            "sha256": "0717abbbed3fedb73b535e70a9fafb181df8e11e220a7135630662d0b492ad73",
+            "sha256": "ba9e373eb0a4600fb74d5f343dd6d48671bba12fdb32f7ab0498ca0870108797",
             "bindings": "layouts/content-tech-057/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "c9b5bdf50b002a05d856d87bd5da058940b952d604341406302d4a5fef65ce29",
             "title_input": {
@@ -23848,7 +23879,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -23932,11 +23964,11 @@
     {
       "id": "content-tech-058",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-058/body-deep-blue-tech.pptx",
-            "sha256": "2d65b5146335cb8b30bc5cc186301a5ef85f0345970846530e2aa7d47400108d",
+            "sha256": "35a047f46a96310ec04f0cabbd308e6a207b5b54b83f1a7799da4aa624fba100",
             "bindings": "layouts/content-tech-058/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "0868f49c746c7bec4f11fcb87b85fc28d07b3154252674ddaab49cd2219e0cef",
             "title_input": {
@@ -23970,7 +24002,8 @@
               "art_index": 2,
               "variant": "wide",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -24050,11 +24083,11 @@
     {
       "id": "content-tech-059",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-059/body-deep-blue-tech.pptx",
-            "sha256": "27894ad7acd0ae5ddf02b0f2d39ff5d0040a9ce60a6de5469d27194d3122eb05",
+            "sha256": "e4c21b62c10167d9deb42145d15031b60592839e630e657479f02824a6fa6875",
             "bindings": "layouts/content-tech-059/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "5bdd5d3ac0dbd20690798e76b3c0d27ea78a135c169953a2f3502927ee724627",
             "title_input": {
@@ -24088,7 +24121,8 @@
               "art_index": 2,
               "variant": "wide",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -24171,11 +24205,11 @@
     {
       "id": "content-tech-060",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-060/body-deep-blue-tech.pptx",
-            "sha256": "f3356181a37e8e73b55fa7adaf5a8557ec592f76ddaf6d52a0d8f471438da586",
+            "sha256": "9ceb1653f8bef57ab062ee54cf6b48324a1e0e26e498f1df832cba6136aa8529",
             "bindings": "layouts/content-tech-060/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "7d159c15a6fc3e4d61a70e37a28671f685cc224a5a2f931af690577786caa52a",
             "title_input": {
@@ -24209,7 +24243,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -24290,11 +24325,11 @@
     {
       "id": "content-tech-061",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-061/body-deep-blue-tech.pptx",
-            "sha256": "208d0243b48c8a8b7fd1b797a74c68f9606532052405c5f4589a5c9eabd5f521",
+            "sha256": "0ca7f1e1a1f12d17a8aa6f8659552a4430a500da5e40b0b8c8c5e8239b7397cf",
             "bindings": "layouts/content-tech-061/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "112ff28601c4f6161f51d750e2285981ae5590fdb751345f733d9f5483e48153",
             "title_input": {
@@ -24328,7 +24363,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -24451,11 +24487,11 @@
     {
       "id": "content-tech-063",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-063/body-deep-blue-tech.pptx",
-            "sha256": "4294dd58e5faa7f2a3e916ffdaa64521a9ff03e82d82d7eae9e6865640093deb",
+            "sha256": "ed6e08a94e4e59c5b4e67a36089c90b4ad12d91939afc0f7c3c7ccea5b790ae4",
             "bindings": "layouts/content-tech-063/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "b9a10de3826b98bf2b344bdb75b9e41a97cc43f00e5598350c3ee25eb0e2deb3",
             "title_input": {
@@ -24489,7 +24525,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -24571,11 +24608,11 @@
     {
       "id": "content-tech-064",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-064/body-deep-blue-tech.pptx",
-            "sha256": "fdc4fb50da4498c63f141dbb6880cb3ec7286ad5cc11b02218580909d526895d",
+            "sha256": "23a68e33ecc7f61d4862b5d73d4efbca12fc48bdb01da73720e2979b5f62b921",
             "bindings": "layouts/content-tech-064/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "a2946ccb30922d7004b3f21d85be05efa1bb07f16efde606c9177631c75a388c",
             "title_input": {
@@ -24609,7 +24646,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -24691,11 +24729,11 @@
     {
       "id": "content-tech-065",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-065/body-deep-blue-tech.pptx",
-            "sha256": "524ee515df3b146856e70cc91bc12b2be49b2ad162d6ef229b47c30ccf94a0c6",
+            "sha256": "cacf58282db3ae1936d3ced853e5ecaace911615ff4b640823b69746030b809d",
             "bindings": "layouts/content-tech-065/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "62f2f705059f48fed7cf5d2b925446f9e133253ca420079946786271374e8846",
             "title_input": {
@@ -24729,7 +24767,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -24811,11 +24850,11 @@
     {
       "id": "content-tech-066",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-066/body-deep-blue-tech.pptx",
-            "sha256": "a03b8fd5ef45684156324ea393d2f1b33db43ee075e4a5efad8ac05ae28ac5d7",
+            "sha256": "82a08a17101d5b62d4175747cb9523c46435acae0f99fd694f04649a553a8c11",
             "bindings": "layouts/content-tech-066/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "ec41e061ae18f827d07d5f89f84a7d763d7af6b5b7e0fee392cac673c24c6bcc",
             "title_input": {
@@ -24849,7 +24888,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -25013,11 +25053,11 @@
     {
       "id": "schedule-tech-069",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/schedule-tech-069/body-deep-blue-tech.pptx",
-            "sha256": "0e049c2efb783ada35b54d338bd47ab4f5ec57e4b8bb1e64cf5c629d6c76f551",
+            "sha256": "e8495a4aa0486db8f70d907c9acc354a27e1f7d5de432906644b01970997f743",
             "bindings": "layouts/schedule-tech-069/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "a2257177c4c4094e786d63b3ce8e7cbd6f73618ecb560e979c87eb7ef3950150",
             "title_input": {
@@ -25051,7 +25091,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -25181,11 +25222,11 @@
     {
       "id": "data-chart-tech-071",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/data-chart-tech-071/body-deep-blue-tech.pptx",
-            "sha256": "b7474187c790815aa537cec308e7c1f23a791fa5562aa87a7345c49c77607166",
+            "sha256": "27d64eae549a26f28ee7d95abfc4fb4a9c9d058688b3e4f1684dd509793301b6",
             "bindings": "layouts/data-chart-tech-071/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "0820c1b07c6336464e3e5a1c0aa4b1560a000191f33054816233e2ec5928ea7a",
             "title_input": {
@@ -25219,7 +25260,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -25408,11 +25450,11 @@
     {
       "id": "data-chart-tech-075",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/data-chart-tech-075/body-deep-blue-tech.pptx",
-            "sha256": "56638066ed4e242ad4bc283e56942add5d6f9f46693fe337bbbcfade8b05d02a",
+            "sha256": "0d53e21c010f5ef711f4ac3ba67e10d279411d09a80629f5c0c781c91e9d5932",
             "bindings": "layouts/data-chart-tech-075/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "5c8604dd412cdd0d6f4ca0d7137b64bc8320f77a1d1a6de6cc56556d96b2776a",
             "title_input": {
@@ -25446,7 +25488,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -25549,11 +25592,11 @@
     {
       "id": "content-tech-077",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-077/body-deep-blue-tech.pptx",
-            "sha256": "d68fa69d6eefd37fde02ded01254be15f94f8c82c1cad7c5c9a4b62778ac663a",
+            "sha256": "2b8ca5c64fc42f5099723ef1282ad8d6457b77a16f8a0e64143cb8752513d9f6",
             "bindings": "layouts/content-tech-077/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "3a313bb33fe94153c73714b09dfc81af5e5e4ede979dfe54b7025c73e054379a",
             "title_input": {
@@ -25587,7 +25630,8 @@
               "art_index": 2,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
@@ -25775,11 +25819,11 @@
     {
       "id": "content-tech-081",
       "body_component_contract": {
-        "version": 2,
+        "version": 3,
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-081/body-deep-blue-tech.pptx",
-            "sha256": "2948a4c69b1921f4db4ee7e039e8217ac00c75a5172df130a38b4d26739a33f9",
+            "sha256": "fea11a60ebc9ce4984d91fcd2f5b2a034b342584311ac8eeac7792ae3f00bbdc",
             "bindings": "layouts/content-tech-081/body-deep-blue-tech-bindings.json",
             "bindings_sha256": "5ab082fd005b0eea9a17c00281fd1db3887417bbfa0fb55310396ceae1bdd255",
             "title_input": {
@@ -25813,7 +25857,8 @@
               "art_index": 11,
               "variant": "standard",
               "logo_anchor": "bottom_right"
-            }
+            },
+            "background": "skill_tech"
           }
         }
       },
