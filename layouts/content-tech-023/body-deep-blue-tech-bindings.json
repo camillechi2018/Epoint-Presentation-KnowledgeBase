@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "矩形 22",
+      "type": "text",
+      "group_path": [
+        19,
+        21
+      ],
+      "source_text": "以项目管理与文档协作为核心提升团队透明度与执行效率",
+      "source_sample_chars": 25,
+      "max_chars": 37,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1815439,
+        1056165,
+        8561121,
+        301041
+      ],
+      "semantic_path": "summary"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "object 48",
+      "type": "text",
+      "group_path": [],
+      "source_text": "使用Trello、Jira等工具，清晰跟踪任务进度。这些工具可以帮助团队更好地分配任务、设置截止日期，并实时监控项目进展。\n项目管理工具和文档协作工具的结合，可以让团队工作更加透明化",
+      "source_sample_chars": 91,
+      "max_chars": 136,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        678109,
+        2703907,
+        2016736,
+        2176558
+      ],
+      "semantic_path": "left.body"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "object 48",
+      "type": "text",
+      "group_path": [],
+      "source_text": "通过Notion、飞书等工具，实现团队高效协作。多人同时编辑、评论和分享文档，减少沟通成本，提升工作效率。\n选择适合的工具，能够帮助员工更好地管理任务、沟通协作。",
+      "source_sample_chars": 81,
+      "max_chars": 121,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        9473136,
+        2703907,
+        2016736,
+        2176558
+      ],
+      "semantic_path": "right.body"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "group_path": [],
+      "source_text": "文档协作\n工具",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        6688708,
+        3646073,
+        1788719,
+        954107
+      ],
+      "semantic_path": "right.title"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "group_path": [],
+      "source_text": "项目管理\n工具",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        3740378,
+        3646073,
+        1788719,
+        954107
+      ],
+      "semantic_path": "left.title"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "visual index only; field semantics provisional"
+}

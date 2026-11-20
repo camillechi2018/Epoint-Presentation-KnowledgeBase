@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "文本框 1",
+      "type": "text",
+      "group_path": [],
+      "source_text": "技术中心研发的物联网与AI模型为西北农场部署气候监测与自动灌溉系统。实现节水35%、作物增产20%，带动周边5000亩农田标准化生产",
+      "source_sample_chars": 66,
+      "max_chars": 99,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1756229,
+        2093896,
+        3456992,
+        797206
+      ],
+      "semantic_path": "item_1.body"
+    },
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "group_path": [],
+      "source_text": "智慧农业中心",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1912200,
+        1552412,
+        2950183,
+        494238
+      ],
+      "semantic_path": "item_1.title"
+    },
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "文本框 5",
+      "type": "text",
+      "group_path": [],
+      "source_text": "通过可穿戴设备与AI健康算法，为城市社区提供个性化慢病监测服务，异常情况实时提醒家庭医生，试点区域急诊率降低25%",
+      "source_sample_chars": 57,
+      "max_chars": 85,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        8575017,
+        3936125,
+        3083797,
+        797206
+      ],
+      "semantic_path": "item_2.body"
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "group_path": [],
+      "source_text": "社区慢病管理助手",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        8913156,
+        3400960,
+        2721456,
+        494238
+      ],
+      "semantic_path": "item_2.title"
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "文本框 11",
+      "type": "text",
+      "group_path": [],
+      "source_text": "基于工业互联网架构，为装备制造企业搭建预测性维护平台，实时分析设备数据，故障预警准确率达90%，维护成本下降40%",
+      "source_sample_chars": 57,
+      "max_chars": 85,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        485838,
+        4669550,
+        3166494,
+        797206
+      ],
+      "semantic_path": "item_3.body"
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "文本框 15",
+      "type": "text",
+      "group_path": [],
+      "source_text": "工业智能诊断平台",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        585963,
+        4134385,
+        2754300,
+        494238
+      ],
+      "semantic_path": "item_3.title"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "文本框 31",
+      "type": "text",
+      "group_path": [],
+      "source_text": "技术\n中台",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        5254629,
+        3784174,
+        1682742,
+        1107996
+      ],
+      "semantic_path": "center.topic"
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "矩形 3",
+      "type": "text",
+      "group_path": [],
+      "source_text": "以智慧农业、慢病管理、工业诊断三类案例说明技术中台落地价值",
+      "source_sample_chars": 29,
+      "max_chars": 43,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ],
+      "semantic_path": "summary"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "visual index only; field semantics provisional"
+}

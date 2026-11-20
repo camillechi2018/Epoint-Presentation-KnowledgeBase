@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "矩形 5",
+      "type": "text",
+      "group_path": [
+        2,
+        4
+      ],
+      "source_text": "分析不同折扣区间与转化率的关系",
+      "source_sample_chars": 15,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ],
+      "semantic_path": "summary"
+    },
+    {
+      "field": "text_69",
+      "shape_id": 69,
+      "shape_name": "Text Placeholder 18",
+      "type": "text",
+      "group_path": [],
+      "source_text": "折扣力度越大并不意味转化率越高，当折扣力度为30%-40%时，为转化率最高值7.4%",
+      "source_sample_chars": 42,
+      "max_chars": 63,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1166553,
+        3398177,
+        2044488,
+        1230886
+      ],
+      "semantic_path": "conclusion"
+    },
+    {
+      "field": "text_70",
+      "shape_id": 70,
+      "shape_name": "Text Placeholder 21",
+      "type": "text",
+      "group_path": [],
+      "source_text": "促销力度\u000b与转化率",
+      "source_sample_chars": 9,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1195769,
+        2179693,
+        1986057,
+        1122690
+      ],
+      "semantic_path": "chart_caption"
+    }
+  ],
+  "objects": {
+    "charts": [
+      {
+        "shape_id": 25,
+        "shape_name": "图表 24",
+        "group_path": [],
+        "categories_max": 12,
+        "series_max": 5
+      }
+    ],
+    "tables": [],
+    "images": []
+  },
+  "review": "visual index only; field semantics provisional"
+}

@@ -1,0 +1,138 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_121",
+      "shape_id": 121,
+      "shape_name": "TextBox 19",
+      "type": "text",
+      "group_path": [
+        157
+      ],
+      "source_text": "资源协同\n与火力全开",
+      "source_sample_chars": 10,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        5172073,
+        2264329,
+        1847852,
+        726161
+      ],
+      "semantic_path": "tier_1.body"
+    },
+    {
+      "field": "text_122",
+      "shape_id": 122,
+      "shape_name": "TextBox 18",
+      "type": "text",
+      "group_path": [
+        157
+      ],
+      "source_text": "实时监控\n与快速迭代",
+      "source_sample_chars": 10,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        5172073,
+        3548546,
+        1847852,
+        726161
+      ],
+      "semantic_path": "tier_2.body"
+    },
+    {
+      "field": "text_120",
+      "shape_id": 120,
+      "shape_name": "TextBox 17",
+      "type": "text",
+      "group_path": [
+        157
+      ],
+      "source_text": "目标拆解\n与责任锁定",
+      "source_sample_chars": 10,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        5172073,
+        4971222,
+        1847852,
+        726161
+      ],
+      "semantic_path": "tier_3.body"
+    },
+    {
+      "field": "text_129",
+      "shape_id": 129,
+      "shape_name": "矩形 128",
+      "type": "text",
+      "group_path": [
+        125,
+        127
+      ],
+      "source_text": "通过目标拆解、资源协同与实时迭代保障业务执行落地",
+      "source_sample_chars": 24,
+      "max_chars": 36,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1815439,
+        1056165,
+        8561121,
+        301041
+      ],
+      "semantic_path": "summary"
+    },
+    {
+      "field": "text_112",
+      "shape_id": 112,
+      "shape_name": "矩形 111",
+      "type": "text",
+      "group_path": [
+        166
+      ],
+      "source_text": "配套\n制度保障",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1322009,
+        3110816,
+        1899614,
+        1036920
+      ],
+      "semantic_path": "left_support"
+    },
+    {
+      "field": "text_169",
+      "shape_id": 169,
+      "shape_name": "矩形 168",
+      "type": "text",
+      "group_path": [
+        167
+      ],
+      "source_text": "资源\n绿色通道",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1322009,
+        3110816,
+        1899614,
+        1036920
+      ],
+      "semantic_path": "right_support"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "visual index only; field semantics provisional"
+}

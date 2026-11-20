@@ -1,0 +1,206 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "矩形 9",
+      "type": "text",
+      "group_path": [
+        6,
+        8
+      ],
+      "source_text": "围绕定制化能力、产品升级、经营方法和营销矩阵构建长效增长路径",
+      "source_sample_chars": 30,
+      "max_chars": 45,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ],
+      "semantic_path": "summary",
+      "required": false,
+      "missing_action": "clear_text"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "group_path": [],
+      "source_text": "全面升级定制化能力",
+      "source_sample_chars": 9,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        2935436,
+        1692389,
+        6321128,
+        646331
+      ],
+      "semantic_path": "top_conclusion"
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "40%+…",
+      "type": "text",
+      "group_path": [],
+      "source_text": "为商家提升货品运营力和\n人群蓄水力提供衡量标准",
+      "source_sample_chars": 23,
+      "max_chars": 34,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        3575625,
+        4839889,
+        2276723,
+        638903
+      ],
+      "semantic_path": "item_1.body"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "40%+…",
+      "type": "text",
+      "group_path": [],
+      "source_text": "帮助商家提升时令\n把控力，强化场景渗透力",
+      "source_sample_chars": 20,
+      "max_chars": 30,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        813747,
+        4839889,
+        2234571,
+        638903
+      ],
+      "semantic_path": "item_2.body"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "40%+…",
+      "type": "text",
+      "group_path": [],
+      "source_text": "联合行业运营，助力商家抓住\n时令把控力，实现货品运营力",
+      "source_sample_chars": 27,
+      "max_chars": 40,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        6190222,
+        4839889,
+        2585141,
+        638903
+      ],
+      "semantic_path": "item_3.body"
+    },
+    {
+      "field": "text_128",
+      "shape_id": 128,
+      "shape_name": "40%+…",
+      "type": "text",
+      "group_path": [],
+      "source_text": "场景渗透力和人群\n蓄水力的全域长效增长",
+      "source_sample_chars": 19,
+      "max_chars": 28,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        9083857,
+        4839889,
+        2393910,
+        638903
+      ],
+      "semantic_path": "item_4.body"
+    },
+    {
+      "field": "text_144",
+      "shape_id": 144,
+      "shape_name": "矩形 143",
+      "type": "text",
+      "group_path": [],
+      "source_text": "全新长效\n经营方法论",
+      "source_sample_chars": 10,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        4105629,
+        3912621,
+        1210588,
+        584775
+      ],
+      "semantic_path": "item_4.title"
+    },
+    {
+      "field": "text_145",
+      "shape_id": 145,
+      "shape_name": "矩形 144",
+      "type": "text",
+      "group_path": [],
+      "source_text": "全景经营\n营销矩阵",
+      "source_sample_chars": 9,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1425268,
+        3912621,
+        1005403,
+        584775
+      ],
+      "semantic_path": "item_3.title"
+    },
+    {
+      "field": "text_146",
+      "shape_id": 146,
+      "shape_name": "矩形 145",
+      "type": "text",
+      "group_path": [],
+      "source_text": "定制化\n重点产品升级",
+      "source_sample_chars": 10,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        6771843,
+        3912621,
+        1415772,
+        584775
+      ],
+      "semantic_path": "item_2.title"
+    },
+    {
+      "field": "text_147",
+      "shape_id": 147,
+      "shape_name": "矩形 146",
+      "type": "text",
+      "group_path": [],
+      "source_text": "分行业定制化\n解决方案",
+      "source_sample_chars": 11,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        9569864,
+        3912621,
+        1415772,
+        584775
+      ],
+      "semantic_path": "item_1.title"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "visual index only; field semantics provisional"
+}

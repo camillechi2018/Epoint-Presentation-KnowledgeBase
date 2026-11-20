@@ -1,0 +1,146 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "文本框 21",
+      "type": "text",
+      "group_path": [],
+      "source_text": "链接学员",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        2014492,
+        1978741,
+        1943800,
+        461665
+      ],
+      "semantic_path": "stage_1.title"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "文本框 22",
+      "type": "text",
+      "group_path": [],
+      "source_text": "构建服务",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        2014492,
+        3411660,
+        1943800,
+        461665
+      ],
+      "semantic_path": "stage_2.title"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "文本框 23",
+      "type": "text",
+      "group_path": [],
+      "source_text": "驱动营销",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        2014492,
+        4519579,
+        1943800,
+        461665
+      ],
+      "semantic_path": "stage_3.title"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "文本框 52",
+      "type": "text",
+      "group_path": [],
+      "source_text": "核心是通过内容、活动、渠道与潜在学员建立首次接触，完成从“陌生人”到“潜在学员”的转化。",
+      "source_sample_chars": 44,
+      "max_chars": 66,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        7510687,
+        1934100,
+        4065109,
+        634533
+      ],
+      "semantic_path": "stage_1.body"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "文本框 53",
+      "type": "text",
+      "group_path": [],
+      "source_text": "把承诺交付为可感知的价值体系，包括课程体系、训练营、1v1咨询、社群陪伴",
+      "source_sample_chars": 36,
+      "max_chars": 54,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        6388104,
+        3210327,
+        4065109,
+        634533
+      ],
+      "semantic_path": "stage_2.body"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "文本框 54",
+      "type": "text",
+      "group_path": [],
+      "source_text": "通过会员制、裂变活动、分享激励、高阶课推荐等方式，让学员从“一次购买”变为“长期共生”",
+      "source_sample_chars": 43,
+      "max_chars": 64,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        5406540,
+        4486554,
+        4065109,
+        634533
+      ],
+      "semantic_path": "stage_3.body"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 12,
+        "shape_name": "图片 11",
+        "sha256": "a4c25cf8e7c57196ade09c3265fd404050de89f1b2b82f03fcc00e81ef0cf810",
+        "semantic_role": "source_visual_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          2117223,
+          2746561,
+          7024700,
+          2044318
+        ],
+        "review_note": "源稿漏斗主体图形，固定结构使用；不得当成可替换业务图片。",
+        "source_bounds_emu": [
+          2117223,
+          2746561,
+          7024700,
+          2044318
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

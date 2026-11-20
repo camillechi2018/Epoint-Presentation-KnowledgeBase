@@ -1,0 +1,242 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "type": "text",
+      "group_path": [],
+      "source_text": "占位用户心智Occupancy \nuser mindset",
+      "source_sample_chars": 29,
+      "max_chars": 8,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        4420573,
+        1881260,
+        3350856,
+        1389342
+      ],
+      "semantic_path": "center.topic"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "group_path": [],
+      "source_text": "“懂你的焦虑，也懂你的骄傲。”——\n用故事或价值观绑定用户情绪，建立深层连接。",
+      "source_sample_chars": 39,
+      "max_chars": 58,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        3407752,
+        5884574,
+        5376496,
+        430887
+      ],
+      "semantic_path": "center.body"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "group_path": [],
+      "source_text": "情感共鸣",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        4744720,
+        5469685,
+        2702560,
+        400110
+      ],
+      "semantic_path": "item_1.title"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "group_path": [],
+      "source_text": "第一个被记住的，永远不会被遗忘。”——用独特视觉符号或口号，在用户心智中刻下品牌烙印。",
+      "source_sample_chars": 43,
+      "max_chars": 64,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        326221,
+        2223802,
+        2256231,
+        738472
+      ],
+      "semantic_path": "item_2.body"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "group_path": [],
+      "source_text": "“你的烦恼，我们早已解决。”\n——精准戳中用户需求，\n让品牌成为问题的唯一答案。",
+      "source_sample_chars": 40,
+      "max_chars": 60,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1342598,
+        3922981,
+        2860040,
+        738472
+      ],
+      "semantic_path": "item_3.body"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "group_path": [],
+      "source_text": "痛点直击",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        944457,
+        3485825,
+        3232782,
+        400110
+      ],
+      "semantic_path": "item_3.title"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "group_path": [],
+      "source_text": "抢占第一印象",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        481353,
+        1812188,
+        2075701,
+        400110
+      ],
+      "semantic_path": "item_1.subtitle"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "group_path": [],
+      "source_text": "“每次______时，就会想起我们。”——将品牌植入高频生活场景，形成条件反射式联想。",
+      "source_sample_chars": 43,
+      "max_chars": 64,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        9657269,
+        2223802,
+        2193995,
+        738472
+      ],
+      "semantic_path": "item_4.body"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "group_path": [],
+      "source_text": "“90%专家都在用的选择。”\n——借势权威背书，\n快速建立信任感与专业形象。",
+      "source_sample_chars": 38,
+      "max_chars": 57,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        8060263,
+        3922981,
+        2755714,
+        738472
+      ],
+      "semantic_path": "item_5.body"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "group_path": [],
+      "source_text": "权威认证",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        8089291,
+        3485825,
+        1849908,
+        400110
+      ],
+      "semantic_path": "item_5.title"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "group_path": [],
+      "source_text": "场景绑定",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        9686297,
+        1812188,
+        1810747,
+        400110
+      ],
+      "semantic_path": "item_4.title"
+    },
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "矩形 5",
+      "type": "text",
+      "group_path": [
+        2,
+        4
+      ],
+      "source_text": "通过第一印象、场景绑定、痛点直击、权威认证与情感共鸣构建用户心智",
+      "source_sample_chars": 32,
+      "max_chars": 48,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1815439,
+        1056165,
+        8561121,
+        301041
+      ],
+      "semantic_path": "summary"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "visual index only; field semantics provisional"
+}

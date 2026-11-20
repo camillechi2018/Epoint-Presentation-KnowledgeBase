@@ -1,0 +1,147 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_819",
+      "shape_id": 819,
+      "shape_name": "文本框 818",
+      "type": "text",
+      "group_path": [],
+      "source_text": "通过市场调研和数据分析，明确目标客户群体和需求特点\n制定针对性的市场营销策路，确保信息精准触达目标客户",
+      "source_sample_chars": 51,
+      "max_chars": 76,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1446190,
+        3512466,
+        2042636,
+        879728
+      ],
+      "semantic_path": "item_1.body"
+    },
+    {
+      "field": "text_820",
+      "shape_id": 820,
+      "shape_name": "文本框 819",
+      "type": "text",
+      "group_path": [],
+      "source_text": "深入了解精准触达",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1217633,
+        3135617,
+        2434517,
+        406265
+      ],
+      "semantic_path": "item_1.title"
+    },
+    {
+      "field": "text_821",
+      "shape_id": 821,
+      "shape_name": "文本框 820",
+      "type": "text",
+      "group_path": [],
+      "source_text": "利用社交媒体、搜索引擎优化、内容营销等多种道进行品牌推广。\n与行业媒体、KOL等合作，提升品牌知名度和影响力。",
+      "source_sample_chars": 55,
+      "max_chars": 82,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        5107322,
+        3512466,
+        2106474,
+        879728
+      ],
+      "semantic_path": "item_2.body"
+    },
+    {
+      "field": "text_822",
+      "shape_id": 822,
+      "shape_name": "文本框 821",
+      "type": "text",
+      "group_path": [],
+      "source_text": "线上线下全方位覆盖",
+      "source_sample_chars": 9,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        4671110,
+        3135617,
+        2849829,
+        406265
+      ],
+      "semantic_path": "item_2.title"
+    },
+    {
+      "field": "text_823",
+      "shape_id": 823,
+      "shape_name": "文本框 822",
+      "type": "text",
+      "group_path": [],
+      "source_text": "利用大数据和人工智能技术分析客户行为和需求趋势。\n根据数据分析结果调整营销策略和渠道投入，提升营销效果。",
+      "source_sample_chars": 52,
+      "max_chars": 78,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        8768454,
+        3512466,
+        2106474,
+        879728
+      ],
+      "semantic_path": "item_3.body"
+    },
+    {
+      "field": "text_824",
+      "shape_id": 824,
+      "shape_name": "文本框 823",
+      "type": "text",
+      "group_path": [],
+      "source_text": "数据驱动营销决策",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        8332242,
+        3135617,
+        2849829,
+        406265
+      ],
+      "semantic_path": "item_3.title"
+    },
+    {
+      "field": "text_1920",
+      "shape_id": 1920,
+      "shape_name": "矩形 1919",
+      "type": "text",
+      "group_path": [
+        1916,
+        1918
+      ],
+      "source_text": "从用户洞察、全域覆盖和数据驱动三个维度搭建营销策略",
+      "source_sample_chars": 25,
+      "max_chars": 37,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ],
+      "semantic_path": "summary"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "visual index only; field semantics provisional"
+}

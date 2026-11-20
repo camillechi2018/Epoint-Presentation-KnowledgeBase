@@ -1,0 +1,125 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "Oval 6",
+      "type": "text",
+      "group_path": [],
+      "source_text": "母婴\n人群",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        5884862,
+        2166180,
+        2160588,
+        2160000
+      ],
+      "semantic_path": "right.title"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "Oval 5",
+      "type": "text",
+      "group_path": [],
+      "source_text": "新时代\n年轻人群",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        4117975,
+        2166180,
+        2160588,
+        2160000
+      ],
+      "semantic_path": "left.title"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "group_path": [],
+      "source_text": "更注重品质优先与产品\n适用性，孕妇产期口腔脆弱敏感，更需要呵护对待护理",
+      "source_sample_chars": 35,
+      "max_chars": 52,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        8618935,
+        2884161,
+        2615034,
+        797206
+      ],
+      "semantic_path": "right.body"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "group_path": [],
+      "source_text": "颜值的首要保证，注重牙齿护理、美白清洁最为关键，敢于尝鲜新品牌，品质力与设计感有着首要吸引力",
+      "source_sample_chars": 46,
+      "max_chars": 69,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        958031,
+        2764128,
+        2674330,
+        797206
+      ],
+      "semantic_path": "left.body"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "文本框 54",
+      "type": "text",
+      "group_path": [],
+      "source_text": "这两个群体既有明显的代际分野\n又在追求“长期主义”与“情绪价值”上呈现出惊人的内核同源性",
+      "source_sample_chars": 44,
+      "max_chars": 66,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1391920,
+        4863027,
+        9408160,
+        774636
+      ],
+      "semantic_path": "bottom.conclusion"
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "矩形 3",
+      "type": "text",
+      "group_path": [],
+      "source_text": "对比年轻人群与母婴人群的消费特征、情绪价值与产品诉求",
+      "source_sample_chars": 26,
+      "max_chars": 39,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ],
+      "semantic_path": "summary"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "visual index only; field semantics provisional"
+}

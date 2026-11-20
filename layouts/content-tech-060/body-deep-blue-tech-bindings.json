@@ -1,0 +1,201 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "TextBox 65",
+      "type": "text",
+      "group_path": [],
+      "source_text": "生态科技",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1688410,
+        4463479,
+        1538928,
+        461665
+      ],
+      "semantic_path": "pillar_1.title"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "TextBox 65",
+      "type": "text",
+      "group_path": [],
+      "source_text": "理工精神",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1688410,
+        1953505,
+        1538928,
+        461665
+      ],
+      "semantic_path": "pillar_2.title"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "TextBox 65",
+      "type": "text",
+      "group_path": [],
+      "source_text": "将“理工精神”具体为“数据与算法”\n“共创”聚焦于“共研能耗优化”",
+      "source_sample_chars": 33,
+      "max_chars": 49,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        666493,
+        2394937,
+        2622311,
+        518412
+      ],
+      "semantic_path": "pillar_2.body"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "TextBox 65",
+      "type": "text",
+      "group_path": [],
+      "source_text": "双重优势",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        8964662,
+        4463479,
+        1538928,
+        461665
+      ],
+      "semantic_path": "pillar_3.title"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "TextBox 65",
+      "type": "text",
+      "group_path": [],
+      "source_text": "用户共创",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        8964662,
+        1953505,
+        1538928,
+        461665
+      ],
+      "semantic_path": "pillar_4.title"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "TextBox 65",
+      "type": "text",
+      "group_path": [],
+      "source_text": "将“用户共创”具体化为“痛点指引创新”，并将“双重优势”明确为“降本增效”",
+      "source_sample_chars": 37,
+      "max_chars": 55,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        8989430,
+        2394937,
+        3143248,
+        518412
+      ],
+      "semantic_path": "pillar_4.body"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "TextBox 65",
+      "type": "text",
+      "group_path": [],
+      "source_text": "将“未来科技”具象为“再生材料”与“模块化设计”两大趋势",
+      "source_sample_chars": 28,
+      "max_chars": 42,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        8989430,
+        4904911,
+        2423660,
+        518412
+      ],
+      "semantic_path": "pillar_3.body"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "TextBox 65",
+      "type": "text",
+      "group_path": [],
+      "source_text": "将“生态科技”落实到具体的“循环科技”和“变废为宝”场景，让“温情”和“共生”通过务实的行动来体现",
+      "source_sample_chars": 49,
+      "max_chars": 73,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        591331,
+        4904911,
+        2622311,
+        738472
+      ],
+      "semantic_path": "pillar_1.body"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "矩形 52",
+      "type": "text",
+      "group_path": [],
+      "source_text": "战略\n优势",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        5542002,
+        3146566,
+        1107997,
+        1200329
+      ],
+      "semantic_path": "center.topic"
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "矩形 11",
+      "type": "text",
+      "group_path": [],
+      "source_text": "将理工精神、生态科技、用户共创与双重优势转化为战略竞争力",
+      "source_sample_chars": 28,
+      "max_chars": 42,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ],
+      "semantic_path": "summary"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "visual index only; field semantics provisional"
+}

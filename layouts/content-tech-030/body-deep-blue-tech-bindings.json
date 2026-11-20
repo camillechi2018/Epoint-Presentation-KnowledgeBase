@@ -1,0 +1,211 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "标题 1161",
+      "type": "text",
+      "group_path": [],
+      "source_text": "数智商业\n应用基础设施",
+      "source_sample_chars": 11,
+      "max_chars": 6,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        2453500,
+        2560223,
+        2685259,
+        800490
+      ],
+      "semantic_path": "left.title"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "标题 1161",
+      "type": "text",
+      "group_path": [],
+      "source_text": "服务企业数智化\n让商业创新如此便捷",
+      "source_sample_chars": 17,
+      "max_chars": 10,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        2238162,
+        3339207,
+        3115936,
+        461665
+      ],
+      "semantic_path": "left.body"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "标题 1161",
+      "type": "text",
+      "group_path": [],
+      "source_text": "企业服务产业\n共创平台",
+      "source_sample_chars": 11,
+      "max_chars": 6,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        7207475,
+        2560223,
+        2515373,
+        800490
+      ],
+      "semantic_path": "right.title"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "标题 1161",
+      "type": "text",
+      "group_path": [],
+      "source_text": "赋能产业\n生态共创、共生、共荣",
+      "source_sample_chars": 15,
+      "max_chars": 10,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        7352971,
+        3339207,
+        2224382,
+        461665
+      ],
+      "semantic_path": "right.body"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "矩形 50",
+      "type": "text",
+      "group_path": [],
+      "source_text": "目标：构建和运营全球领先的商业创新平台",
+      "source_sample_chars": 19,
+      "max_chars": 16,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        2240132,
+        4842725,
+        7711736,
+        400110
+      ],
+      "semantic_path": "goal"
+    },
+    {
+      "field": "text_64",
+      "shape_id": 64,
+      "shape_name": "文本框 63",
+      "type": "text",
+      "group_path": [],
+      "source_text": "与10万家生态伙伴共创",
+      "source_sample_chars": 11,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1515198,
+        5496712,
+        2413439,
+        338554
+      ],
+      "semantic_path": "metric_3"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "文本框 61",
+      "type": "text",
+      "group_path": [],
+      "source_text": "汇聚亿级社群个人",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        4889281,
+        5496712,
+        2413439,
+        338554
+      ],
+      "semantic_path": "metric_2"
+    },
+    {
+      "field": "text_60",
+      "shape_id": 60,
+      "shape_name": "文本框 59",
+      "type": "text",
+      "group_path": [],
+      "source_text": "成就千万家数智企业",
+      "source_sample_chars": 9,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        8263363,
+        5496712,
+        2413439,
+        338554
+      ],
+      "semantic_path": "metric_1"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "矩形 30",
+      "type": "text",
+      "group_path": [],
+      "source_text": "以数智商业、产业共创、生态伙伴和社群规模展示平台生态价值",
+      "source_sample_chars": 28,
+      "max_chars": 28,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ],
+      "semantic_path": "summary"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 33,
+        "shape_name": "图片 32",
+        "sha256": "c35c4704b8bd8cb00c9b2a4655f3e1c3b84831fd27e879a177e7b435f0fc38a7",
+        "semantic_role": "source_visual_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          3526985,
+          2059331,
+          538290,
+          538287
+        ],
+        "review_note": "来源环内装饰图标，随当前科技风保留。"
+      },
+      {
+        "shape_id": 39,
+        "shape_name": "图片 38",
+        "sha256": "1a62735faee9642e3d87b283ff9c21ae718d13f5db351eb8eac5b8cf8e893d5a",
+        "semantic_role": "source_visual_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          8196018,
+          2059331,
+          538288,
+          538287
+        ],
+        "review_note": "来源环内装饰图标，随当前科技风保留。"
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

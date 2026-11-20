@@ -1,0 +1,353 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "type": "text",
+      "group_path": [],
+      "source_text": "VIP\n用户",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        3529458,
+        1781954,
+        1012698,
+        584775
+      ],
+      "semantic_path": "tier_1.label"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "文本框 30",
+      "type": "text",
+      "group_path": [],
+      "source_text": "重要用户",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        3679269,
+        3062938,
+        1276047,
+        369332
+      ],
+      "semantic_path": "tier_2.label"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "文本框 31",
+      "type": "text",
+      "group_path": [],
+      "source_text": "普通用户",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        3679269,
+        4342728,
+        1276047,
+        369332
+      ],
+      "semantic_path": "tier_3.label"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "文本框 32",
+      "type": "text",
+      "group_path": [],
+      "source_text": "基础用户",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        3679269,
+        5397066,
+        1276047,
+        369332
+      ],
+      "semantic_path": "tier_4.label"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "文本框 33",
+      "type": "text",
+      "group_path": [],
+      "source_text": "特征\n高贡献、高活跃、高忠诚。他们不仅是收入的顶梁柱，更是品牌的拥趸和产品共创者",
+      "source_sample_chars": 40,
+      "max_chars": 60,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        8118692,
+        1591500,
+        3152033,
+        857222
+      ],
+      "semantic_path": "tier_1.description"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "group_path": [],
+      "source_text": "特征\n有稳定的付费行为和产品使用习惯\n是核心收入来源，有明确的升级潜力",
+      "source_sample_chars": 35,
+      "max_chars": 52,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        8118692,
+        2848663,
+        3152033,
+        857222
+      ],
+      "semantic_path": "tier_2.description"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "group_path": [],
+      "source_text": "特征\n高贡献、高活跃、高忠诚。他们不仅是收入的顶梁柱，更是品牌的拥趸和产品共创者",
+      "source_sample_chars": 40,
+      "max_chars": 60,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        8118692,
+        4040558,
+        3152033,
+        857222
+      ],
+      "semantic_path": "tier_3.description"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "group_path": [],
+      "source_text": "特征\n有稳定的付费行为和产品使用习惯\n是核心收入来源，有明确的升级潜力",
+      "source_sample_chars": 35,
+      "max_chars": 52,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        8118692,
+        5213272,
+        3152033,
+        857222
+      ],
+      "semantic_path": "tier_4.description"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "group_path": [],
+      "source_text": "金字塔分层人群",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        557746,
+        1413619,
+        2923363,
+        523220
+      ],
+      "semantic_path": "pyramid_caption"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "group_path": [],
+      "source_text": "是商业策略的基石其核心好处在于实现“精准化”与“高效率”，将有限的资源转化为最大的商业价值。",
+      "source_sample_chars": 46,
+      "max_chars": 69,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        557747,
+        2352693,
+        2413242,
+        1104533
+      ],
+      "semantic_path": "pyramid_summary"
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "文本框 62",
+      "type": "text",
+      "group_path": [],
+      "source_text": "占比",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        4844814,
+        1596539,
+        936931,
+        338298
+      ],
+      "semantic_path": "tier_1.ratio_label"
+    },
+    {
+      "field": "text_64",
+      "shape_id": 64,
+      "shape_name": "文本框 63",
+      "type": "text",
+      "group_path": [],
+      "source_text": "19%",
+      "source_sample_chars": 3,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        4844652,
+        1827217,
+        1703566,
+        561244
+      ],
+      "semantic_path": "tier_1.ratio"
+    },
+    {
+      "field": "text_65",
+      "shape_id": 65,
+      "shape_name": "文本框 64",
+      "type": "text",
+      "group_path": [],
+      "source_text": "占比",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        5465271,
+        2853702,
+        936931,
+        338298
+      ],
+      "semantic_path": "tier_2.ratio_label"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "文本框 65",
+      "type": "text",
+      "group_path": [],
+      "source_text": "25%",
+      "source_sample_chars": 3,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        5465109,
+        3084380,
+        1703566,
+        561244
+      ],
+      "semantic_path": "tier_2.ratio"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "文本框 66",
+      "type": "text",
+      "group_path": [],
+      "source_text": "占比",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        6794081,
+        5243711,
+        936931,
+        338298
+      ],
+      "semantic_path": "tier_3.ratio_label"
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "文本框 67",
+      "type": "text",
+      "group_path": [],
+      "source_text": "49%",
+      "source_sample_chars": 3,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        6793919,
+        5474389,
+        1703566,
+        561244
+      ],
+      "semantic_path": "tier_3.ratio"
+    },
+    {
+      "field": "text_69",
+      "shape_id": 69,
+      "shape_name": "文本框 68",
+      "type": "text",
+      "group_path": [],
+      "source_text": "占比",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        6114839,
+        4060158,
+        936931,
+        338298
+      ],
+      "semantic_path": "tier_4.ratio_label"
+    },
+    {
+      "field": "text_70",
+      "shape_id": 70,
+      "shape_name": "文本框 69",
+      "type": "text",
+      "group_path": [],
+      "source_text": "39%",
+      "source_sample_chars": 3,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        6114677,
+        4290836,
+        1703566,
+        561244
+      ],
+      "semantic_path": "tier_4.ratio"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "visual index only; field semantics provisional"
+}

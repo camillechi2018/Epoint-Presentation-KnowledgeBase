@@ -1,0 +1,198 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "文本框 52",
+      "type": "text",
+      "group_path": [
+        85
+      ],
+      "source_text": "隐私链路全保障",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        8331728,
+        4460810,
+        2605255,
+        470945
+      ],
+      "semantic_path": "item_4.title"
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "文本框 57",
+      "type": "text",
+      "group_path": [
+        85
+      ],
+      "source_text": "品牌资质透明",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        8331728,
+        2055398,
+        2605255,
+        470945
+      ],
+      "semantic_path": "item_3.title"
+    },
+    {
+      "field": "text_81",
+      "shape_id": 81,
+      "shape_name": "文本框 80",
+      "type": "text",
+      "group_path": [
+        85
+      ],
+      "source_text": "安全合规优先",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1345054,
+        2055398,
+        2605255,
+        470945
+      ],
+      "semantic_path": "item_1.title"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "group_path": [
+        85
+      ],
+      "source_text": "效果可验证",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1345054,
+        4460810,
+        2605255,
+        470945
+      ],
+      "semantic_path": "item_2.title"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "文本框 23",
+      "type": "text",
+      "group_path": [
+        85
+      ],
+      "source_text": "将成分安全性列为首要标准，尤其关注是否存在非法添加、成分超标等问题",
+      "source_sample_chars": 33,
+      "max_chars": 49,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1239094,
+        2642146,
+        2508711,
+        761426
+      ],
+      "semantic_path": "item_1.body"
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "文本框 26",
+      "type": "text",
+      "group_path": [
+        85
+      ],
+      "source_text": "要求产品功效需有科学依据，临床实验数据或权威机构认证。特别是对改善性功能类产品，更强调效果的渐进性和真实性",
+      "source_sample_chars": 53,
+      "max_chars": 79,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1239094,
+        5049754,
+        2508711,
+        987479
+      ],
+      "semantic_path": "item_2.body"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "文本框 28",
+      "type": "text",
+      "group_path": [
+        85
+      ],
+      "source_text": "对隐私保护的需求贯穿购买全流程。从线上咨询、物流配送至售后随访，均要求 \"无痕化\" 处理。",
+      "source_sample_chars": 45,
+      "max_chars": 67,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        8331728,
+        5049754,
+        2642417,
+        761426
+      ],
+      "semantic_path": "item_4.body"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "文本框 30",
+      "type": "text",
+      "group_path": [
+        85
+      ],
+      "source_text": "倾向选择有明确资质背书的品牌，要求可追溯生产厂家、GMP 认证等信息",
+      "source_sample_chars": 34,
+      "max_chars": 51,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        8331728,
+        2642146,
+        2508711,
+        761426
+      ],
+      "semantic_path": "item_3.body"
+    },
+    {
+      "field": "text_86",
+      "shape_id": 86,
+      "shape_name": "文本框 85",
+      "type": "text",
+      "group_path": [],
+      "source_text": "循环\n链路验证",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        5182929,
+        3296347,
+        1826142,
+        1077218
+      ],
+      "semantic_path": "center.conclusion"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "visual index only; field semantics provisional"
+}

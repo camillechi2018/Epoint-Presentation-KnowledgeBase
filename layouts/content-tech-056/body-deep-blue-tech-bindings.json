@@ -1,0 +1,242 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "group_path": [],
+      "source_text": "更新技能适应变化",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1800950,
+        3602727,
+        2451769,
+        400110
+      ],
+      "semantic_path": "item_1.title"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "group_path": [],
+      "source_text": "根据数字化转型的需求，提升自己的\n数字技能，如数据分析、编程等",
+      "source_sample_chars": 31,
+      "max_chars": 46,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1706881,
+        3971761,
+        2545838,
+        488788
+      ],
+      "semantic_path": "item_1.body"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "group_path": [],
+      "source_text": "将数字化转型的理念和技能应用到实际工作中\n如优化工作流程、提升工作效率等",
+      "source_sample_chars": 36,
+      "max_chars": 54,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        7939281,
+        3971761,
+        3047443,
+        488788
+      ],
+      "semantic_path": "item_2.body"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "group_path": [],
+      "source_text": "数字化转型实践",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        7939282,
+        3602727,
+        2545837,
+        400110
+      ],
+      "semantic_path": "item_2.title"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "group_path": [],
+      "source_text": "了解数字化转型的最新趋势和前沿技术\n如人工智能、大数据、云计算等",
+      "source_sample_chars": 32,
+      "max_chars": 48,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        635904,
+        2153751,
+        2574312,
+        488788
+      ],
+      "semantic_path": "item_3.body"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "group_path": [],
+      "source_text": "洞察趋势把握机遇",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        878709,
+        1784717,
+        2331507,
+        400110
+      ],
+      "semantic_path": "item_3.title"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "group_path": [],
+      "source_text": "培养创新思维，将不同领域的知识和\n技术相融合，创造新的价值",
+      "source_sample_chars": 29,
+      "max_chars": 43,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        4711009,
+        6041527,
+        2769984,
+        488788
+      ],
+      "semantic_path": "item_4.body"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "group_path": [],
+      "source_text": "跨界思考创新驱动",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        4252719,
+        5675150,
+        3686562,
+        400110
+      ],
+      "semantic_path": "item_4.title"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "group_path": [],
+      "source_text": "定期评估自己的数字化转型能力和成果\n制定改进计划，实现自我迭代",
+      "source_sample_chars": 31,
+      "max_chars": 46,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        8956609,
+        2153751,
+        2620725,
+        488788
+      ],
+      "semantic_path": "item_5.body"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "group_path": [],
+      "source_text": "持续学习与自我迭代",
+      "source_sample_chars": 9,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        8956608,
+        1784717,
+        3531046,
+        400110
+      ],
+      "semantic_path": "item_5.title"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "文本框 52",
+      "type": "text",
+      "group_path": [],
+      "source_text": "5\n大关键",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        5542004,
+        2269218,
+        1107996,
+        1138773
+      ],
+      "semantic_path": "center.count"
+    },
+    {
+      "field": "text_89",
+      "shape_id": 89,
+      "shape_name": "矩形 88",
+      "type": "text",
+      "group_path": [
+        85,
+        87
+      ],
+      "source_text": "围绕趋势洞察、技能更新与持续学习，规划个人未来发展路径",
+      "source_sample_chars": 27,
+      "max_chars": 40,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1815439,
+        1056165,
+        8561121,
+        301041
+      ],
+      "semantic_path": "summary"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "visual index only; field semantics provisional"
+}

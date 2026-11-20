@@ -1,0 +1,182 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "文本框 65",
+      "type": "text",
+      "group_path": [],
+      "source_text": "业绩目标达成",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1678323,
+        2645282,
+        2847919,
+        401905
+      ],
+      "semantic_path": "left.title"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "文本框 66",
+      "type": "text",
+      "group_path": [],
+      "source_text": "核心能力成长",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        8169019,
+        2645282,
+        2094163,
+        401905
+      ],
+      "semantic_path": "right.title"
+    },
+    {
+      "field": "text_71",
+      "shape_id": 71,
+      "shape_name": "矩形: 剪去单角 70",
+      "type": "text",
+      "group_path": [],
+      "source_text": "问题解决能力",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        8211447,
+        4391025,
+        1060545,
+        374389
+      ],
+      "semantic_path": "right.tag_1"
+    },
+    {
+      "field": "text_74",
+      "shape_id": 74,
+      "shape_name": "矩形: 剪去单角 73",
+      "type": "text",
+      "group_path": [],
+      "source_text": "项目统筹管理",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        9389458,
+        4391025,
+        1060545,
+        374389
+      ],
+      "semantic_path": "right.tag_2"
+    },
+    {
+      "field": "text_76",
+      "shape_id": 76,
+      "shape_name": "矩形: 剪去单角 75",
+      "type": "text",
+      "group_path": [],
+      "source_text": "目标完成率",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1678452,
+        4391025,
+        1060545,
+        374389
+      ],
+      "semantic_path": "left.tag_1"
+    },
+    {
+      "field": "text_81",
+      "shape_id": 81,
+      "shape_name": "矩形: 剪去单角 80",
+      "type": "text",
+      "group_path": [],
+      "source_text": "关键项目交付",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        2856463,
+        4391025,
+        1060545,
+        374389
+      ],
+      "semantic_path": "left.tag_2"
+    },
+    {
+      "field": "text_83",
+      "shape_id": 83,
+      "shape_name": "文本框 82",
+      "type": "text",
+      "group_path": [],
+      "source_text": "在业务推进过程中，持续沉淀专业技能与综合能力。主动学习行业前沿知识，将新方法、新思路应用到实际工作中，在问题解决、项目统筹与创新思维上均实现了显著提升，为后续工作开展奠定了坚实基础。",
+      "source_sample_chars": 91,
+      "max_chars": 136,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        8184911,
+        3155794,
+        2577364,
+        960135
+      ],
+      "semantic_path": "right.body"
+    },
+    {
+      "field": "text_84",
+      "shape_id": 84,
+      "shape_name": "文本框 83",
+      "type": "text",
+      "group_path": [],
+      "source_text": "本季度围绕核心业务指标，高效推进全流程工作落地，超额完成既定业绩目标。通过优化工作方法、主动跨部门协同，实现了关键业务数据的显著增长，为团队整体目标达成提供了稳定支撑。",
+      "source_sample_chars": 84,
+      "max_chars": 126,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1688130,
+        3155794,
+        2385507,
+        960135
+      ],
+      "semantic_path": "left.body"
+    },
+    {
+      "field": "text_92",
+      "shape_id": 92,
+      "shape_name": "矩形 91",
+      "type": "text",
+      "group_path": [],
+      "source_text": "从业绩目标达成、核心能力成长两个方向维度拆解个人能力",
+      "source_sample_chars": 26,
+      "max_chars": 39,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ],
+      "semantic_path": "summary"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "visual index only; field semantics provisional"
+}

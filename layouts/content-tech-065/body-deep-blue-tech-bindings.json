@@ -1,0 +1,242 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_97",
+      "shape_id": 97,
+      "shape_name": "矩形 96",
+      "type": "text",
+      "group_path": [
+        94
+      ],
+      "source_text": "以时间节点呈现客户合作、资金托管、规模增长过程",
+      "source_sample_chars": 23,
+      "max_chars": 34,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ],
+      "semantic_path": "summary"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "文本框 18",
+      "type": "text",
+      "group_path": [
+        40
+      ],
+      "source_text": "2023年11月",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        3008532,
+        5197084,
+        2413854,
+        400110
+      ],
+      "semantic_path": "milestone_2.date"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "文本框 19",
+      "type": "text",
+      "group_path": [
+        40
+      ],
+      "source_text": "成立\n伟光人寿",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        3381387,
+        5620965,
+        1668144,
+        596830
+      ],
+      "semantic_path": "milestone_2.body"
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "文本框 24",
+      "type": "text",
+      "group_path": [
+        41
+      ],
+      "source_text": "2025年12月",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        7347112,
+        4935450,
+        2413854,
+        400110
+      ],
+      "semantic_path": "milestone_4.date"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "文本框 25",
+      "type": "text",
+      "group_path": [
+        41
+      ],
+      "source_text": "签署资金\n托管合同",
+      "source_sample_chars": 9,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        7719967,
+        5359331,
+        1668144,
+        596830
+      ],
+      "semantic_path": "milestone_4.body"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "文本框 22",
+      "type": "text",
+      "group_path": [
+        43
+      ],
+      "source_text": "开启营销\n新征程",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        5627961,
+        1988208,
+        1668144,
+        596830
+      ],
+      "semantic_path": "milestone_3.body"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "文本框 21",
+      "type": "text",
+      "group_path": [
+        43
+      ],
+      "source_text": "2024年6月",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        5255106,
+        2593940,
+        2413854,
+        400110
+      ],
+      "semantic_path": "milestone_3.date"
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "文本框 27",
+      "type": "text",
+      "group_path": [
+        42
+      ],
+      "source_text": "2026年1月",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        9457528,
+        2473540,
+        2413854,
+        400110
+      ],
+      "semantic_path": "milestone_5.date"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "文本框 28",
+      "type": "text",
+      "group_path": [
+        42
+      ],
+      "source_text": "合作规模20.17亿\n最高规模421亿",
+      "source_sample_chars": 19,
+      "max_chars": 28,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        9830384,
+        1867808,
+        1668144,
+        596830
+      ],
+      "semantic_path": "milestone_5.body"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "group_path": [
+        46
+      ],
+      "source_text": "建立\n高层互信",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        5627961,
+        1988208,
+        1668144,
+        596830
+      ],
+      "semantic_path": "milestone_1.body"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "group_path": [
+        46
+      ],
+      "source_text": "2020年1月",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        5255106,
+        2593940,
+        2413854,
+        400110
+      ],
+      "semantic_path": "milestone_1.date"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "visual index only; field semantics provisional"
+}

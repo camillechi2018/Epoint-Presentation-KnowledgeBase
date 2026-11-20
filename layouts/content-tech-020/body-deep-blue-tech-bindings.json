@@ -1,0 +1,190 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_1087",
+      "shape_id": 1087,
+      "shape_name": "矩形 1086",
+      "type": "text",
+      "group_path": [
+        1083,
+        1085
+      ],
+      "source_text": "以人工智能为中心呈现大模型、半导体、机器人、量子与元宇宙等技术方向",
+      "source_sample_chars": 33,
+      "max_chars": 35,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ],
+      "semantic_path": "summary"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "矩形: 圆角 22",
+      "type": "text",
+      "group_path": [
+        1081,
+        1063,
+        1035
+      ],
+      "source_text": "中心化计算架构",
+      "source_sample_chars": 7,
+      "max_chars": 9,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        689610,
+        1803498,
+        1964031,
+        1085727
+      ],
+      "semantic_path": "left_1.title"
+    },
+    {
+      "field": "text_1037",
+      "shape_id": 1037,
+      "shape_name": "矩形: 圆角 1036",
+      "type": "text",
+      "group_path": [
+        1081,
+        1063,
+        1036
+      ],
+      "source_text": "大模型技术",
+      "source_sample_chars": 5,
+      "max_chars": 9,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        689610,
+        1803498,
+        1964031,
+        1085727
+      ],
+      "semantic_path": "left_2.title"
+    },
+    {
+      "field": "text_1041",
+      "shape_id": 1041,
+      "shape_name": "矩形: 圆角 1040",
+      "type": "text",
+      "group_path": [
+        1081,
+        1063,
+        1040
+      ],
+      "source_text": "应用专用半导体",
+      "source_sample_chars": 7,
+      "max_chars": 9,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        689610,
+        1803498,
+        1964031,
+        1085727
+      ],
+      "semantic_path": "left_3.title"
+    },
+    {
+      "field": "text_1075",
+      "shape_id": 1075,
+      "shape_name": "矩形: 圆角 1074",
+      "type": "text",
+      "group_path": [
+        1081,
+        1064,
+        1066
+      ],
+      "source_text": "机器人产业",
+      "source_sample_chars": 5,
+      "max_chars": 9,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        689610,
+        1803498,
+        1964031,
+        1085727
+      ],
+      "semantic_path": "right_1.title"
+    },
+    {
+      "field": "text_1072",
+      "shape_id": 1072,
+      "shape_name": "矩形: 圆角 1071",
+      "type": "text",
+      "group_path": [
+        1081,
+        1064,
+        1067
+      ],
+      "source_text": "量子计算",
+      "source_sample_chars": 4,
+      "max_chars": 9,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        689610,
+        1803498,
+        1964031,
+        1085727
+      ],
+      "semantic_path": "right_2.title"
+    },
+    {
+      "field": "text_1069",
+      "shape_id": 1069,
+      "shape_name": "矩形: 圆角 1068",
+      "type": "text",
+      "group_path": [
+        1081,
+        1064,
+        1068
+      ],
+      "source_text": "元宇宙",
+      "source_sample_chars": 3,
+      "max_chars": 9,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        689610,
+        1803498,
+        1964031,
+        1085727
+      ],
+      "semantic_path": "right_3.title"
+    },
+    {
+      "field": "text_1103",
+      "shape_id": 1103,
+      "shape_name": "文本框 1102",
+      "type": "text",
+      "group_path": [],
+      "source_text": "2025年\n人工智能与\n前沿科技",
+      "source_sample_chars": 16,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        5010866,
+        3027888,
+        2300895,
+        1292662
+      ],
+      "semantic_path": "center.topic"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "visual index only; field semantics provisional"
+}
