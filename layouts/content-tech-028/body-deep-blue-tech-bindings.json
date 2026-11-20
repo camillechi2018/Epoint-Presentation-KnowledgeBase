@@ -1,0 +1,291 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "矩形 9",
+      "type": "text",
+      "group_path": [
+        6,
+        8
+      ],
+      "source_text": "以聚量到聚核的阶段路径说明平台从红海突围的增长策略",
+      "source_sample_chars": 25,
+      "max_chars": 37,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ],
+      "semantic_path": "summary"
+    },
+    {
+      "field": "text_153",
+      "shape_id": 153,
+      "shape_name": "文本框 152",
+      "type": "text",
+      "group_path": [
+        171,
+        146
+      ],
+      "source_text": "买力分散",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        884236,
+        2565624,
+        2412385,
+        231237
+      ],
+      "semantic_path": "left.issue_1"
+    },
+    {
+      "field": "text_154",
+      "shape_id": 154,
+      "shape_name": "文本框 153",
+      "type": "text",
+      "group_path": [
+        171,
+        146
+      ],
+      "source_text": "低透明度",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        458754,
+        3085536,
+        2597430,
+        231237
+      ],
+      "semantic_path": "left.issue_2"
+    },
+    {
+      "field": "text_155",
+      "shape_id": 155,
+      "shape_name": "文本框 154",
+      "type": "text",
+      "group_path": [
+        171,
+        146
+      ],
+      "source_text": "标准壁垒",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        578911,
+        3605448,
+        2412385,
+        231237
+      ],
+      "semantic_path": "left.issue_3"
+    },
+    {
+      "field": "text_156",
+      "shape_id": 156,
+      "shape_name": "文本框 155",
+      "type": "text",
+      "group_path": [
+        171,
+        146
+      ],
+      "source_text": "技术垄断",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        884237,
+        4125360,
+        2216875,
+        231237
+      ],
+      "semantic_path": "left.issue_4"
+    },
+    {
+      "field": "text_157",
+      "shape_id": 157,
+      "shape_name": "文本框 156",
+      "type": "text",
+      "group_path": [
+        171,
+        146
+      ],
+      "source_text": "供需波动",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        919114,
+        4645271,
+        2412385,
+        231237
+      ],
+      "semantic_path": "left.issue_5"
+    },
+    {
+      "field": "text_165",
+      "shape_id": 165,
+      "shape_name": "文本框 164",
+      "type": "text",
+      "group_path": [
+        171,
+        158
+      ],
+      "source_text": "资源分散",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        884236,
+        2565624,
+        2412385,
+        231237
+      ],
+      "semantic_path": "right.issue_1"
+    },
+    {
+      "field": "text_166",
+      "shape_id": 166,
+      "shape_name": "文本框 165",
+      "type": "text",
+      "group_path": [
+        171,
+        158
+      ],
+      "source_text": "数字赋能不足",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        458754,
+        3085536,
+        2597430,
+        231237
+      ],
+      "semantic_path": "right.issue_2"
+    },
+    {
+      "field": "text_167",
+      "shape_id": 167,
+      "shape_name": "文本框 166",
+      "type": "text",
+      "group_path": [
+        171,
+        158
+      ],
+      "source_text": "战略性预判",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        578911,
+        3605448,
+        2412385,
+        231237
+      ],
+      "semantic_path": "right.issue_3"
+    },
+    {
+      "field": "text_168",
+      "shape_id": 168,
+      "shape_name": "文本框 167",
+      "type": "text",
+      "group_path": [
+        171,
+        158
+      ],
+      "source_text": "赋能高效交易",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        884236,
+        4125360,
+        2216875,
+        231237
+      ],
+      "semantic_path": "right.issue_4"
+    },
+    {
+      "field": "text_169",
+      "shape_id": 169,
+      "shape_name": "文本框 168",
+      "type": "text",
+      "group_path": [
+        171,
+        158
+      ],
+      "source_text": "优化供需格局",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        919115,
+        4645271,
+        2412385,
+        231237
+      ],
+      "semantic_path": "right.issue_5"
+    },
+    {
+      "field": "text_272",
+      "shape_id": 272,
+      "shape_name": "矩形 271",
+      "type": "text",
+      "group_path": [],
+      "source_text": "第一阶段\n聚量",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        3468619,
+        2695633,
+        2103347,
+        1279261
+      ],
+      "semantic_path": "phase_1.title"
+    },
+    {
+      "field": "text_273",
+      "shape_id": 273,
+      "shape_name": "矩形 272",
+      "type": "text",
+      "group_path": [],
+      "source_text": "第二阶段\n聚核",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "reviewed_text",
+      "bounds_emu_local": [
+        6620034,
+        2695632,
+        2103347,
+        1279261
+      ],
+      "semantic_path": "phase_2.title"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "visual index only; field semantics provisional"
+}

@@ -5100,33 +5100,49 @@
     {
       "id": "content-blue-112",
       "body_component_contract": {
-        "version": 1,
+        "version": 2,
         "themes": {
           "blue": {
-            "source": "layouts/content-blue-112/ready-blue.pptx",
-            "page": 1,
-            "sha256": "3d880357af9ef88f63f2dd2857e82be7583449de5be69c2651e9448e2332dccc",
-            "title_id": 5,
-            "rule_id": 7,
-            "logo_id": 2,
-            "preferred_body_wrap_width_units": 46,
-            "nonvisual_ids": [
-              53,
-              54
-            ]
+            "asset": "layouts/content-blue-112/body-blue.pptx",
+            "sha256": "20404a7ad6c6fbebc6774ac125bb4ea4da21022bcabb21f10eced4ce2e001aff",
+            "bindings": "layouts/content-blue-112/body-blue-bindings.json",
+            "bindings_sha256": "263e9c42629b24539a46ddeff1ed23e508528077f4f6bedc6a6099cd8e3f6fc3",
+            "title_input": {
+              "field": "text_5",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              2,
+              5,
+              7
+            ],
+            "source": {
+              "source": "layouts/content-blue-112/ready-blue.pptx",
+              "page": 1,
+              "sha256": "3d880357af9ef88f63f2dd2857e82be7583449de5be69c2651e9448e2332dccc"
+            },
+            "preferred_body_wrap_width_units": 46
           },
           "red": {
-            "source": "layouts/content-blue-112/ready-red.pptx",
-            "page": 1,
-            "sha256": "ead9f04946cf502f1a4c727c31c38421359414c4fe79294c9c5a6fe74caf912a",
-            "title_id": 5,
-            "rule_id": 7,
-            "logo_id": 24,
-            "preferred_body_wrap_width_units": 46,
-            "nonvisual_ids": [
-              53,
-              54
-            ]
+            "asset": "layouts/content-blue-112/body-red.pptx",
+            "sha256": "8fd2bd82797325dea97cac6f8dad1139e12a2c03e863d86a268385b30178b444",
+            "bindings": "layouts/content-blue-112/body-red-bindings.json",
+            "bindings_sha256": "ac5810ca292d2492f82d00d070a4616a025d4a28b393748232a5ac1dc8db5978",
+            "title_input": {
+              "field": "text_5",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              5,
+              7,
+              24
+            ],
+            "source": {
+              "source": "layouts/content-blue-112/ready-red.pptx",
+              "page": 1,
+              "sha256": "ead9f04946cf502f1a4c727c31c38421359414c4fe79294c9c5a6fe74caf912a"
+            },
+            "preferred_body_wrap_width_units": 46
           }
         }
       },
@@ -11726,23 +11742,47 @@
     {
       "id": "content-blue-244",
       "body_component_contract": {
-        "version": 1,
+        "version": 2,
         "themes": {
           "blue": {
-            "source": "sources/blue.pptx",
-            "page": 244,
-            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e",
-            "title_id": 2,
-            "rule_id": 8,
-            "logo_id": 6
+            "asset": "layouts/content-blue-244/body-blue.pptx",
+            "sha256": "3d7c258105be54f419431322fdc966a542a517822642f39f1d774ba008950546",
+            "bindings": "layouts/content-blue-244/body-blue-bindings.json",
+            "bindings_sha256": "554d66086de77a2196a0b1c5821d570071ed3153ca5c78677193154925c1f876",
+            "title_input": {
+              "field": "text_2",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              2,
+              6,
+              8
+            ],
+            "source": {
+              "source": "sources/blue.pptx",
+              "page": 244,
+              "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+            }
           },
           "red": {
-            "source": "sources/red.pptx",
-            "page": 244,
-            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104",
-            "title_id": 2,
-            "rule_id": 8,
-            "logo_id": 11
+            "asset": "layouts/content-blue-244/body-red.pptx",
+            "sha256": "9c451a42a16f3cc5344bdbbf121fad6efb47413cf6d36c2c5022d1d9d37c74b6",
+            "bindings": "layouts/content-blue-244/body-red-bindings.json",
+            "bindings_sha256": "bb347c4c9992d66532f47122f961ef03053fc8d68d023507c1ccdf2a73d9508e",
+            "title_input": {
+              "field": "text_2",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              2,
+              8,
+              11
+            ],
+            "source": {
+              "source": "sources/red.pptx",
+              "page": 244,
+              "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+            }
           }
         }
       },
@@ -16947,17 +16987,41 @@
     {
       "id": "content-tech-021",
       "body_component_contract": {
-        "version": 1,
+        "version": 2,
         "themes": {
           "deep-blue-tech": {
-            "source": "sources/tech.pptx",
-            "page": 21,
-            "sha256": "e79ac2cfc2c634dc4040b8541ddca88173e87933960e346b4518ed1fa6e35564",
-            "title_id": 47,
-            "logo_id": 2,
+            "asset": "layouts/content-tech-021/body-deep-blue-tech.pptx",
+            "sha256": "fbebeb598557caa17750c392fe77844dfc15f08920662268d8ec02e873d939df",
+            "bindings": "layouts/content-tech-021/body-deep-blue-tech-bindings.json",
+            "bindings_sha256": "c015358fcfa5df1c77e9058b4499881e0c2a0df01bfe51076b8bd28bd3066152",
+            "title_input": {
+              "field": "text_47",
+              "semantic_path": "heading"
+            },
+            "removed_shape_ids": [
+              2,
+              45,
+              47,
+              49,
+              50,
+              51,
+              52,
+              53,
+              54,
+              55,
+              56,
+              57,
+              58,
+              59,
+              60
+            ],
+            "source": {
+              "source": "sources/tech.pptx",
+              "page": 21,
+              "sha256": "e79ac2cfc2c634dc4040b8541ddca88173e87933960e346b4518ed1fa6e35564"
+            },
             "tech": {
               "root_id": 44,
-              "art_id": 45,
               "text_group_id": 46,
               "variant": "standard",
               "logo_anchor": "top_right"
@@ -17428,17 +17492,41 @@
     {
       "id": "content-tech-028",
       "body_component_contract": {
-        "version": 1,
+        "version": 2,
         "themes": {
           "deep-blue-tech": {
-            "source": "sources/tech.pptx",
-            "page": 28,
-            "sha256": "e79ac2cfc2c634dc4040b8541ddca88173e87933960e346b4518ed1fa6e35564",
-            "title_id": 9,
-            "logo_id": 3,
+            "asset": "layouts/content-tech-028/body-deep-blue-tech.pptx",
+            "sha256": "6d9a12081b586faa250f5e6e52c697ee062eda1e2cc739ce28fb7fe7831480f2",
+            "bindings": "layouts/content-tech-028/body-deep-blue-tech-bindings.json",
+            "bindings_sha256": "90d0d2bbe6f9c046762cedb5e3abd24541d65c11a2d9e3dbb6b111f01a79d5d8",
+            "title_input": {
+              "field": "text_9",
+              "semantic_path": "heading"
+            },
+            "removed_shape_ids": [
+              3,
+              7,
+              9,
+              13,
+              15,
+              19,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35,
+              36
+            ],
+            "source": {
+              "source": "sources/tech.pptx",
+              "page": 28,
+              "sha256": "e79ac2cfc2c634dc4040b8541ddca88173e87933960e346b4518ed1fa6e35564"
+            },
             "tech": {
               "root_id": 6,
-              "art_id": 7,
               "text_group_id": 8,
               "variant": "standard",
               "logo_anchor": "bottom_right"
@@ -19417,17 +19505,41 @@
     {
       "id": "content-tech-058",
       "body_component_contract": {
-        "version": 1,
+        "version": 2,
         "themes": {
           "deep-blue-tech": {
-            "source": "sources/tech.pptx",
-            "page": 58,
-            "sha256": "e79ac2cfc2c634dc4040b8541ddca88173e87933960e346b4518ed1fa6e35564",
-            "title_id": 32,
-            "logo_id": 3,
+            "asset": "layouts/content-tech-058/body-deep-blue-tech.pptx",
+            "sha256": "e9e98246ad3072249d7302df3f39141f512d1ef46d3184983d9e34b662758827",
+            "bindings": "layouts/content-tech-058/body-deep-blue-tech-bindings.json",
+            "bindings_sha256": "0868f49c746c7bec4f11fcb87b85fc28d07b3154252674ddaab49cd2219e0cef",
+            "title_input": {
+              "field": "text_32",
+              "semantic_path": "heading"
+            },
+            "removed_shape_ids": [
+              3,
+              30,
+              32,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40,
+              41,
+              42,
+              43,
+              44,
+              45
+            ],
+            "source": {
+              "source": "sources/tech.pptx",
+              "page": 58,
+              "sha256": "e79ac2cfc2c634dc4040b8541ddca88173e87933960e346b4518ed1fa6e35564"
+            },
             "tech": {
               "root_id": 29,
-              "art_id": 30,
               "text_group_id": 31,
               "variant": "wide",
               "logo_anchor": "bottom_right"
