@@ -5109,6 +5109,7 @@
             "title_id": 5,
             "rule_id": 7,
             "logo_id": 2,
+            "preferred_body_wrap_width_units": 46,
             "nonvisual_ids": [
               53,
               54
@@ -5121,6 +5122,7 @@
             "title_id": 5,
             "rule_id": 7,
             "logo_id": 24,
+            "preferred_body_wrap_width_units": 46,
             "nonvisual_ids": [
               53,
               54
