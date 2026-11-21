@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "baseline_commit": "b2090e2",
+  "promoted": [
+    "cover-13"
+  ],
+  "title_9_cjk": "passed",
+  "english_subtitle_27_chars": "passed",
+  "powerpoint_export": "passed",
+  "logo": "passed",
+  "visual_review": "passed",
+  "text_bounds": "source_exception_only",
+  "source_overflow_shape_ids": [
+    11,
+    23
+  ],
+  "filled_overflow_shape_ids": [
+    11,
+    23
+  ],
+  "year_layers": [
+    "cover.year_layer_a",
+    "cover.year_layer_b"
+  ],
+  "year_constraint": "must contain same year; manually checked in sample",
+  "sample_sha256": "7ec20a7d286135725816683f15c5f05b8db7d58fa9ad423abc11df7e7159cce4",
+  "remaining_original_covers": [
+    "cover-03",
+    "cover-04"
+  ],
+  "html_support": "not_implemented",
+  "motion_support": "source_static"
+}

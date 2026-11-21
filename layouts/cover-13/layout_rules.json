@@ -2,5 +2,20 @@
   "cardinality_mode": "fixed_until_validated",
   "supported_counts": [],
   "source_count": null,
-  "reflow_status": "not_implemented"
+  "reflow_status": "not_implemented",
+  "title_pressure_test": {
+    "safe_title_chars": 9,
+    "evidence": "source-length title filled, exported, and visually reviewed"
+  },
+  "paired_fields_note": "cover.year_layer_a and cover.year_layer_b are stacked year text layers and must contain the same year",
+  "source_text_fit_exception": {
+    "shape_ids": [
+      11,
+      23
+    ],
+    "text": "2026",
+    "original_actual_height_pt": 72,
+    "original_box_height_pt": 41.48,
+    "reason": "identical in unmodified source and filled output; visual page has no clipping or collision"
+  }
 }

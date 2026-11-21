@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "baseline_commit": "b2090e2",
+  "promoted": [
+    "cover-12"
+  ],
+  "title_9_cjk": "passed",
+  "english_subtitle_27_chars": "passed",
+  "powerpoint_export": "passed",
+  "text_bounds": "passed",
+  "logo": "passed",
+  "source_visual_comparison": "passed",
+  "paired_year_fields": [
+    "cover.year_layer_a",
+    "cover.year_layer_b"
+  ],
+  "paired_year_constraint": "must contain the same year; manually checked in this sample",
+  "sample_sha256": "ea823294c370dc8c2431ed2440fcd82dac0c987b036aa8f0b90f25ab8f3021df",
+  "remaining_original_covers": [
+    "cover-03",
+    "cover-04",
+    "cover-13"
+  ],
+  "html_support": "not_implemented",
+  "motion_support": "source_static"
+}

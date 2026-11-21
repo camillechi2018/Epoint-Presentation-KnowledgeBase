@@ -38,7 +38,7 @@
 | 来源页位 | 770 | `source-pages.json`；早期 611 页位是扩充前口径。 |
 | 可编辑来源稿 | 6 份 | `sources/` 中的蓝、红、封面、科技风和蓝红补充稿。 |
 | 候选组件 | 461 条 | `catalog.json`，包含尚未验收的候选。 |
-| 分类已验证 | 205 条 | `classification_status=verified`；仍需检查具体输出能力。 |
+| 分类已验证 | 208 条 | `classification_status=verified`；仍需检查具体输出能力。 |
 | 其中正文组件 | 141 条 | 上述记录中排除封面、目录、章节页和封底。 |
 
 组件可按需从来源页提取；登记了 `ready_source_by_theme` 的组件应优先使用已修整的可编辑单页。`source`、`red_source` 用于原稿追溯。来源页的显式色与图片不自动成为自由绘制时可用的颜色素材。

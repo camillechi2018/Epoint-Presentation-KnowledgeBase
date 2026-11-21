@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "baseline_commit": "b2090e2",
+  "promoted": [
+    "cover-16"
+  ],
+  "fix": "warm-gold text shape 18 height enlarged from 13.78pt to 21pt",
+  "title_10_cjk": "passed",
+  "english_subtitle_27_chars": "passed",
+  "powerpoint_export": "passed",
+  "text_bounds": "passed",
+  "visual_review": "passed",
+  "logo": "passed",
+  "sample_sha256": "2e151968a705ed31f10198736d640a3d9764a467c7cdbeaf69086864e6945dfc",
+  "remaining_original_covers": [
+    "cover-03",
+    "cover-04",
+    "cover-12",
+    "cover-13"
+  ],
+  "html_support": "not_implemented",
+  "motion_support": "source_static"
+}

@@ -18548,7 +18548,7 @@
       "collection": "new-template-covers",
       "role": "cover",
       "information_relation": "visual-story",
-      "classification_status": "provisional",
+      "classification_status": "verified",
       "family_id": "cover-012",
       "source": "sources/cover.pptx",
       "example": "sources/cover.pptx",
@@ -18568,7 +18568,7 @@
       },
       "source_page": 12,
       "shape_count": 14,
-      "media_status": "unreviewed",
+      "media_status": "verified_source_media",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -18578,11 +18578,14 @@
       "style": "technology-speed",
       "visual_impact": "high",
       "title_area_hint": "right",
-      "cover_match_status": "original_only_pending_review",
+      "cover_match_status": "verified_original",
       "stock_code_default": "688232",
       "slogan_locked": null,
       "source_logo_present": true,
-      "background_image": "cover-images/P12.jpg"
+      "background_image": "cover-images/P12.jpg",
+      "semantic_review_status": "verified_short_copy",
+      "pptx_support": "verified_static_draft",
+      "title_pressure_status": "tested_source_length"
     },
     {
       "id": "cover-13",
@@ -18590,7 +18593,7 @@
       "collection": "new-template-covers",
       "role": "cover",
       "information_relation": "visual-story",
-      "classification_status": "provisional",
+      "classification_status": "verified",
       "family_id": "cover-013",
       "source": "sources/cover.pptx",
       "example": "sources/cover.pptx",
@@ -18610,7 +18613,7 @@
       },
       "source_page": 13,
       "shape_count": 18,
-      "media_status": "unreviewed",
+      "media_status": "verified_source_media",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -18620,11 +18623,15 @@
       "style": "bright-future",
       "visual_impact": "medium",
       "title_area_hint": "left",
-      "cover_match_status": "original_only_pending_review",
+      "cover_match_status": "verified_original",
       "stock_code_default": "688232",
       "slogan_locked": null,
       "source_logo_present": true,
-      "background_image": "cover-images/P13.jpg"
+      "background_image": "cover-images/P13.jpg",
+      "semantic_review_status": "verified_with_source_overflow_exception",
+      "pptx_support": "verified_static_draft",
+      "title_pressure_status": "tested_source_length",
+      "text_fit_exception": "source_year_layers_11_23"
     },
     {
       "id": "cover-14",
@@ -18732,7 +18739,7 @@
       "collection": "new-template-covers",
       "role": "cover",
       "information_relation": "visual-story",
-      "classification_status": "provisional",
+      "classification_status": "verified",
       "family_id": "cover-016",
       "source": "sources/cover.pptx",
       "example": "sources/cover.pptx",
@@ -18752,7 +18759,7 @@
       },
       "source_page": 16,
       "shape_count": 12,
-      "media_status": "unreviewed",
+      "media_status": "verified_source_media",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -18762,11 +18769,14 @@
       "style": "ceremony",
       "visual_impact": "high",
       "title_area_hint": "center",
-      "cover_match_status": "original_only_pending_review",
+      "cover_match_status": "verified_original",
       "stock_code_default": "688232",
       "slogan_locked": "成为行业数字化领航者",
       "source_logo_present": true,
-      "background_image": "cover-images/P16.jpg"
+      "background_image": "cover-images/P16.jpg",
+      "semantic_review_status": "verified_short_copy",
+      "pptx_support": "verified_static_draft",
+      "title_pressure_status": "tested_source_length"
     },
     {
       "id": "cover-17",
