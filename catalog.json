@@ -5835,7 +5835,8 @@
               "body": "items[3].body"
             }
           ],
-          "generic_visual": true
+          "generic_visual": true,
+          "adapter_name": "four_card_items_to_p112"
         }
       },
       "matching_policy": "structural",
@@ -23214,7 +23215,8 @@
           "page_fields": {
             "conclusion": "top_conclusion",
             "summary": "summary"
-          }
+          },
+          "adapter_name": "cards_4_to_content-tech-048"
         }
       }
     },
