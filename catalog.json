@@ -27721,7 +27721,7 @@
         "themes": {
           "blue": {
             "asset": "layouts/content-blue-six-longcopy/body-blue.pptx",
-            "sha256": "97dd745745101c96392de362a5b88b2273879003920dffca429c834989c73c7f",
+            "sha256": "d389287a7bb59d629033c16cafbee830d2cfdef3fb991fcc56c1b5d5ac61779d",
             "bindings": "layouts/content-blue-six-longcopy/body-blue-bindings.json",
             "bindings_sha256": "3d56dbf79b09db551bb63b559982bbc107a590f19ed817efc0a968bcd292aa49",
             "title_input": {
@@ -27736,12 +27736,12 @@
             "source": {
               "source": "layouts/content-blue-six-longcopy/ready-blue.pptx",
               "page": 1,
-              "sha256": "e4fbc3cbd371a767d2b3f3886011c0a657579f5046dc557e96a02e89dcb8facc"
+              "sha256": "c53540eff82a006ab9c27c565d4fb6fd93a98ab3537e56c95909a042866124b0"
             }
           },
           "red": {
             "asset": "layouts/content-blue-six-longcopy/body-red.pptx",
-            "sha256": "043e8274a7121741aadd74be29a7a1fbfcee718835ec6fb02cb5e2375221393b",
+            "sha256": "5e3b3b965468da49007d2246ed884f117c2b27c4b04132f6fa9f9c98aad623c5",
             "bindings": "layouts/content-blue-six-longcopy/body-red-bindings.json",
             "bindings_sha256": "3d56dbf79b09db551bb63b559982bbc107a590f19ed817efc0a968bcd292aa49",
             "title_input": {
@@ -27756,7 +27756,7 @@
             "source": {
               "source": "layouts/content-blue-six-longcopy/ready-red.pptx",
               "page": 1,
-              "sha256": "790904433e9cc649844385d37ba84f40d88d2d16467a1cc25f0d691e77297524"
+              "sha256": "1e6da751e01f5dd062266374e51d5f9cde2ecb982df7ca32a83b7896f74214cc"
             }
           }
         }
