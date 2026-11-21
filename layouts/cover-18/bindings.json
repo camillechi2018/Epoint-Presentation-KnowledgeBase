@@ -6,7 +6,7 @@
       "shape_id": 30,
       "shape_name": "文本框 29",
       "type": "text",
-      "max_chars": 10,
+      "max_chars": 7,
       "source_sample_chars": 10,
       "source_text": "新点 · 产品发布会",
       "bounds_pt": [
@@ -15,7 +15,9 @@
         381.1,
         46.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "title",
+      "semantic_path": "cover.title",
+      "max_lines": 1
     },
     {
       "field": "text_31",
@@ -31,7 +33,9 @@
         219.4,
         34.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "english_subtitle",
+      "semantic_path": "cover.english_subtitle",
+      "max_lines": 1
     },
     {
       "field": "text_32",
@@ -47,7 +51,9 @@
         226.0,
         45.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "subtitle",
+      "semantic_path": "cover.subtitle",
+      "max_lines": 2
     },
     {
       "field": "text_34",
@@ -63,7 +69,9 @@
         141.3,
         14.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "date",
+      "semantic_path": "cover.date",
+      "max_lines": 1
     },
     {
       "field": "text_2",

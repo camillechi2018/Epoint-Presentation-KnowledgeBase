@@ -18233,7 +18233,7 @@
       "collection": "new-template-covers",
       "role": "cover",
       "information_relation": "visual-story",
-      "classification_status": "provisional",
+      "classification_status": "verified",
       "family_id": "cover-005",
       "source": "sources/cover.pptx",
       "example": "sources/cover.pptx",
@@ -18253,7 +18253,7 @@
       },
       "source_page": 5,
       "shape_count": 13,
-      "media_status": "unreviewed",
+      "media_status": "verified_source_media",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -18263,11 +18263,14 @@
       "style": "ceremony",
       "visual_impact": "medium-high",
       "title_area_hint": "upper-center",
-      "cover_match_status": "original_only_pending_review",
+      "cover_match_status": "verified_original",
       "stock_code_default": "688232",
       "slogan_locked": null,
       "source_logo_present": true,
-      "background_image": "cover-images/P05.jpg"
+      "background_image": "cover-images/P05.jpg",
+      "semantic_review_status": "verified_short_copy",
+      "pptx_support": "verified_static_draft",
+      "title_pressure_status": "tested_source_length"
     },
     {
       "id": "cover-06",
@@ -18275,7 +18278,7 @@
       "collection": "new-template-covers",
       "role": "cover",
       "information_relation": "visual-story",
-      "classification_status": "provisional",
+      "classification_status": "verified",
       "family_id": "cover-006",
       "source": "sources/cover.pptx",
       "example": "sources/cover.pptx",
@@ -18295,7 +18298,7 @@
       },
       "source_page": 6,
       "shape_count": 12,
-      "media_status": "unreviewed",
+      "media_status": "verified_source_media",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -18305,11 +18308,14 @@
       "style": "modern-business",
       "visual_impact": "medium",
       "title_area_hint": "upper-center",
-      "cover_match_status": "original_only_pending_review",
+      "cover_match_status": "verified_original",
       "stock_code_default": "688232",
       "slogan_locked": null,
       "source_logo_present": true,
-      "background_image": "cover-images/P06.jpg"
+      "background_image": "cover-images/P06.jpg",
+      "semantic_review_status": "verified_short_copy",
+      "pptx_support": "verified_static_draft",
+      "title_pressure_status": "tested_source_length"
     },
     {
       "id": "cover-07",
@@ -18362,7 +18368,7 @@
       "collection": "new-template-covers",
       "role": "cover",
       "information_relation": "visual-story",
-      "classification_status": "provisional",
+      "classification_status": "verified",
       "family_id": "cover-008",
       "source": "sources/cover.pptx",
       "example": "sources/cover.pptx",
@@ -18382,7 +18388,7 @@
       },
       "source_page": 8,
       "shape_count": 12,
-      "media_status": "unreviewed",
+      "media_status": "verified_source_media",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -18392,11 +18398,14 @@
       "style": "city-architecture",
       "visual_impact": "medium",
       "title_area_hint": "right",
-      "cover_match_status": "original_only_pending_review",
+      "cover_match_status": "verified_original",
       "stock_code_default": "688232",
       "slogan_locked": null,
       "source_logo_present": true,
-      "background_image": "cover-images/P08.jpg"
+      "background_image": "cover-images/P08.jpg",
+      "semantic_review_status": "verified_short_copy",
+      "pptx_support": "verified_static_draft",
+      "title_pressure_status": "tested_source_length"
     },
     {
       "id": "cover-09",
@@ -18404,7 +18413,7 @@
       "collection": "new-template-covers",
       "role": "cover",
       "information_relation": "visual-story",
-      "classification_status": "provisional",
+      "classification_status": "verified",
       "family_id": "cover-009",
       "source": "sources/cover.pptx",
       "example": "sources/cover.pptx",
@@ -18424,7 +18433,7 @@
       },
       "source_page": 9,
       "shape_count": 12,
-      "media_status": "unreviewed",
+      "media_status": "verified_source_media",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -18434,11 +18443,14 @@
       "style": "city-technology",
       "visual_impact": "high",
       "title_area_hint": "left",
-      "cover_match_status": "original_only_pending_review",
+      "cover_match_status": "verified_original",
       "stock_code_default": "688232",
       "slogan_locked": null,
       "source_logo_present": true,
-      "background_image": "cover-images/P09.jpg"
+      "background_image": "cover-images/P09.jpg",
+      "semantic_review_status": "verified_short_copy",
+      "pptx_support": "verified_static_draft",
+      "title_pressure_status": "tested_source_length"
     },
     {
       "id": "cover-10",
@@ -18446,7 +18458,7 @@
       "collection": "new-template-covers",
       "role": "cover",
       "information_relation": "visual-story",
-      "classification_status": "provisional",
+      "classification_status": "verified",
       "family_id": "cover-010",
       "source": "sources/cover.pptx",
       "example": "sources/cover.pptx",
@@ -18466,7 +18478,7 @@
       },
       "source_page": 10,
       "shape_count": 13,
-      "media_status": "unreviewed",
+      "media_status": "verified_source_media",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -18476,11 +18488,14 @@
       "style": "technology-future",
       "visual_impact": "high",
       "title_area_hint": "left",
-      "cover_match_status": "original_only_pending_review",
+      "cover_match_status": "verified_original",
       "stock_code_default": "688232",
       "slogan_locked": null,
       "source_logo_present": true,
-      "background_image": "cover-images/P10.jpg"
+      "background_image": "cover-images/P10.jpg",
+      "semantic_review_status": "verified_short_copy",
+      "pptx_support": "verified_static_draft",
+      "title_pressure_status": "tested_source_length"
     },
     {
       "id": "cover-11",
@@ -18488,7 +18503,7 @@
       "collection": "new-template-covers",
       "role": "cover",
       "information_relation": "visual-story",
-      "classification_status": "provisional",
+      "classification_status": "verified",
       "family_id": "cover-011",
       "source": "sources/cover.pptx",
       "example": "sources/cover.pptx",
@@ -18508,7 +18523,7 @@
       },
       "source_page": 11,
       "shape_count": 10,
-      "media_status": "unreviewed",
+      "media_status": "verified_source_media",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -18518,11 +18533,14 @@
       "style": "technology-speed",
       "visual_impact": "high",
       "title_area_hint": "center",
-      "cover_match_status": "original_only_pending_review",
+      "cover_match_status": "verified_original",
       "stock_code_default": "688232",
       "slogan_locked": null,
       "source_logo_present": true,
-      "background_image": "cover-images/P11.jpg"
+      "background_image": "cover-images/P11.jpg",
+      "semantic_review_status": "verified_short_copy",
+      "pptx_support": "verified_static_draft",
+      "title_pressure_status": "tested_source_length"
     },
     {
       "id": "cover-12",
@@ -18614,7 +18632,7 @@
       "collection": "new-template-covers",
       "role": "cover",
       "information_relation": "visual-story",
-      "classification_status": "provisional",
+      "classification_status": "verified",
       "family_id": "cover-014",
       "source": "sources/cover.pptx",
       "example": "sources/cover.pptx",
@@ -18634,7 +18652,7 @@
       },
       "source_page": 14,
       "shape_count": 18,
-      "media_status": "unreviewed",
+      "media_status": "verified_source_media",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -18644,7 +18662,7 @@
       "style": "city-architecture-twin-towers",
       "visual_impact": "medium-high",
       "title_area_hint": "left",
-      "cover_match_status": "original_only_pending_review",
+      "cover_match_status": "verified_original",
       "stock_code_default": "688232",
       "slogan_locked": "成为行业数字化领航者",
       "source_logo_present": true,
@@ -18656,7 +18674,10 @@
         "双塔",
         "云海"
       ],
-      "background_source_note": "用户于 2026-11-03 提供 P14.jpg，替换封面 P14 的背景图片；标题、Logo、股票代码和完整品牌语沿用源页。"
+      "background_source_note": "用户于 2026-11-03 提供 P14.jpg，替换封面 P14 的背景图片；标题、Logo、股票代码和完整品牌语沿用源页。",
+      "semantic_review_status": "verified_short_copy",
+      "pptx_support": "verified_static_draft",
+      "title_pressure_status": "tested_conservative_limit"
     },
     {
       "id": "cover-15",
@@ -18753,7 +18774,7 @@
       "collection": "new-template-covers",
       "role": "cover",
       "information_relation": "visual-story",
-      "classification_status": "provisional",
+      "classification_status": "verified",
       "family_id": "cover-017",
       "source": "sources/cover.pptx",
       "example": "sources/cover.pptx",
@@ -18773,7 +18794,7 @@
       },
       "source_page": 17,
       "shape_count": 10,
-      "media_status": "unreviewed",
+      "media_status": "verified_source_media",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -18783,11 +18804,14 @@
       "style": "nature-vista",
       "visual_impact": "medium",
       "title_area_hint": "upper-center",
-      "cover_match_status": "original_only_pending_review",
+      "cover_match_status": "verified_original",
       "stock_code_default": "688232",
       "slogan_locked": null,
       "source_logo_present": true,
-      "background_image": "cover-images/P17.jpg"
+      "background_image": "cover-images/P17.jpg",
+      "semantic_review_status": "verified_short_copy",
+      "pptx_support": "verified_static_draft",
+      "title_pressure_status": "tested_source_length"
     },
     {
       "id": "cover-18",
@@ -18795,7 +18819,7 @@
       "collection": "new-template-covers",
       "role": "cover",
       "information_relation": "visual-story",
-      "classification_status": "provisional",
+      "classification_status": "verified",
       "family_id": "cover-018",
       "source": "sources/cover.pptx",
       "example": "sources/cover.pptx",
@@ -18815,7 +18839,7 @@
       },
       "source_page": 18,
       "shape_count": 12,
-      "media_status": "unreviewed",
+      "media_status": "verified_source_media",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -18825,11 +18849,14 @@
       "style": "digital-city",
       "visual_impact": "high",
       "title_area_hint": "center",
-      "cover_match_status": "original_only_pending_review",
+      "cover_match_status": "verified_original",
       "stock_code_default": "688232",
       "slogan_locked": null,
       "source_logo_present": true,
-      "background_image": "cover-images/P18.jpg"
+      "background_image": "cover-images/P18.jpg",
+      "semantic_review_status": "verified_short_copy",
+      "pptx_support": "verified_static_draft",
+      "title_pressure_status": "tested_conservative_limit"
     },
     {
       "id": "cover-19",
@@ -18837,7 +18864,7 @@
       "collection": "new-template-covers",
       "role": "cover",
       "information_relation": "visual-story",
-      "classification_status": "provisional",
+      "classification_status": "verified",
       "family_id": "cover-019",
       "source": "sources/cover.pptx",
       "example": "sources/cover.pptx",
@@ -18857,7 +18884,7 @@
       },
       "source_page": 19,
       "shape_count": 12,
-      "media_status": "unreviewed",
+      "media_status": "verified_source_media",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -18867,11 +18894,14 @@
       "style": "digital-city",
       "visual_impact": "high",
       "title_area_hint": "upper-center",
-      "cover_match_status": "original_only_pending_review",
+      "cover_match_status": "verified_original",
       "stock_code_default": "688232",
       "slogan_locked": null,
       "source_logo_present": true,
-      "background_image": "cover-images/P19.jpg"
+      "background_image": "cover-images/P19.jpg",
+      "semantic_review_status": "verified_short_copy",
+      "pptx_support": "verified_static_draft",
+      "title_pressure_status": "tested_conservative_limit"
     },
     {
       "id": "cover-20",
@@ -18879,7 +18909,7 @@
       "collection": "new-template-covers",
       "role": "cover",
       "information_relation": "visual-story",
-      "classification_status": "provisional",
+      "classification_status": "verified",
       "family_id": "cover-020",
       "source": "sources/cover.pptx",
       "example": "sources/cover.pptx",
@@ -18899,7 +18929,7 @@
       },
       "source_page": 20,
       "shape_count": 12,
-      "media_status": "unreviewed",
+      "media_status": "verified_source_media",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -18909,11 +18939,14 @@
       "style": "technology-future",
       "visual_impact": "high",
       "title_area_hint": "right",
-      "cover_match_status": "original_only_pending_review",
+      "cover_match_status": "verified_original",
       "stock_code_default": "688232",
       "slogan_locked": "成为行业数字化领航者",
       "source_logo_present": true,
-      "background_image": "cover-images/P20.jpg"
+      "background_image": "cover-images/P20.jpg",
+      "semantic_review_status": "verified_short_copy",
+      "pptx_support": "verified_static_draft",
+      "title_pressure_status": "tested_conservative_limit"
     },
     {
       "id": "cover-tech-001",
