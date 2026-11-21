@@ -5814,7 +5814,29 @@
           22,
           27,
           42
-        ]
+        ],
+        "title_body_fields": {
+          "page_title": "page.title",
+          "items": [
+            {
+              "title": "items[0].heading",
+              "body": "items[0].body"
+            },
+            {
+              "title": "items[1].heading",
+              "body": "items[1].body"
+            },
+            {
+              "title": "items[2].heading",
+              "body": "items[2].body"
+            },
+            {
+              "title": "items[3].heading",
+              "body": "items[3].body"
+            }
+          ],
+          "generic_visual": true
+        }
       },
       "matching_policy": "structural",
       "structure_type": "summary",
@@ -23168,6 +23190,31 @@
             3,
             4
           ]
+        },
+        "title_body_fields": {
+          "page_title": "heading",
+          "items": [
+            {
+              "title": "item_3.title",
+              "body": "item_2.body"
+            },
+            {
+              "title": "item_4.title",
+              "body": "item_1.body"
+            },
+            {
+              "title": "item_2.title",
+              "body": "item_3.body"
+            },
+            {
+              "title": "item_1.title",
+              "body": "item_4.body"
+            }
+          ],
+          "page_fields": {
+            "conclusion": "top_conclusion",
+            "summary": "summary"
+          }
         }
       }
     },
@@ -27768,14 +27815,13 @@
       },
       "matching_policy": "structural",
       "structure_type": "parallel-points",
-      "matching_activation": "structure_ready",
+      "matching_activation": "pilot_verified",
       "matching_contract": {
         "policy": "structural",
         "structure_type": "parallel-points",
-        "input_schema": "template_fields.v1",
+        "input_schema": "cards.title_body.v1",
         "content_types": [
-          "cards",
-          "template_fields"
+          "cards"
         ],
         "verified_counts": [
           6
@@ -27795,7 +27841,42 @@
           "items[5].heading",
           "items[5].body"
         ],
-        "access_mode": "field_complete"
+        "compatible_relations": [
+          "parallel-points"
+        ],
+        "item_fields": [
+          "title",
+          "body"
+        ],
+        "title_body_fields": {
+          "page_title": "page.title",
+          "items": [
+            {
+              "title": "items[0].heading",
+              "body": "items[0].body"
+            },
+            {
+              "title": "items[1].heading",
+              "body": "items[1].body"
+            },
+            {
+              "title": "items[2].heading",
+              "body": "items[2].body"
+            },
+            {
+              "title": "items[3].heading",
+              "body": "items[3].body"
+            },
+            {
+              "title": "items[4].heading",
+              "body": "items[4].body"
+            },
+            {
+              "title": "items[5].heading",
+              "body": "items[5].body"
+            }
+          ]
+        }
       }
     }
   ],
