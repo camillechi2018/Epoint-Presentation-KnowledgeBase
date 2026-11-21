@@ -1,0 +1,177 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "gallery:caption:1",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 4,
+      "source_text": "图片说明",
+      "bounds_pt": [
+        96.4799,
+        234.72,
+        360.0,
+        30.96
+      ],
+      "semantic_role": "caption",
+      "semantic_path": "items[0].caption",
+      "max_lines": 1,
+      "max_width_units": 48,
+      "required": true,
+      "typography_role": "chinese_body"
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "gallery:caption:2",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 4,
+      "source_text": "图片说明",
+      "bounds_pt": [
+        503.5197,
+        234.72,
+        360.0,
+        30.96
+      ],
+      "semantic_role": "caption",
+      "semantic_path": "items[1].caption",
+      "max_lines": 1,
+      "max_width_units": 48,
+      "required": true,
+      "typography_role": "chinese_body"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "gallery:caption:3",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 4,
+      "source_text": "图片说明",
+      "bounds_pt": [
+        96.4799,
+        428.4,
+        360.0,
+        30.96
+      ],
+      "semantic_role": "caption",
+      "semantic_path": "items[2].caption",
+      "max_lines": 1,
+      "max_width_units": 48,
+      "required": true,
+      "typography_role": "chinese_body"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "gallery:caption:4",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 4,
+      "source_text": "图片说明",
+      "bounds_pt": [
+        503.5197,
+        428.4,
+        360.0,
+        30.96
+      ],
+      "semantic_role": "caption",
+      "semantic_path": "items[3].caption",
+      "max_lines": 1,
+      "max_width_units": 48,
+      "required": true,
+      "typography_role": "chinese_body"
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "brand:content-title",
+      "type": "text",
+      "max_chars": 42,
+      "source_sample_chars": 4,
+      "source_text": "四图图集",
+      "bounds_pt": [
+        35.0639,
+        20.736,
+        606.528,
+        36.36
+      ],
+      "semantic_role": "page_heading",
+      "semantic_path": "page.title",
+      "max_lines": 1,
+      "max_width_units": 42,
+      "required": true,
+      "typography_role": "chinese_heading"
+    }
+  ],
+  "objects": {
+    "images": [
+      {
+        "shape_id": 16,
+        "shape_name": "brand:logo:full:color",
+        "bounds_pt": [
+          828.0,
+          31.68,
+          88.776,
+          19.08
+        ],
+        "semantic_role": "brand_logo_locked"
+      }
+    ],
+    "charts": [],
+    "tables": []
+  },
+  "image_slots": [
+    {
+      "shape_id": 3,
+      "shape_name": "field:image:1",
+      "semantic_path": "items[0].image_path",
+      "fit": "contain",
+      "bounds_pt": [
+        95.0399,
+        96.4799,
+        362.88,
+        136.08
+      ]
+    },
+    {
+      "shape_id": 6,
+      "shape_name": "field:image:2",
+      "semantic_path": "items[1].image_path",
+      "fit": "contain",
+      "bounds_pt": [
+        502.0797,
+        96.4799,
+        362.88,
+        136.08
+      ]
+    },
+    {
+      "shape_id": 9,
+      "shape_name": "field:image:3",
+      "semantic_path": "items[2].image_path",
+      "fit": "contain",
+      "bounds_pt": [
+        95.0399,
+        290.16,
+        362.88,
+        136.08
+      ]
+    },
+    {
+      "shape_id": 12,
+      "shape_name": "field:image:4",
+      "semantic_path": "items[3].image_path",
+      "fit": "contain",
+      "bounds_pt": [
+        502.0797,
+        290.16,
+        362.88,
+        136.08
+      ]
+    }
+  ]
+}

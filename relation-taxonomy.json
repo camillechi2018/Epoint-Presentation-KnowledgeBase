@@ -252,6 +252,16 @@
       "specific_relations": [
         "single-focus"
       ]
+    },
+    "image-text": {
+      "aliases": [
+        "图文",
+        "图片图集",
+        "图片与说明"
+      ],
+      "specific_relations": [
+        "image-text"
+      ]
     }
   }
 }

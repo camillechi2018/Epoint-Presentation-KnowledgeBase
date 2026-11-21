@@ -1,0 +1,19 @@
+{
+  "cardinality_mode": "paragraphs",
+  "supported_counts": [
+    2,
+    3,
+    5,
+    6
+  ],
+  "source_count": 3,
+  "reflow_status": "single_editable_text_region",
+  "verified_counts": [
+    2,
+    3,
+    5,
+    6
+  ],
+  "validation_status": "verified",
+  "count_evidence": "提供一项有来源依据的指标名称和显示值，统计期可选。完整提供 2、3、5 或 6 段同页原文，证据按顺序换行放入同一个可编辑文本框。"
+}

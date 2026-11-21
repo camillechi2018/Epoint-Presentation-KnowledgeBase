@@ -5886,5 +5886,101 @@
     "variant": "red",
     "source_pptx": "layouts/content-blue-six-longcopy/ready-red.pptx",
     "extraction_status": "indexed"
+  },
+  {
+    "source": "content-body-gallery-four-blue",
+    "page": 1,
+    "component_id": "content-body-gallery-four",
+    "variant": "blue",
+    "source_pptx": "layouts/content-body-gallery-four/ready-blue.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "content-body-gallery-four-red",
+    "page": 1,
+    "component_id": "content-body-gallery-four",
+    "variant": "red",
+    "source_pptx": "layouts/content-body-gallery-four/ready-red.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "content-body-gallery-four-tech-deep-blue-tech",
+    "page": 1,
+    "component_id": "content-body-gallery-four-tech",
+    "variant": "deep-blue-tech",
+    "source_pptx": "layouts/content-body-gallery-four-tech/ready-deep-blue-tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "content-body-gallery-five-blue",
+    "page": 1,
+    "component_id": "content-body-gallery-five",
+    "variant": "blue",
+    "source_pptx": "layouts/content-body-gallery-five/ready-blue.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "content-body-gallery-five-red",
+    "page": 1,
+    "component_id": "content-body-gallery-five",
+    "variant": "red",
+    "source_pptx": "layouts/content-body-gallery-five/ready-red.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "content-body-gallery-five-tech-deep-blue-tech",
+    "page": 1,
+    "component_id": "content-body-gallery-five-tech",
+    "variant": "deep-blue-tech",
+    "source_pptx": "layouts/content-body-gallery-five-tech/ready-deep-blue-tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "content-body-metric-evidence-blue",
+    "page": 1,
+    "component_id": "content-body-metric-evidence",
+    "variant": "blue",
+    "source_pptx": "layouts/content-body-metric-evidence/ready-blue.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "content-body-metric-evidence-red",
+    "page": 1,
+    "component_id": "content-body-metric-evidence",
+    "variant": "red",
+    "source_pptx": "layouts/content-body-metric-evidence/ready-red.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "content-body-metric-evidence-tech-deep-blue-tech",
+    "page": 1,
+    "component_id": "content-body-metric-evidence-tech",
+    "variant": "deep-blue-tech",
+    "source_pptx": "layouts/content-body-metric-evidence-tech/ready-deep-blue-tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "content-body-single-focus-blue",
+    "page": 1,
+    "component_id": "content-body-single-focus",
+    "variant": "blue",
+    "source_pptx": "layouts/content-body-single-focus/ready-blue.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "content-body-single-focus-red",
+    "page": 1,
+    "component_id": "content-body-single-focus",
+    "variant": "red",
+    "source_pptx": "layouts/content-body-single-focus/ready-red.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "content-body-single-focus-tech-deep-blue-tech",
+    "page": 1,
+    "component_id": "content-body-single-focus-tech",
+    "variant": "deep-blue-tech",
+    "source_pptx": "layouts/content-body-single-focus-tech/ready-deep-blue-tech.pptx",
+    "extraction_status": "indexed"
   }
 ]

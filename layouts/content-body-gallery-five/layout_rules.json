@@ -1,0 +1,13 @@
+{
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    5
+  ],
+  "source_count": 5,
+  "reflow_status": "not_implemented",
+  "verified_counts": [
+    5
+  ],
+  "validation_status": "verified",
+  "count_evidence": "逐项提供原图路径和与该图对应的说明。矩形槽以 contain 方式放入整张原图。位置按从左到右、从上到下的顺序编号。"
+}

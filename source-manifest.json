@@ -49,6 +49,90 @@
       "sha256": "1e6da751e01f5dd062266374e51d5f9cde2ecb982df7ca32a83b7896f74214cc",
       "page_count": 1,
       "relationship": "native-pilot-component"
+    },
+    "content-body-gallery-four-blue": {
+      "filename": "ready-blue.pptx",
+      "path": "layouts/content-body-gallery-four/ready-blue.pptx",
+      "sha256": "061d76327af1a61d16a7fe1bf7aeee8546a77725a408426b4408153a6436d58e",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-body-gallery-four-red": {
+      "filename": "ready-red.pptx",
+      "path": "layouts/content-body-gallery-four/ready-red.pptx",
+      "sha256": "b529a8a572ff6c5a0048a32695516dc729e324154a57887258c7a7c392fa1715",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-body-gallery-four-tech-deep-blue-tech": {
+      "filename": "ready-deep-blue-tech.pptx",
+      "path": "layouts/content-body-gallery-four-tech/ready-deep-blue-tech.pptx",
+      "sha256": "9b5fd79a340003d080746a9dd87c47e7b24a810dde9ab4b6acfad0465d99b54d",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-body-gallery-five-blue": {
+      "filename": "ready-blue.pptx",
+      "path": "layouts/content-body-gallery-five/ready-blue.pptx",
+      "sha256": "bee7c009a7917dea39b44c4de187fbb4df0e582c4be8e2ab34bb55cd2b3cd026",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-body-gallery-five-red": {
+      "filename": "ready-red.pptx",
+      "path": "layouts/content-body-gallery-five/ready-red.pptx",
+      "sha256": "a67c4622f3cb2adad71fd8dcf6b772f9e9321eb2091cf11ce8b8afb9f23f9694",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-body-gallery-five-tech-deep-blue-tech": {
+      "filename": "ready-deep-blue-tech.pptx",
+      "path": "layouts/content-body-gallery-five-tech/ready-deep-blue-tech.pptx",
+      "sha256": "2ffdf8248266023c74df1945f1409de17d662e1acd14e618c8f8521131ce9f0c",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-body-metric-evidence-blue": {
+      "filename": "ready-blue.pptx",
+      "path": "layouts/content-body-metric-evidence/ready-blue.pptx",
+      "sha256": "1bf46b795c2c32c9b7359f50ecc1901c179a8989efec39749e3f741afc364ee3",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-body-metric-evidence-red": {
+      "filename": "ready-red.pptx",
+      "path": "layouts/content-body-metric-evidence/ready-red.pptx",
+      "sha256": "b77a5e5549c42d8634ef1e5f99c8d6d9e41f937379ce0b0d5365cf71d8521c23",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-body-metric-evidence-tech-deep-blue-tech": {
+      "filename": "ready-deep-blue-tech.pptx",
+      "path": "layouts/content-body-metric-evidence-tech/ready-deep-blue-tech.pptx",
+      "sha256": "73182d9e13aa5328382a1bd44f7029d07bfb9fba332a70a2f4ef837d87eb96d7",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-body-single-focus-blue": {
+      "filename": "ready-blue.pptx",
+      "path": "layouts/content-body-single-focus/ready-blue.pptx",
+      "sha256": "7e6b75350f00fa132f1935ab1329d4171bec95c70c680a15e98dedb29233c2c3",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-body-single-focus-red": {
+      "filename": "ready-red.pptx",
+      "path": "layouts/content-body-single-focus/ready-red.pptx",
+      "sha256": "dd5264a239acb25e6e50eccf2ea53b810bf99a41da29fd4ea6a098544d7ead52",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-body-single-focus-tech-deep-blue-tech": {
+      "filename": "ready-deep-blue-tech.pptx",
+      "path": "layouts/content-body-single-focus-tech/ready-deep-blue-tech.pptx",
+      "sha256": "3244333806074861a4be69c29a7285c71fe757fa5f99a6030d08d050a1d9d5b8",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
     }
   },
   "exact_top_level_pairs": 287,
