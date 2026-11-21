@@ -30487,10 +30487,530 @@
         "table_rows": 6,
         "table_columns": 2
       }
+    },
+    {
+      "id": "content-body-parallel-metrics-four",
+      "body_component_contract": {
+        "version": 2,
+        "themes": {
+          "blue": {
+            "asset": "layouts/content-body-parallel-metrics-four/body-blue.pptx",
+            "sha256": "880eae3c80d64ae5cdb125fafd3271daa3d829d5af55d6dede708ce335e15d81",
+            "bindings": "layouts/content-body-parallel-metrics-four/body-blue-bindings.json",
+            "bindings_sha256": "01f4e80226fd8f961818c86f6afd37d94cbf6254ce728b07182e580c799c7d31",
+            "title_input": {
+              "field": "text_14",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              14,
+              15,
+              16
+            ],
+            "source": {
+              "source": "layouts/content-body-parallel-metrics-four/ready-blue.pptx",
+              "page": 1,
+              "sha256": "c9e810c423b21a02b1a7b01108221b5df9787dc9b1ec63dc1e1c2bbdb8c6d443"
+            }
+          },
+          "red": {
+            "asset": "layouts/content-body-parallel-metrics-four/body-red.pptx",
+            "sha256": "41c9be14759f1c3a4a166c28366ab86c0492424d80bf0fa756c2f2d6398ae7af",
+            "bindings": "layouts/content-body-parallel-metrics-four/body-red-bindings.json",
+            "bindings_sha256": "01f4e80226fd8f961818c86f6afd37d94cbf6254ce728b07182e580c799c7d31",
+            "title_input": {
+              "field": "text_14",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              14,
+              15,
+              16
+            ],
+            "source": {
+              "source": "layouts/content-body-parallel-metrics-four/ready-red.pptx",
+              "page": 1,
+              "sha256": "f999df762a07182189f774497e5403bde72b57ab8c2a0d57e5451ce4162739e1"
+            }
+          }
+        }
+      },
+      "version": "1.0.0-draft",
+      "collection": "new-template-content",
+      "role": "content",
+      "style_family": "legacy-blue-red",
+      "information_relation": "metrics",
+      "classification_status": "verified",
+      "family_id": "content-body-parallel-metrics-four",
+      "source": "layouts/content-body-parallel-metrics-four/ready-blue.pptx",
+      "example": "layouts/content-body-parallel-metrics-four/ready-blue.pptx",
+      "bindings": "layouts/content-body-parallel-metrics-four/bindings.json",
+      "spec": "layouts/content-body-parallel-metrics-four/spec.md",
+      "layout_rules": "layouts/content-body-parallel-metrics-four/layout_rules.json",
+      "motion": "layouts/content-body-parallel-metrics-four/motion.json",
+      "preview": "layouts/content-body-parallel-metrics-four/ready-blue.png",
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "draft_pending_review",
+      "capacity": {
+        "body_slots": 5,
+        "item_title_slots": 0,
+        "cell_max_chars": 126
+      },
+      "source_page": 1,
+      "shape_count": 23,
+      "media_status": "verified_static",
+      "html_support": "not_implemented",
+      "motion_support": "source_static",
+      "source_mapping": {
+        "blue": 1,
+        "red": 1
+      },
+      "source_logo_present": true,
+      "source_logo_shape_id": 16,
+      "source_logo_asset_sha256": "fc7c0355681062dc1736d071660d71cfe83a7abbfc5542e52d9688f9425789ad",
+      "pptx_support": "verified_static_draft",
+      "canonical_relation": "metrics",
+      "search_label": "四组并列指标与原文",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-body-parallel-metrics-four/ready-blue.pptx",
+        "red": "layouts/content-body-parallel-metrics-four/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-body-parallel-metrics-four/ready-blue.png",
+        "red": "layouts/content-body-parallel-metrics-four/ready-red.png"
+      },
+      "matching_policy": "structural",
+      "structure_type": "metrics",
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "metrics",
+        "body_input": "parallel_metrics",
+        "content_types": [
+          "parallel_metrics"
+        ],
+        "verified_counts": [
+          5
+        ],
+        "group_count": 4,
+        "body_wrap_width_units": 72,
+        "compatible_relations": [
+          "metrics",
+          "data"
+        ],
+        "required_binding_paths": [
+          "page.title",
+          "groups[0].heading",
+          "groups[0].metric",
+          "groups[0].body",
+          "groups[1].heading",
+          "groups[1].metric",
+          "groups[1].body",
+          "groups[2].heading",
+          "groups[2].metric",
+          "groups[2].body",
+          "groups[3].heading",
+          "groups[3].metric",
+          "groups[3].body"
+        ]
+      },
+      "red_bindings": "layouts/content-body-parallel-metrics-four/bindings-red.json",
+      "red_source": "layouts/content-body-parallel-metrics-four/ready-red.pptx",
+      "red_source_page": 1,
+      "red_source_logo_shape_id": 16,
+      "red_preview": "layouts/content-body-parallel-metrics-four/ready-red.png",
+      "relation_aliases": [
+        "data"
+      ]
+    },
+    {
+      "id": "content-body-parallel-metrics-four-tech",
+      "body_component_contract": {
+        "version": 3,
+        "themes": {
+          "deep-blue-tech": {
+            "asset": "layouts/content-body-parallel-metrics-four-tech/body-deep-blue-tech.pptx",
+            "sha256": "ce47f06fcbd44140c733e013c08f0fbb6e1c019afd82b0bd395348cb813b6348",
+            "bindings": "layouts/content-body-parallel-metrics-four-tech/body-deep-blue-tech-bindings.json",
+            "bindings_sha256": "772bdc8db09cb22115b17467c2280cc8b1e7d3179658fa3f37e9a58767f9c6f4",
+            "tech": {
+              "root_id": null,
+              "art_index": 2,
+              "variant": "wide",
+              "logo_anchor": "top_right"
+            },
+            "background": "skill_tech",
+            "title_input": {
+              "field": "text_27",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28
+            ],
+            "source": {
+              "source": "layouts/content-body-parallel-metrics-four-tech/ready-deep-blue-tech.pptx",
+              "page": 1,
+              "sha256": "19239a609ace31dbfe5422aedf8f039465f22aef063f2895a2f3260133dddd82"
+            }
+          }
+        }
+      },
+      "version": "1.0.0-draft",
+      "collection": "new-template-content",
+      "role": "content",
+      "style_family": "deep-blue-tech",
+      "information_relation": "metrics",
+      "classification_status": "verified",
+      "family_id": "content-body-parallel-metrics-four-tech",
+      "source": "layouts/content-body-parallel-metrics-four-tech/ready-deep-blue-tech.pptx",
+      "example": "layouts/content-body-parallel-metrics-four-tech/ready-deep-blue-tech.pptx",
+      "bindings": "layouts/content-body-parallel-metrics-four-tech/bindings.json",
+      "spec": "layouts/content-body-parallel-metrics-four-tech/spec.md",
+      "layout_rules": "layouts/content-body-parallel-metrics-four-tech/layout_rules.json",
+      "motion": "layouts/content-body-parallel-metrics-four-tech/motion.json",
+      "preview": "layouts/content-body-parallel-metrics-four-tech/ready-deep-blue-tech.png",
+      "themes": [
+        "deep-blue-tech"
+      ],
+      "status": "draft_pending_review",
+      "capacity": {
+        "body_slots": 5,
+        "item_title_slots": 0,
+        "cell_max_chars": 126
+      },
+      "source_page": 1,
+      "shape_count": 23,
+      "media_status": "verified_static",
+      "html_support": "not_implemented",
+      "motion_support": "source_static",
+      "source_mapping": {
+        "tech": 1
+      },
+      "source_logo_present": true,
+      "source_logo_shape_id": 28,
+      "source_logo_asset_sha256": "725c8c5847c340f97a0c7663ed9926eec8d97ea2b1d1e37264bd16a3f879ec68",
+      "pptx_support": "verified_static_draft",
+      "canonical_relation": "metrics",
+      "search_label": "四组并列指标与原文",
+      "ready_source_by_theme": {
+        "deep-blue-tech": "layouts/content-body-parallel-metrics-four-tech/ready-deep-blue-tech.pptx"
+      },
+      "ready_preview_by_theme": {
+        "deep-blue-tech": "layouts/content-body-parallel-metrics-four-tech/ready-deep-blue-tech.png"
+      },
+      "matching_policy": "structural",
+      "structure_type": "metrics",
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "metrics",
+        "body_input": "parallel_metrics",
+        "content_types": [
+          "parallel_metrics"
+        ],
+        "verified_counts": [
+          5
+        ],
+        "group_count": 4,
+        "body_wrap_width_units": 72,
+        "compatible_relations": [
+          "metrics",
+          "data"
+        ],
+        "required_binding_paths": [
+          "page.title",
+          "groups[0].heading",
+          "groups[0].metric",
+          "groups[0].body",
+          "groups[1].heading",
+          "groups[1].metric",
+          "groups[1].body",
+          "groups[2].heading",
+          "groups[2].metric",
+          "groups[2].body",
+          "groups[3].heading",
+          "groups[3].metric",
+          "groups[3].body"
+        ]
+      },
+      "relation_aliases": [
+        "data"
+      ]
+    },
+    {
+      "id": "content-body-parallel-metrics-two",
+      "body_component_contract": {
+        "version": 2,
+        "themes": {
+          "blue": {
+            "asset": "layouts/content-body-parallel-metrics-two/body-blue.pptx",
+            "sha256": "7b495077418cac053ebbdf9be63ffa10f6a535c72d759fdcf137745ca479ddd7",
+            "bindings": "layouts/content-body-parallel-metrics-two/body-blue-bindings.json",
+            "bindings_sha256": "01177ad5e5b5f0fb4a71817e5c71b35c83e42f9397235bd4a465620eadaa6a82",
+            "title_input": {
+              "field": "text_14",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              14,
+              15,
+              16
+            ],
+            "source": {
+              "source": "layouts/content-body-parallel-metrics-two/ready-blue.pptx",
+              "page": 1,
+              "sha256": "c49385caf31dd61443eaaa0b71d47511908ae0a0c37e3c2cf50cc6c4bd20986b"
+            }
+          },
+          "red": {
+            "asset": "layouts/content-body-parallel-metrics-two/body-red.pptx",
+            "sha256": "4e19bc564e5fb580e1b4cff38287cf57a32baca874966a6fc8fd4e213a4d33ec",
+            "bindings": "layouts/content-body-parallel-metrics-two/body-red-bindings.json",
+            "bindings_sha256": "01177ad5e5b5f0fb4a71817e5c71b35c83e42f9397235bd4a465620eadaa6a82",
+            "title_input": {
+              "field": "text_14",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              14,
+              15,
+              16
+            ],
+            "source": {
+              "source": "layouts/content-body-parallel-metrics-two/ready-red.pptx",
+              "page": 1,
+              "sha256": "552c3dc4ccef7625a1cd98a80e10ceca7e9f29ab0638c45cf5875a0536d16719"
+            }
+          }
+        }
+      },
+      "version": "1.0.0-draft",
+      "collection": "new-template-content",
+      "role": "content",
+      "style_family": "legacy-blue-red",
+      "information_relation": "metrics",
+      "classification_status": "verified",
+      "family_id": "content-body-parallel-metrics-two",
+      "source": "layouts/content-body-parallel-metrics-two/ready-blue.pptx",
+      "example": "layouts/content-body-parallel-metrics-two/ready-blue.pptx",
+      "bindings": "layouts/content-body-parallel-metrics-two/bindings.json",
+      "spec": "layouts/content-body-parallel-metrics-two/spec.md",
+      "layout_rules": "layouts/content-body-parallel-metrics-two/layout_rules.json",
+      "motion": "layouts/content-body-parallel-metrics-two/motion.json",
+      "preview": "layouts/content-body-parallel-metrics-two/ready-blue.png",
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "draft_pending_review",
+      "capacity": {
+        "body_slots": 6,
+        "item_title_slots": 0,
+        "cell_max_chars": 260
+      },
+      "source_page": 1,
+      "shape_count": 13,
+      "media_status": "verified_static",
+      "html_support": "not_implemented",
+      "motion_support": "source_static",
+      "source_mapping": {
+        "blue": 1,
+        "red": 1
+      },
+      "source_logo_present": true,
+      "source_logo_shape_id": 16,
+      "source_logo_asset_sha256": "fc7c0355681062dc1736d071660d71cfe83a7abbfc5542e52d9688f9425789ad",
+      "pptx_support": "verified_static_draft",
+      "canonical_relation": "metrics",
+      "search_label": "两组并列指标与原文",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-body-parallel-metrics-two/ready-blue.pptx",
+        "red": "layouts/content-body-parallel-metrics-two/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-body-parallel-metrics-two/ready-blue.png",
+        "red": "layouts/content-body-parallel-metrics-two/ready-red.png"
+      },
+      "matching_policy": "structural",
+      "structure_type": "metrics",
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "metrics",
+        "body_input": "parallel_metrics",
+        "content_types": [
+          "parallel_metrics"
+        ],
+        "verified_counts": [
+          6
+        ],
+        "group_count": 2,
+        "body_wrap_width_units": 72,
+        "compatible_relations": [
+          "metrics",
+          "data"
+        ],
+        "required_binding_paths": [
+          "page.title",
+          "groups[0].heading",
+          "groups[0].metric",
+          "groups[0].body",
+          "groups[1].heading",
+          "groups[1].metric",
+          "groups[1].body"
+        ]
+      },
+      "red_bindings": "layouts/content-body-parallel-metrics-two/bindings-red.json",
+      "red_source": "layouts/content-body-parallel-metrics-two/ready-red.pptx",
+      "red_source_page": 1,
+      "red_source_logo_shape_id": 16,
+      "red_preview": "layouts/content-body-parallel-metrics-two/ready-red.png",
+      "relation_aliases": [
+        "data"
+      ]
+    },
+    {
+      "id": "content-body-parallel-metrics-two-tech",
+      "body_component_contract": {
+        "version": 3,
+        "themes": {
+          "deep-blue-tech": {
+            "asset": "layouts/content-body-parallel-metrics-two-tech/body-deep-blue-tech.pptx",
+            "sha256": "1a4144b76ecbaedb0092ac3a467656ba5941f2f281429cd57d1dabc203fd10ea",
+            "bindings": "layouts/content-body-parallel-metrics-two-tech/body-deep-blue-tech-bindings.json",
+            "bindings_sha256": "dbee3a588e99595783be500c9de85ef1cbbc53a77a12324b74b473ad84be7b5c",
+            "tech": {
+              "root_id": null,
+              "art_index": 2,
+              "variant": "wide",
+              "logo_anchor": "top_right"
+            },
+            "background": "skill_tech",
+            "title_input": {
+              "field": "text_27",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28
+            ],
+            "source": {
+              "source": "layouts/content-body-parallel-metrics-two-tech/ready-deep-blue-tech.pptx",
+              "page": 1,
+              "sha256": "5fee44f1d2014382af6898a7f82e984f48a224dc5c0cc36f8a4f01d29a301277"
+            }
+          }
+        }
+      },
+      "version": "1.0.0-draft",
+      "collection": "new-template-content",
+      "role": "content",
+      "style_family": "deep-blue-tech",
+      "information_relation": "metrics",
+      "classification_status": "verified",
+      "family_id": "content-body-parallel-metrics-two-tech",
+      "source": "layouts/content-body-parallel-metrics-two-tech/ready-deep-blue-tech.pptx",
+      "example": "layouts/content-body-parallel-metrics-two-tech/ready-deep-blue-tech.pptx",
+      "bindings": "layouts/content-body-parallel-metrics-two-tech/bindings.json",
+      "spec": "layouts/content-body-parallel-metrics-two-tech/spec.md",
+      "layout_rules": "layouts/content-body-parallel-metrics-two-tech/layout_rules.json",
+      "motion": "layouts/content-body-parallel-metrics-two-tech/motion.json",
+      "preview": "layouts/content-body-parallel-metrics-two-tech/ready-deep-blue-tech.png",
+      "themes": [
+        "deep-blue-tech"
+      ],
+      "status": "draft_pending_review",
+      "capacity": {
+        "body_slots": 6,
+        "item_title_slots": 0,
+        "cell_max_chars": 260
+      },
+      "source_page": 1,
+      "shape_count": 13,
+      "media_status": "verified_static",
+      "html_support": "not_implemented",
+      "motion_support": "source_static",
+      "source_mapping": {
+        "tech": 1
+      },
+      "source_logo_present": true,
+      "source_logo_shape_id": 28,
+      "source_logo_asset_sha256": "725c8c5847c340f97a0c7663ed9926eec8d97ea2b1d1e37264bd16a3f879ec68",
+      "pptx_support": "verified_static_draft",
+      "canonical_relation": "metrics",
+      "search_label": "两组并列指标与原文",
+      "ready_source_by_theme": {
+        "deep-blue-tech": "layouts/content-body-parallel-metrics-two-tech/ready-deep-blue-tech.pptx"
+      },
+      "ready_preview_by_theme": {
+        "deep-blue-tech": "layouts/content-body-parallel-metrics-two-tech/ready-deep-blue-tech.png"
+      },
+      "matching_policy": "structural",
+      "structure_type": "metrics",
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "metrics",
+        "body_input": "parallel_metrics",
+        "content_types": [
+          "parallel_metrics"
+        ],
+        "verified_counts": [
+          6
+        ],
+        "group_count": 2,
+        "body_wrap_width_units": 72,
+        "compatible_relations": [
+          "metrics",
+          "data"
+        ],
+        "required_binding_paths": [
+          "page.title",
+          "groups[0].heading",
+          "groups[0].metric",
+          "groups[0].body",
+          "groups[1].heading",
+          "groups[1].metric",
+          "groups[1].body"
+        ]
+      },
+      "relation_aliases": [
+        "data"
+      ]
     }
   ],
   "pairing_method": "exact top-level shape signatures; provisional",
-  "physical_pages": 764,
-  "component_entries": 457,
+  "physical_pages": 770,
+  "component_entries": 461,
   "relation_taxonomy": "relation-taxonomy.json"
 }

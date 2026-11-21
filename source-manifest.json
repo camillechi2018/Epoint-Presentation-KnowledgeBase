@@ -245,6 +245,48 @@
       "sha256": "28f230e13bccc5cb654b50c3eaf4d9891e2b9cc2614b12f4c0b5b9f72e173742",
       "page_count": 1,
       "relationship": "native-pilot-component"
+    },
+    "content-body-parallel-metrics-four-blue": {
+      "filename": "ready-blue.pptx",
+      "path": "layouts/content-body-parallel-metrics-four/ready-blue.pptx",
+      "sha256": "c9e810c423b21a02b1a7b01108221b5df9787dc9b1ec63dc1e1c2bbdb8c6d443",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-body-parallel-metrics-four-red": {
+      "filename": "ready-red.pptx",
+      "path": "layouts/content-body-parallel-metrics-four/ready-red.pptx",
+      "sha256": "f999df762a07182189f774497e5403bde72b57ab8c2a0d57e5451ce4162739e1",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-body-parallel-metrics-four-tech-deep-blue-tech": {
+      "filename": "ready-deep-blue-tech.pptx",
+      "path": "layouts/content-body-parallel-metrics-four-tech/ready-deep-blue-tech.pptx",
+      "sha256": "19239a609ace31dbfe5422aedf8f039465f22aef063f2895a2f3260133dddd82",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-body-parallel-metrics-two-blue": {
+      "filename": "ready-blue.pptx",
+      "path": "layouts/content-body-parallel-metrics-two/ready-blue.pptx",
+      "sha256": "c49385caf31dd61443eaaa0b71d47511908ae0a0c37e3c2cf50cc6c4bd20986b",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-body-parallel-metrics-two-red": {
+      "filename": "ready-red.pptx",
+      "path": "layouts/content-body-parallel-metrics-two/ready-red.pptx",
+      "sha256": "552c3dc4ccef7625a1cd98a80e10ceca7e9f29ab0638c45cf5875a0536d16719",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-body-parallel-metrics-two-tech-deep-blue-tech": {
+      "filename": "ready-deep-blue-tech.pptx",
+      "path": "layouts/content-body-parallel-metrics-two-tech/ready-deep-blue-tech.pptx",
+      "sha256": "5fee44f1d2014382af6898a7f82e984f48a224dc5c0cc36f8a4f01d29a301277",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
     }
   },
   "exact_top_level_pairs": 287,

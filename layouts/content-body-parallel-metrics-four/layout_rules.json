@@ -1,0 +1,13 @@
+{
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    5
+  ],
+  "source_count": 5,
+  "reflow_status": "not_implemented",
+  "verified_counts": [
+    5
+  ],
+  "validation_status": "verified",
+  "count_evidence": "4 组并列指标对应 5 段原文，按材料顺序排列。每组包含指标名称、原样引用的指标口径，以及按原序换行的完整说明。"
+}

@@ -6110,5 +6110,53 @@
     "variant": "deep-blue-tech",
     "source_pptx": "layouts/content-body-report-table-tech/ready-deep-blue-tech.pptx",
     "extraction_status": "indexed"
+  },
+  {
+    "source": "content-body-parallel-metrics-four-blue",
+    "page": 1,
+    "component_id": "content-body-parallel-metrics-four",
+    "variant": "blue",
+    "source_pptx": "layouts/content-body-parallel-metrics-four/ready-blue.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "content-body-parallel-metrics-four-red",
+    "page": 1,
+    "component_id": "content-body-parallel-metrics-four",
+    "variant": "red",
+    "source_pptx": "layouts/content-body-parallel-metrics-four/ready-red.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "content-body-parallel-metrics-four-tech-deep-blue-tech",
+    "page": 1,
+    "component_id": "content-body-parallel-metrics-four-tech",
+    "variant": "deep-blue-tech",
+    "source_pptx": "layouts/content-body-parallel-metrics-four-tech/ready-deep-blue-tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "content-body-parallel-metrics-two-blue",
+    "page": 1,
+    "component_id": "content-body-parallel-metrics-two",
+    "variant": "blue",
+    "source_pptx": "layouts/content-body-parallel-metrics-two/ready-blue.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "content-body-parallel-metrics-two-red",
+    "page": 1,
+    "component_id": "content-body-parallel-metrics-two",
+    "variant": "red",
+    "source_pptx": "layouts/content-body-parallel-metrics-two/ready-red.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "content-body-parallel-metrics-two-tech-deep-blue-tech",
+    "page": 1,
+    "component_id": "content-body-parallel-metrics-two-tech",
+    "variant": "deep-blue-tech",
+    "source_pptx": "layouts/content-body-parallel-metrics-two-tech/ready-deep-blue-tech.pptx",
+    "extraction_status": "indexed"
   }
 ]
