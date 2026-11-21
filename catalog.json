@@ -29545,7 +29545,8 @@
               "body": "items[2].body"
             }
           ]
-        }
+        },
+        "body_wrap_width_units": 30
       },
       "red_bindings": "layouts/content-body-cards-three-longcopy/bindings-red.json",
       "red_source": "layouts/content-body-cards-three-longcopy/ready-red.pptx",
@@ -29687,7 +29688,8 @@
               "body": "items[2].body"
             }
           ]
-        }
+        },
+        "body_wrap_width_units": 30
       }
     },
     {
@@ -29841,7 +29843,8 @@
               "body": "items[4].body"
             }
           ]
-        }
+        },
+        "body_wrap_width_units": 30
       },
       "red_bindings": "layouts/content-body-cards-five-longcopy/bindings-red.json",
       "red_source": "layouts/content-body-cards-five-longcopy/ready-red.pptx",
@@ -29995,7 +29998,8 @@
               "body": "items[4].body"
             }
           ]
-        }
+        },
+        "body_wrap_width_units": 30
       }
     },
     {
