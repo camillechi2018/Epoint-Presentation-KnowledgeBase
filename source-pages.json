@@ -5870,5 +5870,21 @@
     "variant": "red",
     "source_pptx": "sources/red-supplement.pptx",
     "extraction_status": "indexed"
+  },
+  {
+    "source": "content-blue-six-longcopy-blue",
+    "page": 1,
+    "component_id": "content-blue-six-longcopy",
+    "variant": "blue",
+    "source_pptx": "layouts/content-blue-six-longcopy/ready-blue.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "content-blue-six-longcopy-red",
+    "page": 1,
+    "component_id": "content-blue-six-longcopy",
+    "variant": "red",
+    "source_pptx": "layouts/content-blue-six-longcopy/ready-red.pptx",
+    "extraction_status": "indexed"
   }
 ]

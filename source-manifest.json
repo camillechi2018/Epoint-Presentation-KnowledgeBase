@@ -35,6 +35,20 @@
       "sha256": "ec67eb8c9f5123e073a0ea5eb01f8d439a1669bd39c82ee31df9366553df3a16",
       "page_count": 24,
       "relationship": "extends-existing-minimal-color"
+    },
+    "content-blue-six-longcopy-blue": {
+      "filename": "ready-blue.pptx",
+      "path": "layouts/content-blue-six-longcopy/ready-blue.pptx",
+      "sha256": "e4fbc3cbd371a767d2b3f3886011c0a657579f5046dc557e96a02e89dcb8facc",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-blue-six-longcopy-red": {
+      "filename": "ready-red.pptx",
+      "path": "layouts/content-blue-six-longcopy/ready-red.pptx",
+      "sha256": "790904433e9cc649844385d37ba84f40d88d2d16467a1cc25f0d691e77297524",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
     }
   },
   "exact_top_level_pairs": 287,

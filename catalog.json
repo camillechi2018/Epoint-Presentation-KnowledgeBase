@@ -27664,10 +27664,143 @@
       "visual_review_status": "powerpoint_render_checked",
       "title_pressure_status": "tested_short_copy_only",
       "canonical_relation": "visual-story"
+    },
+    {
+      "id": "content-blue-six-longcopy",
+      "body_component_contract": {
+        "version": 2,
+        "themes": {
+          "blue": {
+            "asset": "layouts/content-blue-six-longcopy/body-blue.pptx",
+            "sha256": "97dd745745101c96392de362a5b88b2273879003920dffca429c834989c73c7f",
+            "bindings": "layouts/content-blue-six-longcopy/body-blue-bindings.json",
+            "bindings_sha256": "3d56dbf79b09db551bb63b559982bbc107a590f19ed817efc0a968bcd292aa49",
+            "title_input": {
+              "field": "text_26",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              26,
+              27,
+              28
+            ],
+            "source": {
+              "source": "layouts/content-blue-six-longcopy/ready-blue.pptx",
+              "page": 1,
+              "sha256": "e4fbc3cbd371a767d2b3f3886011c0a657579f5046dc557e96a02e89dcb8facc"
+            }
+          },
+          "red": {
+            "asset": "layouts/content-blue-six-longcopy/body-red.pptx",
+            "sha256": "043e8274a7121741aadd74be29a7a1fbfcee718835ec6fb02cb5e2375221393b",
+            "bindings": "layouts/content-blue-six-longcopy/body-red-bindings.json",
+            "bindings_sha256": "3d56dbf79b09db551bb63b559982bbc107a590f19ed817efc0a968bcd292aa49",
+            "title_input": {
+              "field": "text_26",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              26,
+              27,
+              28
+            ],
+            "source": {
+              "source": "layouts/content-blue-six-longcopy/ready-red.pptx",
+              "page": 1,
+              "sha256": "790904433e9cc649844385d37ba84f40d88d2d16467a1cc25f0d691e77297524"
+            }
+          }
+        }
+      },
+      "version": "1.0.0-draft",
+      "collection": "new-template-content",
+      "role": "content",
+      "style_family": "legacy-blue-red",
+      "information_relation": "parallel-points",
+      "classification_status": "verified",
+      "family_id": "parallel-card-grid",
+      "source": "layouts/content-blue-six-longcopy/ready-blue.pptx",
+      "example": "layouts/content-blue-six-longcopy/ready-blue.pptx",
+      "bindings": "layouts/content-blue-six-longcopy/bindings.json",
+      "spec": "layouts/content-blue-six-longcopy/spec.md",
+      "layout_rules": "layouts/content-blue-six-longcopy/layout_rules.json",
+      "motion": "layouts/content-blue-six-longcopy/motion.json",
+      "preview": "layouts/content-blue-six-longcopy/ready-blue.png",
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "draft_pending_review",
+      "capacity": {
+        "body_slots": 6,
+        "item_title_slots": 6,
+        "cell_max_chars": 75
+      },
+      "source_page": 1,
+      "shape_count": 27,
+      "media_status": "verified_static",
+      "html_support": "not_implemented",
+      "motion_support": "source_static",
+      "source_mapping": {
+        "blue": 1,
+        "red": 1
+      },
+      "source_logo_present": true,
+      "source_logo_shape_id": 28,
+      "source_logo_asset_sha256": "fc7c0355681062dc1736d071660d71cfe83a7abbfc5542e52d9688f9425789ad",
+      "red_source_logo_shape_id": 28,
+      "red_bindings": "layouts/content-blue-six-longcopy/bindings-red.json",
+      "red_source": "layouts/content-blue-six-longcopy/ready-red.pptx",
+      "red_source_page": 1,
+      "pptx_support": "verified_static",
+      "batch_status": "fixed_native_count_verified",
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "parallel-points",
+      "search_label": "六项并列内容",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-six-longcopy/ready-blue.pptx",
+        "red": "layouts/content-blue-six-longcopy/ready-red.pptx"
+      },
+      "red_preview": "layouts/content-blue-six-longcopy/ready-red.png",
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-six-longcopy/ready-blue.png",
+        "red": "layouts/content-blue-six-longcopy/ready-red.png"
+      },
+      "matching_policy": "structural",
+      "structure_type": "parallel-points",
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "parallel-points",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "cards",
+          "template_fields"
+        ],
+        "verified_counts": [
+          6
+        ],
+        "required_binding_paths": [
+          "page.title",
+          "items[0].heading",
+          "items[0].body",
+          "items[1].heading",
+          "items[1].body",
+          "items[2].heading",
+          "items[2].body",
+          "items[3].heading",
+          "items[3].body",
+          "items[4].heading",
+          "items[4].body",
+          "items[5].heading",
+          "items[5].body"
+        ],
+        "access_mode": "field_complete"
+      }
     }
   ],
   "pairing_method": "exact top-level shape signatures; provisional",
-  "physical_pages": 696,
-  "component_entries": 409,
+  "physical_pages": 736,
+  "component_entries": 438,
   "relation_taxonomy": "relation-taxonomy.json"
 }
