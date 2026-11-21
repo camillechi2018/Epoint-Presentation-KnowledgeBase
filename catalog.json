@@ -18317,7 +18317,7 @@
       "collection": "new-template-covers",
       "role": "cover",
       "information_relation": "visual-story",
-      "classification_status": "provisional",
+      "classification_status": "verified",
       "family_id": "cover-007",
       "source": "sources/cover.pptx",
       "example": "sources/cover.pptx",
@@ -18337,7 +18337,7 @@
       },
       "source_page": 7,
       "shape_count": 14,
-      "media_status": "unreviewed",
+      "media_status": "verified_source_media",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -18347,11 +18347,14 @@
       "style": "nature-vista",
       "visual_impact": "medium",
       "title_area_hint": "right",
-      "cover_match_status": "original_only_pending_review",
+      "cover_match_status": "verified_original",
       "stock_code_default": "688232",
       "slogan_locked": null,
       "source_logo_present": true,
-      "background_image": "cover-images/P07.jpg"
+      "background_image": "cover-images/P07.jpg",
+      "semantic_review_status": "verified_short_copy",
+      "pptx_support": "verified_static_draft",
+      "title_pressure_status": "tested_short_copy_only"
     },
     {
       "id": "cover-08",
@@ -18661,7 +18664,7 @@
       "collection": "new-template-covers",
       "role": "cover",
       "information_relation": "visual-story",
-      "classification_status": "provisional",
+      "classification_status": "verified",
       "family_id": "cover-015",
       "source": "sources/cover.pptx",
       "example": "sources/cover.pptx",
@@ -18681,7 +18684,7 @@
       },
       "source_page": 15,
       "shape_count": 11,
-      "media_status": "unreviewed",
+      "media_status": "verified_source_media",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -18697,7 +18700,10 @@
       "source_logo_present": true,
       "background_image": "cover-images/P15.jpg",
       "color_match_note": "用户指定 P15 归入红色封面候选。原图为银灰色丝绸背景，适合作为红色内容页的中性衔接封面；并非红色主视觉图片。原配标题、Logo、股票代码与品牌语位置保留。",
-      "brand_contrast_variant": "dark"
+      "brand_contrast_variant": "dark",
+      "semantic_review_status": "verified_short_copy",
+      "pptx_support": "verified_static_draft",
+      "title_pressure_status": "tested_short_copy_only"
     },
     {
       "id": "cover-16",
