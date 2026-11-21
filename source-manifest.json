@@ -133,6 +133,118 @@
       "sha256": "3244333806074861a4be69c29a7285c71fe757fa5f99a6030d08d050a1d9d5b8",
       "page_count": 1,
       "relationship": "native-pilot-component"
+    },
+    "content-body-cards-six-longcopy-tech-deep-blue-tech": {
+      "filename": "ready-deep-blue-tech.pptx",
+      "path": "layouts/content-body-cards-six-longcopy-tech/ready-deep-blue-tech.pptx",
+      "sha256": "f2ac32a14ea133fab1c33a44e7ffeece78f13968cdc1cb330229a8fbc543483a",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-body-cards-four-tech-deep-blue-tech": {
+      "filename": "ready-deep-blue-tech.pptx",
+      "path": "layouts/content-body-cards-four-tech/ready-deep-blue-tech.pptx",
+      "sha256": "ec6f4f936ef964e0511f0e6fa29d10b4142da0ac6dd560fe099423a782348bc1",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-body-cards-two-longcopy-blue": {
+      "filename": "ready-blue.pptx",
+      "path": "layouts/content-body-cards-two-longcopy/ready-blue.pptx",
+      "sha256": "4587a5cb1a9ebfba760f6dde6f4f55b092988da84aab2bfcc770fa939f5d6f70",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-body-cards-two-longcopy-red": {
+      "filename": "ready-red.pptx",
+      "path": "layouts/content-body-cards-two-longcopy/ready-red.pptx",
+      "sha256": "44eabb96d76fe08dcfa66ab3d717df8f42b82da5f60d89da5ea16490627a87b9",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-body-cards-three-longcopy-blue": {
+      "filename": "ready-blue.pptx",
+      "path": "layouts/content-body-cards-three-longcopy/ready-blue.pptx",
+      "sha256": "7652f9abe8824be5b462d941d6f20b727fdbb9e54935bf1be4fbf0aaa463e904",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-body-cards-three-longcopy-red": {
+      "filename": "ready-red.pptx",
+      "path": "layouts/content-body-cards-three-longcopy/ready-red.pptx",
+      "sha256": "f77f6ea37d7b06e128cd6558bab466f212912fb04b94ee99b28c0f8c26325bf7",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-body-cards-three-longcopy-tech-deep-blue-tech": {
+      "filename": "ready-deep-blue-tech.pptx",
+      "path": "layouts/content-body-cards-three-longcopy-tech/ready-deep-blue-tech.pptx",
+      "sha256": "d33ac76226e7996ec1e2f01a41959d5920d919e723033f94917fb2606676f167",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-body-cards-five-longcopy-blue": {
+      "filename": "ready-blue.pptx",
+      "path": "layouts/content-body-cards-five-longcopy/ready-blue.pptx",
+      "sha256": "786c8cb2f373fbaea30b73a910a229c8fe5415b9479c6fc33e1b843eb2256be6",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-body-cards-five-longcopy-red": {
+      "filename": "ready-red.pptx",
+      "path": "layouts/content-body-cards-five-longcopy/ready-red.pptx",
+      "sha256": "b240eb7754eaf8d3341da9f625bbefda27e97887806a79cb19bf00fd255470c0",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-body-cards-five-longcopy-tech-deep-blue-tech": {
+      "filename": "ready-deep-blue-tech.pptx",
+      "path": "layouts/content-body-cards-five-longcopy-tech/ready-deep-blue-tech.pptx",
+      "sha256": "4a5012d3d6de94053bb32b1cf61c2dd81f799fb057bbf5cd653bb3edf30caf00",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-body-text-hierarchy-blue": {
+      "filename": "ready-blue.pptx",
+      "path": "layouts/content-body-text-hierarchy/ready-blue.pptx",
+      "sha256": "f977043597780a1d2e84b0aa0cdc0d3e6adf4e018d7890da37fb4d0eb986de96",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-body-text-hierarchy-red": {
+      "filename": "ready-red.pptx",
+      "path": "layouts/content-body-text-hierarchy/ready-red.pptx",
+      "sha256": "9865e2d68fdadedee63e07fac113397db4bb3faa68ec0d019ad3d7a48afe57ae",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-body-text-hierarchy-tech-deep-blue-tech": {
+      "filename": "ready-deep-blue-tech.pptx",
+      "path": "layouts/content-body-text-hierarchy-tech/ready-deep-blue-tech.pptx",
+      "sha256": "d462e34c4fa1431ad53805042badad8d046fa006f907f878d942ccc01eaa3dd5",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-body-report-table-blue": {
+      "filename": "ready-blue.pptx",
+      "path": "layouts/content-body-report-table/ready-blue.pptx",
+      "sha256": "24d6ff91eb8605337be231f9a605ed72c90929718806c7a47b0ff90d25de5daf",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-body-report-table-red": {
+      "filename": "ready-red.pptx",
+      "path": "layouts/content-body-report-table/ready-red.pptx",
+      "sha256": "258bc998191b28dec7353ad3da6410939b926ae3366afa2a8fed82653af8cf0e",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
+    },
+    "content-body-report-table-tech-deep-blue-tech": {
+      "filename": "ready-deep-blue-tech.pptx",
+      "path": "layouts/content-body-report-table-tech/ready-deep-blue-tech.pptx",
+      "sha256": "28f230e13bccc5cb654b50c3eaf4d9891e2b9cc2614b12f4c0b5b9f72e173742",
+      "page_count": 1,
+      "relationship": "native-pilot-component"
     }
   },
   "exact_top_level_pairs": 287,

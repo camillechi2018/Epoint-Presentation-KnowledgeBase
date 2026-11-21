@@ -1,0 +1,13 @@
+{
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    5
+  ],
+  "source_count": 5,
+  "reflow_status": "not_implemented",
+  "verified_counts": [
+    5
+  ],
+  "validation_status": "verified",
+  "count_evidence": "按来源划分为背景、方法与目标三组，各组分别填写标题及两条、两条和一条原文。同组原文使用换行分隔。"
+}

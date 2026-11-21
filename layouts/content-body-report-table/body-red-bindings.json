@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "fields": [],
+  "objects": {
+    "images": [],
+    "charts": [],
+    "tables": [
+      {
+        "shape_id": 2,
+        "shape_name": "report:evidence-table",
+        "rows": 6,
+        "columns": 2,
+        "bounds_pt": [
+          38.0,
+          84.0,
+          884.0,
+          372.0
+        ]
+      }
+    ]
+  }
+}

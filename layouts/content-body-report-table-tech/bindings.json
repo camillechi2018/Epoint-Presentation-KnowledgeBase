@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "brand:content-title",
+      "type": "text",
+      "max_chars": 44,
+      "source_sample_chars": 9,
+      "source_text": "报告条目与原文依据",
+      "bounds_pt": [
+        142.92,
+        32.832,
+        674.136,
+        33.912
+      ],
+      "semantic_role": "page_heading",
+      "semantic_path": "page.title",
+      "max_lines": 1,
+      "max_width_units": 44,
+      "required": true,
+      "typography_role": "chinese_heading"
+    }
+  ],
+  "objects": {
+    "images": [
+      {
+        "shape_id": 4,
+        "shape_name": "Freeform 3076",
+        "bounds_pt": [
+          0.4376,
+          10.3466,
+          958.4108,
+          63.7343
+        ],
+        "semantic_role": "source_decorative_locked"
+      },
+      {
+        "shape_id": 15,
+        "shape_name": "图片 51",
+        "bounds_pt": [
+          290.3018,
+          51.3019,
+          378.8964,
+          44.463
+        ],
+        "semantic_role": "source_decorative_locked"
+      },
+      {
+        "shape_id": 17,
+        "shape_name": "brand:logo:full:white",
+        "bounds_pt": [
+          862.56,
+          14.4,
+          70.56,
+          15.12
+        ],
+        "semantic_role": "brand_logo_locked"
+      }
+    ],
+    "charts": [],
+    "tables": [
+      {
+        "shape_id": 2,
+        "shape_name": "report:evidence-table",
+        "rows": 6,
+        "columns": 2,
+        "bounds_pt": [
+          38.0,
+          113.0,
+          884.0,
+          372.0
+        ]
+      }
+    ]
+  }
+}

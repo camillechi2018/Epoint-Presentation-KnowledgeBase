@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "card:1:heading",
+      "type": "text",
+      "max_chars": 18,
+      "source_sample_chars": 4,
+      "source_text": "业务范围",
+      "bounds_pt": [
+        63.0,
+        93.0,
+        243.6666,
+        30.0
+      ],
+      "semantic_role": "label",
+      "semantic_path": "items[0].heading",
+      "max_lines": 1,
+      "max_width_units": 27,
+      "required": true,
+      "typography_role": "chinese_heading"
+    },
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "card:1:body",
+      "type": "text",
+      "max_chars": 75,
+      "source_sample_chars": 40,
+      "source_text": "梳理现有工作覆盖的对象、主要业务类型和使用场景，并保留各条事实的来源与更新日期。",
+      "bounds_pt": [
+        51.0,
+        138.0,
+        256.6666,
+        121.0
+      ],
+      "semantic_role": "body",
+      "semantic_path": "items[0].body",
+      "max_lines": 6,
+      "max_width_units": 150,
+      "required": true,
+      "typography_role": "chinese_body"
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "card:2:heading",
+      "type": "text",
+      "max_chars": 18,
+      "source_sample_chars": 4,
+      "source_text": "材料准备",
+      "bounds_pt": [
+        363.6666,
+        93.0,
+        243.6666,
+        30.0
+      ],
+      "semantic_role": "label",
+      "semantic_path": "items[1].heading",
+      "max_lines": 1,
+      "max_width_units": 27,
+      "required": true,
+      "typography_role": "chinese_heading"
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "card:2:body",
+      "type": "text",
+      "max_chars": 75,
+      "source_sample_chars": 37,
+      "source_text": "逐项确认已有材料和需要补充的信息，说明适用范围与限制条件，便于复核和查阅。",
+      "bounds_pt": [
+        351.6666,
+        138.0,
+        256.6666,
+        121.0
+      ],
+      "semantic_role": "body",
+      "semantic_path": "items[1].body",
+      "max_lines": 6,
+      "max_width_units": 150,
+      "required": true,
+      "typography_role": "chinese_body"
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "card:3:heading",
+      "type": "text",
+      "max_chars": 18,
+      "source_sample_chars": 4,
+      "source_text": "执行流程",
+      "bounds_pt": [
+        664.3333,
+        93.0,
+        243.6666,
+        30.0
+      ],
+      "semantic_role": "label",
+      "semantic_path": "items[2].heading",
+      "max_lines": 1,
+      "max_width_units": 27,
+      "required": true,
+      "typography_role": "chinese_heading"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "card:3:body",
+      "type": "text",
+      "max_chars": 75,
+      "source_sample_chars": 37,
+      "source_text": "按原有顺序说明主要动作、参与角色和交接标准，完整记录每个环节的输入与产出。",
+      "bounds_pt": [
+        652.3333,
+        138.0,
+        256.6666,
+        121.0
+      ],
+      "semantic_role": "body",
+      "semantic_path": "items[2].body",
+      "max_lines": 6,
+      "max_width_units": 150,
+      "required": true,
+      "typography_role": "chinese_body"
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "card:4:heading",
+      "type": "text",
+      "max_chars": 18,
+      "source_sample_chars": 4,
+      "source_text": "协同机制",
+      "bounds_pt": [
+        211.3333,
+        291.0,
+        243.6666,
+        30.0
+      ],
+      "semantic_role": "label",
+      "semantic_path": "items[3].heading",
+      "max_lines": 1,
+      "max_width_units": 27,
+      "required": true,
+      "typography_role": "chinese_heading"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "card:4:body",
+      "type": "text",
+      "max_chars": 75,
+      "source_sample_chars": 34,
+      "source_text": "明确参与各方的职责与沟通方式，记录需要共同确认的问题及后续处理安排。",
+      "bounds_pt": [
+        199.3333,
+        336.0,
+        256.6666,
+        121.0
+      ],
+      "semantic_role": "body",
+      "semantic_path": "items[3].body",
+      "max_lines": 6,
+      "max_width_units": 150,
+      "required": true,
+      "typography_role": "chinese_body"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "card:5:heading",
+      "type": "text",
+      "max_chars": 18,
+      "source_sample_chars": 4,
+      "source_text": "过程记录",
+      "bounds_pt": [
+        516.0,
+        291.0,
+        243.6666,
+        30.0
+      ],
+      "semantic_role": "label",
+      "semantic_path": "items[4].heading",
+      "max_lines": 1,
+      "max_width_units": 27,
+      "required": true,
+      "typography_role": "chinese_heading"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "card:5:body",
+      "type": "text",
+      "max_chars": 75,
+      "source_sample_chars": 36,
+      "source_text": "记录执行过程中遇到的典型问题和处理方式，保留可追溯的验证材料与责任信息。",
+      "bounds_pt": [
+        504.0,
+        336.0,
+        256.6666,
+        121.0
+      ],
+      "semantic_role": "body",
+      "semantic_path": "items[4].body",
+      "max_lines": 6,
+      "max_width_units": 150,
+      "required": true,
+      "typography_role": "chinese_body"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "brand:content-title",
+      "type": "text",
+      "max_chars": 42,
+      "source_sample_chars": 6,
+      "source_text": "五项并列内容",
+      "bounds_pt": [
+        35.0639,
+        20.736,
+        606.528,
+        36.36
+      ],
+      "semantic_role": "page_heading",
+      "semantic_path": "page.title",
+      "max_lines": 1,
+      "max_width_units": 42,
+      "required": true,
+      "typography_role": "chinese_heading"
+    }
+  ],
+  "objects": {
+    "images": [
+      {
+        "shape_id": 24,
+        "shape_name": "brand:logo:full:color",
+        "bounds_pt": [
+          828.0,
+          31.68,
+          88.776,
+          19.08
+        ],
+        "semantic_role": "brand_logo_locked"
+      }
+    ],
+    "charts": [],
+    "tables": []
+  }
+}

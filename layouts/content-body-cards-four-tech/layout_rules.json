@@ -1,0 +1,19 @@
+{
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    4
+  ],
+  "source_count": 4,
+  "reflow_status": "not_implemented",
+  "verified_counts": [
+    4
+  ],
+  "validation_status": "verified",
+  "count_evidence": "每项分别填写一个简短标题和一段原文，按页面从左到右、从上到下的顺序放置。",
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
+    ]
+  }
+}
