@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "group_path": [],
+      "source_text": "占比变化",
+      "source_sample_chars": 4,
+      "max_chars": 16,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        4889500,
+        1536700,
+        2438400,
+        292100
+      ],
+      "semantic_path": "combo_plot.note",
+      "max_lines": 1
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "矩形 20",
+      "type": "text",
+      "group_path": [
+        2,
+        18
+      ],
+      "source_text": "对比 2024/2025 指标变化并提炼趋势洞察",
+      "source_sample_chars": 24,
+      "max_chars": 36,
+      "typography_role": "chinese_heading",
+      "bounds_emu_local": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ],
+      "semantic_path": "page.subtitle",
+      "required": false,
+      "missing_action": "clear_text"
+    }
+  ],
+  "objects": {
+    "charts": [
+      {
+        "shape_id": 5,
+        "shape_name": "图表 4",
+        "group_path": [],
+        "categories_max": 5,
+        "series_max": 3,
+        "series_min": 3,
+        "series_name_max_chars": 5,
+        "category_max_chars": 4,
+        "title_in_binding": true,
+        "count_matches_categories": true
+      }
+    ],
+    "tables": [],
+    "images": []
+  },
+  "review": "deep-blue-tech native chart validation"
+}
