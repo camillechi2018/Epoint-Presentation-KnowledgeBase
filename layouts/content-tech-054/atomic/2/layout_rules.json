@@ -1,0 +1,11 @@
+{
+  "cardinality_mode": "fixed",
+  "source_count": 2,
+  "supported_counts": [
+    2
+  ],
+  "verified_counts": [
+    2
+  ],
+  "validation_status": "verified_fixed_count"
+}

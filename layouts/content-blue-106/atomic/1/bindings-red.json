@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "page.title",
+      "semantic_path": "page.title",
+      "shape_id": 27,
+      "type": "text",
+      "semantic_role": "page_title",
+      "required": true,
+      "max_chars": 22,
+      "max_lines": 1,
+      "max_width_units": 45,
+      "font_size_pt": 24.0
+    },
+    {
+      "field": "items[0].heading",
+      "semantic_path": "items[0].heading",
+      "shape_id": 104,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 9,
+      "max_lines": 1,
+      "max_width_units": 18,
+      "font_size_pt": 20.0
+    },
+    {
+      "field": "items[0].body",
+      "semantic_path": "items[0].body",
+      "shape_id": 105,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 49,
+      "max_lines": 2,
+      "max_width_units": 49,
+      "font_size_pt": 15.0
+    }
+  ],
+  "atom_group_ids": [
+    100
+  ],
+  "locked_text": {
+    "103": "01"
+  }
+}

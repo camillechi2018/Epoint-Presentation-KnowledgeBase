@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "page.title",
+      "semantic_path": "page.title",
+      "shape_id": 2,
+      "type": "text",
+      "semantic_role": "page_title",
+      "required": true,
+      "max_chars": 31,
+      "max_lines": 1,
+      "max_width_units": 62,
+      "font_size_pt": 24.0
+    },
+    {
+      "field": "items[0].heading",
+      "semantic_path": "items[0].heading",
+      "shape_id": 34,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 14,
+      "max_lines": 1,
+      "max_width_units": 29,
+      "font_size_pt": 19.0
+    },
+    {
+      "field": "items[0].problem",
+      "semantic_path": "items[0].problem",
+      "shape_id": 24,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 59,
+      "max_lines": 3,
+      "max_width_units": 39,
+      "font_size_pt": 15.0
+    },
+    {
+      "field": "items[0].action",
+      "semantic_path": "items[0].action",
+      "shape_id": 27,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 83,
+      "max_lines": 4,
+      "max_width_units": 41,
+      "font_size_pt": 14.5
+    },
+    {
+      "field": "items[1].heading",
+      "semantic_path": "items[1].heading",
+      "shape_id": 81,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 14,
+      "max_lines": 1,
+      "max_width_units": 29,
+      "font_size_pt": 19.0
+    },
+    {
+      "field": "items[1].problem",
+      "semantic_path": "items[1].problem",
+      "shape_id": 85,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 59,
+      "max_lines": 3,
+      "max_width_units": 39,
+      "font_size_pt": 15.0
+    },
+    {
+      "field": "items[1].action",
+      "semantic_path": "items[1].action",
+      "shape_id": 86,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 83,
+      "max_lines": 4,
+      "max_width_units": 41,
+      "font_size_pt": 14.5
+    }
+  ],
+  "atom_group_ids": [
+    5,
+    7
+  ],
+  "locked_text": {
+    "32": "解决方案：",
+    "35": "解决方案："
+  }
+}

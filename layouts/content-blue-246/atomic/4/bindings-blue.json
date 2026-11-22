@@ -1,0 +1,125 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "page.title",
+      "semantic_path": "page.title",
+      "shape_id": 3,
+      "type": "text",
+      "semantic_role": "page_title",
+      "required": true,
+      "max_chars": 31,
+      "max_lines": 1,
+      "max_width_units": 62,
+      "font_size_pt": 24.0
+    },
+    {
+      "field": "items[0].heading",
+      "semantic_path": "items[0].heading",
+      "shape_id": 37,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 10,
+      "max_lines": 1,
+      "max_width_units": 20,
+      "font_size_pt": 24.0
+    },
+    {
+      "field": "items[0].body",
+      "semantic_path": "items[0].body",
+      "shape_id": 42,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 111,
+      "max_lines": 4,
+      "max_width_units": 54,
+      "font_size_pt": 12.0
+    },
+    {
+      "field": "items[1].heading",
+      "semantic_path": "items[1].heading",
+      "shape_id": 38,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 10,
+      "max_lines": 1,
+      "max_width_units": 20,
+      "font_size_pt": 24.0
+    },
+    {
+      "field": "items[1].body",
+      "semantic_path": "items[1].body",
+      "shape_id": 43,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 111,
+      "max_lines": 4,
+      "max_width_units": 54,
+      "font_size_pt": 12.0
+    },
+    {
+      "field": "items[2].heading",
+      "semantic_path": "items[2].heading",
+      "shape_id": 39,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 10,
+      "max_lines": 1,
+      "max_width_units": 20,
+      "font_size_pt": 24.0
+    },
+    {
+      "field": "items[2].body",
+      "semantic_path": "items[2].body",
+      "shape_id": 44,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 111,
+      "max_lines": 4,
+      "max_width_units": 54,
+      "font_size_pt": 12.0
+    },
+    {
+      "field": "items[3].heading",
+      "semantic_path": "items[3].heading",
+      "shape_id": 41,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 10,
+      "max_lines": 1,
+      "max_width_units": 20,
+      "font_size_pt": 24.0
+    },
+    {
+      "field": "items[3].body",
+      "semantic_path": "items[3].body",
+      "shape_id": 46,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 111,
+      "max_lines": 4,
+      "max_width_units": 54,
+      "font_size_pt": 12.0
+    }
+  ],
+  "atom_group_ids": [
+    4,
+    9,
+    14,
+    19
+  ],
+  "locked_text": {
+    "22": "01",
+    "29": "02",
+    "31": "03",
+    "36": "04"
+  }
+}

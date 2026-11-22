@@ -1,0 +1,126 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "page.title",
+      "semantic_path": "page.title",
+      "shape_id": 70,
+      "type": "text",
+      "semantic_role": "page_title",
+      "required": true,
+      "max_chars": 22,
+      "max_lines": 1,
+      "max_width_units": 45,
+      "font_size_pt": 24.0
+    },
+    {
+      "field": "items[0].risk_heading",
+      "semantic_path": "items[0].risk_heading",
+      "shape_id": 77,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 16,
+      "max_lines": 1,
+      "max_width_units": 33,
+      "font_size_pt": 16.0,
+      "render_prefix": "01."
+    },
+    {
+      "field": "items[0].risk_body",
+      "semantic_path": "items[0].risk_body",
+      "shape_id": 89,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 103,
+      "max_lines": 4,
+      "max_width_units": 50,
+      "font_size_pt": 12.5
+    },
+    {
+      "field": "items[0].response_heading",
+      "semantic_path": "items[0].response_heading",
+      "shape_id": 80,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 16,
+      "max_lines": 1,
+      "max_width_units": 33,
+      "font_size_pt": 16.0,
+      "render_prefix": "01."
+    },
+    {
+      "field": "items[0].response_body",
+      "semantic_path": "items[0].response_body",
+      "shape_id": 92,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 103,
+      "max_lines": 4,
+      "max_width_units": 50,
+      "font_size_pt": 12.5
+    },
+    {
+      "field": "items[1].risk_heading",
+      "semantic_path": "items[1].risk_heading",
+      "shape_id": 78,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 16,
+      "max_lines": 1,
+      "max_width_units": 33,
+      "font_size_pt": 16.0,
+      "render_prefix": "02."
+    },
+    {
+      "field": "items[1].risk_body",
+      "semantic_path": "items[1].risk_body",
+      "shape_id": 90,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 103,
+      "max_lines": 4,
+      "max_width_units": 50,
+      "font_size_pt": 12.5
+    },
+    {
+      "field": "items[1].response_heading",
+      "semantic_path": "items[1].response_heading",
+      "shape_id": 81,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 16,
+      "max_lines": 1,
+      "max_width_units": 33,
+      "font_size_pt": 16.0,
+      "render_prefix": "02."
+    },
+    {
+      "field": "items[1].response_body",
+      "semantic_path": "items[1].response_body",
+      "shape_id": 94,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 103,
+      "max_lines": 4,
+      "max_width_units": 50,
+      "font_size_pt": 12.5
+    }
+  ],
+  "atom_group_ids": [
+    2,
+    3
+  ],
+  "locked_text": {
+    "69": "VS",
+    "100": "风险管理",
+    "101": "应对策略"
+  }
+}

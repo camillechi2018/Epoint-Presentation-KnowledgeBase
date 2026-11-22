@@ -1,0 +1,123 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "page.title",
+      "semantic_path": "page.title",
+      "shape_id": 5,
+      "type": "text",
+      "semantic_role": "page_title",
+      "required": true,
+      "max_chars": 22,
+      "max_lines": 1,
+      "max_width_units": 45,
+      "font_size_pt": 24.0
+    },
+    {
+      "field": "items[0].problem_heading",
+      "semantic_path": "items[0].problem_heading",
+      "shape_id": 26,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 18,
+      "max_lines": 1,
+      "max_width_units": 37,
+      "font_size_pt": 13,
+      "render_prefix": "1. "
+    },
+    {
+      "field": "items[0].problem_body",
+      "semantic_path": "items[0].problem_body",
+      "shape_id": 43,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 103,
+      "max_lines": 4,
+      "max_width_units": 51,
+      "font_size_pt": 10.0
+    },
+    {
+      "field": "items[0].measure_heading",
+      "semantic_path": "items[0].measure_heading",
+      "shape_id": 38,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 20,
+      "max_lines": 1,
+      "max_width_units": 40,
+      "font_size_pt": 13
+    },
+    {
+      "field": "items[0].measure_body",
+      "semantic_path": "items[0].measure_body",
+      "shape_id": 46,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 103,
+      "max_lines": 4,
+      "max_width_units": 51,
+      "font_size_pt": 10.0
+    },
+    {
+      "field": "items[1].problem_heading",
+      "semantic_path": "items[1].problem_heading",
+      "shape_id": 29,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 18,
+      "max_lines": 1,
+      "max_width_units": 37,
+      "font_size_pt": 13,
+      "render_prefix": "2. "
+    },
+    {
+      "field": "items[1].problem_body",
+      "semantic_path": "items[1].problem_body",
+      "shape_id": 44,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 103,
+      "max_lines": 4,
+      "max_width_units": 51,
+      "font_size_pt": 10.0
+    },
+    {
+      "field": "items[1].measure_heading",
+      "semantic_path": "items[1].measure_heading",
+      "shape_id": 39,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 20,
+      "max_lines": 1,
+      "max_width_units": 40,
+      "font_size_pt": 13
+    },
+    {
+      "field": "items[1].measure_body",
+      "semantic_path": "items[1].measure_body",
+      "shape_id": 47,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 103,
+      "max_lines": 4,
+      "max_width_units": 51,
+      "font_size_pt": 10.0
+    }
+  ],
+  "atom_group_ids": [
+    3,
+    8
+  ],
+  "locked_text": {
+    "4": "不足之处",
+    "42": "改进方案"
+  }
+}

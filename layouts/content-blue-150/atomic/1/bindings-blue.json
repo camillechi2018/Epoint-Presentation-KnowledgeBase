@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "page.title",
+      "semantic_path": "page.title",
+      "shape_id": 56,
+      "type": "text",
+      "semantic_role": "page_title",
+      "required": true,
+      "max_chars": 22,
+      "max_lines": 1,
+      "max_width_units": 45,
+      "font_size_pt": 24.0
+    },
+    {
+      "field": "page.summary",
+      "semantic_path": "page.summary",
+      "shape_id": 39,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 149,
+      "max_lines": 2,
+      "max_width_units": 149,
+      "font_size_pt": 10.0
+    },
+    {
+      "field": "items[0].heading",
+      "semantic_path": "items[0].heading",
+      "shape_id": 96,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 13,
+      "max_lines": 1,
+      "max_width_units": 27,
+      "font_size_pt": 20.0
+    },
+    {
+      "field": "items[0].detail_a",
+      "semantic_path": "items[0].detail_a",
+      "shape_id": 95,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 62,
+      "max_lines": 3,
+      "max_width_units": 40,
+      "font_size_pt": 13.0
+    },
+    {
+      "field": "items[0].detail_b",
+      "semantic_path": "items[0].detail_b",
+      "shape_id": 107,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 62,
+      "max_lines": 3,
+      "max_width_units": 40,
+      "font_size_pt": 13.0
+    },
+    {
+      "field": "items[0].tag",
+      "semantic_path": "items[0].tag",
+      "shape_id": 127,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 21,
+      "max_lines": 1,
+      "max_width_units": 43,
+      "font_size_pt": 13.0
+    }
+  ],
+  "atom_group_ids": [
+    3
+  ],
+  "locked_text": {}
+}

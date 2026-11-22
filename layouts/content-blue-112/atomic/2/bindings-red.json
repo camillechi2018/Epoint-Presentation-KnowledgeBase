@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "page.title",
+      "semantic_path": "page.title",
+      "shape_id": 5,
+      "type": "text",
+      "semantic_role": "page_title",
+      "required": true,
+      "max_chars": 22,
+      "max_lines": 1,
+      "max_width_units": 45,
+      "font_size_pt": 24.0
+    },
+    {
+      "field": "items[0].heading",
+      "semantic_path": "items[0].heading",
+      "shape_id": 105,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 8,
+      "max_lines": 1,
+      "max_width_units": 17,
+      "font_size_pt": 24.0
+    },
+    {
+      "field": "items[0].body",
+      "semantic_path": "items[0].body",
+      "shape_id": 106,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 95,
+      "max_lines": 4,
+      "max_width_units": 47,
+      "font_size_pt": 16.0
+    },
+    {
+      "field": "items[1].heading",
+      "semantic_path": "items[1].heading",
+      "shape_id": 115,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 8,
+      "max_lines": 1,
+      "max_width_units": 17,
+      "font_size_pt": 24.0
+    },
+    {
+      "field": "items[1].body",
+      "semantic_path": "items[1].body",
+      "shape_id": 116,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 95,
+      "max_lines": 4,
+      "max_width_units": 47,
+      "font_size_pt": 16.0
+    }
+  ],
+  "atom_group_ids": [
+    100,
+    110
+  ],
+  "locked_text": {
+    "104": "01",
+    "114": "02"
+  }
+}
