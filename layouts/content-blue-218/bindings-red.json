@@ -6,7 +6,7 @@
       "shape_id": 63,
       "shape_name": "任意多边形: 形状 62",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 7,
       "source_text": "01.创立阶段",
       "bounds_pt": [
@@ -15,14 +15,16 @@
         190.5,
         37.2
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[0].title",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_64",
       "shape_id": 64,
       "shape_name": "任意多边形: 形状 63",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 7,
       "source_text": "03.转型阶段",
       "bounds_pt": [
@@ -31,14 +33,16 @@
         212.5,
         37.2
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[2].title",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_67",
       "shape_id": 67,
       "shape_name": "任意多边形: 形状 66",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 7,
       "source_text": "02.成长阶段",
       "bounds_pt": [
@@ -47,14 +51,16 @@
         212.5,
         37.2
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[1].title",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_69",
       "shape_id": 69,
       "shape_name": "任意多边形: 形状 68",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 7,
       "source_text": "04.稳定阶段",
       "bounds_pt": [
@@ -63,14 +69,16 @@
         212.5,
         37.2
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[3].title",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_71",
       "shape_id": 71,
       "shape_name": "任意多边形: 形状 70",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 8,
       "source_text": "05.国际化阶段",
       "bounds_pt": [
@@ -79,14 +87,16 @@
         189.4,
         37.2
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[4].title",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_3",
       "shape_id": 3,
       "shape_name": "文本框 2",
       "type": "text",
-      "max_chars": 126,
+      "max_chars": 51,
       "source_sample_chars": 63,
       "source_text": "企业通过增加产品种类、拓展市场和增加员工规模，推动业务增长。\n企业建立品牌，增强市场竞争力，加强市场营销策略，获得的市场份额。",
       "bounds_pt": [
@@ -95,14 +105,17 @@
         191.0,
         88.4
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[1].body",
+      "max_lines": 2,
+      "max_chars_per_line": 25,
+      "max_width_units": 50
     },
     {
       "field": "text_10",
       "shape_id": 10,
       "shape_name": "文本框 9",
       "type": "text",
-      "max_chars": 98,
+      "max_chars": 51,
       "source_sample_chars": 49,
       "source_text": "确立核心价值观，解决市场上的未满足需求。\n通过创始团队的资源网络，进行初步的市场调研，并推出产品。",
       "bounds_pt": [
@@ -111,14 +124,17 @@
         173.5,
         88.4
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[0].body",
+      "max_lines": 2,
+      "max_chars_per_line": 25,
+      "max_width_units": 50
     },
     {
       "field": "text_11",
       "shape_id": 11,
       "shape_name": "文本框 10",
       "type": "text",
-      "max_chars": 128,
+      "max_chars": 51,
       "source_sample_chars": 64,
       "source_text": "随着市场竞争加剧，企业进行技术创新或战略转型，适应新的行业趋势。\n企业进行产品升级、开辟新市场，通过并购整合行业资源，保持增长。",
       "bounds_pt": [
@@ -127,14 +143,17 @@
         191.0,
         88.4
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[2].body",
+      "max_lines": 2,
+      "max_chars_per_line": 25,
+      "max_width_units": 50
     },
     {
       "field": "text_12",
       "shape_id": 12,
       "shape_name": "文本框 11",
       "type": "text",
-      "max_chars": 124,
+      "max_chars": 51,
       "source_sample_chars": 62,
       "source_text": "企业进入成熟期，品牌和市场份额稳固收入和利润保持稳定增长。\n企业的运营和管理体系已经完善，产品和服务逐渐趋于标准化和规模化。",
       "bounds_pt": [
@@ -143,14 +162,17 @@
         191.0,
         88.4
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[3].body",
+      "max_lines": 2,
+      "max_chars_per_line": 25,
+      "max_width_units": 50
     },
     {
       "field": "text_13",
       "shape_id": 13,
       "shape_name": "文本框 12",
       "type": "text",
-      "max_chars": 116,
+      "max_chars": 51,
       "source_sample_chars": 58,
       "source_text": "企业进入国际市场，寻求跨国扩展通过多元化进入新的行业和领域。\n注重全球化布局、优化供应链管理探索不同市场的增长潜力。",
       "bounds_pt": [
@@ -159,14 +181,17 @@
         173.5,
         88.4
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[4].body",
+      "max_lines": 2,
+      "max_chars_per_line": 25,
+      "max_width_units": 50
     },
     {
       "field": "text_20",
       "shape_id": 20,
       "shape_name": "文本框 19",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 8,
       "source_sample_chars": 11,
       "source_text": "2017年-2018年",
       "bounds_pt": [
@@ -175,14 +200,16 @@
         167.6,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[0].label",
+      "max_lines": 1,
+      "max_width_units": 16
     },
     {
       "field": "text_21",
       "shape_id": 21,
       "shape_name": "文本框 20",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 8,
       "source_sample_chars": 10,
       "source_text": "2019-2020年",
       "bounds_pt": [
@@ -191,14 +218,16 @@
         167.6,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[1].label",
+      "max_lines": 1,
+      "max_width_units": 16
     },
     {
       "field": "text_22",
       "shape_id": 22,
       "shape_name": "文本框 21",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 8,
       "source_sample_chars": 11,
       "source_text": "2021年-2022年",
       "bounds_pt": [
@@ -207,14 +236,16 @@
         167.6,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[2].label",
+      "max_lines": 1,
+      "max_width_units": 16
     },
     {
       "field": "text_23",
       "shape_id": 23,
       "shape_name": "文本框 22",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 8,
       "source_sample_chars": 11,
       "source_text": "2025年-2026年",
       "bounds_pt": [
@@ -223,14 +254,16 @@
         167.6,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[4].label",
+      "max_lines": 1,
+      "max_width_units": 16
     },
     {
       "field": "text_24",
       "shape_id": 24,
       "shape_name": "文本框 23",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 8,
       "source_sample_chars": 11,
       "source_text": "2023年-2024年",
       "bounds_pt": [
@@ -239,7 +272,9 @@
         167.6,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[3].label",
+      "max_lines": 1,
+      "max_width_units": 16
     },
     {
       "field": "text_2",
@@ -255,14 +290,14 @@
         823.9,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "page.title"
     },
     {
       "field": "text_5",
       "shape_id": 5,
       "shape_name": "文本框 4",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 5,
       "source_sample_chars": 6,
       "source_text": "发展历程01",
       "bounds_pt": [
@@ -271,14 +306,16 @@
         96.8,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[0].axis_title",
+      "max_lines": 1,
+      "max_width_units": 10
     },
     {
       "field": "text_6",
       "shape_id": 6,
       "shape_name": "文本框 5",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 5,
       "source_sample_chars": 6,
       "source_text": "发展历程02",
       "bounds_pt": [
@@ -287,14 +324,16 @@
         97.3,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[1].axis_title",
+      "max_lines": 1,
+      "max_width_units": 10
     },
     {
       "field": "text_7",
       "shape_id": 7,
       "shape_name": "文本框 6",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 5,
       "source_sample_chars": 6,
       "source_text": "发展历程03",
       "bounds_pt": [
@@ -303,14 +342,16 @@
         97.3,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[2].axis_title",
+      "max_lines": 1,
+      "max_width_units": 10
     },
     {
       "field": "text_9",
       "shape_id": 9,
       "shape_name": "文本框 8",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 5,
       "source_sample_chars": 6,
       "source_text": "发展历程04",
       "bounds_pt": [
@@ -319,14 +360,16 @@
         97.3,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[3].axis_title",
+      "max_lines": 1,
+      "max_width_units": 10
     },
     {
       "field": "text_19",
       "shape_id": 19,
       "shape_name": "文本框 18",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 5,
       "source_sample_chars": 6,
       "source_text": "发展历程05",
       "bounds_pt": [
@@ -335,7 +378,9 @@
         97.3,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[4].axis_title",
+      "max_lines": 1,
+      "max_width_units": 10
     }
   ],
   "objects": {

@@ -1,0 +1,136 @@
+{
+  "layouts": {
+    "content-blue-043": {
+      "structure": "comparison",
+      "verified_counts": [
+        4,
+        6
+      ],
+      "body_bounds_emu": [
+        541705,
+        11650294
+      ],
+      "fixed_capacity": {
+        "center.left": [
+          2,
+          2
+        ],
+        "center.right": [
+          2,
+          2
+        ],
+        "footer.labels[0].text": 6,
+        "footer.labels[1].text": 6,
+        "footer.labels[2].text": 6,
+        "footer.labels[3].text": 6
+      },
+      "capacities": {
+        "4": {
+          "left_title": 9,
+          "left_body": [
+            34,
+            34
+          ],
+          "right_title": 9,
+          "right_body": [
+            34,
+            34
+          ],
+          "left_marker": 2,
+          "right_marker": 2
+        },
+        "6": {
+          "left_title": 9,
+          "left_body": [
+            20,
+            20
+          ],
+          "right_title": 9,
+          "right_body": [
+            20,
+            20
+          ],
+          "left_marker": 2,
+          "right_marker": 2
+        }
+      }
+    },
+    "content-blue-124": {
+      "structure": "comparison",
+      "verified_counts": [
+        6,
+        8
+      ],
+      "body_bounds_emu": [
+        548635,
+        11643351
+      ],
+      "fixed_capacity": {
+        "center.left": [
+          2,
+          2
+        ],
+        "center.right": [
+          2,
+          2
+        ],
+        "center.upper_badge": 2,
+        "center.lower_badge": 2
+      },
+      "capacities": {
+        "6": {
+          "left_title": 9,
+          "left_body": 30,
+          "right_title": 9,
+          "right_body": 30
+        },
+        "8": {
+          "left_title": 9,
+          "left_body": 30,
+          "right_title": 9,
+          "right_body": 30
+        }
+      }
+    },
+    "content-blue-218": {
+      "structure": "timeline",
+      "verified_counts": [
+        3,
+        5
+      ],
+      "body_bounds_emu": [
+        548640,
+        12058396
+      ],
+      "fixed_capacity": {},
+      "capacities": {
+        "3": {
+          "title": 13,
+          "body": [
+            40,
+            40
+          ],
+          "axis_title": 10,
+          "label": 10
+        },
+        "5": {
+          "title": 9,
+          "body": [
+            25,
+            25
+          ],
+          "axis_title": 5,
+          "label": 8
+        }
+      }
+    }
+  },
+  "themes": [
+    "blue",
+    "red"
+  ],
+  "powerpoint_passed": 24,
+  "text_overflows": 0,
+  "fixed_body_span": true,
+  "required_skill_commit": "a73a203cf210540414419e6f2e2425c167ab150d"
+}
