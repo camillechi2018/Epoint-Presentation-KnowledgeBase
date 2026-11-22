@@ -1,6 +1,166 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
-  "source_count": null,
-  "reflow_status": "not_implemented"
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    3
+  ],
+  "source_count": 3,
+  "reflow_status": "not_implemented",
+  "verified_counts": [
+    3
+  ],
+  "validation_status": "verified_fixed_count",
+  "period_axis_schedule": {
+    "unit": "month",
+    "header_ids": [
+      383,
+      384,
+      385,
+      386,
+      387,
+      388,
+      389,
+      390,
+      391,
+      392,
+      393,
+      394
+    ],
+    "rows": [
+      {
+        "item": 0,
+        "task": 0,
+        "stages": [
+          {
+            "bar_id": 7,
+            "label_id": 169,
+            "progress_id": 61,
+            "marker_id": 20,
+            "rate_id": 66,
+            "lane_id": 398,
+            "note_icon_id": null
+          }
+        ]
+      },
+      {
+        "item": 0,
+        "task": 1,
+        "stages": [
+          {
+            "bar_id": 113,
+            "label_id": 170,
+            "progress_id": 114,
+            "marker_id": 115,
+            "rate_id": 116,
+            "lane_id": 400,
+            "note_icon_id": null
+          }
+        ]
+      },
+      {
+        "item": 0,
+        "task": 2,
+        "stages": [
+          {
+            "bar_id": 120,
+            "label_id": 171,
+            "progress_id": 121,
+            "marker_id": 122,
+            "rate_id": 123,
+            "lane_id": 402,
+            "note_icon_id": null
+          }
+        ]
+      },
+      {
+        "item": 1,
+        "task": 0,
+        "stages": [
+          {
+            "bar_id": 127,
+            "label_id": 172,
+            "progress_id": 128,
+            "marker_id": 129,
+            "rate_id": 130,
+            "lane_id": 405,
+            "note_icon_id": 108
+          }
+        ]
+      },
+      {
+        "item": 1,
+        "task": 1,
+        "stages": [
+          {
+            "bar_id": 134,
+            "label_id": 173,
+            "progress_id": 135,
+            "marker_id": 136,
+            "rate_id": 137,
+            "lane_id": 407,
+            "note_icon_id": null
+          }
+        ]
+      },
+      {
+        "item": 1,
+        "task": 2,
+        "stages": [
+          {
+            "bar_id": 141,
+            "label_id": 174,
+            "progress_id": 142,
+            "marker_id": 143,
+            "rate_id": 144,
+            "lane_id": 409,
+            "note_icon_id": null
+          }
+        ]
+      },
+      {
+        "item": 2,
+        "task": 0,
+        "stages": [
+          {
+            "bar_id": 148,
+            "label_id": 175,
+            "progress_id": 149,
+            "marker_id": 150,
+            "rate_id": 151,
+            "lane_id": 412,
+            "note_icon_id": 109
+          }
+        ]
+      },
+      {
+        "item": 2,
+        "task": 1,
+        "stages": [
+          {
+            "bar_id": 155,
+            "label_id": 176,
+            "progress_id": 156,
+            "marker_id": 157,
+            "rate_id": 158,
+            "lane_id": 414,
+            "note_icon_id": null
+          }
+        ]
+      },
+      {
+        "item": 2,
+        "task": 2,
+        "stages": [
+          {
+            "bar_id": 162,
+            "label_id": 177,
+            "progress_id": 163,
+            "marker_id": 164,
+            "rate_id": 165,
+            "lane_id": 416,
+            "note_icon_id": null
+          }
+        ]
+      }
+    ]
+  }
 }

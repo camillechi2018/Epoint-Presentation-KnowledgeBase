@@ -1,0 +1,366 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "矩形 5",
+      "type": "text",
+      "group_path": [
+        2,
+        4
+      ],
+      "source_text": "从未来消费者、AI Agent、量子营销、数字分身等方向展开创新议题",
+      "source_sample_chars": 34,
+      "max_chars": 22,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        1815439,
+        1056165,
+        8561121,
+        301041
+      ],
+      "semantic_path": "overview.body",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 22
+    },
+    {
+      "field": "text_80",
+      "shape_id": 80,
+      "shape_name": "文本框 79",
+      "type": "text",
+      "group_path": [],
+      "source_text": "破界实验室\n正在发生的未来",
+      "source_sample_chars": 13,
+      "max_chars": 13,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        1521958,
+        2335300,
+        2913881,
+        615553
+      ],
+      "semantic_path": "items[0].heading",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 2,
+      "max_width_units": 10
+    },
+    {
+      "field": "text_79",
+      "shape_id": 79,
+      "shape_name": "文本框 78",
+      "type": "text",
+      "group_path": [],
+      "source_text": "未来人格图谱\n下一代消费者肖像",
+      "source_sample_chars": 15,
+      "max_chars": 15,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        4646316,
+        2335300,
+        2913881,
+        615553
+      ],
+      "semantic_path": "items[1].heading",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 2,
+      "max_width_units": 10
+    },
+    {
+      "field": "text_81",
+      "shape_id": 81,
+      "shape_name": "文本框 80",
+      "type": "text",
+      "group_path": [],
+      "source_text": "2030生存法则\n创新者的悖论",
+      "source_sample_chars": 15,
+      "max_chars": 15,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        7770675,
+        2335300,
+        2913881,
+        615553
+      ],
+      "semantic_path": "items[2].heading",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 2,
+      "max_width_units": 10
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "文本框 22",
+      "type": "text",
+      "group_path": [],
+      "source_text": "AI Agent革命",
+      "source_sample_chars": 10,
+      "max_chars": 8,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        1151593,
+        3655363,
+        2551382,
+        360291
+      ],
+      "semantic_path": "items[0].detail_a.heading",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 8
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "文本框 24",
+      "type": "text",
+      "group_path": [],
+      "source_text": "数字分身经济学",
+      "source_sample_chars": 7,
+      "max_chars": 7,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        4823670,
+        3655363,
+        2551382,
+        360291
+      ],
+      "semantic_path": "items[1].detail_a.heading",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 8
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "文本框 26",
+      "type": "text",
+      "group_path": [],
+      "source_text": "技术怀旧产业",
+      "source_sample_chars": 6,
+      "max_chars": 6,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        8273862,
+        3655363,
+        2995152,
+        360291
+      ],
+      "semantic_path": "items[2].detail_a.heading",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 8
+    },
+    {
+      "field": "text_100",
+      "shape_id": 100,
+      "shape_name": "文本框 99",
+      "type": "text",
+      "group_path": [],
+      "source_text": "当你的企业客服开始自主学习\n《孙子兵法》谈判策略我们已训练\n出会‘战略性装傻’的谈判AI",
+      "source_sample_chars": 44,
+      "max_chars": 40,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        1151593,
+        3977124,
+        2551382,
+        691921
+      ],
+      "semantic_path": "items[0].detail_a.body",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 3,
+      "max_width_units": 14
+    },
+    {
+      "field": "text_101",
+      "shape_id": 101,
+      "shape_name": "文本框 100",
+      "type": "text",
+      "group_path": [],
+      "source_text": "00后平均拥有4.3个虚拟身份，\n你的品牌是否需要为同一个人的\n设计差异化的沟通策略？\"",
+      "source_sample_chars": 44,
+      "max_chars": 44,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        4823670,
+        3977124,
+        2551382,
+        691921
+      ],
+      "semantic_path": "items[1].detail_a.body",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 3,
+      "max_width_units": 22
+    },
+    {
+      "field": "text_102",
+      "shape_id": 102,
+      "shape_name": "文本框 101",
+      "type": "text",
+      "group_path": [],
+      "source_text": "复古科技复兴路线图\n2026年 翻盖手机回归轻奢市场\n2028年 纸质二维码成为身份象征",
+      "source_sample_chars": 44,
+      "max_chars": 40,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        8495747,
+        3977124,
+        2551382,
+        691921
+      ],
+      "semantic_path": "items[2].detail_a.body",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 3,
+      "max_width_units": 14
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "文本框 23",
+      "type": "text",
+      "group_path": [],
+      "source_text": "量子营销沙盘",
+      "source_sample_chars": 6,
+      "max_chars": 6,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        1151593,
+        4841940,
+        2551382,
+        370486
+      ],
+      "semantic_path": "items[0].detail_b.heading",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 8
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "文本框 25",
+      "type": "text",
+      "group_path": [],
+      "source_text": "生物特征消费密码",
+      "source_sample_chars": 8,
+      "max_chars": 8,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        4823670,
+        4841940,
+        2551382,
+        360291
+      ],
+      "semantic_path": "items[1].detail_b.heading",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 8
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "文本框 27",
+      "type": "text",
+      "group_path": [],
+      "source_text": "创新者的两难",
+      "source_sample_chars": 6,
+      "max_chars": 6,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        8183710,
+        4841940,
+        3175456,
+        360291
+      ],
+      "semantic_path": "items[2].detail_b.heading",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 8
+    },
+    {
+      "field": "text_105",
+      "shape_id": 105,
+      "shape_name": "文本框 104",
+      "type": "text",
+      "group_path": [],
+      "source_text": "在平行宇宙测试广告创意：\u000b通过量子计算模拟1000种用户决策\n路径，提前淘汰97%无效投放方案",
+      "source_sample_chars": 47,
+      "max_chars": 47,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        1010011,
+        5157781,
+        2834546,
+        691921
+      ],
+      "semantic_path": "items[0].detail_b.body",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 3,
+      "max_width_units": 24
+    },
+    {
+      "field": "text_104",
+      "shape_id": 104,
+      "shape_name": "文本框 103",
+      "type": "text",
+      "group_path": [],
+      "source_text": "多巴胺峰值期：为‘瞬间心动’溢价买单\n血清素平稳期：理性比较产品成分表",
+      "source_sample_chars": 35,
+      "max_chars": 35,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        4682088,
+        5157781,
+        2834546,
+        488788
+      ],
+      "semantic_path": "items[1].detail_b.body",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 2,
+      "max_width_units": 28
+    },
+    {
+      "field": "text_103",
+      "shape_id": 103,
+      "shape_name": "文本框 102",
+      "type": "text",
+      "group_path": [],
+      "source_text": "自动驾驶食品车 VS 奶奶手作早餐机器人\n你的创新究竟该占领技术高地，\n还是守护不完美的温度感？",
+      "source_sample_chars": 48,
+      "max_chars": 48,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        8354165,
+        5157781,
+        2834546,
+        691921
+      ],
+      "semantic_path": "items[2].detail_b.body",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 3,
+      "max_width_units": 20
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "visual index only; field semantics provisional"
+}

@@ -1,0 +1,12 @@
+{
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    8
+  ],
+  "source_count": 8,
+  "reflow_status": "not_implemented",
+  "verified_counts": [
+    8
+  ],
+  "validation_status": "verified_fixed_count"
+}

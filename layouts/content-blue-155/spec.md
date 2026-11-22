@@ -45,3 +45,5 @@
 - `plan_label` 4 字
 - `goal_body` 32 字
 - `plan_body` 40 字
+
+技能根据已验收项数读取相应的纯正文绑定，并用原版重排规则装配正文。另一组原生字段见[固定结构](body-fixed-spec.md)。

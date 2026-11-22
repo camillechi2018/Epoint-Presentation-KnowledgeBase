@@ -1,0 +1,281 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "矩形: 圆角 20",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 2,
+      "source_text": "目标",
+      "bounds_pt": [
+        55.1,
+        269.0,
+        151.4,
+        28.0
+      ],
+      "semantic_path": "items[0].goal_label",
+      "max_lines": 1,
+      "max_width_units": 8
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "矩形: 圆角 22",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 2,
+      "source_text": "目标",
+      "bounds_pt": [
+        229.7,
+        269.0,
+        151.4,
+        28.0
+      ],
+      "semantic_path": "items[1].goal_label",
+      "max_lines": 1,
+      "max_width_units": 8
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "矩形: 圆角 24",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 2,
+      "source_text": "目标",
+      "bounds_pt": [
+        404.3,
+        269.0,
+        151.4,
+        28.0
+      ],
+      "semantic_path": "items[2].goal_label",
+      "max_lines": 1,
+      "max_width_units": 8
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "提升工作效率",
+      "bounds_pt": [
+        65.8,
+        173.1,
+        129.9,
+        26.7
+      ],
+      "semantic_path": "items[0].title",
+      "max_lines": 1,
+      "max_width_units": 12
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "加强专业技能",
+      "bounds_pt": [
+        240.4,
+        173.1,
+        129.9,
+        26.7
+      ],
+      "semantic_path": "items[1].title",
+      "max_lines": 1,
+      "max_width_units": 12
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "拓展人脉关系",
+      "bounds_pt": [
+        415.0,
+        173.1,
+        129.9,
+        26.7
+      ],
+      "semantic_path": "items[2].title",
+      "max_lines": 1,
+      "max_width_units": 12
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "max_chars": 60,
+      "source_sample_chars": 39,
+      "source_text": "通过优化工作流程，减少冗余步骤，提升团队协作效率，确保工作任务按时高质量完成。",
+      "bounds_pt": [
+        55.1,
+        304.4,
+        151.4,
+        60.1
+      ],
+      "semantic_path": "items[0].goal_body",
+      "max_lines": 1,
+      "max_width_units": 120
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "max_chars": 72,
+      "source_sample_chars": 41,
+      "source_text": "行动计划：每月召开一次工作总结与改进会议，定期评估工作进展，制定更高效的工作方法。",
+      "bounds_pt": [
+        62.0,
+        405.1,
+        137.5,
+        78.3
+      ],
+      "semantic_path": "items[0].plan_body",
+      "max_lines": 1,
+      "max_width_units": 144
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "矩形: 圆角 9",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "行动计划",
+      "bounds_pt": [
+        90.0,
+        378.6,
+        81.5,
+        24.2
+      ],
+      "semantic_path": "items[0].plan_label",
+      "max_lines": 1,
+      "max_width_units": 8
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "矩形: 圆角 46",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "行动计划",
+      "bounds_pt": [
+        264.9,
+        378.6,
+        81.5,
+        24.2
+      ],
+      "semantic_path": "items[1].plan_label",
+      "max_lines": 1,
+      "max_width_units": 8
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "矩形: 圆角 47",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "行动计划",
+      "bounds_pt": [
+        439.9,
+        378.6,
+        81.5,
+        24.2
+      ],
+      "semantic_path": "items[2].plan_label",
+      "max_lines": 1,
+      "max_width_units": 8
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "文本框 50",
+      "type": "text",
+      "max_chars": 60,
+      "source_sample_chars": 38,
+      "source_text": "根据岗位要求和规划，增强专业知识与技能的掌握，尤其是新技术或行业趋势的学习。",
+      "bounds_pt": [
+        229.4,
+        304.4,
+        151.4,
+        60.1
+      ],
+      "semantic_path": "items[1].goal_body",
+      "max_lines": 1,
+      "max_width_units": 120
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "文本框 51",
+      "type": "text",
+      "max_chars": 60,
+      "source_sample_chars": 31,
+      "source_text": "在公司内外扩大人脉资源，提高跨部门协作的效果，增加企业信任度。",
+      "bounds_pt": [
+        403.8,
+        304.4,
+        151.4,
+        60.1
+      ],
+      "semantic_path": "items[2].goal_body",
+      "max_lines": 1,
+      "max_width_units": 120
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "文本框 54",
+      "type": "text",
+      "max_chars": 72,
+      "source_sample_chars": 41,
+      "source_text": "行动计划：主动参加至少两次行业内的培训课程或讲座，并通过实际应用来巩固所学习内容。",
+      "bounds_pt": [
+        236.4,
+        405.1,
+        137.5,
+        78.3
+      ],
+      "semantic_path": "items[1].plan_body",
+      "max_lines": 1,
+      "max_width_units": 144
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "文本框 55",
+      "type": "text",
+      "max_chars": 72,
+      "source_sample_chars": 41,
+      "source_text": "行动计划：每季度与至少三位跨部门同事或外部合作伙伴进行深入交流，建立良好合作关系。",
+      "bounds_pt": [
+        410.8,
+        405.1,
+        137.5,
+        78.3
+      ],
+      "semantic_path": "items[2].plan_body",
+      "max_lines": 1,
+      "max_width_units": 144
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

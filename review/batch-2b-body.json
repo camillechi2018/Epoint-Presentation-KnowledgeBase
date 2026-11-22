@@ -1,0 +1,727 @@
+{
+  "scope": "固定原生项数、短文案、各原版主题",
+  "entries": [
+    {
+      "id": "content-blue-113",
+      "name": "五列亮点与双层说明",
+      "native_count": 5,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 30,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-113/body-blue.pptx",
+          "sha256": "2aedd8b393792e5b6c84655d7eb7232a3c181b70451a3d848d583bb76168f903",
+          "bindings": "layouts/content-blue-113/body-blue-bindings.json",
+          "bindings_sha256": "961ffaf02da9aa8563bc1793086bc27ccbcca948c803de29948748341628c277",
+          "title_input": {
+            "field": "text_5",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            5,
+            7
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 113,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-113/body-red.pptx",
+          "sha256": "7d739bf88a1f8e4f8e9c4c008f62ab98da7a3f83c121fc818dfb4d67e3736277",
+          "bindings": "layouts/content-blue-113/body-red-bindings.json",
+          "bindings_sha256": "38381f17317dd241fa2cf18e103e8466694f862aad9fec269a284baa59a5462d",
+          "title_input": {
+            "field": "text_5",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            3,
+            5,
+            7
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 113,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-116",
+      "name": "四项问题拆解与对策",
+      "native_count": 4,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 24,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-116/body-blue.pptx",
+          "sha256": "253b6451c37f732de0188dbc2f87a0739773239393e59c7f77a5b25b5cab8015",
+          "bindings": "layouts/content-blue-116/body-blue-bindings.json",
+          "bindings_sha256": "3d24b1a7ded9b7f2615343c2eb4d35b68355bcea960a10ce887b91d5d4f3f469",
+          "title_input": {
+            "field": "text_9",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            9,
+            11
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 116,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-116/body-red.pptx",
+          "sha256": "c020732f2c3b7456176fbeddc192975da9297463c855c2cc48a16fa64af72be4",
+          "bindings": "layouts/content-blue-116/body-red-bindings.json",
+          "bindings_sha256": "ff1aa53c882a72c619151c75e5e563fc6bf69229bf986e905149176b4a7db8fe",
+          "title_input": {
+            "field": "text_9",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            3,
+            9,
+            11
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 116,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-117",
+      "name": "四列折角双段对照",
+      "native_count": 4,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 20,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-117/body-blue.pptx",
+          "sha256": "c16f1a63f63d360207638aad73562b5da0579641ad7f482e2bfec74f840267e8",
+          "bindings": "layouts/content-blue-117/body-blue-bindings.json",
+          "bindings_sha256": "b2832c44f5f664be1972fbde27d2afe98c1e78ce3a72ad5cf1cd80029eb0df6a",
+          "title_input": {
+            "field": "text_5",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            5,
+            7,
+            10
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 117,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-117/body-red.pptx",
+          "sha256": "43d196fe1c164a0f57500f4f37781cb08a1e3c4b3029c77932608ee958c6f861",
+          "bindings": "layouts/content-blue-117/body-red-bindings.json",
+          "bindings_sha256": "e7ca6d03ce1de54ad8a879bd1e462d8f736ab52a1fd13cdfe3c2c32f117fda87",
+          "title_input": {
+            "field": "text_5",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            5,
+            6,
+            7
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 117,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-130",
+      "name": "四列措施及总结",
+      "native_count": 4,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 13,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-130/body-blue.pptx",
+          "sha256": "0ce7023ebb6cc1b7e1be15bd628f82799474ab550af8f56e1acd215d3e9bf630",
+          "bindings": "layouts/content-blue-130/body-blue-bindings.json",
+          "bindings_sha256": "c6df6971de80e21053a8ea9f6701869bc2a88cdce85f7b9a815dbddab79c79d7",
+          "title_input": {
+            "field": "text_35",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            8,
+            35,
+            37
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 130,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-130/body-red.pptx",
+          "sha256": "9979042446b4663678ecc86f7c89365dca3aec632b059281a92994792368bcf6",
+          "bindings": "layouts/content-blue-130/body-red-bindings.json",
+          "bindings_sha256": "2e168c8d427fc6933f84e326ac2a4cdae35246e932ba51bcbe1757a446c83f27",
+          "title_input": {
+            "field": "text_35",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            24,
+            35,
+            37
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 130,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-136",
+      "name": "三组不足与改进双栏",
+      "native_count": 3,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 20,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-136/body-blue.pptx",
+          "sha256": "f7e1d68ff69d1449d91d1955faaeb3c55acc783f3b4f779d9c86af73a7257772",
+          "bindings": "layouts/content-blue-136/body-blue-bindings.json",
+          "bindings_sha256": "bdfd23e2846c664a5be5b61d4002fc32d0986fa670d70ca152af1ae1011a6b8c",
+          "title_input": {
+            "field": "text_5",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            3,
+            5,
+            7
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 136,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-136/body-red.pptx",
+          "sha256": "cec60f3481a364e2fe080cf0030cb58c3c8213a07c173da0fc2574e67f076324",
+          "bindings": "layouts/content-blue-136/body-red-bindings.json",
+          "bindings_sha256": "348d1a43959dc1b64ec861be90b0bc1b3bfa378cb42796989b93e2fa8d0d1727",
+          "title_input": {
+            "field": "text_5",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            5,
+            6,
+            7
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 136,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-140",
+      "name": "双栏各三项并列说明",
+      "native_count": 2,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 14,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-140/body-blue.pptx",
+          "sha256": "af7642737a5545885b60a13b84d739010ed20452f8fed2694bfacc48627a52cb",
+          "bindings": "layouts/content-blue-140/body-blue-bindings.json",
+          "bindings_sha256": "9c8dc1a8d6e0e42e2828a7ee2c103b34adaf0683838fc944fbdef0ae985136d3",
+          "title_input": {
+            "field": "text_50",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            50,
+            52
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 140,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-140/body-red.pptx",
+          "sha256": "21473cff541e74612c98cbe222297179ad123c3681222e051e25a80728a125e6",
+          "bindings": "layouts/content-blue-140/body-red-bindings.json",
+          "bindings_sha256": "381ce03716684035848406f3911921b49a40f90ebafefe24412141a533abedab",
+          "title_input": {
+            "field": "text_50",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            3,
+            50,
+            52
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 140,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-148",
+      "name": "总览与五项行动",
+      "native_count": 5,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 21,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-148/body-blue.pptx",
+          "sha256": "50facfe5a335231ffafeec5c269c4494addaae849b0f715f0ffc91f2534ae023",
+          "bindings": "layouts/content-blue-148/body-blue-bindings.json",
+          "bindings_sha256": "3bcf7e274e3b66334da5adc40fa40408f89b10af6bee0d8c607066ebbc0519aa",
+          "title_input": {
+            "field": "text_69",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            69,
+            71
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 148,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-148/body-red.pptx",
+          "sha256": "cdd22bff1399659acd558ec29053cbb4128787794318a400b3523c997cde2f31",
+          "bindings": "layouts/content-blue-148/body-red-bindings.json",
+          "bindings_sha256": "4b4c9e7283c806e8a01eb4ef0e0cc98f31b8f10c660b98733319b3be460e6482",
+          "title_input": {
+            "field": "text_69",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            15,
+            69,
+            71
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 148,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-155",
+      "name": "五卡目标与行动",
+      "native_count": 5,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 15,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-155/body-blue.pptx",
+          "sha256": "f6dd4465d99ef8b782ded967d3c0ba388b821852370928af152acb83ed6d766f",
+          "bindings": "layouts/content-blue-155/body-blue-bindings.json",
+          "bindings_sha256": "4468a1537c667f6a9575e109d8d1a211c85cc339f438af38079648d39cede695",
+          "title_input": {
+            "field": "text_5",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            3,
+            5,
+            7
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 155,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-155/body-red.pptx",
+          "sha256": "927155ad452a31dbd8cfdf611a8683b479ade7852eabad25c9408835e3a424f3",
+          "bindings": "layouts/content-blue-155/body-red-bindings.json",
+          "bindings_sha256": "a2af1ead43629786c73d08e5c5669b6fe32bb4d5fa950e4df87b91eac4b14f36",
+          "title_input": {
+            "field": "text_5",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            4,
+            5,
+            7
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 155,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-159",
+      "name": "六项任务与三阶段",
+      "native_count": 6,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 18,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-159/body-blue.pptx",
+          "sha256": "20e5458c80350e7ea52941502e74098a4bd38c0f852db1a4dc14a1425b77f6d5",
+          "bindings": "layouts/content-blue-159/body-blue-bindings.json",
+          "bindings_sha256": "998b0094f7eed5b0c83daebd3266f57b38e1d62c2c10183cde2df2ac4805942e",
+          "title_input": {
+            "field": "text_5",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            3,
+            5,
+            7
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 159,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-159/body-red.pptx",
+          "sha256": "feb53d03b3df0d9ab3a281d3856d6ec51e90b81f33565d512ecb638a89bc779e",
+          "bindings": "layouts/content-blue-159/body-red-bindings.json",
+          "bindings_sha256": "db2b6cd0c6192ca3f4fe7341da755966b883bc377ab1e1f80c86e2aa300dcd07",
+          "title_input": {
+            "field": "text_5",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            4,
+            5,
+            7
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 159,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-172",
+      "name": "五条成果与侧栏指标",
+      "native_count": 5,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 30,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-172/body-blue.pptx",
+          "sha256": "a950d4a5aec85ce06d14e3699c10530c0c9e37fbbb902fbb2bd3b85e9e7f14e4",
+          "bindings": "layouts/content-blue-172/body-blue-bindings.json",
+          "bindings_sha256": "fd70793f607843dc504c30bc1cbeed1e426a170bf29b57be5bb2b3871deaf640",
+          "title_input": {
+            "field": "text_7",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            7,
+            9,
+            17
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 172,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-172/body-red.pptx",
+          "sha256": "0c8709b77d23381a6e29b9a4b9364660d9980e17f65d60d17aad97562c8e6912",
+          "bindings": "layouts/content-blue-172/body-red-bindings.json",
+          "bindings_sha256": "c473eca0e53e153e54155e8951f86877aea6bd2bee59549a931987246288c5d8",
+          "title_input": {
+            "field": "text_7",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            7,
+            8,
+            9
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 172,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-190",
+      "name": "五列目标行动与标签",
+      "native_count": 5,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 25,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-190/body-blue.pptx",
+          "sha256": "98696d1e0d12de3a6661310d031440fc240422e2902bd46fa89bcbff8952eb64",
+          "bindings": "layouts/content-blue-190/body-blue-bindings.json",
+          "bindings_sha256": "2c43668411504035541d66513b4f3fc69484cc46c2e6e3e55d72cfc0dca8119f",
+          "title_input": {
+            "field": "text_10",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            10,
+            12
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 190,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-190/body-red.pptx",
+          "sha256": "d4d5cf261f16ea688fd1a73a2ba464f27185cd2c607ed9faa04f4679ed4280ba",
+          "bindings": "layouts/content-blue-190/body-red-bindings.json",
+          "bindings_sha256": "0346a36f18e0ed3314be2b850af4b110e9b9ee24490741326e2436eee4d561eb",
+          "title_input": {
+            "field": "text_10",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            10,
+            11,
+            12
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 190,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-tech-036",
+      "name": "三栏主题与双层细节",
+      "native_count": 3,
+      "themes": [
+        "deep-blue-tech"
+      ],
+      "editable_fields": 16,
+      "body": {
+        "deep-blue-tech": {
+          "asset": "layouts/content-tech-036/body-deep-blue-tech.pptx",
+          "sha256": "1d00b744f9a90f06eaa1b4e08a05edde1dc61e721ec9be3365e3e8b796a88f15",
+          "bindings": "layouts/content-tech-036/body-deep-blue-tech-bindings.json",
+          "bindings_sha256": "6665950f81213314ead1bd2118d2d913912816471f51357c2511579552a0ee72",
+          "title_input": {
+            "field": "text_5",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            3,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "source": {
+            "source": "sources/tech.pptx",
+            "page": 36,
+            "sha256": "e79ac2cfc2c634dc4040b8541ddca88173e87933960e346b4518ed1fa6e35564"
+          },
+          "tech": {
+            "root_id": 2,
+            "art_index": 2,
+            "variant": "wide",
+            "logo_anchor": "bottom_right"
+          },
+          "background": "skill_tech"
+        }
+      }
+    },
+    {
+      "id": "content-tech-041",
+      "name": "三栏主题与行动说明",
+      "native_count": 3,
+      "themes": [
+        "deep-blue-tech"
+      ],
+      "editable_fields": 9,
+      "body": {
+        "deep-blue-tech": {
+          "asset": "layouts/content-tech-041/body-deep-blue-tech.pptx",
+          "sha256": "5555e32d994d4d1e7e37c64c6bac4bc6e921668b20278c40c11da3bbc0c302ce",
+          "bindings": "layouts/content-tech-041/body-deep-blue-tech-bindings.json",
+          "bindings_sha256": "7dddb23eb28b1cc037afc7a7c3b9021938556b5def95459214f9b8ef4fd15bee",
+          "title_input": {
+            "field": "text_64",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            3,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76
+          ],
+          "source": {
+            "source": "sources/tech.pptx",
+            "page": 41,
+            "sha256": "e79ac2cfc2c634dc4040b8541ddca88173e87933960e346b4518ed1fa6e35564"
+          },
+          "tech": {
+            "root_id": 62,
+            "art_index": 2,
+            "variant": "standard",
+            "logo_anchor": "bottom_right"
+          },
+          "background": "skill_tech"
+        }
+      }
+    },
+    {
+      "id": "content-tech-049",
+      "name": "六格标题与说明",
+      "native_count": 6,
+      "themes": [
+        "deep-blue-tech"
+      ],
+      "editable_fields": 13,
+      "body": {
+        "deep-blue-tech": {
+          "asset": "layouts/content-tech-049/body-deep-blue-tech.pptx",
+          "sha256": "2e59b24eb52e31c41a8cc4d8bdb009659e04e8f1d3c18646bd1a3b5b0b2172c1",
+          "bindings": "layouts/content-tech-049/body-deep-blue-tech-bindings.json",
+          "bindings_sha256": "4609c7f37f877c476fd5b86c9b42371d9e23ad2ca35417e55bbce4a6452b1b24",
+          "title_input": {
+            "field": "text_6",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            3,
+            4,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "source": {
+            "source": "sources/tech.pptx",
+            "page": 49,
+            "sha256": "e79ac2cfc2c634dc4040b8541ddca88173e87933960e346b4518ed1fa6e35564"
+          },
+          "tech": {
+            "root_id": 2,
+            "art_index": 2,
+            "variant": "standard",
+            "logo_anchor": "bottom_right"
+          },
+          "background": "skill_tech"
+        }
+      }
+    }
+  ]
+}

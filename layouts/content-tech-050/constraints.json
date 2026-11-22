@@ -1,0 +1,8 @@
+{
+  "rules": [
+    {
+      "type": "remove_decoration",
+      "shape_id": 196
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "remote_commit": "8577ffc29322f94d793136cfbf4d6f05aa50fc63",
+  "accepted_commit": "40812b29a517e487d35db2678c8a32f70cef1050",
+  "entries": [
+    {
+      "id": "content-blue-032",
+      "fixed_id": "content-blue-032-body-fixed",
+      "verified_counts": [
+        3,
+        4
+      ],
+      "fixed_count": 4
+    },
+    {
+      "id": "content-blue-043",
+      "fixed_id": "content-blue-043-body-fixed",
+      "verified_counts": [
+        4,
+        6
+      ],
+      "fixed_count": 3
+    },
+    {
+      "id": "content-blue-046",
+      "fixed_id": "content-blue-046-body-fixed",
+      "verified_counts": [
+        3,
+        4
+      ],
+      "fixed_count": 4
+    },
+    {
+      "id": "content-blue-049",
+      "fixed_id": "content-blue-049-body-fixed",
+      "verified_counts": [
+        4,
+        6
+      ],
+      "fixed_count": 3
+    },
+    {
+      "id": "content-blue-056",
+      "fixed_id": "content-blue-056-body-fixed",
+      "verified_counts": [
+        3,
+        4
+      ],
+      "fixed_count": 4
+    },
+    {
+      "id": "content-blue-063",
+      "fixed_id": "content-blue-063-body-fixed",
+      "verified_counts": [
+        6,
+        8
+      ],
+      "fixed_count": 8
+    },
+    {
+      "id": "content-blue-113",
+      "fixed_id": "content-blue-113-body-fixed",
+      "verified_counts": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "fixed_count": 5
+    },
+    {
+      "id": "content-blue-118",
+      "fixed_id": "content-blue-118-body-fixed",
+      "verified_counts": [
+        2,
+        3
+      ],
+      "fixed_count": 3
+    },
+    {
+      "id": "content-blue-121",
+      "fixed_id": "content-blue-121-body-fixed",
+      "verified_counts": [
+        2,
+        3
+      ],
+      "fixed_count": 3
+    },
+    {
+      "id": "content-blue-140",
+      "fixed_id": "content-blue-140-body-fixed",
+      "verified_counts": [
+        4,
+        6
+      ],
+      "fixed_count": 2
+    },
+    {
+      "id": "content-blue-155",
+      "fixed_id": "content-blue-155-body-fixed",
+      "verified_counts": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "fixed_count": 5
+    },
+    {
+      "id": "content-blue-215",
+      "fixed_id": "content-blue-215-body-fixed",
+      "verified_counts": [
+        4,
+        5
+      ],
+      "fixed_count": 5
+    },
+    {
+      "id": "content-blue-218",
+      "fixed_id": "content-blue-218-body-fixed",
+      "verified_counts": [
+        3,
+        5
+      ],
+      "fixed_count": 5
+    },
+    {
+      "id": "content-blue-233",
+      "fixed_id": "content-blue-233-body-fixed",
+      "verified_counts": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "fixed_count": 5
+    },
+    {
+      "id": "content-blue-248",
+      "fixed_id": "content-blue-248-body-fixed",
+      "verified_counts": [
+        4,
+        6
+      ],
+      "fixed_count": 6
+    },
+    {
+      "id": "content-blue-250",
+      "fixed_id": "content-blue-250-body-fixed",
+      "verified_counts": [
+        3,
+        4
+      ],
+      "fixed_count": 4
+    }
+  ]
+}

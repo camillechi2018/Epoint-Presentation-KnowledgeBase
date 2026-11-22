@@ -1,0 +1,265 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "椭圆 38",
+      "type": "text",
+      "max_chars": 1,
+      "source_sample_chars": 1,
+      "source_text": "1",
+      "bounds_pt": [
+        49.6,
+        88.1,
+        20.8,
+        20.8
+      ],
+      "semantic_path": "work_items[0].number",
+      "max_lines": 1,
+      "max_width_units": 2
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "椭圆 39",
+      "type": "text",
+      "max_chars": 1,
+      "source_sample_chars": 1,
+      "source_text": "2",
+      "bounds_pt": [
+        49.6,
+        232.6,
+        20.8,
+        20.8
+      ],
+      "semantic_path": "work_items[1].number",
+      "max_lines": 1,
+      "max_width_units": 2
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "椭圆 42",
+      "type": "text",
+      "max_chars": 1,
+      "source_sample_chars": 1,
+      "source_text": "1",
+      "bounds_pt": [
+        889.7,
+        88.1,
+        20.8,
+        20.8
+      ],
+      "semantic_path": "life_items[0].number",
+      "max_lines": 1,
+      "max_width_units": 2
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "椭圆 43",
+      "type": "text",
+      "max_chars": 1,
+      "source_sample_chars": 1,
+      "source_text": "2",
+      "bounds_pt": [
+        889.7,
+        232.6,
+        20.8,
+        20.8
+      ],
+      "semantic_path": "life_items[1].number",
+      "max_lines": 1,
+      "max_width_units": 2
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "文本框 7",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "工\n作\n管\n理",
+      "bounds_pt": [
+        404.5,
+        241.4,
+        40.8,
+        162.4
+      ],
+      "semantic_path": "labels.work",
+      "max_lines": 4
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "文本框 8",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "生活\n管\n理",
+      "bounds_pt": [
+        515.0,
+        241.4,
+        40.8,
+        162.4
+      ],
+      "semantic_path": "labels.life",
+      "max_lines": 3
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "文本框 20",
+      "type": "text",
+      "max_chars": 7,
+      "source_sample_chars": 8,
+      "source_text": "合理设定工作时间",
+      "bounds_pt": [
+        70.3,
+        87.5,
+        133.2,
+        24.2
+      ],
+      "semantic_path": "work_items[0].title",
+      "max_lines": 1,
+      "max_width_units": 14
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "文本框 23",
+      "type": "text",
+      "max_chars": 7,
+      "source_sample_chars": 7,
+      "source_text": "管理压力与情绪",
+      "bounds_pt": [
+        70.3,
+        232.6,
+        133.2,
+        24.2
+      ],
+      "semantic_path": "work_items[1].title",
+      "max_lines": 1,
+      "max_width_units": 14
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "文本框 24",
+      "type": "text",
+      "max_chars": 117,
+      "source_sample_chars": 74,
+      "source_text": "采用“时间块”技术，将时间分段安排，避免工作时间过长导致精力消耗殆尽。\n定期评估自己的工作效率，必要时调整工作安排，避免因低效率导致无谓的工作堆积。",
+      "bounds_pt": [
+        43.2,
+        130.7,
+        320.6,
+        88.4
+      ],
+      "semantic_path": "work_items[0].body",
+      "max_lines": 2,
+      "max_chars_per_line": 58,
+      "max_width_units": 116
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "文本框 33",
+      "type": "text",
+      "max_chars": 7,
+      "source_sample_chars": 6,
+      "source_text": "培养兴趣爱好",
+      "bounds_pt": [
+        756.5,
+        87.5,
+        133.2,
+        24.2
+      ],
+      "semantic_path": "life_items[0].title",
+      "max_lines": 1,
+      "max_width_units": 14
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "max_chars": 7,
+      "source_sample_chars": 8,
+      "source_text": "保持健康生活方式",
+      "bounds_pt": [
+        756.4,
+        232.6,
+        133.2,
+        24.2
+      ],
+      "semantic_path": "life_items[1].title",
+      "max_lines": 1,
+      "max_width_units": 14
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 117,
+      "source_sample_chars": 74,
+      "source_text": "在工作中出现压力时，学会深呼吸、短暂散步等放松身心技巧，及时缓解压力。\n定期进行自我反思，检视自己在工作中是否存在情绪积压，并采取有效方法进行调整。",
+      "bounds_pt": [
+        42.8,
+        275.4,
+        320.6,
+        88.4
+      ],
+      "semantic_path": "work_items[1].body",
+      "max_lines": 2,
+      "max_chars_per_line": 58,
+      "max_width_units": 116
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 117,
+      "source_sample_chars": 77,
+      "source_text": "挑选自己感兴趣的活动，如运动、摄影、写作等，确保工作之余有充实的个人时间。\n利用周末或假期时间去探索新兴趣，拓宽个人的兴趣范围，减轻工作压力，提升幸福感。",
+      "bounds_pt": [
+        597.1,
+        130.7,
+        320.6,
+        88.4
+      ],
+      "semantic_path": "life_items[0].body",
+      "max_lines": 2,
+      "max_chars_per_line": 58,
+      "max_width_units": 116
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 117,
+      "source_sample_chars": 77,
+      "source_text": "通过定期进行运动，如跑步、瑜伽、游泳等，增强体质，缓解工作压力，提升身心健康。\n做好身体健康检查，定期监测身体状况，预防潜在健康问题，保持积极乐观的心态。",
+      "bounds_pt": [
+        596.8,
+        275.4,
+        320.6,
+        88.4
+      ],
+      "semantic_path": "life_items[1].body",
+      "max_lines": 2,
+      "max_chars_per_line": 58,
+      "max_width_units": 116
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}
