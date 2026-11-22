@@ -1,0 +1,278 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 18,
+      "source_sample_chars": 18,
+      "source_text": "2024年-2026年营收和成本对比",
+      "bounds_pt": [
+        57.8,
+        98.0,
+        239.5,
+        26.7
+      ],
+      "semantic_path": "annual.caption",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 22
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "TextBox 86",
+      "type": "text",
+      "max_chars": 12,
+      "source_sample_chars": 12,
+      "source_text": "2026年上半年营收数据",
+      "bounds_pt": [
+        480.0,
+        318.5,
+        199.5,
+        29.3
+      ],
+      "semantic_path": "monthly.caption",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 22
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "TextBox 69",
+      "type": "text",
+      "max_chars": 3,
+      "source_sample_chars": 3,
+      "source_text": "50W",
+      "bounds_pt": [
+        722.2,
+        218.6,
+        197.7,
+        47.1
+      ],
+      "semantic_path": "cost.value",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 3
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "TextBox 70",
+      "type": "text",
+      "max_chars": 11,
+      "source_sample_chars": 11,
+      "source_text": "2026年上半年总成本",
+      "bounds_pt": [
+        722.2,
+        263.0,
+        197.7,
+        22.5
+      ],
+      "semantic_path": "cost.title",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 14
+    },
+    {
+      "field": "text_60",
+      "shape_id": 60,
+      "shape_name": "TextBox 80",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "200W",
+      "bounds_pt": [
+        722.2,
+        218.6,
+        197.7,
+        47.1
+      ],
+      "semantic_path": "revenue.value",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 4
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "TextBox 81",
+      "type": "text",
+      "max_chars": 12,
+      "source_sample_chars": 12,
+      "source_text": "2026年上半年总营业额",
+      "bounds_pt": [
+        722.2,
+        263.0,
+        197.7,
+        38.9
+      ],
+      "semantic_path": "revenue.title",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 14
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "TextBox 44",
+      "type": "text",
+      "max_chars": 3,
+      "source_sample_chars": 3,
+      "source_text": "75%",
+      "bounds_pt": [
+        799.2,
+        94.1,
+        102.7,
+        43.2
+      ],
+      "semantic_path": "surplus.rate",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 3
+    },
+    {
+      "field": "text_78",
+      "shape_id": 78,
+      "shape_name": "文本框 77",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "上半年利润率",
+      "bounds_pt": [
+        546.2,
+        101.2,
+        226.8,
+        29.1
+      ],
+      "semantic_path": "surplus.caption",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 12
+    },
+    {
+      "field": "text_69",
+      "shape_id": 69,
+      "shape_name": "TextBox 44",
+      "type": "text",
+      "max_chars": 3,
+      "source_sample_chars": 3,
+      "source_text": "40%",
+      "bounds_pt": [
+        799.2,
+        169.8,
+        102.7,
+        43.2
+      ],
+      "semantic_path": "supplies.share",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 3
+    },
+    {
+      "field": "text_79",
+      "shape_id": 79,
+      "shape_name": "文本框 78",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "投流成本占比",
+      "bounds_pt": [
+        546.2,
+        176.9,
+        226.8,
+        29.1
+      ],
+      "semantic_path": "supplies.label",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 12
+    },
+    {
+      "field": "text_75",
+      "shape_id": 75,
+      "shape_name": "TextBox 44",
+      "type": "text",
+      "max_chars": 3,
+      "source_sample_chars": 3,
+      "source_text": "60%",
+      "bounds_pt": [
+        799.2,
+        244.3,
+        102.7,
+        43.2
+      ],
+      "semantic_path": "staff.share",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 3
+    },
+    {
+      "field": "text_80",
+      "shape_id": 80,
+      "shape_name": "文本框 79",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "人工成本占比",
+      "bounds_pt": [
+        546.2,
+        251.4,
+        226.8,
+        29.1
+      ],
+      "semantic_path": "staff.label",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 12
+    }
+  ],
+  "objects": {
+    "charts": [
+      {
+        "shape_id": 62,
+        "shape_name": "Chart 85",
+        "categories_max": 6,
+        "series_max": 1,
+        "category_counts": [
+          6
+        ],
+        "series_min": 1,
+        "count_matches_categories": false,
+        "category_max_chars": 2,
+        "series_name_max_chars": 6
+      },
+      {
+        "shape_id": 6,
+        "shape_name": "图表 5",
+        "categories_max": 3,
+        "series_max": 2,
+        "category_counts": [
+          3
+        ],
+        "series_min": 2,
+        "count_matches_categories": false,
+        "category_max_chars": 4,
+        "series_name_max_chars": 6
+      }
+    ],
+    "tables": [],
+    "images": []
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

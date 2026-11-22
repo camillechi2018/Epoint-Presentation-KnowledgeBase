@@ -1,0 +1,185 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "圆角矩形 166",
+      "type": "text",
+      "group_path": [],
+      "source_text": "数据驱动增长",
+      "source_sample_chars": 6,
+      "max_chars": 8,
+      "typography_role": "chinese_heading",
+      "bounds_emu_local": [
+        6665765,
+        1529253,
+        4378991,
+        484456
+      ],
+      "semantic_path": "column_cards[1].heading",
+      "max_lines": 1
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "圆角矩形 166",
+      "type": "text",
+      "group_path": [],
+      "source_text": "线上线下市场增长",
+      "source_sample_chars": 8,
+      "max_chars": 8,
+      "typography_role": "chinese_heading",
+      "bounds_emu_local": [
+        673098,
+        1529253,
+        5314581,
+        484456
+      ],
+      "semantic_path": "column_cards[0].heading",
+      "max_lines": 1
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "group_path": [],
+      "source_text": "新零售将线上和线下销售渠道\n整合为一个统一的销售生态系统",
+      "source_sample_chars": 28,
+      "max_chars": 35,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        1256916,
+        1942496,
+        4134248,
+        580450
+      ],
+      "semantic_path": "column_cards[0].copy",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        17,
+        17
+      ],
+      "preserve_paragraph_styles": true
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "文本框 19",
+      "type": "text",
+      "group_path": [],
+      "source_text": "新零售注重数据在\n决策中的作用",
+      "source_sample_chars": 15,
+      "max_chars": 35,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        6788137,
+        1942496,
+        4134248,
+        580450
+      ],
+      "semantic_path": "column_cards[1].copy",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        17,
+        17
+      ],
+      "preserve_paragraph_styles": true
+    },
+    {
+      "field": "text_102",
+      "shape_id": 102,
+      "shape_name": "矩形 101",
+      "type": "text",
+      "group_path": [],
+      "source_text": "展示线上线下、门店管理与数据决策驱动增长",
+      "source_sample_chars": 20,
+      "max_chars": 30,
+      "typography_role": "chinese_heading",
+      "bounds_emu_local": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ],
+      "semantic_path": "page.subtitle",
+      "required": false,
+      "missing_action": "clear_text"
+    }
+  ],
+  "objects": {
+    "charts": [
+      {
+        "shape_id": 12,
+        "shape_name": "图表 11",
+        "group_path": [],
+        "categories_max": 3,
+        "series_max": 1,
+        "series_min": 1,
+        "series_name_max_chars": 5,
+        "category_max_chars": 4,
+        "title_in_binding": true,
+        "category_counts": [
+          3
+        ],
+        "value_range": [
+          0,
+          9999
+        ]
+      },
+      {
+        "shape_id": 14,
+        "shape_name": "图表 13",
+        "group_path": [],
+        "categories_max": 3,
+        "series_max": 1,
+        "series_min": 1,
+        "series_name_max_chars": 5,
+        "category_max_chars": 4,
+        "title_in_binding": true,
+        "category_counts": [
+          3
+        ],
+        "value_range": [
+          0,
+          9999
+        ]
+      }
+    ],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 21,
+        "shape_name": "图片 20",
+        "sha256": "b966196360c9d90391bae5c8cfc8a8c10e3dad6e8a5b3dd9bc5cab40b373f8dc",
+        "semantic_role": "source_decorative_locked",
+        "group_path": [
+          56
+        ],
+        "bounds_emu_local": [
+          724062,
+          6401868,
+          3287792,
+          809210
+        ]
+      },
+      {
+        "shape_id": 81,
+        "shape_name": "图片 80",
+        "sha256": "b966196360c9d90391bae5c8cfc8a8c10e3dad6e8a5b3dd9bc5cab40b373f8dc",
+        "semantic_role": "source_decorative_locked",
+        "group_path": [
+          74
+        ],
+        "bounds_emu_local": [
+          724062,
+          6401868,
+          3287792,
+          809210
+        ]
+      }
+    ]
+  },
+  "review": "deep-blue-tech native chart validation"
+}
