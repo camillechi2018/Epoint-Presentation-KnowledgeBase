@@ -7,5 +7,13 @@
     "safe_title_chars": 9,
     "evidence": "source-length title PowerPoint exported, text bounds checked, source page and filled page visually compared"
   },
-  "paired_fields_note": "cover.year_layer_a and cover.year_layer_b are stacked year text layers and must contain the same year"
+  "paired_fields_note": "cover.year_layer_a and cover.year_layer_b are stacked year text layers and must contain the same year",
+  "paired_text_consistency": [
+    {
+      "fields": [
+        "cover.year_layer_a",
+        "cover.year_layer_b"
+      ]
+    }
+  ]
 }

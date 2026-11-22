@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "review_date": "2026-11-22",
+  "layouts": [
+    "cover-13",
+    "cover-14"
+  ],
+  "knowledge_baseline_commit": "73d563d",
+  "paired_text_guard_skill_commit": "328a917",
+  "cover_13": {
+    "same_year_2027": "filled_and_powerpoint_exported",
+    "different_years_2027_2028": "rejected_before_pptx_written",
+    "title_10_chars": "rejected_by_capacity_limit_9",
+    "text_fit": "two_source_year_layer_exceptions_only",
+    "source_exception_shape_ids": [
+      11,
+      23
+    ],
+    "logo": "passed",
+    "visual_review": "passed"
+  },
+  "cover_14": {
+    "title_7_chars": "filled_and_powerpoint_exported",
+    "title_8_chars": "rejected_by_capacity_limit_7",
+    "text_fit_overflows": 0,
+    "logo": "passed",
+    "visual_review": "passed"
+  },
+  "related_cover_12": "same-year fill passed; mismatched year rejected before writing PPTX",
+  "evidence_folder": "outputs/知识库封面13-14复验-20261122",
+  "classification_status_change": "none; both layouts remain verified_static_draft",
+  "publication_status": "local_branches_only"
+}

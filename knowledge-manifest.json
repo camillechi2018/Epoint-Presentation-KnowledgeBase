@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "version": "1.0.0-draft",
   "status": "draft_pending_review",
-  "file_count": 4086,
+  "file_count": 4087,
   "files": {
     ".gitattributes": "56fad65da29e1b7d7ccee0f3f6cadfe2955c8218ce04a1c9f67a0efd2b9d4be1",
     ".gitignore": "01f797f0f3bba220a65d704559a3adb2beaecf1ab31b60cdd61b163b5c3a02f1",
@@ -2783,11 +2783,11 @@
     "layouts/cover-11/motion.json": "80fc50656a56a57712bcb8431b1b714f126980e0362c33b1fd5421727516dee8",
     "layouts/cover-11/spec.md": "a851fd98b5ec126e97067755c296dc9dcea526db614de8bd43de9e35ee0a4157",
     "layouts/cover-12/bindings.json": "b1157c90a1dce6d8dbb33872eaf5616fa165f6a50686fd8d4d798d1f37e19d9e",
-    "layouts/cover-12/layout_rules.json": "c90c51fee5a1eab8b3f5309e90441bbf735e95bdce3efd82a6660f8901aff799",
+    "layouts/cover-12/layout_rules.json": "50a4dbb28343792c4fb6940edeb8299e2afbb9ec9ec20054181a1e9752407311",
     "layouts/cover-12/motion.json": "80fc50656a56a57712bcb8431b1b714f126980e0362c33b1fd5421727516dee8",
     "layouts/cover-12/spec.md": "78935b1cc288bfde4338e935103a846b8185aa0403ccc7611d6bb72767a7ef83",
     "layouts/cover-13/bindings.json": "797d6a17daebe1eaf50eafe2af398111d7ea5301edd5691b70d245ff3bda1f66",
-    "layouts/cover-13/layout_rules.json": "a8adde9984ca04e06b0680ddc57d202a278b2d3b1d0524d573848b0cfd5d70f0",
+    "layouts/cover-13/layout_rules.json": "d946f115aed5b021ea92018ba6f5532f338c54a939d1ae35dbc92890c500a7b3",
     "layouts/cover-13/motion.json": "80fc50656a56a57712bcb8431b1b714f126980e0362c33b1fd5421727516dee8",
     "layouts/cover-13/spec.md": "b53d67452feadda7da6109cbe9bcbbd00adbdd421d5cc910b8c1ebfae158855d",
     "layouts/cover-14/bindings.json": "0d37ec1196ea72e8ead26886fbdfbc9ccdb152a71e3209fe4eac8226b225df98",
@@ -4089,6 +4089,7 @@
     "review/original-cover-batch2.json": "5585740ab8fdae3674d312a86e0f57c5c4a3e7b8225c3eec75a0e059195aad9c",
     "review/original-cover-batch3.json": "c0048e2b6e0306ce8fb14e2d8113778734d340df5432d8c521c8478373f20c1e",
     "review/original-cover-batch4.json": "d21dc40f325e36a94db160199d963d75994344daa9b01aa8a9cfe172bd71755e",
-    "review/original-cover-batch5.json": "5906e10d022eaf89290f31bc782eea4260e5b30e1a1036c80bfcd9d58580cb6a"
+    "review/original-cover-batch5.json": "5906e10d022eaf89290f31bc782eea4260e5b30e1a1036c80bfcd9d58580cb6a",
+    "review/cover13-cover14-recheck-20261122.json": "3196c42100172eb22bd383ea1e1cddb06da5e640592e2da673fe936b5b364ccf"
   }
 }

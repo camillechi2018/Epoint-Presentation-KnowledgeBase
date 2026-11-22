@@ -8,6 +8,14 @@
     "evidence": "source-length title filled, exported, and visually reviewed"
   },
   "paired_fields_note": "cover.year_layer_a and cover.year_layer_b are stacked year text layers and must contain the same year",
+  "paired_text_consistency": [
+    {
+      "fields": [
+        "cover.year_layer_a",
+        "cover.year_layer_b"
+      ]
+    }
+  ],
   "source_text_fit_exception": {
     "shape_ids": [
       11,
