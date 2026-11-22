@@ -2232,10 +2232,65 @@
           "labels.challenge",
           "labels.solution"
         ],
-        "access_mode": "field_complete"
+        "access_mode": "field_complete",
+        "required_binding_paths_by_count": {
+          "3": [
+            "page.title",
+            "labels.dimension",
+            "items[0].category",
+            "items[1].category",
+            "items[2].category",
+            "items[0].challenge_title",
+            "items[0].challenge_body",
+            "items[1].challenge_title",
+            "items[2].challenge_title",
+            "items[0].solution_title",
+            "items[1].solution_title",
+            "items[2].solution_title",
+            "items[1].challenge_body",
+            "items[2].challenge_body",
+            "items[0].solution_body",
+            "items[1].solution_body",
+            "items[2].solution_body",
+            "labels.challenge",
+            "labels.solution"
+          ],
+          "4": [
+            "page.title",
+            "labels.dimension",
+            "items[0].category",
+            "items[1].category",
+            "items[2].category",
+            "items[3].category",
+            "items[0].challenge_title",
+            "items[0].challenge_body",
+            "items[1].challenge_title",
+            "items[2].challenge_title",
+            "items[3].challenge_title",
+            "items[0].solution_title",
+            "items[1].solution_title",
+            "items[2].solution_title",
+            "items[3].solution_title",
+            "items[1].challenge_body",
+            "items[2].challenge_body",
+            "items[3].challenge_body",
+            "items[0].solution_body",
+            "items[1].solution_body",
+            "items[2].solution_body",
+            "items[3].solution_body",
+            "labels.challenge",
+            "labels.solution"
+          ]
+        }
       },
       "structure_review_status": "verified_blue_red_fixed_count_short_copy",
-      "header_validation_status": "excluded_skill_managed"
+      "header_validation_status": "excluded_skill_managed",
+      "bindings_by_count": {
+        "3": {
+          "blue": "layouts/content-blue-046/bindings-3-blue.json",
+          "red": "layouts/content-blue-046/bindings-3-red.json"
+        }
+      }
     },
     {
       "id": "content-blue-047",
@@ -8276,10 +8331,58 @@
           "work_items[2].title",
           "page.title"
         ],
-        "access_mode": "field_complete"
+        "access_mode": "field_complete",
+        "required_binding_paths_by_count": {
+          "4": [
+            "work_items[0].number",
+            "work_items[1].number",
+            "life_items[0].number",
+            "life_items[1].number",
+            "labels.work",
+            "labels.life",
+            "work_items[0].title",
+            "work_items[1].title",
+            "work_items[0].body",
+            "life_items[0].title",
+            "life_items[1].title",
+            "work_items[1].body",
+            "life_items[0].body",
+            "life_items[1].body",
+            "page.title"
+          ],
+          "6": [
+            "work_items[0].number",
+            "work_items[1].number",
+            "work_items[2].number",
+            "life_items[0].number",
+            "life_items[1].number",
+            "life_items[2].number",
+            "labels.work",
+            "labels.life",
+            "work_items[0].title",
+            "work_items[1].title",
+            "work_items[0].body",
+            "life_items[0].title",
+            "life_items[1].title",
+            "life_items[2].title",
+            "work_items[1].body",
+            "work_items[2].body",
+            "life_items[0].body",
+            "life_items[1].body",
+            "life_items[2].body",
+            "work_items[2].title",
+            "page.title"
+          ]
+        }
       },
       "structure_review_status": "verified_blue_red_fixed_count_short_copy",
-      "header_validation_status": "excluded_skill_managed"
+      "header_validation_status": "excluded_skill_managed",
+      "bindings_by_count": {
+        "4": {
+          "blue": "layouts/content-blue-140/bindings-4-blue.json",
+          "red": "layouts/content-blue-140/bindings-4-red.json"
+        }
+      }
     },
     {
       "id": "content-blue-141",

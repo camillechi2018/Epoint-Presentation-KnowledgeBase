@@ -1,12 +1,77 @@
 {
-  "cardinality_mode": "fixed",
+  "cardinality_mode": "repeatable",
   "supported_counts": [
+    3,
     4
   ],
   "source_count": 4,
-  "reflow_status": "not_implemented",
+  "reflow_status": "native_fixed_span_reflow_verified",
   "validation_status": "verified",
   "verified_counts": [
+    3,
     4
-  ]
+  ],
+  "units": [
+    [
+      5,
+      6,
+      20,
+      27,
+      7,
+      32,
+      36,
+      43
+    ],
+    [
+      8,
+      9,
+      21,
+      28,
+      33,
+      40,
+      37,
+      44
+    ],
+    [
+      10,
+      11,
+      22,
+      29,
+      34,
+      41,
+      38,
+      45
+    ],
+    [
+      12,
+      16,
+      23,
+      30,
+      35,
+      42,
+      39,
+      46
+    ]
+  ],
+  "centered_reflow": {},
+  "fixed_span_reflow": {
+    "anchor_shape_ids": [
+      20,
+      21,
+      22,
+      23
+    ],
+    "preserve_gutter": true,
+    "fixed_width_when_reduced": [
+      5,
+      8,
+      10,
+      12
+    ],
+    "standalone_separator_ids": [
+      24,
+      25,
+      26
+    ]
+  }
 }

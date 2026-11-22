@@ -1,0 +1,70 @@
+{
+  "verified_counts": {
+    "content-blue-046": [
+      3,
+      4
+    ],
+    "content-blue-140": [
+      4,
+      6
+    ]
+  },
+  "themes": [
+    "blue",
+    "red"
+  ],
+  "regular_cases": 8,
+  "capacity_cases": 8,
+  "powerpoint_passed": 16,
+  "text_overflows": 0,
+  "fixed_body_span": true,
+  "capacities": {
+    "content-blue-046": {
+      "3": {
+        "category": 12,
+        "challenge_title": 12,
+        "solution_title": 12,
+        "challenge_body": [
+          35,
+          35
+        ],
+        "solution_body": [
+          35,
+          35
+        ]
+      },
+      "4": {
+        "category": 8,
+        "challenge_title": 9,
+        "solution_title": 9,
+        "challenge_body": [
+          23,
+          23
+        ],
+        "solution_body": [
+          23,
+          23
+        ]
+      }
+    },
+    "content-blue-140": {
+      "4": {
+        "number": 1,
+        "title": 7,
+        "body": [
+          58,
+          58
+        ]
+      },
+      "6": {
+        "number": 1,
+        "title": 7,
+        "body": [
+          42,
+          42
+        ]
+      }
+    }
+  },
+  "required_skill_commit": "aedff804928c249c7688864eead4e40eb185e853"
+}
