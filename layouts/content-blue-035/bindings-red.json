@@ -15,7 +15,6 @@
         823.9,
         36.4
       ],
-      "semantic_role": "page_title",
       "semantic_path": "page.title",
       "max_lines": 1
     },
@@ -33,7 +32,6 @@
         28.7,
         75.1
       ],
-      "semantic_role": "stage_label",
       "semantic_path": "stages[0].vertical_label",
       "max_lines": 4
     },
@@ -51,7 +49,6 @@
         28.7,
         75.1
       ],
-      "semantic_role": "stage_label",
       "semantic_path": "stages[1].vertical_label",
       "max_lines": 4
     },
@@ -69,7 +66,6 @@
         28.7,
         75.1
       ],
-      "semantic_role": "stage_label",
       "semantic_path": "stages[2].vertical_label",
       "max_lines": 4
     },
@@ -87,7 +83,6 @@
         28.7,
         75.1
       ],
-      "semantic_role": "stage_label",
       "semantic_path": "stages[3].vertical_label",
       "max_lines": 4
     },
@@ -105,7 +100,6 @@
         174.7,
         41.2
       ],
-      "semantic_role": "funnel_title",
       "semantic_path": "stages[0].funnel_title",
       "max_lines": 1
     },
@@ -123,7 +117,6 @@
         174.7,
         36.4
       ],
-      "semantic_role": "funnel_title",
       "semantic_path": "stages[1].funnel_title",
       "max_lines": 1
     },
@@ -141,7 +134,6 @@
         174.7,
         31.5
       ],
-      "semantic_role": "funnel_title",
       "semantic_path": "stages[2].funnel_title",
       "max_lines": 1
     },
@@ -159,7 +151,6 @@
         174.7,
         24.2
       ],
-      "semantic_role": "funnel_title",
       "semantic_path": "stages[3].funnel_title",
       "max_lines": 1
     },
@@ -177,7 +168,6 @@
         191.9,
         26.7
       ],
-      "semantic_role": "title",
       "semantic_path": "stages[0].left_title",
       "max_lines": 1
     },
@@ -195,7 +185,6 @@
         191.9,
         41.9
       ],
-      "semantic_role": "body",
       "semantic_path": "stages[0].left_body",
       "max_lines": 1
     },
@@ -213,7 +202,6 @@
         191.9,
         26.7
       ],
-      "semantic_role": "title",
       "semantic_path": "stages[1].left_title",
       "max_lines": 1
     },
@@ -231,7 +219,6 @@
         191.9,
         41.9
       ],
-      "semantic_role": "body",
       "semantic_path": "stages[1].left_body",
       "max_lines": 1
     },
@@ -249,7 +236,6 @@
         232.8,
         26.7
       ],
-      "semantic_role": "title",
       "semantic_path": "stages[2].left_title",
       "max_lines": 1
     },
@@ -267,7 +253,6 @@
         232.8,
         41.9
       ],
-      "semantic_role": "body",
       "semantic_path": "stages[2].left_body",
       "max_lines": 1
     },
@@ -285,7 +270,6 @@
         232.2,
         26.7
       ],
-      "semantic_role": "title",
       "semantic_path": "stages[0].right_title",
       "max_lines": 1
     },
@@ -303,7 +287,6 @@
         232.2,
         41.9
       ],
-      "semantic_role": "body",
       "semantic_path": "stages[0].right_body",
       "max_lines": 1
     },
@@ -321,7 +304,6 @@
         276.3,
         26.7
       ],
-      "semantic_role": "title",
       "semantic_path": "stages[1].right_title",
       "max_lines": 1
     },
@@ -339,7 +321,6 @@
         276.3,
         41.9
       ],
-      "semantic_role": "body",
       "semantic_path": "stages[1].right_body",
       "max_lines": 1
     },
@@ -357,7 +338,6 @@
         275.7,
         26.7
       ],
-      "semantic_role": "title",
       "semantic_path": "stages[2].right_title",
       "max_lines": 1
     },
@@ -375,7 +355,6 @@
         275.7,
         41.9
       ],
-      "semantic_role": "body",
       "semantic_path": "stages[2].right_body",
       "max_lines": 1
     },
@@ -393,7 +372,6 @@
         320.3,
         26.7
       ],
-      "semantic_role": "title",
       "semantic_path": "stages[3].left_title",
       "max_lines": 1
     },
@@ -411,7 +389,6 @@
         320.3,
         41.9
       ],
-      "semantic_role": "body",
       "semantic_path": "stages[3].left_body",
       "max_lines": 1
     },
@@ -429,7 +406,6 @@
         319.7,
         26.7
       ],
-      "semantic_role": "title",
       "semantic_path": "stages[3].right_title",
       "max_lines": 1
     },
@@ -447,7 +423,6 @@
         319.7,
         41.9
       ],
-      "semantic_role": "body",
       "semantic_path": "stages[3].right_body",
       "max_lines": 1
     }

@@ -15,7 +15,6 @@
         606.5,
         36.4
       ],
-      "semantic_role": "page_title",
       "semantic_path": "page.title",
       "max_lines": 1
     },
@@ -33,7 +32,6 @@
         278.2,
         41.9
       ],
-      "semantic_role": "phase_title",
       "semantic_path": "phases[0].top_title",
       "max_lines": 1
     },
@@ -51,7 +49,6 @@
         239.8,
         24.2
       ],
-      "semantic_role": "stage_title",
       "semantic_path": "phases[0].stage_title",
       "max_lines": 1
     },
@@ -69,7 +66,6 @@
         239.8,
         24.2
       ],
-      "semantic_role": "stage_title",
       "semantic_path": "phases[1].stage_title",
       "max_lines": 1
     },
@@ -87,7 +83,6 @@
         239.8,
         24.2
       ],
-      "semantic_role": "stage_title",
       "semantic_path": "phases[2].stage_title",
       "max_lines": 1
     },
@@ -105,7 +100,6 @@
         264.7,
         24.2
       ],
-      "semantic_role": "step_title",
       "semantic_path": "phases[0].steps[0].title",
       "max_lines": 1
     },
@@ -123,7 +117,6 @@
         264.6,
         41.9
       ],
-      "semantic_role": "step_body",
       "semantic_path": "phases[0].steps[0].body",
       "max_lines": 1
     },
@@ -141,7 +134,6 @@
         264.6,
         24.2
       ],
-      "semantic_role": "step_title",
       "semantic_path": "phases[0].steps[1].title",
       "max_lines": 1
     },
@@ -159,7 +151,6 @@
         264.6,
         41.9
       ],
-      "semantic_role": "step_body",
       "semantic_path": "phases[0].steps[1].body",
       "max_lines": 1
     },
@@ -177,7 +168,6 @@
         264.6,
         24.2
       ],
-      "semantic_role": "step_title",
       "semantic_path": "phases[1].steps[0].title",
       "max_lines": 1
     },
@@ -195,7 +185,6 @@
         264.6,
         41.9
       ],
-      "semantic_role": "step_body",
       "semantic_path": "phases[1].steps[0].body",
       "max_lines": 1
     },
@@ -213,7 +202,6 @@
         264.6,
         24.2
       ],
-      "semantic_role": "step_title",
       "semantic_path": "phases[1].steps[1].title",
       "max_lines": 1
     },
@@ -231,7 +219,6 @@
         264.6,
         41.9
       ],
-      "semantic_role": "step_body",
       "semantic_path": "phases[1].steps[1].body",
       "max_lines": 1
     },
@@ -249,7 +236,6 @@
         264.6,
         24.2
       ],
-      "semantic_role": "step_title",
       "semantic_path": "phases[2].steps[0].title",
       "max_lines": 1
     },
@@ -267,7 +253,6 @@
         264.6,
         41.9
       ],
-      "semantic_role": "step_body",
       "semantic_path": "phases[2].steps[0].body",
       "max_lines": 1
     },
@@ -285,7 +270,6 @@
         264.6,
         24.2
       ],
-      "semantic_role": "step_title",
       "semantic_path": "phases[2].steps[1].title",
       "max_lines": 1
     },
@@ -303,7 +287,6 @@
         264.6,
         41.9
       ],
-      "semantic_role": "step_body",
       "semantic_path": "phases[2].steps[1].body",
       "max_lines": 1
     },
@@ -321,7 +304,6 @@
         264.7,
         24.2
       ],
-      "semantic_role": "step_title",
       "semantic_path": "phases[0].steps[2].title",
       "max_lines": 1
     },
@@ -339,7 +321,6 @@
         264.6,
         41.9
       ],
-      "semantic_role": "step_body",
       "semantic_path": "phases[0].steps[2].body",
       "max_lines": 1
     },
@@ -357,7 +338,6 @@
         264.6,
         24.2
       ],
-      "semantic_role": "step_title",
       "semantic_path": "phases[0].steps[3].title",
       "max_lines": 1
     },
@@ -375,7 +355,6 @@
         264.6,
         41.9
       ],
-      "semantic_role": "step_body",
       "semantic_path": "phases[0].steps[3].body",
       "max_lines": 1
     },
@@ -393,7 +372,6 @@
         264.6,
         24.2
       ],
-      "semantic_role": "step_title",
       "semantic_path": "phases[1].steps[2].title",
       "max_lines": 1
     },
@@ -411,7 +389,6 @@
         264.6,
         41.9
       ],
-      "semantic_role": "step_body",
       "semantic_path": "phases[1].steps[2].body",
       "max_lines": 1
     },
@@ -429,7 +406,6 @@
         264.6,
         24.2
       ],
-      "semantic_role": "step_title",
       "semantic_path": "phases[1].steps[3].title",
       "max_lines": 1
     },
@@ -447,7 +423,6 @@
         264.6,
         41.9
       ],
-      "semantic_role": "step_body",
       "semantic_path": "phases[1].steps[3].body",
       "max_lines": 1
     },
@@ -465,7 +440,6 @@
         264.6,
         24.2
       ],
-      "semantic_role": "step_title",
       "semantic_path": "phases[2].steps[2].title",
       "max_lines": 1
     },
@@ -483,7 +457,6 @@
         264.6,
         41.9
       ],
-      "semantic_role": "step_body",
       "semantic_path": "phases[2].steps[2].body",
       "max_lines": 1
     },
@@ -501,7 +474,6 @@
         264.6,
         24.2
       ],
-      "semantic_role": "step_title",
       "semantic_path": "phases[2].steps[3].title",
       "max_lines": 1
     },
@@ -519,7 +491,6 @@
         264.6,
         41.9
       ],
-      "semantic_role": "step_body",
       "semantic_path": "phases[2].steps[3].body",
       "max_lines": 1
     },
@@ -537,7 +508,6 @@
         278.2,
         41.9
       ],
-      "semantic_role": "phase_title",
       "semantic_path": "phases[1].top_title",
       "max_lines": 1
     },
@@ -555,7 +525,6 @@
         278.2,
         41.9
       ],
-      "semantic_role": "phase_title",
       "semantic_path": "phases[2].top_title",
       "max_lines": 1
     },
@@ -573,7 +542,6 @@
         278.2,
         41.9
       ],
-      "semantic_role": "phase_title",
       "semantic_path": "phases[0].bottom_title",
       "max_lines": 1
     },
@@ -591,7 +559,6 @@
         278.2,
         41.9
       ],
-      "semantic_role": "phase_title",
       "semantic_path": "phases[1].bottom_title",
       "max_lines": 1
     },
@@ -609,7 +576,6 @@
         278.2,
         41.9
       ],
-      "semantic_role": "phase_title",
       "semantic_path": "phases[2].bottom_title",
       "max_lines": 1
     }

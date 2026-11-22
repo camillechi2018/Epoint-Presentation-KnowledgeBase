@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-11-22",
+  "baseline_commit": "cf50495",
+  "layouts": {
+    "content-blue-035": "process",
+    "content-blue-046": "comparison",
+    "content-blue-057": "parallel-points",
+    "content-blue-140": "comparison",
+    "content-blue-113": "parallel-points",
+    "content-blue-118": "process",
+    "content-blue-155": "parallel-points",
+    "content-blue-090": "process",
+    "content-blue-188": "schedule",
+    "content-blue-233": "process"
+  },
+  "change": "replaced source business relations and text semantic roles with generic structural matching; semantic_path remains only as editable slot address",
+  "matching_policy": "structural",
+  "matching_activation": "structure_ready",
+  "validation_scope": "body content and fixed cardinality only; title, logo, underline skill-managed",
+  "unrelated_business_relation_structural_eligibility": "20/20 passed",
+  "without_explicit_layout_id_eligibility": "20/20 passed",
+  "wrong_structure_rejected": "20/20 passed",
+  "plan_deck_selected_with_zero_binding_gap": "10/10 passed in blue",
+  "blue_red_structure_fill": "20/20 passed",
+  "approval_status": "draft_pending_review"
+}

@@ -15,7 +15,6 @@
         95.1,
         60.1
       ],
-      "semantic_role": "quarter_title",
       "semantic_path": "quarters[0].title",
       "max_lines": 1
     },
@@ -33,7 +32,6 @@
         95.1,
         60.1
       ],
-      "semantic_role": "quarter_title",
       "semantic_path": "quarters[1].title",
       "max_lines": 1
     },
@@ -51,7 +49,6 @@
         95.1,
         60.1
       ],
-      "semantic_role": "quarter_title",
       "semantic_path": "quarters[2].title",
       "max_lines": 1
     },
@@ -69,7 +66,6 @@
         95.1,
         60.1
       ],
-      "semantic_role": "quarter_title",
       "semantic_path": "quarters[3].title",
       "max_lines": 1
     },
@@ -87,7 +83,6 @@
         140.6,
         21.8
       ],
-      "semantic_role": "month_title",
       "semantic_path": "months[0].title",
       "max_lines": 1
     },
@@ -105,7 +100,6 @@
         140.6,
         41.8
       ],
-      "semantic_role": "month_body",
       "semantic_path": "months[0].body",
       "max_lines": 1
     },
@@ -123,7 +117,6 @@
         140.6,
         21.8
       ],
-      "semantic_role": "month_title",
       "semantic_path": "months[1].title",
       "max_lines": 1
     },
@@ -141,7 +134,6 @@
         140.6,
         41.8
       ],
-      "semantic_role": "month_body",
       "semantic_path": "months[1].body",
       "max_lines": 1
     },
@@ -159,7 +151,6 @@
         140.6,
         21.8
       ],
-      "semantic_role": "month_title",
       "semantic_path": "months[2].title",
       "max_lines": 1
     },
@@ -177,7 +168,6 @@
         140.6,
         41.8
       ],
-      "semantic_role": "month_body",
       "semantic_path": "months[2].body",
       "max_lines": 1
     },
@@ -195,7 +185,6 @@
         140.6,
         21.8
       ],
-      "semantic_role": "month_title",
       "semantic_path": "months[3].title",
       "max_lines": 1
     },
@@ -213,7 +202,6 @@
         140.6,
         41.8
       ],
-      "semantic_role": "month_body",
       "semantic_path": "months[3].body",
       "max_lines": 1
     },
@@ -231,7 +219,6 @@
         140.6,
         21.8
       ],
-      "semantic_role": "month_title",
       "semantic_path": "months[4].title",
       "max_lines": 1
     },
@@ -249,7 +236,6 @@
         140.6,
         41.8
       ],
-      "semantic_role": "month_body",
       "semantic_path": "months[4].body",
       "max_lines": 1
     },
@@ -267,7 +253,6 @@
         140.6,
         21.8
       ],
-      "semantic_role": "month_title",
       "semantic_path": "months[5].title",
       "max_lines": 1
     },
@@ -285,7 +270,6 @@
         140.6,
         41.8
       ],
-      "semantic_role": "month_body",
       "semantic_path": "months[5].body",
       "max_lines": 1
     },
@@ -303,7 +287,6 @@
         140.6,
         21.8
       ],
-      "semantic_role": "month_title",
       "semantic_path": "months[6].title",
       "max_lines": 1
     },
@@ -321,7 +304,6 @@
         140.6,
         41.8
       ],
-      "semantic_role": "month_body",
       "semantic_path": "months[6].body",
       "max_lines": 1
     },
@@ -339,7 +321,6 @@
         140.6,
         21.8
       ],
-      "semantic_role": "month_title",
       "semantic_path": "months[7].title",
       "max_lines": 1
     },
@@ -357,7 +338,6 @@
         140.6,
         41.8
       ],
-      "semantic_role": "month_body",
       "semantic_path": "months[7].body",
       "max_lines": 1
     },
@@ -375,7 +355,6 @@
         140.6,
         21.8
       ],
-      "semantic_role": "month_title",
       "semantic_path": "months[8].title",
       "max_lines": 1
     },
@@ -393,7 +372,6 @@
         140.6,
         41.8
       ],
-      "semantic_role": "month_body",
       "semantic_path": "months[8].body",
       "max_lines": 1
     },
@@ -411,7 +389,6 @@
         140.6,
         21.8
       ],
-      "semantic_role": "month_title",
       "semantic_path": "months[9].title",
       "max_lines": 1
     },
@@ -429,7 +406,6 @@
         140.6,
         41.8
       ],
-      "semantic_role": "month_body",
       "semantic_path": "months[9].body",
       "max_lines": 1
     },
@@ -447,7 +423,6 @@
         140.6,
         21.8
       ],
-      "semantic_role": "month_title",
       "semantic_path": "months[10].title",
       "max_lines": 1
     },
@@ -465,7 +440,6 @@
         140.6,
         41.8
       ],
-      "semantic_role": "month_body",
       "semantic_path": "months[10].body",
       "max_lines": 1
     },
@@ -483,7 +457,6 @@
         140.6,
         21.8
       ],
-      "semantic_role": "month_title",
       "semantic_path": "months[11].title",
       "max_lines": 1
     },
@@ -501,7 +474,6 @@
         140.6,
         41.8
       ],
-      "semantic_role": "month_body",
       "semantic_path": "months[11].body",
       "max_lines": 1
     },
@@ -519,7 +491,6 @@
         266.3,
         59.9
       ],
-      "semantic_role": "quarter_summary",
       "semantic_path": "quarters[0].summary",
       "max_lines": 1
     },
@@ -537,7 +508,6 @@
         266.3,
         59.9
       ],
-      "semantic_role": "quarter_summary",
       "semantic_path": "quarters[1].summary",
       "max_lines": 1
     },
@@ -555,7 +525,6 @@
         266.3,
         59.9
       ],
-      "semantic_role": "quarter_summary",
       "semantic_path": "quarters[2].summary",
       "max_lines": 1
     },
@@ -573,7 +542,6 @@
         266.3,
         59.9
       ],
-      "semantic_role": "quarter_summary",
       "semantic_path": "quarters[3].summary",
       "max_lines": 1
     },
@@ -591,7 +559,6 @@
         848.7,
         27.0
       ],
-      "semantic_role": "body_summary",
       "semantic_path": "body.summary",
       "max_lines": 1
     },
@@ -609,7 +576,6 @@
         823.9,
         36.4
       ],
-      "semantic_role": "page_title",
       "semantic_path": "page.title"
     }
   ],
