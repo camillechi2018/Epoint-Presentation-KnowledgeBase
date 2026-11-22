@@ -168,7 +168,7 @@
       "shape_id": 89,
       "shape_name": "文本框 17",
       "type": "text",
-      "max_chars": 42,
+      "max_chars": 64,
       "source_sample_chars": 45,
       "source_text": "明确企业的战略目标、工作内容和资源需求。制定具体的计划和方案，确保项目目标与整体战略一致。",
       "bounds_pt": [
@@ -179,7 +179,7 @@
       ],
       "semantic_path": "stages[0].summary",
       "max_lines": 1,
-      "max_width_units": 84
+      "max_width_units": 128
     },
     {
       "field": "text_90",
@@ -204,7 +204,7 @@
       "shape_id": 91,
       "shape_name": "文本框 17",
       "type": "text",
-      "max_chars": 45,
+      "max_chars": 67,
       "source_sample_chars": 36,
       "source_text": "与相关部门进行沟通，收集并分析需求。\n评估项目所需的资源并确保资源可用。",
       "bounds_pt": [
@@ -215,8 +215,8 @@
       ],
       "semantic_path": "stages[0].goal",
       "max_lines": 2,
-      "max_chars_per_line": 22,
-      "max_width_units": 44
+      "max_chars_per_line": 33,
+      "max_width_units": 66
     },
     {
       "field": "text_92",
@@ -241,7 +241,7 @@
       "shape_id": 93,
       "shape_name": "文本框 17",
       "type": "text",
-      "max_chars": 42,
+      "max_chars": 64,
       "source_sample_chars": 40,
       "source_text": "将规划阶段的目标转化为具体的执行方案。设计工作流程、任务分配、时间表等具体内容。",
       "bounds_pt": [
@@ -252,7 +252,7 @@
       ],
       "semantic_path": "stages[1].summary",
       "max_lines": 1,
-      "max_width_units": 84
+      "max_width_units": 128
     },
     {
       "field": "text_94",
@@ -277,7 +277,7 @@
       "shape_id": 95,
       "shape_name": "文本框 17",
       "type": "text",
-      "max_chars": 45,
+      "max_chars": 67,
       "source_sample_chars": 44,
       "source_text": "据项目目标设计具体的操作流程和任务分配。\n制定时间表，明确每个阶段的完成时间和关键节点。",
       "bounds_pt": [
@@ -288,8 +288,8 @@
       ],
       "semantic_path": "stages[1].goal",
       "max_lines": 2,
-      "max_chars_per_line": 22,
-      "max_width_units": 44
+      "max_chars_per_line": 33,
+      "max_width_units": 66
     },
     {
       "field": "text_96",
@@ -314,7 +314,7 @@
       "shape_id": 105,
       "shape_name": "文本框 17",
       "type": "text",
-      "max_chars": 42,
+      "max_chars": 64,
       "source_sample_chars": 39,
       "source_text": "对项目进行总结和评估，提炼经验教训，为未来的工作提供借鉴。确保项目成果的交付。",
       "bounds_pt": [
@@ -325,7 +325,7 @@
       ],
       "semantic_path": "stages[2].summary",
       "max_lines": 1,
-      "max_width_units": 84
+      "max_width_units": 128
     },
     {
       "field": "text_106",
@@ -350,7 +350,7 @@
       "shape_id": 107,
       "shape_name": "文本框 17",
       "type": "text",
-      "max_chars": 45,
+      "max_chars": 67,
       "source_sample_chars": 43,
       "source_text": "检查项目成果是否符合预期目标，确保交付质量。\n组织总结会议，分析项目的成功和不足之处。",
       "bounds_pt": [
@@ -361,8 +361,8 @@
       ],
       "semantic_path": "stages[2].goal",
       "max_lines": 2,
-      "max_chars_per_line": 22,
-      "max_width_units": 44
+      "max_chars_per_line": 33,
+      "max_width_units": 66
     },
     {
       "field": "text_108",

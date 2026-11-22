@@ -1,15 +1,19 @@
 {
   "cardinality_mode": "repeatable",
   "supported_counts": [
+    3,
     4,
-    5
+    5,
+    6
   ],
   "source_count": 5,
-  "reflow_status": "native_centered_reflow_verified",
+  "reflow_status": "native_fixed_span_reflow_verified",
   "validation_status": "verified",
   "verified_counts": [
+    3,
     4,
-    5
+    5,
+    6
   ],
   "units": [
     [
@@ -80,10 +84,12 @@
   ],
   "spacing_emu": 2220468,
   "centered_reflow": {
-    "resize_shape_ids": [
-      15
-    ],
     "source_indices_by_count": {
+      "3": [
+        0,
+        1,
+        2
+      ],
       "4": [
         0,
         1,
@@ -91,5 +97,53 @@
         3
       ]
     }
+  },
+  "fixed_span_reflow": {
+    "anchor_shape_ids": [
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "preserve_gutter": false,
+    "extra_source_index": 4,
+    "extra_target_index": 5,
+    "clone_id_offset": 10000,
+    "fixed_width_when_reduced": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      27,
+      28,
+      33,
+      34,
+      36,
+      37,
+      39,
+      40,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      82,
+      83,
+      84,
+      85,
+      86
+    ],
+    "tight_margins_when_expanded": [
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "extra_number_shape_id": 82
   }
 }
