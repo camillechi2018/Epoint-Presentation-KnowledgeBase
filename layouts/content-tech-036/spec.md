@@ -1,12 +1,24 @@
 # content-tech-036
 
-来源：深蓝科技风 P036；角色：content；关系初标：process。
+深蓝科技风源页 P036。梯形图标标题与双层说明卡。
 
-递归对象：90；文本字段：17；图片：3；图表：0；源 Logo：有。
+通用结构 `parallel-points`。PowerPoint 已验证 2、3 项。
+选版使用正文结构、已验证项数和字段容量。
 
-原稿主题示例：未来人格图谱
-下一代消费者肖像 / 破界实验室
-正在发生的未来 / 2030生存法则
-创新者的悖论。源稿示例事实不进入新项目。
+## 2 项文案容量
 
-项数／字段／动效均待人工复核；原生 PPTX 可编辑结构保留。
+- `roof_columns[].heading` 各段上限 8、8 字
+- `roof_columns[].upper_title` 最多 6 字
+- `roof_columns[].lower_title` 最多 6 字
+- `roof_columns[].upper_copy` 最多 42 字
+- `roof_columns[].lower_copy` 最多 36 字
+
+## 3 项文案容量
+
+- `roof_columns[].heading` 各段上限 8、8 字
+- `roof_columns[].upper_title` 最多 6 字
+- `roof_columns[].lower_title` 最多 6 字
+- `roof_columns[].upper_copy` 最多 30 字
+- `roof_columns[].lower_copy` 最多 27 字
+
+页标题、Logo 和公共装饰由演示文稿技能处理。资产状态为 `draft_pending_review`。

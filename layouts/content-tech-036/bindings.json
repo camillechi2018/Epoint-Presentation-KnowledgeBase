@@ -9,14 +9,19 @@
       "group_path": [],
       "source_text": "未来人格图谱\n下一代消费者肖像",
       "source_sample_chars": 15,
-      "max_chars": 24,
+      "max_chars": 17,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         4646316,
         2335300,
         2913881,
         615553
+      ],
+      "semantic_path": "roof_columns[1].heading",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        8,
+        8
       ]
     },
     {
@@ -27,14 +32,19 @@
       "group_path": [],
       "source_text": "破界实验室\n正在发生的未来",
       "source_sample_chars": 13,
-      "max_chars": 24,
+      "max_chars": 17,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         1521958,
         2335300,
         2913881,
         615553
+      ],
+      "semantic_path": "roof_columns[0].heading",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        8,
+        8
       ]
     },
     {
@@ -45,14 +55,19 @@
       "group_path": [],
       "source_text": "2030生存法则\n创新者的悖论",
       "source_sample_chars": 15,
-      "max_chars": 24,
+      "max_chars": 17,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         7770675,
         2335300,
         2913881,
         615553
+      ],
+      "semantic_path": "roof_columns[2].heading",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        8,
+        8
       ]
     },
     {
@@ -68,13 +83,15 @@
       "source_sample_chars": 8,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         1815442,
         416934,
         8561118,
         430887
-      ]
+      ],
+      "semantic_path": "page.title",
+      "required": false,
+      "missing_action": "clear_text"
     },
     {
       "field": "text_6",
@@ -89,13 +106,15 @@
       "source_sample_chars": 34,
       "max_chars": 51,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         1815439,
         1056165,
         8561121,
         301041
-      ]
+      ],
+      "semantic_path": "page.subtitle",
+      "required": false,
+      "missing_action": "clear_text"
     },
     {
       "field": "text_23",
@@ -105,15 +124,16 @@
       "group_path": [],
       "source_text": "AI Agent革命",
       "source_sample_chars": 10,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         1151593,
         3655363,
         2551382,
         360291
-      ]
+      ],
+      "semantic_path": "roof_columns[0].upper_title",
+      "max_lines": 1
     },
     {
       "field": "text_24",
@@ -123,15 +143,16 @@
       "group_path": [],
       "source_text": "量子营销沙盘",
       "source_sample_chars": 6,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         1151593,
         4841940,
         2551382,
         370486
-      ]
+      ],
+      "semantic_path": "roof_columns[0].lower_title",
+      "max_lines": 1
     },
     {
       "field": "text_25",
@@ -141,15 +162,16 @@
       "group_path": [],
       "source_text": "数字分身经济学",
       "source_sample_chars": 7,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         4823670,
         3655363,
         2551382,
         360291
-      ]
+      ],
+      "semantic_path": "roof_columns[1].upper_title",
+      "max_lines": 1
     },
     {
       "field": "text_26",
@@ -159,15 +181,16 @@
       "group_path": [],
       "source_text": "生物特征消费密码",
       "source_sample_chars": 8,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         4823670,
         4841940,
         2551382,
         360291
-      ]
+      ],
+      "semantic_path": "roof_columns[1].lower_title",
+      "max_lines": 1
     },
     {
       "field": "text_27",
@@ -177,15 +200,16 @@
       "group_path": [],
       "source_text": "技术怀旧产业",
       "source_sample_chars": 6,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         8273862,
         3655363,
         2995152,
         360291
-      ]
+      ],
+      "semantic_path": "roof_columns[2].upper_title",
+      "max_lines": 1
     },
     {
       "field": "text_28",
@@ -195,15 +219,16 @@
       "group_path": [],
       "source_text": "创新者的两难",
       "source_sample_chars": 6,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         8183710,
         4841940,
         3175456,
         360291
-      ]
+      ],
+      "semantic_path": "roof_columns[2].lower_title",
+      "max_lines": 1
     },
     {
       "field": "text_100",
@@ -213,15 +238,16 @@
       "group_path": [],
       "source_text": "当你的企业客服开始自主学习\n《孙子兵法》谈判策略我们已训练\n出会‘战略性装傻’的谈判AI",
       "source_sample_chars": 44,
-      "max_chars": 66,
+      "max_chars": 30,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         1151593,
         3977124,
         2551382,
         691921
-      ]
+      ],
+      "semantic_path": "roof_columns[0].upper_copy",
+      "max_lines": 1
     },
     {
       "field": "text_101",
@@ -231,15 +257,16 @@
       "group_path": [],
       "source_text": "00后平均拥有4.3个虚拟身份，\n你的品牌是否需要为同一个人的\n设计差异化的沟通策略？\"",
       "source_sample_chars": 44,
-      "max_chars": 66,
+      "max_chars": 30,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         4823670,
         3977124,
         2551382,
         691921
-      ]
+      ],
+      "semantic_path": "roof_columns[1].upper_copy",
+      "max_lines": 1
     },
     {
       "field": "text_102",
@@ -249,15 +276,16 @@
       "group_path": [],
       "source_text": "复古科技复兴路线图\n2026年 翻盖手机回归轻奢市场\n2028年 纸质二维码成为身份象征",
       "source_sample_chars": 44,
-      "max_chars": 66,
+      "max_chars": 30,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         8495747,
         3977124,
         2551382,
         691921
-      ]
+      ],
+      "semantic_path": "roof_columns[2].upper_copy",
+      "max_lines": 1
     },
     {
       "field": "text_103",
@@ -267,15 +295,16 @@
       "group_path": [],
       "source_text": "自动驾驶食品车 VS 奶奶手作早餐机器人\n你的创新究竟该占领技术高地，\n还是守护不完美的温度感？",
       "source_sample_chars": 48,
-      "max_chars": 72,
+      "max_chars": 27,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         8354165,
         5157781,
         2834546,
         691921
-      ]
+      ],
+      "semantic_path": "roof_columns[2].lower_copy",
+      "max_lines": 1
     },
     {
       "field": "text_104",
@@ -285,15 +314,16 @@
       "group_path": [],
       "source_text": "多巴胺峰值期：为‘瞬间心动’溢价买单\n血清素平稳期：理性比较产品成分表",
       "source_sample_chars": 35,
-      "max_chars": 52,
+      "max_chars": 27,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         4682088,
         5157781,
         2834546,
         488788
-      ]
+      ],
+      "semantic_path": "roof_columns[1].lower_copy",
+      "max_lines": 1
     },
     {
       "field": "text_105",
@@ -303,15 +333,16 @@
       "group_path": [],
       "source_text": "在平行宇宙测试广告创意：\u000b通过量子计算模拟1000种用户决策\n路径，提前淘汰97%无效投放方案",
       "source_sample_chars": 47,
-      "max_chars": 70,
+      "max_chars": 27,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         1010011,
         5157781,
         2834546,
         691921
-      ]
+      ],
+      "semantic_path": "roof_columns[0].lower_copy",
+      "max_lines": 1
     }
   ],
   "objects": {
@@ -322,7 +353,7 @@
         "shape_id": 7,
         "shape_name": "Freeform 3076",
         "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           2,
           3
@@ -338,7 +369,7 @@
         "shape_id": 10,
         "shape_name": "图片 9",
         "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           2,
           3
@@ -365,5 +396,5 @@
       }
     ]
   },
-  "review": "visual index only; field semantics provisional"
+  "review": "deep-blue-tech structural body and text capacity"
 }

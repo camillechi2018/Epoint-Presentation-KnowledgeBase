@@ -1,10 +1,18 @@
 # content-tech-027
 
-来源：深蓝科技风 P027；角色：content；关系初标：comparison。
+深蓝科技风源页 P027。左右各四项的弧形对照。
 
-递归对象：62；文本字段：21；图片：3；图表：0；源 Logo：有。
+通用结构 `comparison`。PowerPoint 已验证 8 项。
+选版使用正文结构、已验证项数和字段容量。
 
-原稿主题示例：个人能力优劣势分析 / 围绕专业技能、沟通、协作、创新及短板进行个人能力诊断 / 优劣势
-分析。源稿示例事实不进入新项目。
+## 8 项文案容量
 
-项数／字段／动效均待人工复核；原生 PPTX 可编辑结构保留。
+- `center.heading` 各段上限 3、3 字
+- `center.left_label` 最多 2 字
+- `center.right_label` 最多 2 字
+- `paired_rows[].left_title` 最多 5 字
+- `paired_rows[].left_copy` 各段上限 15、15 字
+- `paired_rows[].right_title` 最多 5 字
+- `paired_rows[].right_copy` 各段上限 15、15 字
+
+页标题、Logo 和公共装饰由演示文稿技能处理。资产状态为 `draft_pending_review`。

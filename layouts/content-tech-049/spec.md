@@ -1,9 +1,18 @@
 # content-tech-049
 
-来源：深蓝科技风 P049；角色：content；关系初标：process。
+深蓝科技风源页 P049。两行等宽箭头卡片。
 
-递归对象：58；文本字段：14；图片：3；图表：0；源 Logo：有。
+通用结构 `parallel-points`。PowerPoint 已验证 4、6 项。
+选版使用正文结构、已验证项数和字段容量。
 
-原稿主题示例：产品特点六维展示 / 以六项特性展示产品功能卖点、环保优势与物联网能力 / 受干扰少。源稿示例事实不进入新项目。
+## 4 项文案容量
 
-项数／字段／动效均待人工复核；原生 PPTX 可编辑结构保留。
+- `arrow_cards[].heading` 最多 5 字
+- `arrow_cards[].copy` 最多 37 字
+
+## 6 项文案容量
+
+- `arrow_cards[].heading` 最多 5 字
+- `arrow_cards[].copy` 最多 24 字
+
+页标题、Logo 和公共装饰由演示文稿技能处理。资产状态为 `draft_pending_review`。

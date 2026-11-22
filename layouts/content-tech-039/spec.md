@@ -1,9 +1,24 @@
 # content-tech-039
 
-来源：深蓝科技风 P039；角色：content；关系初标：parallel-points。
+深蓝科技风源页 P039。上下两层对齐的说明列。
 
-递归对象：55；文本字段：22；图片：3；图表：0；源 Logo：有。
+通用结构 `parallel-points`。PowerPoint 已验证 3、4 项。
+选版使用正文结构、已验证项数和字段容量。
 
-原稿主题示例：KAN DA SHI / KAN DA SHI / KAN DA SHI。源稿示例事实不进入新项目。
+## 3 项文案容量
 
-项数／字段／动效均待人工复核；原生 PPTX 可编辑结构保留。
+- `stacked_columns[].upper_title` 最多 3 字
+- `stacked_columns[].upper_caption` 最多 6 字
+- `stacked_columns[].upper_copy` 最多 48 字
+- `stacked_columns[].lower_title` 最多 6 字
+- `stacked_columns[].lower_copy` 最多 58 字
+
+## 4 项文案容量
+
+- `stacked_columns[].upper_title` 最多 3 字
+- `stacked_columns[].upper_caption` 最多 6 字
+- `stacked_columns[].upper_copy` 最多 40 字
+- `stacked_columns[].lower_title` 最多 6 字
+- `stacked_columns[].lower_copy` 最多 48 字
+
+页标题、Logo 和公共装饰由演示文稿技能处理。资产状态为 `draft_pending_review`。

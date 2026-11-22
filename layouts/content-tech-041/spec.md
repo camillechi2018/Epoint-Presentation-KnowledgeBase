@@ -1,9 +1,20 @@
 # content-tech-041
 
-来源：深蓝科技风 P041；角色：content；关系初标：parallel-points。
+深蓝科技风源页 P041。图标、主副标题与列表的横排卡片。
 
-递归对象：60；文本字段：10；图片：6；图表：0；源 Logo：有。
+通用结构 `parallel-points`。PowerPoint 已验证 2、3 项。
+选版使用正文结构、已验证项数和字段容量。
 
-原稿主题示例：“手工”过度到“自动” / “粗放式” 到  “精细化” / “分散” 到 “集中” 到 “共享”。源稿示例事实不进入新项目。
+## 2 项文案容量
 
-项数／字段／动效均待人工复核；原生 PPTX 可编辑结构保留。
+- `icon_cards[].subtitle` 最多 11 字
+- `icon_cards[].heading` 最多 4 字
+- `icon_cards[].list` 各段上限 23、0、23、0、23 字；各段上限 23、0、23 字
+
+## 3 项文案容量
+
+- `icon_cards[].subtitle` 最多 11 字
+- `icon_cards[].heading` 最多 4 字
+- `icon_cards[].list` 各段上限 16、0、16、0、16 字；各段上限 16、0、16 字
+
+页标题、Logo 和公共装饰由演示文稿技能处理。资产状态为 `draft_pending_review`。

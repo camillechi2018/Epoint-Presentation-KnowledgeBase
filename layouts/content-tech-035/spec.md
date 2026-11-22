@@ -1,12 +1,22 @@
 # content-tech-035
 
-来源：深蓝科技风 P035；角色：content；关系初标：parallel-points。
+深蓝科技风源页 P035。带编号与两级说明的横排卡片。
 
-递归对象：39；文本字段：14；图片：3；图表：0；源 Logo：有。
+通用结构 `parallel-points`。PowerPoint 已验证 2、3 项。
+选版使用正文结构、已验证项数和字段容量。
 
-原稿主题示例：呈现终端数据价值
-《IP宣发实效研究白皮书》
-《数说山河 共营复苏——2023旅游行业营销洞察白皮书》 / 深挖客户诉求
-发布系列行业专题栏目—专题化输出教育资讯、旅游、金融电商、游戏、生活服务行业营销观察及解决方案 / 01。源稿示例事实不进入新项目。
+## 2 项文案容量
 
-项数／字段／动效均待人工复核；原生 PPTX 可编辑结构保留。
+- `numbered_cards[].marker` 最多 2 字
+- `numbered_cards[].upper_text` 各段上限 12、27、27 字
+- `numbered_cards[].lower_text` 各段上限 12、45 字
+- `numbered_cards[].label` 最多 6 字
+
+## 3 项文案容量
+
+- `numbered_cards[].marker` 最多 2 字
+- `numbered_cards[].upper_text` 各段上限 8、17、17 字
+- `numbered_cards[].lower_text` 各段上限 8、34 字
+- `numbered_cards[].label` 最多 6 字
+
+页标题、Logo 和公共装饰由演示文稿技能处理。资产状态为 `draft_pending_review`。

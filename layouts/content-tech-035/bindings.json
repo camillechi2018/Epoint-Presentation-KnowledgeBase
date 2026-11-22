@@ -9,15 +9,22 @@
       "group_path": [],
       "source_text": "呈现终端数据价值\n《IP宣发实效研究白皮书》\n《数说山河 共营复苏——2023旅游行业营销洞察白皮书》",
       "source_sample_chars": 51,
-      "max_chars": 76,
+      "max_chars": 44,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         866062,
         3178901,
         2908567,
         1247008
-      ]
+      ],
+      "semantic_path": "numbered_cards[0].upper_text",
+      "max_lines": 3,
+      "paragraph_max_chars": [
+        8,
+        17,
+        17
+      ],
+      "preserve_paragraph_styles": true
     },
     {
       "field": "text_35",
@@ -27,15 +34,21 @@
       "group_path": [],
       "source_text": "深挖客户诉求\n发布系列行业专题栏目—专题化输出教育资讯、旅游、金融电商、游戏、生活服务行业营销观察及解决方案",
       "source_sample_chars": 54,
-      "max_chars": 81,
+      "max_chars": 43,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         866062,
         4730212,
         2908567,
         1195712
-      ]
+      ],
+      "semantic_path": "numbered_cards[0].lower_text",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        8,
+        34
+      ],
+      "preserve_paragraph_styles": true
     },
     {
       "field": "text_54",
@@ -45,15 +58,16 @@
       "group_path": [],
       "source_text": "01",
       "source_sample_chars": 2,
-      "max_chars": 24,
+      "max_chars": 2,
       "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         749597,
         2157597,
         1246423,
         830997
-      ]
+      ],
+      "semantic_path": "numbered_cards[0].marker",
+      "max_lines": 1
     },
     {
       "field": "text_33",
@@ -63,15 +77,22 @@
       "group_path": [],
       "source_text": "活动形式升级\n6场网服菁英会，沙龙+菁英会结合，触达100+核心客户\n3场游戏菁英会，30+核心客户",
       "source_sample_chars": 50,
-      "max_chars": 75,
+      "max_chars": 44,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         4556599,
         3178901,
         2908567,
         1247008
-      ]
+      ],
+      "semantic_path": "numbered_cards[1].upper_text",
+      "max_lines": 3,
+      "paragraph_max_chars": [
+        8,
+        17,
+        17
+      ],
+      "preserve_paragraph_styles": true
     },
     {
       "field": "text_36",
@@ -81,15 +102,21 @@
       "group_path": [],
       "source_text": "行业头部客户深度交流\n2场Workshop，深度交流用户增长+长效经营解决方案",
       "source_sample_chars": 39,
-      "max_chars": 58,
+      "max_chars": 43,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         4556600,
         4730212,
         2908567,
         973664
-      ]
+      ],
+      "semantic_path": "numbered_cards[1].lower_text",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        8,
+        34
+      ],
+      "preserve_paragraph_styles": true
     },
     {
       "field": "text_56",
@@ -99,15 +126,16 @@
       "group_path": [],
       "source_text": "02",
       "source_sample_chars": 2,
-      "max_chars": 24,
+      "max_chars": 2,
       "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         4423441,
         2157597,
         1440941,
         830997
-      ]
+      ],
+      "semantic_path": "numbered_cards[1].marker",
+      "max_lines": 1
     },
     {
       "field": "text_4148",
@@ -117,15 +145,22 @@
       "group_path": [],
       "source_text": "首次传递长效经营价值\n23个案例入围，9个案例落地孵化，输出9大行业方案+2篇专家深度解读\n《长效经营绿皮书》发布",
       "source_sample_chars": 57,
-      "max_chars": 85,
+      "max_chars": 44,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         8343633,
         3178901,
         2908567,
         1247008
-      ]
+      ],
+      "semantic_path": "numbered_cards[2].upper_text",
+      "max_lines": 3,
+      "paragraph_max_chars": [
+        8,
+        17,
+        17
+      ],
+      "preserve_paragraph_styles": true
     },
     {
       "field": "text_4149",
@@ -135,15 +170,21 @@
       "group_path": [],
       "source_text": "年度案例包装\n年度案例专刊：联合清华打造行业年度案例专刊，呈现5个精华案例",
       "source_sample_chars": 37,
-      "max_chars": 55,
+      "max_chars": 43,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         8343633,
         4730212,
         2908567,
         973664
-      ]
+      ],
+      "semantic_path": "numbered_cards[2].lower_text",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        8,
+        34
+      ],
+      "preserve_paragraph_styles": true
     },
     {
       "field": "text_4151",
@@ -153,15 +194,16 @@
       "group_path": [],
       "source_text": "03",
       "source_sample_chars": 2,
-      "max_chars": 24,
+      "max_chars": 2,
       "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         8185075,
         2157597,
         1440941,
         830997
-      ]
+      ],
+      "semantic_path": "numbered_cards[2].marker",
+      "max_lines": 1
     },
     {
       "field": "text_4158",
@@ -171,15 +213,16 @@
       "group_path": [],
       "source_text": "行业能力共建",
       "source_sample_chars": 6,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         1863162,
         2394171,
         1822688,
         307777
-      ]
+      ],
+      "semantic_path": "numbered_cards[0].label",
+      "max_lines": 1
     },
     {
       "field": "text_4159",
@@ -189,15 +232,16 @@
       "group_path": [],
       "source_text": "客户圈层建设",
       "source_sample_chars": 6,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         5629886,
         2394171,
         1822688,
         307777
-      ]
+      ],
+      "semantic_path": "numbered_cards[1].label",
+      "max_lines": 1
     },
     {
       "field": "text_4160",
@@ -207,15 +251,16 @@
       "group_path": [],
       "source_text": "客户圈层建设",
       "source_sample_chars": 6,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         9391520,
         2394171,
         1822688,
         307777
-      ]
+      ],
+      "semantic_path": "numbered_cards[2].label",
+      "max_lines": 1
     },
     {
       "field": "text_22",
@@ -230,13 +275,15 @@
       "source_sample_chars": 6,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3637963,
         416934,
         4916076,
         430887
-      ]
+      ],
+      "semantic_path": "page.title",
+      "required": false,
+      "missing_action": "clear_text"
     },
     {
       "field": "text_23",
@@ -251,13 +298,15 @@
       "source_sample_chars": 25,
       "max_chars": 37,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         1815439,
         1056165,
         8561121,
         301041
-      ]
+      ],
+      "semantic_path": "page.subtitle",
+      "required": false,
+      "missing_action": "clear_text"
     }
   ],
   "objects": {
@@ -268,7 +317,7 @@
         "shape_id": 24,
         "shape_name": "Freeform 3076",
         "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           19,
           20
@@ -284,7 +333,7 @@
         "shape_id": 29,
         "shape_name": "图片 28",
         "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           19,
           20
@@ -311,5 +360,5 @@
       }
     ]
   },
-  "review": "visual index only; field semantics provisional"
+  "review": "deep-blue-tech structural body and text capacity"
 }
