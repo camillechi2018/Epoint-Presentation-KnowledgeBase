@@ -1,10 +1,6 @@
 {
-  "cardinality_mode": "tech_grid_2x3",
+  "cardinality_mode": "fixed",
   "supported_counts": [
-    2,
-    3,
-    4,
-    5,
     6
   ],
   "source_count": 6,
@@ -17,7 +13,7 @@
   ],
   "reflow_status": "internal_prototype",
   "grouping_status": "provisional_requires_manual_object_review",
-  "validation_status": "prototype_requires_visual_review",
+  "validation_status": "verified_fixed_count",
   "units": [
     [
       43,
@@ -83,5 +79,8 @@
   "row_strip_ids": [
     77,
     76
+  ],
+  "verified_counts": [
+    6
   ]
 }

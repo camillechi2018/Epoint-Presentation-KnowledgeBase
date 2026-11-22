@@ -1,0 +1,249 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_78",
+      "shape_id": 78,
+      "shape_name": "文本框 77",
+      "type": "text",
+      "group_path": [],
+      "source_text": "作业方式",
+      "source_sample_chars": 4,
+      "max_chars": 4,
+      "typography_role": "chinese_heading",
+      "bounds_emu_local": [
+        1358123,
+        2030779,
+        2259433,
+        430887
+      ],
+      "semantic_path": "items[0].heading",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 8
+    },
+    {
+      "field": "text_79",
+      "shape_id": 79,
+      "shape_name": "文本框 78",
+      "type": "text",
+      "group_path": [],
+      "source_text": "风险管控",
+      "source_sample_chars": 4,
+      "max_chars": 4,
+      "typography_role": "chinese_heading",
+      "bounds_emu_local": [
+        4966284,
+        2030779,
+        2259433,
+        430887
+      ],
+      "semantic_path": "items[1].heading",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 8
+    },
+    {
+      "field": "text_80",
+      "shape_id": 80,
+      "shape_name": "文本框 79",
+      "type": "text",
+      "group_path": [],
+      "source_text": "信息共享",
+      "source_sample_chars": 4,
+      "max_chars": 4,
+      "typography_role": "chinese_heading",
+      "bounds_emu_local": [
+        8721918,
+        2030779,
+        2259433,
+        430887
+      ],
+      "semantic_path": "items[2].heading",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 8
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "group_path": [],
+      "source_text": "“手工”过度到“自动”",
+      "source_sample_chars": 11,
+      "max_chars": 11,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        1138111,
+        2522500,
+        2699452,
+        215444
+      ],
+      "semantic_path": "items[0].transition",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 19
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "文本框 24",
+      "type": "text",
+      "group_path": [],
+      "source_text": "“粗放式” 到  “精细化”",
+      "source_sample_chars": 14,
+      "max_chars": 14,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        4746274,
+        2522500,
+        2699452,
+        215444
+      ],
+      "semantic_path": "items[1].transition",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 19
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "group_path": [],
+      "source_text": "“分散” 到 “集中” 到 “共享”",
+      "source_sample_chars": 18,
+      "max_chars": 18,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        8501907,
+        2522500,
+        2699452,
+        215444
+      ],
+      "semantic_path": "items[2].transition",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 19
+    },
+    {
+      "field": "text_123",
+      "shape_id": 123,
+      "shape_name": "矩形 122",
+      "type": "text",
+      "group_path": [],
+      "source_text": "通过应用信息化系统实现准 确算税、自动算税，提升税务事务处理效率 \n\n充分利用集团相关系统涉税系统的数据，降低出错可能 \n\n提供标准流程化的规范管理手段",
+      "source_sample_chars": 76,
+      "max_chars": 54,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        1010722,
+        3710325,
+        2954234,
+        1757469
+      ],
+      "semantic_path": "items[0].body",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 3,
+      "max_width_units": 22
+    },
+    {
+      "field": "text_126",
+      "shape_id": 126,
+      "shape_name": "矩形 125",
+      "type": "text",
+      "group_path": [],
+      "source_text": "加强集团及下属各级纳税主体之间信息共享力度，支持全局管理的需求，提供数据依据 \n\n提供集团税务管控制度规范迅速下达、推行的机制",
+      "source_sample_chars": 63,
+      "max_chars": 38,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        4692621,
+        3710325,
+        2954234,
+        1517403
+      ],
+      "semantic_path": "items[1].body",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 2,
+      "max_width_units": 22
+    },
+    {
+      "field": "text_124",
+      "shape_id": 124,
+      "shape_name": "矩形 123",
+      "type": "text",
+      "group_path": [],
+      "source_text": "解决发票管理与增值税管理、业务管理脱节问题\n\n对虚开发票行为进行监控\n\n支撑日益复杂的集团税务统筹与管控",
+      "source_sample_chars": 52,
+      "max_chars": 52,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        8374518,
+        3710325,
+        2954234,
+        1517403
+      ],
+      "semantic_path": "items[2].body",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 3,
+      "max_width_units": 20
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 140,
+        "shape_name": "图片 139",
+        "sha256": "93b5fc08e8bd12cb6db5e73e21263bbfc38ae655329d084d16de5b5e6c8d9bd8",
+        "semantic_role": "source_decorative_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          1155628,
+          5518497,
+          2809328,
+          564680
+        ]
+      },
+      {
+        "shape_id": 141,
+        "shape_name": "图片 140",
+        "sha256": "93b5fc08e8bd12cb6db5e73e21263bbfc38ae655329d084d16de5b5e6c8d9bd8",
+        "semantic_role": "source_decorative_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          4765071,
+          5518497,
+          2809328,
+          564680
+        ]
+      },
+      {
+        "shape_id": 142,
+        "shape_name": "图片 141",
+        "sha256": "93b5fc08e8bd12cb6db5e73e21263bbfc38ae655329d084d16de5b5e6c8d9bd8",
+        "semantic_role": "source_decorative_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          8565984,
+          5518497,
+          2809328,
+          564680
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}
