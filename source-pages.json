@@ -4373,7 +4373,9 @@
     "component_id": "content-red-252",
     "variant": "red",
     "source_pptx": "sources/red.pptx",
-    "extraction_status": "indexed"
+    "extraction_status": "indexed",
+    "duplicate_of": "content-blue-251",
+    "source_review": "review/batch-6b-duplicate-source.json"
   },
   {
     "source": "red",

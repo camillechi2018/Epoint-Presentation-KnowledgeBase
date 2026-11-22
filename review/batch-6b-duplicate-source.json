@@ -1,0 +1,30 @@
+{
+  "batch": "6-B",
+  "status": "archived_duplicate_source",
+  "component_id": "content-red-252",
+  "duplicate_of": "content-blue-251",
+  "theme": "red",
+  "default_candidate": false,
+  "equivalence": {
+    "source": "sources/red.pptx",
+    "source_sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104",
+    "canonical_page": 251,
+    "archived_page": 252,
+    "slide_xml_sha256": "3aefa7230390cdc8349e98fa5046962cfff4560ee8c9d2aa6e584db9a737c7b4",
+    "preview_sha256": "6ad186cc9158f365a971854eb6dc51a84a123d2ef4f689ac113cfcd2a9e409e8",
+    "same_slide_xml_and_visual_relationships": true,
+    "original_notes_parts": {
+      "251": [
+        "ppt/notesSlides/notesSlide48.xml"
+      ],
+      "252": [
+        "ppt/notesSlides/notesSlide49.xml"
+      ]
+    }
+  },
+  "canonical_verification": {
+    "batch": "3-E",
+    "review": "review/batch-3e-body.json",
+    "verified_item_count": 4
+  }
+}

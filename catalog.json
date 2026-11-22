@@ -34347,7 +34347,7 @@
       "collection": "new-template-content",
       "role": "content",
       "information_relation": "unclassified",
-      "classification_status": "provisional",
+      "classification_status": "archived_duplicate_source",
       "family_id": "content-252",
       "source": "sources/red.pptx",
       "example": "sources/red.pptx",
@@ -34375,7 +34375,10 @@
       },
       "source_logo_present": true,
       "source_logo_shape_id": 15,
-      "source_logo_asset_sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e"
+      "source_logo_asset_sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+      "pptx_support": "blocked_duplicate_source",
+      "duplicate_of": "content-blue-251",
+      "source_review": "review/batch-6b-duplicate-source.json"
     },
     {
       "id": "content-red-277",
