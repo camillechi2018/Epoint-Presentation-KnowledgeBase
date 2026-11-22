@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-11-22",
+  "baseline_commit": "cf48831",
+  "screened": [
+    "content-blue-113",
+    "content-blue-118",
+    "content-blue-155"
+  ],
+  "promoted": [
+    "content-blue-113",
+    "content-blue-118",
+    "content-blue-155"
+  ],
+  "pending": {},
+  "blue_red_alternate_filled_powerpoint_exported": true,
+  "blue_red_alternate_text_fit_overflows": 0,
+  "blue_red_logo_audit": "passed",
+  "semantic_fill_powerpoint_exported": "6/6 passed",
+  "semantic_text_fit_overflows": 0,
+  "wrong_item_count_rejected": "6/6 passed",
+  "semantic_vs_raw_export_pixel_diff": "none in 6/6",
+  "evidence_folder": "outputs/知识库正文组件续验-第二批-20261122",
+  "approval_status": "draft_pending_review",
+  "content_blue_113_source_text_issue": "shape 70 overflowed after verbatim source-text fill; tested shorter two-line copy in blue and red, then constrained max_chars to 29 and max_lines to 2"
+}

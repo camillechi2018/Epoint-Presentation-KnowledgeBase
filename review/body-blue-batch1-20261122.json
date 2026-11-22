@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-11-22",
+  "baseline_commit": "4b0f377",
+  "screened": [
+    "content-blue-014",
+    "content-blue-019",
+    "content-blue-020",
+    "content-blue-022",
+    "content-blue-035",
+    "content-blue-046",
+    "content-blue-057",
+    "content-blue-140"
+  ],
+  "promoted": [
+    "content-blue-035",
+    "content-blue-046",
+    "content-blue-057",
+    "content-blue-140"
+  ],
+  "blue_and_red_filled_powerpoint_exported": true,
+  "blue_and_red_text_fit_overflows": 0,
+  "blue_and_red_logo_audit": "passed",
+  "source_length_blue_screening": [
+    "content-blue-035",
+    "content-blue-046",
+    "content-blue-057",
+    "content-blue-140"
+  ],
+  "not_promoted_rich_text_style_loss": [
+    "content-blue-014",
+    "content-blue-019",
+    "content-blue-020",
+    "content-blue-022"
+  ],
+  "not_promoted_semantic_capacity_pending": [],
+  "evidence_folder": "outputs/知识库正文组件续验-20261122",
+  "approval_status": "draft_pending_review",
+  "semantic_path_blue_red": "passed",
+  "wrong_item_count_rejected_before_output": "passed",
+  "semantic_powerpoint_outputs": 4,
+  "semantic_text_fit_overflows": 0,
+  "additional_verified": {
+    "content-blue-035": "blue and red alternate content exported with zero text overflows and valid logo",
+    "content-blue-140": "blue and red alternate content exported with zero text overflows after six title limits set"
+  },
+  "additional_semantic_blue_red": "passed",
+  "additional_wrong_item_count_rejected": "passed",
+  "content_blue_140_initial_alt_overflow_per_theme": 3,
+  "content_blue_140_final_alt_overflow_per_theme": 0,
+  "content_blue_140_overlimit_title_rejected": "passed",
+  "final_semantic_powerpoint_outputs": 8,
+  "final_semantic_text_fit_overflows": 0,
+  "rich_style_loss_evidence": {
+    "content-blue-014": {
+      "field": "text_58",
+      "source_distinct_run_styles": 2,
+      "filled_distinct_run_styles": 1
+    },
+    "content-blue-019": {
+      "field": "text_34",
+      "source_distinct_run_styles": 4,
+      "filled_distinct_run_styles": 1
+    },
+    "content-blue-020": {
+      "field": "text_34",
+      "source_distinct_run_styles": 2,
+      "filled_distinct_run_styles": 1
+    },
+    "content-blue-022": {
+      "field": "text_19",
+      "source_distinct_run_styles": 5,
+      "filled_distinct_run_styles": 1
+    }
+  }
+}

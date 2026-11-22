@@ -1,0 +1,132 @@
+{
+  "layouts": [
+    "content-blue-113",
+    "content-blue-233"
+  ],
+  "verified_counts": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "themes": [
+    "blue",
+    "red"
+  ],
+  "regular_cases": 16,
+  "capacity_cases": 16,
+  "powerpoint_passed": 32,
+  "text_overflows": 0,
+  "fixed_body_span": true,
+  "capacities": {
+    "content-blue-113": {
+      "3": {
+        "footer_label": 8,
+        "circle_title": 6,
+        "first_title": 8,
+        "second_title": 8,
+        "first_body": [
+          24,
+          24
+        ],
+        "second_body": [
+          24,
+          24
+        ]
+      },
+      "4": {
+        "footer_label": 8,
+        "circle_title": 6,
+        "first_title": 8,
+        "second_title": 8,
+        "first_body": [
+          18,
+          18
+        ],
+        "second_body": [
+          18,
+          18
+        ]
+      },
+      "5": {
+        "footer_label": 8,
+        "circle_title": 6,
+        "first_title": 8,
+        "second_title": 8,
+        "first_body": [
+          14,
+          14
+        ],
+        "second_body": [
+          14,
+          14
+        ]
+      },
+      "6": {
+        "circle_title": 5,
+        "footer_label": 7,
+        "first_title": 7,
+        "second_title": 7,
+        "first_body": [
+          12,
+          12
+        ],
+        "second_body": [
+          12,
+          12
+        ]
+      }
+    },
+    "content-blue-233": {
+      "3": {
+        "title": 7,
+        "tag_a": 6,
+        "tag_b": 6,
+        "summary": 64,
+        "goal_label": 6,
+        "action_label": 6,
+        "goal": [
+          33,
+          33
+        ]
+      },
+      "4": {
+        "title": 7,
+        "tag_a": 6,
+        "tag_b": 6,
+        "summary": 52,
+        "goal_label": 6,
+        "action_label": 6,
+        "goal": [
+          26,
+          26
+        ]
+      },
+      "5": {
+        "title": 7,
+        "tag_a": 6,
+        "tag_b": 6,
+        "summary": 42,
+        "goal_label": 6,
+        "action_label": 6,
+        "goal": [
+          22,
+          22
+        ]
+      },
+      "6": {
+        "title": 6,
+        "tag_a": 5,
+        "tag_b": 5,
+        "summary": 36,
+        "goal_label": 5,
+        "action_label": 5,
+        "goal": [
+          18,
+          18
+        ]
+      }
+    }
+  },
+  "required_skill_commit": "ce1ffb4f96f95ccf506b334db3ff36ae3181b8e0"
+}

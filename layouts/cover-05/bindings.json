@@ -15,7 +15,9 @@
         1.1,
         0.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "title",
+      "semantic_path": "cover.title",
+      "max_lines": 1
     },
     {
       "field": "text_16",
@@ -31,7 +33,9 @@
         0.8,
         0.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "english_subtitle",
+      "semantic_path": "cover.english_subtitle",
+      "max_lines": 1
     },
     {
       "field": "text_19",
@@ -47,7 +51,8 @@
         301.2,
         28.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "tagline_en",
+      "semantic_path": "cover.tagline_en"
     },
     {
       "field": "text_17",
@@ -63,7 +68,9 @@
         204.8,
         20.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "subtitle",
+      "semantic_path": "cover.subtitle",
+      "max_lines": 1
     },
     {
       "field": "text_3",

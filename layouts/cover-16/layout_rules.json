@@ -2,5 +2,16 @@
   "cardinality_mode": "fixed_until_validated",
   "supported_counts": [],
   "source_count": null,
-  "reflow_status": "not_implemented"
+  "reflow_status": "not_implemented",
+  "render_overrides": {
+    "warm-gold": {
+      "shape_height_pt_by_shape_id": {
+        "18": 21
+      }
+    }
+  },
+  "title_pressure_test": {
+    "safe_title_chars": 10,
+    "evidence": "10 CJK title and source-length English subtitle PowerPoint exported, visual page reviewed, text bounds checked"
+  }
 }

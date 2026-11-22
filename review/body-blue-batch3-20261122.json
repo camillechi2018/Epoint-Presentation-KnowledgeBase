@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-11-22",
+  "baseline_commit": "7d6adf4",
+  "screened": [
+    "content-blue-156",
+    "content-blue-158",
+    "content-blue-159",
+    "content-blue-090",
+    "content-blue-188",
+    "content-blue-233"
+  ],
+  "promoted": [
+    "content-blue-090",
+    "content-blue-188",
+    "content-blue-233"
+  ],
+  "pending": {
+    "content-blue-156": "body lead labels use mixed bold runs; current text fill collapses those styles",
+    "content-blue-158": "body lead labels use mixed bold runs; current text fill collapses those styles",
+    "content-blue-159": "body lead labels use mixed bold runs; current text fill collapses those styles"
+  },
+  "validation_scope": "body content only; page title, logo, underline excluded because skill manages them",
+  "blue_red_alternate_filled_powerpoint_exported": true,
+  "blue_red_body_text_fit_overflows": 0,
+  "semantic_fill_powerpoint_exported": "6/6 passed",
+  "semantic_body_text_fit_overflows": 0,
+  "wrong_item_count_rejected": "6/6 passed",
+  "semantic_vs_raw_export_pixel_diff": "none in 6/6",
+  "evidence_folder": "outputs/知识库正文组件续验-第三批-20261122",
+  "approval_status": "draft_pending_review"
+}

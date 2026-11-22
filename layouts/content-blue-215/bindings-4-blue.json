@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "椭圆 34",
+      "type": "text",
+      "max_chars": 3,
+      "source_sample_chars": 3,
+      "source_text": "第一周",
+      "bounds_pt": [
+        114.0,
+        423.9,
+        72.0,
+        72.0
+      ],
+      "semantic_path": "items[0].marker",
+      "max_lines": 1,
+      "max_width_units": 6
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "椭圆 38",
+      "type": "text",
+      "max_chars": 3,
+      "source_sample_chars": 3,
+      "source_text": "第二周",
+      "bounds_pt": [
+        334.0,
+        423.9,
+        72.0,
+        72.0
+      ],
+      "semantic_path": "items[1].marker",
+      "max_lines": 1,
+      "max_width_units": 6
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "椭圆 39",
+      "type": "text",
+      "max_chars": 3,
+      "source_sample_chars": 3,
+      "source_text": "第三周",
+      "bounds_pt": [
+        554.0,
+        423.9,
+        72.0,
+        72.0
+      ],
+      "semantic_path": "items[2].marker",
+      "max_lines": 1,
+      "max_width_units": 6
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "椭圆 40",
+      "type": "text",
+      "max_chars": 3,
+      "source_sample_chars": 3,
+      "source_text": "第四周",
+      "bounds_pt": [
+        774.0,
+        423.9,
+        72.0,
+        72.0
+      ],
+      "semantic_path": "items[3].marker",
+      "max_lines": 1,
+      "max_width_units": 6
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "文本框 3",
+      "type": "text",
+      "max_chars": 12,
+      "source_sample_chars": 10,
+      "source_text": "01.目标与战略规划",
+      "bounds_pt": [
+        43.2,
+        241.0,
+        213.0,
+        24.2
+      ],
+      "semantic_path": "items[0].title",
+      "max_lines": 1,
+      "max_width_units": 24
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "max_chars": 12,
+      "source_sample_chars": 10,
+      "source_text": "03.渠道与平台选择",
+      "bounds_pt": [
+        483.5,
+        241.0,
+        213.0,
+        24.2
+      ],
+      "semantic_path": "items[2].title",
+      "max_lines": 1,
+      "max_width_units": 24
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "文本框 8",
+      "type": "text",
+      "max_chars": 12,
+      "source_sample_chars": 11,
+      "source_text": "02. 创意与内容开发",
+      "bounds_pt": [
+        263.2,
+        88.1,
+        213.0,
+        24.2
+      ],
+      "semantic_path": "items[1].title",
+      "max_lines": 1,
+      "max_width_units": 24
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 12,
+      "source_sample_chars": 11,
+      "source_text": "04. 执行与进度监控",
+      "bounds_pt": [
+        703.3,
+        88.1,
+        213.0,
+        24.2
+      ],
+      "semantic_path": "items[3].title",
+      "max_lines": 1,
+      "max_width_units": 24
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "文本框 11",
+      "type": "text",
+      "max_chars": 61,
+      "source_sample_chars": 44,
+      "source_text": "确定市场活动的核心任务目标明确活动方向。\n制定战略规划，进行目标受众分析和市场调研分析。",
+      "bounds_pt": [
+        49.4,
+        291.6,
+        201.2,
+        88.4
+      ],
+      "semantic_path": "items[0].body",
+      "max_lines": 2,
+      "max_chars_per_line": 30,
+      "max_width_units": 60
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "文本框 14",
+      "type": "text",
+      "max_chars": 61,
+      "source_sample_chars": 49,
+      "source_text": "制定创意策划，确保活动内容具有创新性和可执行性。\n开发活动相关的宣传物料，如海报、社交媒体内容等。",
+      "bounds_pt": [
+        269.4,
+        138.2,
+        201.2,
+        88.4
+      ],
+      "semantic_path": "items[1].body",
+      "max_lines": 2,
+      "max_chars_per_line": 30,
+      "max_width_units": 60
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "文本框 15",
+      "type": "text",
+      "max_chars": 61,
+      "source_sample_chars": 46,
+      "source_text": "制定详细的执行计划，分配任务并明确各阶段的责任。\n实时监控活动效果，调整策略以应对突发情况。",
+      "bounds_pt": [
+        709.4,
+        139.0,
+        201.2,
+        88.4
+      ],
+      "semantic_path": "items[3].body",
+      "max_lines": 2,
+      "max_chars_per_line": 30,
+      "max_width_units": 60
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "max_chars": 61,
+      "source_sample_chars": 42,
+      "source_text": "根据活动的目标受众，选择合适的宣传渠道。\n整合线上与线下渠道，增加活动曝光度和热度。",
+      "bounds_pt": [
+        489.4,
+        292.4,
+        201.2,
+        88.4
+      ],
+      "semantic_path": "items[2].body",
+      "max_lines": 2,
+      "max_chars_per_line": 30,
+      "max_width_units": 60
+    },
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "文本框 1",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "时间轴｜项目推进计划",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_path": "page.title"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 6,
+        "shape_name": "图片 5",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ],
+        "semantic_role": "brand_logo_locked"
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

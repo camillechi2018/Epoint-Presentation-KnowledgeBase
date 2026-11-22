@@ -1,0 +1,50 @@
+{
+  "verified_counts": {
+    "content-blue-113": [
+      4,
+      5
+    ],
+    "content-blue-233": [
+      3,
+      4,
+      5
+    ]
+  },
+  "themes": [
+    "blue",
+    "red"
+  ],
+  "regular_cases": 10,
+  "capacity_cases": 6,
+  "powerpoint_passed": 16,
+  "text_overflows": 0,
+  "reduced_item_limits": {
+    "113": {
+      "footer_label": 8,
+      "circle_title": 6,
+      "first_title": 8,
+      "second_title": 8,
+      "first_body": [
+        14,
+        14
+      ],
+      "second_body": [
+        14,
+        14
+      ]
+    },
+    "233": {
+      "title": 7,
+      "tag_a": 6,
+      "tag_b": 6,
+      "summary": 42,
+      "goal_label": 6,
+      "action_label": 6,
+      "goal": [
+        22,
+        22
+      ]
+    }
+  },
+  "required_skill_commit": "5d38f70392a2c056627dcb7338b7f0ae7c32fc60"
+}

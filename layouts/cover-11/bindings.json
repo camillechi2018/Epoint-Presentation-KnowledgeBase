@@ -15,7 +15,9 @@
         141.9,
         20.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "date",
+      "semantic_path": "cover.date",
+      "max_lines": 1
     },
     {
       "field": "text_25",
@@ -31,7 +33,9 @@
         153.5,
         19.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "subtitle",
+      "semantic_path": "cover.subtitle",
+      "max_lines": 1
     },
     {
       "field": "text_14",
@@ -63,7 +67,9 @@
         480.0,
         50.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "title",
+      "semantic_path": "cover.title",
+      "max_lines": 1
     },
     {
       "field": "text_21",
@@ -79,7 +85,9 @@
         432.5,
         25.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "english_subtitle",
+      "semantic_path": "cover.english_subtitle",
+      "max_lines": 1
     }
   ],
   "objects": {

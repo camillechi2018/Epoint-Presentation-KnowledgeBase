@@ -15,7 +15,8 @@
         823.9,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "page.title",
+      "max_lines": 1
     },
     {
       "field": "text_19",
@@ -31,14 +32,15 @@
         61.5,
         154.2
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "labels.dimension",
+      "max_lines": 4
     },
     {
       "field": "text_6",
       "shape_id": 6,
       "shape_name": "任意形状 5",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 8,
       "source_sample_chars": 6,
       "source_text": "市场拓展方面",
       "bounds_pt": [
@@ -47,14 +49,16 @@
         183.5,
         50.7
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[0].category",
+      "max_lines": 1,
+      "max_width_units": 16
     },
     {
       "field": "text_9",
       "shape_id": 9,
       "shape_name": "任意形状 8",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 8,
       "source_sample_chars": 6,
       "source_text": "运营效率方面",
       "bounds_pt": [
@@ -63,14 +67,16 @@
         183.5,
         50.7
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[1].category",
+      "max_lines": 1,
+      "max_width_units": 16
     },
     {
       "field": "text_11",
       "shape_id": 11,
       "shape_name": "任意形状 10",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 8,
       "source_sample_chars": 6,
       "source_text": "技术革新方面",
       "bounds_pt": [
@@ -79,14 +85,16 @@
         183.5,
         50.7
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[2].category",
+      "max_lines": 1,
+      "max_width_units": 16
     },
     {
       "field": "text_16",
       "shape_id": 16,
       "shape_name": "任意形状 15",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 8,
       "source_sample_chars": 6,
       "source_text": "团队建设方面",
       "bounds_pt": [
@@ -95,14 +103,16 @@
         183.5,
         50.7
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[3].category",
+      "max_lines": 1,
+      "max_width_units": 16
     },
     {
       "field": "text_7",
       "shape_id": 7,
       "shape_name": "矩形: 圆角 6",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 10,
       "source_text": "市场开发难度持续加大",
       "bounds_pt": [
@@ -111,14 +121,16 @@
         171.7,
         23.2
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[0].challenge_title",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_32",
       "shape_id": 32,
       "shape_name": "文本框 31",
       "type": "text",
-      "max_chars": 96,
+      "max_chars": 47,
       "source_sample_chars": 48,
       "source_text": "区域市场竞争激烈态势不断加剧，同质化产品显著增多。\n地方保护主义影响加剧，市场准入效率明显降低。",
       "bounds_pt": [
@@ -127,14 +139,17 @@
         171.7,
         76.0
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[0].challenge_body",
+      "max_lines": 2,
+      "max_chars_per_line": 23,
+      "max_width_units": 46
     },
     {
       "field": "text_33",
       "shape_id": 33,
       "shape_name": "矩形: 圆角 32",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 10,
       "source_text": "流程效率提升遭遇瓶颈",
       "bounds_pt": [
@@ -143,14 +158,16 @@
         171.7,
         23.2
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[1].challenge_title",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_34",
       "shape_id": 34,
       "shape_name": "矩形: 圆角 33",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 10,
       "source_text": "技术迭代压力持续增大",
       "bounds_pt": [
@@ -159,14 +176,16 @@
         171.7,
         23.2
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[2].challenge_title",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_35",
       "shape_id": 35,
       "shape_name": "矩形: 圆角 34",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 10,
       "source_text": "人才体系亟待优化完善",
       "bounds_pt": [
@@ -175,14 +194,16 @@
         171.7,
         23.2
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[3].challenge_title",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_36",
       "shape_id": 36,
       "shape_name": "矩形: 圆角 35",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 10,
       "source_text": "创新市场开发合作模式",
       "bounds_pt": [
@@ -191,14 +212,16 @@
         171.7,
         23.2
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[0].solution_title",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_37",
       "shape_id": 37,
       "shape_name": "矩形: 圆角 36",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 11,
       "source_text": "全面推进数字化转型进程",
       "bounds_pt": [
@@ -207,14 +230,16 @@
         171.7,
         23.2
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[1].solution_title",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_38",
       "shape_id": 38,
       "shape_name": "矩形: 圆角 37",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 10,
       "source_text": "构建创新技术支撑体系",
       "bounds_pt": [
@@ -223,14 +248,16 @@
         171.7,
         23.2
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[2].solution_title",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_39",
       "shape_id": 39,
       "shape_name": "矩形: 圆角 38",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 10,
       "source_text": "完善人才发展培养体系",
       "bounds_pt": [
@@ -239,14 +266,16 @@
         171.7,
         23.2
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[3].solution_title",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_40",
       "shape_id": 40,
       "shape_name": "文本框 39",
       "type": "text",
-      "max_chars": 88,
+      "max_chars": 47,
       "source_sample_chars": 44,
       "source_text": "传统业务流程体系难以适应业务快速发展新需求。\n部门协作效率问题持续制约整体运营效能提升。",
       "bounds_pt": [
@@ -255,14 +284,17 @@
         171.7,
         76.0
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[1].challenge_body",
+      "max_lines": 2,
+      "max_chars_per_line": 23,
+      "max_width_units": 46
     },
     {
       "field": "text_41",
       "shape_id": 41,
       "shape_name": "文本框 40",
       "type": "text",
-      "max_chars": 86,
+      "max_chars": 47,
       "source_sample_chars": 43,
       "source_text": "现有技术架构体系难以支撑业务创新发展需求。\n技术人才储备数量与业务发展速度出现不匹配。",
       "bounds_pt": [
@@ -271,14 +303,17 @@
         171.7,
         76.0
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[2].challenge_body",
+      "max_lines": 2,
+      "max_chars_per_line": 23,
+      "max_width_units": 46
     },
     {
       "field": "text_42",
       "shape_id": 42,
       "shape_name": "文本框 41",
       "type": "text",
-      "max_chars": 86,
+      "max_chars": 47,
       "source_sample_chars": 43,
       "source_text": "核心人才储备明显不足，影响业务持续稳定发展。\n团队创新能力水平与市场发展要求存在差距。",
       "bounds_pt": [
@@ -287,14 +322,17 @@
         171.7,
         76.0
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[3].challenge_body",
+      "max_lines": 2,
+      "max_chars_per_line": 23,
+      "max_width_units": 46
     },
     {
       "field": "text_43",
       "shape_id": 43,
       "shape_name": "文本框 42",
       "type": "text",
-      "max_chars": 96,
+      "max_chars": 47,
       "source_sample_chars": 48,
       "source_text": "采取差异化竞争策略体系，打造特色化产品矩阵组。\n建立区域战略合作联盟机制，有效突破地方市场壁垒。",
       "bounds_pt": [
@@ -303,14 +341,17 @@
         171.7,
         76.0
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[0].solution_body",
+      "max_lines": 2,
+      "max_chars_per_line": 23,
+      "max_width_units": 46
     },
     {
       "field": "text_44",
       "shape_id": 44,
       "shape_name": "文本框 43",
       "type": "text",
-      "max_chars": 94,
+      "max_chars": 47,
       "source_sample_chars": 47,
       "source_text": "实施业务流程再造工程，引入智能化管理系统平台。\n建立跨部门协同工作机制，优化资源配置使用效率。",
       "bounds_pt": [
@@ -319,14 +360,17 @@
         171.7,
         76.0
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[1].solution_body",
+      "max_lines": 2,
+      "max_chars_per_line": 23,
+      "max_width_units": 46
     },
     {
       "field": "text_45",
       "shape_id": 45,
       "shape_name": "文本框 44",
       "type": "text",
-      "max_chars": 96,
+      "max_chars": 47,
       "source_sample_chars": 48,
       "source_text": "搭建敏捷可扩展技术架构，支持产品快速迭代需求。\n完善技术人才培养机制建设，提升团队整体技术能力。",
       "bounds_pt": [
@@ -335,14 +379,17 @@
         171.7,
         76.0
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[2].solution_body",
+      "max_lines": 2,
+      "max_chars_per_line": 23,
+      "max_width_units": 46
     },
     {
       "field": "text_46",
       "shape_id": 46,
       "shape_name": "文本框 45",
       "type": "text",
-      "max_chars": 90,
+      "max_chars": 47,
       "source_sample_chars": 45,
       "source_text": "建立多层次全方位人才培养机制体系储备岗位人才。\n打造学习型组织文化，持续激发团队创新活力。",
       "bounds_pt": [
@@ -351,7 +398,10 @@
         171.7,
         76.0
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[3].solution_body",
+      "max_lines": 2,
+      "max_chars_per_line": 23,
+      "max_width_units": 46
     },
     {
       "field": "text_49",
@@ -367,7 +417,8 @@
         47.3,
         94.5
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "labels.challenge",
+      "max_lines": 4
     },
     {
       "field": "text_52",
@@ -383,7 +434,8 @@
         47.3,
         94.5
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "labels.solution",
+      "max_lines": 4
     }
   ],
   "objects": {

@@ -6,7 +6,7 @@
       "shape_id": 31,
       "shape_name": "Arrow: Pentagon 113",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 7,
       "source_text": "01.决策能力",
       "bounds_pt": [
@@ -15,14 +15,16 @@
         183.1,
         32.2
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[0].title",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_32",
       "shape_id": 32,
       "shape_name": "Arrow: Pentagon 113",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 7,
       "source_text": "02.客户关系",
       "bounds_pt": [
@@ -31,14 +33,16 @@
         183.1,
         32.2
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[1].title",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_33",
       "shape_id": 33,
       "shape_name": "Arrow: Pentagon 113",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 7,
       "source_text": "03.效率优化",
       "bounds_pt": [
@@ -47,14 +51,16 @@
         183.1,
         32.2
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[2].title",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_34",
       "shape_id": 34,
       "shape_name": "Arrow: Pentagon 113",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 7,
       "source_text": "04.创新思维",
       "bounds_pt": [
@@ -63,14 +69,16 @@
         183.1,
         32.2
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[3].title",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_37",
       "shape_id": 37,
       "shape_name": "TextBox 41",
       "type": "text",
-      "max_chars": 172,
+      "max_chars": 51,
       "source_sample_chars": 86,
       "source_text": "今年在工作中承担了更多的管理职责通过有效的团队管理和激励策略，提升了团队的整体表现和士气。\n我积极组织和协调团队活动，帮助成员发挥最佳潜力，从而成功达成了多个关键项目目标。",
       "bounds_pt": [
@@ -79,14 +87,17 @@
         173.3,
         147.9
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[0].body",
+      "max_lines": 2,
+      "max_chars_per_line": 25,
+      "max_width_units": 50
     },
     {
       "field": "text_45",
       "shape_id": 45,
       "shape_name": "TextBox 41",
       "type": "text",
-      "max_chars": 160,
+      "max_chars": 51,
       "source_sample_chars": 80,
       "source_text": "对现有工作流程进行了深入分析，并识别了多个改进点。\n我实施了新的流程优化措施，包括自动化和精简操作，从而显著提升了工作效率，减少了重复劳动，并节省了宝贵的时间。",
       "bounds_pt": [
@@ -95,14 +106,17 @@
         173.3,
         129.8
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[2].body",
+      "max_lines": 2,
+      "max_chars_per_line": 25,
+      "max_width_units": 50
     },
     {
       "field": "text_48",
       "shape_id": 48,
       "shape_name": "TextBox 41",
       "type": "text",
-      "max_chars": 156,
+      "max_chars": 51,
       "source_sample_chars": 78,
       "source_text": "通过改进与客户的沟通方式和服务策略，我建立了更加牢固和信任的客户关系。\n通过定期反馈和主动解决客户问题显著提高了客户满意度，并成功促进了长期合作关系的建立。",
       "bounds_pt": [
@@ -111,14 +125,17 @@
         173.3,
         129.8
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[1].body",
+      "max_lines": 2,
+      "max_chars_per_line": 25,
+      "max_width_units": 50
     },
     {
       "field": "text_51",
       "shape_id": 51,
       "shape_name": "TextBox 41",
       "type": "text",
-      "max_chars": 174,
+      "max_chars": 51,
       "source_sample_chars": 87,
       "source_text": "在面对工作中的挑战时，我积极提出并实施创新的解决方案。这些创新思维不仅改善了工作流程还推动了新项目的成功实施。\n鼓励团队尝试新方法和技术，从而提高了整体工作效果和公司竞争力。",
       "bounds_pt": [
@@ -127,7 +144,10 @@
         173.3,
         147.9
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[3].body",
+      "max_lines": 2,
+      "max_chars_per_line": 25,
+      "max_width_units": 50
     },
     {
       "field": "text_3",
@@ -143,14 +163,14 @@
         823.9,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "page.title"
     },
     {
       "field": "text_10",
       "shape_id": 10,
       "shape_name": "TextBox 161",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 8,
       "source_sample_chars": 8,
       "source_text": "工作中的成长进步",
       "bounds_pt": [
@@ -159,14 +179,16 @@
         276.3,
         46.0
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "intro.title",
+      "max_lines": 1,
+      "max_width_units": 16
     },
     {
       "field": "text_11",
       "shape_id": 11,
       "shape_name": "Rectangle 4",
       "type": "text",
-      "max_chars": 136,
+      "max_chars": 65,
       "source_sample_chars": 68,
       "source_text": "工作中的成长与进步是成功的关键。它推动我们不断提升技能，适应变化，并实现职业目标。每一步进步都为未来铺平道路，成就个人和团队的最终成功。",
       "bounds_pt": [
@@ -175,7 +197,9 @@
         590.0,
         34.7
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "intro.body",
+      "max_lines": 1,
+      "max_width_units": 130
     }
   ],
   "objects": {

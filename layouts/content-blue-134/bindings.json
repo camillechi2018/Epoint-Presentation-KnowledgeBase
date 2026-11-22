@@ -15,14 +15,14 @@
         606.5,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "page.title"
     },
     {
       "field": "text_32",
       "shape_id": 32,
       "shape_name": "任意多边形: 形状 31",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 10,
       "source_sample_chars": 12,
       "source_text": "个人在工作中的优缺点复盘",
       "bounds_pt": [
@@ -31,14 +31,16 @@
         76.0,
         279.4
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "center.spine",
+      "max_lines": 1,
+      "max_width_units": 20
     },
     {
       "field": "text_33",
       "shape_id": 33,
       "shape_name": "矩形: 圆角 32",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 9,
       "source_text": "01.高效协作沟通",
       "bounds_pt": [
@@ -47,14 +49,16 @@
         175.3,
         23.4
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "pairs[0].left_title",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_34",
       "shape_id": 34,
       "shape_name": "矩形: 圆角 33",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 9,
       "source_text": "02.管理能力较强",
       "bounds_pt": [
@@ -63,14 +67,16 @@
         175.3,
         23.4
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "pairs[1].left_title",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_35",
       "shape_id": 35,
       "shape_name": "矩形: 圆角 34",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 9,
       "source_text": "03.团队协作较好",
       "bounds_pt": [
@@ -79,14 +85,16 @@
         175.3,
         23.4
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "pairs[2].left_title",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_36",
       "shape_id": 36,
       "shape_name": "矩形: 圆角 35",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 9,
       "source_text": "04.适应能力较强",
       "bounds_pt": [
@@ -95,14 +103,16 @@
         175.3,
         23.4
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "pairs[3].left_title",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_37",
       "shape_id": 37,
       "shape_name": "矩形: 圆角 36",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 9,
       "source_text": "01.过于追求完美",
       "bounds_pt": [
@@ -111,14 +121,16 @@
         175.3,
         23.4
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "pairs[0].right_title",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_38",
       "shape_id": 38,
       "shape_name": "矩形: 圆角 37",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 10,
       "source_text": "02.缺乏适时的授权",
       "bounds_pt": [
@@ -127,14 +139,16 @@
         175.3,
         23.4
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "pairs[1].right_title",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_39",
       "shape_id": 39,
       "shape_name": "矩形: 圆角 38",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 9,
       "source_text": "03.情绪管理不足",
       "bounds_pt": [
@@ -143,14 +157,16 @@
         175.3,
         23.4
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "pairs[2].right_title",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_40",
       "shape_id": 40,
       "shape_name": "矩形: 圆角 39",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 9,
       "source_text": "04.决策过于谨慎",
       "bounds_pt": [
@@ -159,14 +175,16 @@
         175.3,
         23.4
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "pairs[3].right_title",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_78",
       "shape_id": 78,
       "shape_name": "文本框 77",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 9,
       "source_text": "个人工作\n中的优点",
       "bounds_pt": [
@@ -175,14 +193,17 @@
         156.9,
         75.1
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "center.left",
+      "max_lines": 2,
+      "max_chars_per_line": 4,
+      "max_width_units": 8
     },
     {
       "field": "text_79",
       "shape_id": 79,
       "shape_name": "文本框 78",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 9,
       "source_text": "个人工作\n中的缺点",
       "bounds_pt": [
@@ -191,14 +212,17 @@
         156.9,
         75.1
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "center.right",
+      "max_lines": 2,
+      "max_chars_per_line": 4,
+      "max_width_units": 8
     },
     {
       "field": "text_83",
       "shape_id": 83,
       "shape_name": "文本框 82",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 4,
       "source_text": "优点复盘",
       "bounds_pt": [
@@ -207,14 +231,16 @@
         157.5,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "center.left_footer",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_84",
       "shape_id": 84,
       "shape_name": "文本框 83",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 4,
       "source_text": "缺点复盘",
       "bounds_pt": [
@@ -223,14 +249,16 @@
         157.5,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "center.right_footer",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_12",
       "shape_id": 12,
       "shape_name": "文本框 11",
       "type": "text",
-      "max_chars": 72,
+      "max_chars": 34,
       "source_sample_chars": 36,
       "source_text": "我能清晰表达并倾听他人意见，提出建设性建议，帮助团队达成共识，提升效率。",
       "bounds_pt": [
@@ -239,14 +267,16 @@
         208.5,
         41.8
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "pairs[0].left_body",
+      "max_lines": 1,
+      "max_width_units": 68
     },
     {
       "field": "text_13",
       "shape_id": 13,
       "shape_name": "文本框 12",
       "type": "text",
-      "max_chars": 64,
+      "max_chars": 34,
       "source_sample_chars": 32,
       "source_text": "擅长根据任务优先级安排，合理安排规划时间，确保关键任务按时完成。",
       "bounds_pt": [
@@ -255,14 +285,16 @@
         208.5,
         41.8
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "pairs[1].left_body",
+      "max_lines": 1,
+      "max_width_units": 68
     },
     {
       "field": "text_24",
       "shape_id": 24,
       "shape_name": "文本框 23",
       "type": "text",
-      "max_chars": 60,
+      "max_chars": 34,
       "source_sample_chars": 30,
       "source_text": "乐于帮助同事，促进沟通合作，确保项目进展顺利，提高团队效率。",
       "bounds_pt": [
@@ -271,14 +303,16 @@
         208.5,
         41.8
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "pairs[2].left_body",
+      "max_lines": 1,
+      "max_width_units": 68
     },
     {
       "field": "text_25",
       "shape_id": 25,
       "shape_name": "文本框 24",
       "type": "text",
-      "max_chars": 62,
+      "max_chars": 34,
       "source_sample_chars": 31,
       "source_text": "能迅速适应工作任务和需求变化，调整工作方式，确保进度不受影响。",
       "bounds_pt": [
@@ -287,14 +321,16 @@
         208.5,
         41.8
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "pairs[3].left_body",
+      "max_lines": 1,
+      "max_width_units": 68
     },
     {
       "field": "text_26",
       "shape_id": 26,
       "shape_name": "文本框 25",
       "type": "text",
-      "max_chars": 56,
+      "max_chars": 34,
       "source_sample_chars": 28,
       "source_text": "有时在细节上投入过多时间，可能影响效率尤其在紧急任务中。",
       "bounds_pt": [
@@ -303,14 +339,16 @@
         208.5,
         41.8
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "pairs[0].right_body",
+      "max_lines": 1,
+      "max_width_units": 68
     },
     {
       "field": "text_27",
       "shape_id": 27,
       "shape_name": "文本框 26",
       "type": "text",
-      "max_chars": 66,
+      "max_chars": 34,
       "source_sample_chars": 33,
       "source_text": "常依赖自己完成任务，未充分分配任务，影响了整体工作进度和团队成长。",
       "bounds_pt": [
@@ -319,14 +357,16 @@
         208.5,
         41.8
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "pairs[1].right_body",
+      "max_lines": 1,
+      "max_width_units": 68
     },
     {
       "field": "text_28",
       "shape_id": 28,
       "shape_name": "文本框 27",
       "type": "text",
-      "max_chars": 54,
+      "max_chars": 34,
       "source_sample_chars": 27,
       "source_text": "在压力下情绪波动较大，影响沟通和决策可能影响团队士气。",
       "bounds_pt": [
@@ -335,14 +375,16 @@
         208.5,
         41.8
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "pairs[2].right_body",
+      "max_lines": 1,
+      "max_width_units": 68
     },
     {
       "field": "text_29",
       "shape_id": 29,
       "shape_name": "文本框 28",
       "type": "text",
-      "max_chars": 48,
+      "max_chars": 34,
       "source_sample_chars": 24,
       "source_text": "考虑过多细节和风险，决策过程缓慢，影响项目推进。",
       "bounds_pt": [
@@ -351,14 +393,16 @@
         208.5,
         41.8
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "pairs[3].right_body",
+      "max_lines": 1,
+      "max_width_units": 68
     },
     {
       "field": "text_9",
       "shape_id": 9,
       "shape_name": "文本框 8",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 3,
       "source_sample_chars": 3,
       "source_text": "协作好",
       "bounds_pt": [
@@ -367,14 +411,16 @@
         62.1,
         22.7
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "center.labels[0].text",
+      "max_lines": 1,
+      "max_width_units": 6
     },
     {
       "field": "text_10",
       "shape_id": 10,
       "shape_name": "文本框 9",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 3,
       "source_sample_chars": 3,
       "source_text": "适应强",
       "bounds_pt": [
@@ -383,14 +429,16 @@
         62.1,
         22.7
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "center.labels[1].text",
+      "max_lines": 1,
+      "max_width_units": 6
     },
     {
       "field": "text_11",
       "shape_id": 11,
       "shape_name": "文本框 10",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 3,
       "source_sample_chars": 3,
       "source_text": "能力强",
       "bounds_pt": [
@@ -399,14 +447,16 @@
         62.1,
         22.7
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "center.labels[2].text",
+      "max_lines": 1,
+      "max_width_units": 6
     },
     {
       "field": "text_56",
       "shape_id": 56,
       "shape_name": "文本框 55",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 3,
       "source_sample_chars": 3,
       "source_text": "细节狂",
       "bounds_pt": [
@@ -415,14 +465,16 @@
         62.1,
         22.7
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "center.labels[3].text",
+      "max_lines": 1,
+      "max_width_units": 6
     },
     {
       "field": "text_57",
       "shape_id": 57,
       "shape_name": "文本框 56",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 3,
       "source_sample_chars": 3,
       "source_text": "考虑多",
       "bounds_pt": [
@@ -431,14 +483,16 @@
         62.1,
         22.7
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "center.labels[4].text",
+      "max_lines": 1,
+      "max_width_units": 6
     },
     {
       "field": "text_58",
       "shape_id": 58,
       "shape_name": "文本框 57",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 3,
       "source_sample_chars": 3,
       "source_text": "情绪差",
       "bounds_pt": [
@@ -447,7 +501,9 @@
         62.1,
         22.7
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "center.labels[5].text",
+      "max_lines": 1,
+      "max_width_units": 6
     }
   ],
   "objects": {

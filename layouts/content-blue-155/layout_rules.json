@@ -1,6 +1,145 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
-  "source_count": null,
-  "reflow_status": "not_implemented"
+  "cardinality_mode": "repeatable",
+  "supported_counts": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "source_count": 5,
+  "reflow_status": "native_fixed_span_reflow_verified",
+  "validation_status": "verified",
+  "verified_counts": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "units": [
+    [
+      14,
+      21,
+      22,
+      2,
+      37,
+      44,
+      45,
+      10,
+      59
+    ],
+    [
+      15,
+      23,
+      24,
+      32,
+      31,
+      38,
+      47,
+      51,
+      55,
+      61
+    ],
+    [
+      16,
+      25,
+      26,
+      33,
+      36,
+      41,
+      48,
+      52,
+      56,
+      62
+    ],
+    [
+      17,
+      27,
+      28,
+      34,
+      39,
+      42,
+      49,
+      53,
+      57,
+      63
+    ],
+    [
+      18,
+      29,
+      30,
+      35,
+      40,
+      43,
+      50,
+      54,
+      58,
+      64
+    ]
+  ],
+  "spacing_emu": 2217420,
+  "centered_reflow": {},
+  "fixed_span_reflow": {
+    "arc_shape_id": 19,
+    "separator_shape_ids": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "fixed_width_when_reduced": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      2,
+      31,
+      36,
+      39,
+      40,
+      59,
+      61,
+      62,
+      63,
+      64,
+      37,
+      38,
+      41,
+      42,
+      43
+    ],
+    "tight_margins_when_expanded": [
+      37,
+      38,
+      41,
+      42,
+      43,
+      10,
+      47,
+      48,
+      49,
+      50,
+      44,
+      45,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58
+    ],
+    "anchor_shape_ids": [
+      21,
+      23,
+      25,
+      27,
+      29
+    ],
+    "preserve_gutter": true,
+    "extra_source_index": 4,
+    "extra_target_index": 5,
+    "clone_id_offset": 10000
+  }
 }

@@ -1,0 +1,59 @@
+{
+  "verified_counts": {
+    "content-blue-188": [
+      8,
+      9,
+      12
+    ]
+  },
+  "themes": [
+    "blue",
+    "red"
+  ],
+  "regular_cases": 6,
+  "capacity_cases": 6,
+  "powerpoint_passed": 12,
+  "text_overflows": 0,
+  "body_bounds_emu": [
+    540867,
+    11650370
+  ],
+  "groups_by_count": {
+    "8": {
+      "groups": 4,
+      "items_per_group": 2
+    },
+    "9": {
+      "groups": 3,
+      "items_per_group": 3
+    },
+    "12": {
+      "groups": 4,
+      "items_per_group": 3
+    }
+  },
+  "capacities": {
+    "8": {
+      "item_title": 15,
+      "item_body": 40,
+      "group_title": 6,
+      "group_summary": 72,
+      "footer": 60
+    },
+    "9": {
+      "item_title": 10,
+      "item_body": 33,
+      "group_title": 6,
+      "group_summary": 96,
+      "footer": 60
+    },
+    "12": {
+      "item_title": 10,
+      "item_body": 22,
+      "group_title": 6,
+      "group_summary": 72,
+      "footer": 60
+    }
+  },
+  "required_skill_commit": "40d0e70f9eded9833bee06493b51281c3ed2253b"
+}

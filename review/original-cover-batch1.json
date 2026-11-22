@@ -1,0 +1,197 @@
+{
+  "schema_version": "1.0",
+  "scope": "原 20 页封面中 18 条 provisional 组件的继续验证",
+  "baseline_commit": "b020abe61d0f9c218a4a79fdbec0faccd39f78cd",
+  "method": "短文案逐字段试填、Microsoft PowerPoint 逐页导出、文字边界审计和逐页预览复核；P07 与 P15 增加容量压力、Logo 与字段语义检查",
+  "screening": {
+    "layouts": 18,
+    "fill_passed": 18,
+    "powerpoint_export_passed": 18,
+    "text_fit_passed": 16,
+    "text_fit_failed": 2
+  },
+  "promoted": [
+    "cover-07",
+    "cover-15"
+  ],
+  "not_promoted": 16,
+  "cover_07": {
+    "title_9_cjk": "passed",
+    "english_subtitle_27_chars": "passed",
+    "logo": "passed",
+    "media": "passed"
+  },
+  "cover_15": {
+    "title_10_cjk": "passed",
+    "title_11_chars": "rejected_by_limit",
+    "english_subtitle_22_chars": "passed",
+    "english_subtitle_27_chars": "overflow_detected",
+    "logo": "passed",
+    "media": "passed",
+    "safe_english_subtitle_max_chars": 22
+  },
+  "items": [
+    {
+      "layout_id": "cover-03",
+      "short_copy_fill": "passed",
+      "powerpoint_export": "passed",
+      "text_overflow_count": 0,
+      "sample_sha256": "084a56e4b7c4741419454544c81c734a9f77f7d278f5a8e639fe2e1e64f987ec",
+      "review_result": "pending_review",
+      "remaining_issue": "标题中的原稿蓝色强调在填充后消失"
+    },
+    {
+      "layout_id": "cover-04",
+      "short_copy_fill": "passed",
+      "powerpoint_export": "passed",
+      "text_overflow_count": 0,
+      "sample_sha256": "db7870bfc761baef43d05c7c24c379d176f1536a932d39fe9af1669051faa4c4",
+      "review_result": "pending_review",
+      "remaining_issue": "标题中的原稿蓝色强调在填充后消失"
+    },
+    {
+      "layout_id": "cover-05",
+      "short_copy_fill": "passed",
+      "powerpoint_export": "passed",
+      "text_overflow_count": 0,
+      "sample_sha256": "3e9fc5c349ff383f06f1b574d5ee947be1933ff9c25f1d519810177e01b1dba1",
+      "review_result": "pending_review",
+      "remaining_issue": "逐字段语义及容量尚未完成签收"
+    },
+    {
+      "layout_id": "cover-06",
+      "short_copy_fill": "passed",
+      "powerpoint_export": "passed",
+      "text_overflow_count": 0,
+      "sample_sha256": "331dd2072fee74e31f261eb7d5ce75e05671475e682b0076ec2d40d6dae1ead8",
+      "review_result": "pending_review",
+      "remaining_issue": "逐字段语义及容量尚未完成签收"
+    },
+    {
+      "layout_id": "cover-07",
+      "short_copy_fill": "passed",
+      "powerpoint_export": "passed",
+      "text_overflow_count": 0,
+      "sample_sha256": "765b662a1bee293f4f7617f7b6714343b2663fe4f00d848d6ca67a43207476df",
+      "review_result": "verified_static_draft"
+    },
+    {
+      "layout_id": "cover-08",
+      "short_copy_fill": "passed",
+      "powerpoint_export": "passed",
+      "text_overflow_count": 0,
+      "sample_sha256": "8f6ddb841123643c0effcd8effeff923ef45af393320e8d32c7fe1179477c225",
+      "review_result": "pending_review",
+      "remaining_issue": "逐字段语义及容量尚未完成签收"
+    },
+    {
+      "layout_id": "cover-09",
+      "short_copy_fill": "passed",
+      "powerpoint_export": "passed",
+      "text_overflow_count": 0,
+      "sample_sha256": "25d1179fabe482cecc0886b10ba7703fb3f6934d8a38ad0eedae149e2afe3741",
+      "review_result": "pending_review",
+      "remaining_issue": "逐字段语义及容量尚未完成签收"
+    },
+    {
+      "layout_id": "cover-10",
+      "short_copy_fill": "passed",
+      "powerpoint_export": "passed",
+      "text_overflow_count": 0,
+      "sample_sha256": "238b635598d11d47048053dbb38217a8025ae2616bf3d369e446ec0fd0e32fbf",
+      "review_result": "pending_review",
+      "remaining_issue": "逐字段语义及容量尚未完成签收"
+    },
+    {
+      "layout_id": "cover-11",
+      "short_copy_fill": "passed",
+      "powerpoint_export": "passed",
+      "text_overflow_count": 0,
+      "sample_sha256": "446477663d521da19745e501313e0087c4ca87eaf816982aa61e92ef5838c561",
+      "review_result": "pending_review",
+      "remaining_issue": "逐字段语义及容量尚未完成签收"
+    },
+    {
+      "layout_id": "cover-12",
+      "short_copy_fill": "passed",
+      "powerpoint_export": "passed",
+      "text_overflow_count": 0,
+      "sample_sha256": "258666359bc07f1d9a500ec9022dafe65c712b29ad919743927f1a4a73811599",
+      "review_result": "pending_review",
+      "remaining_issue": "替换后年份与标题视觉靠近，需单页修整"
+    },
+    {
+      "layout_id": "cover-13",
+      "short_copy_fill": "passed",
+      "powerpoint_export": "passed",
+      "text_overflow_count": 2,
+      "sample_sha256": "15b275daac822db2bee15fb7c21193924e1d9c7374f7d40244e3b1cb3fc8b28a",
+      "review_result": "pending_review",
+      "remaining_issue": "两个年份文本框文字边界溢出"
+    },
+    {
+      "layout_id": "cover-14",
+      "short_copy_fill": "passed",
+      "powerpoint_export": "passed",
+      "text_overflow_count": 0,
+      "sample_sha256": "569f7502327ac61d678132389922a35dd711ce7abc672baa33fc06d92d777575",
+      "review_result": "pending_review",
+      "remaining_issue": "逐字段语义及容量尚未完成签收"
+    },
+    {
+      "layout_id": "cover-15",
+      "short_copy_fill": "passed",
+      "powerpoint_export": "passed",
+      "text_overflow_count": 0,
+      "sample_sha256": "0bf5e41504b3135f9d2629fd82fada94f332091c172e270ee4b2b3a9cdcb0de7",
+      "review_result": "verified_static_draft"
+    },
+    {
+      "layout_id": "cover-16",
+      "short_copy_fill": "passed",
+      "powerpoint_export": "passed",
+      "text_overflow_count": 1,
+      "sample_sha256": "f9c804e5aa3531d698915b3ada927e3689d8bd8ee2bcd89f5b8af69f076b7df2",
+      "review_result": "pending_review",
+      "remaining_issue": "英文标题文字边界溢出"
+    },
+    {
+      "layout_id": "cover-17",
+      "short_copy_fill": "passed",
+      "powerpoint_export": "passed",
+      "text_overflow_count": 0,
+      "sample_sha256": "2194c000bbf564b47e4a795f7cfeafdf00f91f7be3c4f6595c9890ec66ef6339",
+      "review_result": "pending_review",
+      "remaining_issue": "逐字段语义及容量尚未完成签收"
+    },
+    {
+      "layout_id": "cover-18",
+      "short_copy_fill": "passed",
+      "powerpoint_export": "passed",
+      "text_overflow_count": 0,
+      "sample_sha256": "da96787be29f04d10b5ff0e1ae356a6f597302f68d55ff5f38a5a221531c7c1f",
+      "review_result": "pending_review",
+      "remaining_issue": "逐字段语义及容量尚未完成签收"
+    },
+    {
+      "layout_id": "cover-19",
+      "short_copy_fill": "passed",
+      "powerpoint_export": "passed",
+      "text_overflow_count": 0,
+      "sample_sha256": "ed10aaec1665e26b3fa9d38d761fa7f8bf02c9cf674fc09fc87d2dbb1831aaf7",
+      "review_result": "pending_review",
+      "remaining_issue": "逐字段语义及容量尚未完成签收"
+    },
+    {
+      "layout_id": "cover-20",
+      "short_copy_fill": "passed",
+      "powerpoint_export": "passed",
+      "text_overflow_count": 0,
+      "sample_sha256": "38a30980fcd3346f685088d016aae559b553f7979acc453cba27e9e0a4cb7f8d",
+      "review_result": "pending_review",
+      "remaining_issue": "逐字段语义及容量尚未完成签收"
+    }
+  ],
+  "html_support": "not_implemented",
+  "motion_support": "source_static"
+}

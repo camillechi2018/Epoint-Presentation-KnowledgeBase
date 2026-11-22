@@ -1,0 +1,135 @@
+{
+  "layouts": {
+    "content-blue-048": {
+      "structure": "comparison",
+      "verified_counts": [
+        4,
+        6
+      ],
+      "body_bounds_emu": [
+        548640,
+        11654790
+      ],
+      "fixed_capacity": {
+        "center.left": [
+          2,
+          2
+        ],
+        "center.right": [
+          2,
+          2
+        ],
+        "center.top": 10,
+        "center.bottom": 10
+      },
+      "capacities": {
+        "4": {
+          "left_title": 9,
+          "left_body": [
+            36,
+            36
+          ],
+          "right_title": 9,
+          "right_body": [
+            36,
+            36
+          ]
+        },
+        "6": {
+          "left_title": 9,
+          "left_body": [
+            36,
+            36
+          ],
+          "right_title": 9,
+          "right_body": [
+            36,
+            36
+          ]
+        }
+      }
+    },
+    "content-blue-100": {
+      "structure": "parallel-points",
+      "verified_counts": [
+        3,
+        4
+      ],
+      "body_bounds_emu": [
+        546256,
+        11643359
+      ],
+      "fixed_capacity": {
+        "stub.top": [
+          2,
+          2
+        ],
+        "stub.bottom": [
+          2,
+          2
+        ],
+        "body.summary": 60
+      },
+      "capacities": {
+        "3": {
+          "title": 11,
+          "lead_label": 6,
+          "lead_body": 36,
+          "body": [
+            28,
+            28,
+            28
+          ]
+        },
+        "4": {
+          "title": 8,
+          "lead_label": 6,
+          "lead_body": 24,
+          "body": [
+            20,
+            20,
+            20
+          ]
+        }
+      }
+    },
+    "content-blue-250": {
+      "structure": "process",
+      "verified_counts": [
+        3,
+        4
+      ],
+      "body_bounds_emu": [
+        542543,
+        11659258
+      ],
+      "fixed_capacity": {},
+      "capacities": {
+        "3": {
+          "title": 5,
+          "marker": 2,
+          "upper_title": 14,
+          "upper_body": 56,
+          "lower_title": 14,
+          "lower_body": 56
+        },
+        "4": {
+          "title": 5,
+          "marker": 2,
+          "upper_title": 10,
+          "upper_body": 38,
+          "lower_title": 10,
+          "lower_body": 38
+        }
+      }
+    }
+  },
+  "themes": [
+    "blue",
+    "red"
+  ],
+  "powerpoint_passed": 24,
+  "text_overflows": 0,
+  "fixed_body_span": true,
+  "required_skill_commit": "a73a203cf210540414419e6f2e2425c167ab150d"
+}

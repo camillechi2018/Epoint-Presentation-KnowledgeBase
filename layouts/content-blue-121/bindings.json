@@ -6,7 +6,7 @@
       "shape_id": 34,
       "shape_name": "文本框 33",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 10,
       "source_text": "1.提高工作沟通效率",
       "bounds_pt": [
@@ -15,14 +15,16 @@
         212.2,
         32.4
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[0].title",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_35",
       "shape_id": 35,
       "shape_name": "文本框 34",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 10,
       "source_text": "2.持续提升专业技能",
       "bounds_pt": [
@@ -31,14 +33,16 @@
         212.2,
         32.4
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[1].title",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_36",
       "shape_id": 36,
       "shape_name": "文本框 35",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 10,
       "source_text": "3.优化客户满意程度",
       "bounds_pt": [
@@ -47,14 +51,16 @@
         212.2,
         32.4
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[2].title",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_41",
       "shape_id": 41,
       "shape_name": "矩形: 圆角 40",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 15,
       "source_sample_chars": 12,
       "source_text": "制定并实施标准化工作流程",
       "bounds_pt": [
@@ -63,14 +69,16 @@
         212.2,
         26.4
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[0].label_1",
+      "max_lines": 1,
+      "max_width_units": 30
     },
     {
       "field": "text_42",
       "shape_id": 42,
       "shape_name": "矩形: 圆角 41",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 15,
       "source_sample_chars": 10,
       "source_text": "加强跨部门沟通与协作",
       "bounds_pt": [
@@ -79,14 +87,16 @@
         212.2,
         26.4
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[0].label_2",
+      "max_lines": 1,
+      "max_width_units": 30
     },
     {
       "field": "text_44",
       "shape_id": 44,
       "shape_name": "矩形: 圆角 43",
       "type": "text",
-      "max_chars": 26,
+      "max_chars": 15,
       "source_sample_chars": 13,
       "source_text": "设定每季度的学习目标与计划",
       "bounds_pt": [
@@ -95,14 +105,16 @@
         212.2,
         26.4
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[1].label_1",
+      "max_lines": 1,
+      "max_width_units": 30
     },
     {
       "field": "text_45",
       "shape_id": 45,
       "shape_name": "矩形: 圆角 44",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 15,
       "source_sample_chars": 9,
       "source_text": "自主学习与知识分享",
       "bounds_pt": [
@@ -111,14 +123,16 @@
         212.2,
         26.4
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[1].label_2",
+      "max_lines": 1,
+      "max_width_units": 30
     },
     {
       "field": "text_47",
       "shape_id": 47,
       "shape_name": "矩形: 圆角 46",
       "type": "text",
-      "max_chars": 26,
+      "max_chars": 15,
       "source_sample_chars": 13,
       "source_text": "建立客户反馈与问题跟踪机制",
       "bounds_pt": [
@@ -127,14 +141,16 @@
         212.2,
         26.4
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[2].label_1",
+      "max_lines": 1,
+      "max_width_units": 30
     },
     {
       "field": "text_48",
       "shape_id": 48,
       "shape_name": "矩形: 圆角 47",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 15,
       "source_sample_chars": 10,
       "source_text": "定期回访与满意度跟踪",
       "bounds_pt": [
@@ -143,14 +159,16 @@
         212.2,
         26.4
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[2].label_2",
+      "max_lines": 1,
+      "max_width_units": 30
     },
     {
       "field": "text_49",
       "shape_id": 49,
       "shape_name": "文本框 48",
       "type": "text",
-      "max_chars": 102,
+      "max_chars": 48,
       "source_sample_chars": 51,
       "source_text": "通过优化工作流程与沟通方式，提升个人和团队的工作效率。加强跨部门的协作与信息共享，确保工作进度和质量。",
       "bounds_pt": [
@@ -159,14 +177,16 @@
         243.2,
         61.9
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[0].body",
+      "max_lines": 1,
+      "max_width_units": 96
     },
     {
       "field": "text_50",
       "shape_id": 50,
       "shape_name": "文本框 49",
       "type": "text",
-      "max_chars": 116,
+      "max_chars": 48,
       "source_sample_chars": 58,
       "source_text": "通过参加培训,参加行业研讨会等方式，提升个人的核心专业能力。特别是关注技术前沿和行业动态，以增强个人在团队中的价值。",
       "bounds_pt": [
@@ -175,14 +195,16 @@
         243.2,
         61.9
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[1].body",
+      "max_lines": 1,
+      "max_width_units": 96
     },
     {
       "field": "text_51",
       "shape_id": 51,
       "shape_name": "文本框 50",
       "type": "text",
-      "max_chars": 114,
+      "max_chars": 48,
       "source_sample_chars": 57,
       "source_text": "持续改进与客户的互动和服务流程，通过定期客户反馈，分析客户需求，提升客户满意度。设立定期回访机制，增强客户忠诚度。",
       "bounds_pt": [
@@ -191,14 +213,16 @@
         243.2,
         61.9
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[2].body",
+      "max_lines": 1,
+      "max_width_units": 96
     },
     {
       "field": "text_61",
       "shape_id": 61,
       "shape_name": "矩形: 圆角 60",
       "type": "text",
-      "max_chars": 28,
+      "max_chars": 15,
       "source_sample_chars": 14,
       "source_text": "推动数字化与自动化工具的使用",
       "bounds_pt": [
@@ -207,14 +231,16 @@
         212.2,
         26.4
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[0].label_3",
+      "max_lines": 1,
+      "max_width_units": 30
     },
     {
       "field": "text_62",
       "shape_id": 62,
       "shape_name": "矩形: 圆角 61",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 15,
       "source_sample_chars": 12,
       "source_text": "参加行业研讨会与交流活动",
       "bounds_pt": [
@@ -223,14 +249,16 @@
         212.2,
         26.4
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[1].label_3",
+      "max_lines": 1,
+      "max_width_units": 30
     },
     {
       "field": "text_63",
       "shape_id": 63,
       "shape_name": "矩形: 圆角 62",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 15,
       "source_sample_chars": 11,
       "source_text": "个性化服务与定制化方案",
       "bounds_pt": [
@@ -239,14 +267,16 @@
         212.2,
         26.4
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[2].label_3",
+      "max_lines": 1,
+      "max_width_units": 30
     },
     {
       "field": "text_2",
       "shape_id": 2,
       "shape_name": "矩形 1",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 14,
       "source_sample_chars": 10,
       "source_text": "时间规划：1月-4月",
       "bounds_pt": [
@@ -255,14 +285,16 @@
         282.1,
         54.1
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[0].caption",
+      "max_lines": 1,
+      "max_width_units": 28
     },
     {
       "field": "text_60",
       "shape_id": 60,
       "shape_name": "矩形 59",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 14,
       "source_sample_chars": 10,
       "source_text": "时间规划：5月-9月",
       "bounds_pt": [
@@ -271,14 +303,16 @@
         282.1,
         54.1
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[1].caption",
+      "max_lines": 1,
+      "max_width_units": 28
     },
     {
       "field": "text_64",
       "shape_id": 64,
       "shape_name": "矩形 63",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 14,
       "source_sample_chars": 12,
       "source_text": "时间规划：10月-12月",
       "bounds_pt": [
@@ -287,7 +321,9 @@
         282.1,
         54.1
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "items[2].caption",
+      "max_lines": 1,
+      "max_width_units": 28
     },
     {
       "field": "text_43",
@@ -303,7 +339,7 @@
         606.5,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_path": "page.title"
     }
   ],
   "objects": {

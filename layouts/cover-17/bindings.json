@@ -15,7 +15,9 @@
         480.0,
         31.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "title",
+      "semantic_path": "cover.title",
+      "max_lines": 1
     },
     {
       "field": "text_19",
@@ -31,7 +33,9 @@
         432.5,
         25.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "english_subtitle",
+      "semantic_path": "cover.english_subtitle",
+      "max_lines": 1
     },
     {
       "field": "text_26",
@@ -47,7 +51,9 @@
         153.8,
         20.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "event_details",
+      "semantic_path": "cover.event_details",
+      "max_lines": 1
     },
     {
       "field": "text_33",
@@ -63,7 +69,9 @@
         252.6,
         20.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "subtitle",
+      "semantic_path": "cover.subtitle",
+      "max_lines": 1
     },
     {
       "field": "text_23",

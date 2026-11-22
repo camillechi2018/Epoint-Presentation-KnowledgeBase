@@ -1,0 +1,92 @@
+{
+  "layouts": [
+    "content-blue-090",
+    "content-blue-155"
+  ],
+  "verified_counts": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "themes": [
+    "blue",
+    "red"
+  ],
+  "regular_cases": 16,
+  "capacity_cases": 16,
+  "powerpoint_passed": 32,
+  "text_overflows": 0,
+  "fixed_body_span": true,
+  "capacities": {
+    "content-blue-090": {
+      "3": {
+        "title": 7,
+        "method_label": 4,
+        "tool_label": 4,
+        "tag_a": 4,
+        "tag_b": 4,
+        "method": 54,
+        "tool": 34
+      },
+      "4": {
+        "title": 7,
+        "method_label": 4,
+        "tool_label": 4,
+        "tag_a": 4,
+        "tag_b": 4,
+        "method": 40,
+        "tool": 26
+      },
+      "5": {
+        "title": 7,
+        "method_label": 4,
+        "tool_label": 4,
+        "tag_a": 4,
+        "tag_b": 4,
+        "method": 32,
+        "tool": 21
+      },
+      "6": {
+        "title": 7,
+        "method_label": 4,
+        "tool_label": 4,
+        "tag_a": 4,
+        "tag_b": 4,
+        "method": 30,
+        "tool": 19
+      }
+    },
+    "content-blue-155": {
+      "3": {
+        "title": 6,
+        "goal_label": 4,
+        "plan_label": 4,
+        "goal_body": 60,
+        "plan_body": 72
+      },
+      "4": {
+        "title": 6,
+        "goal_label": 4,
+        "plan_label": 4,
+        "goal_body": 44,
+        "plan_body": 52
+      },
+      "5": {
+        "title": 6,
+        "goal_label": 4,
+        "plan_label": 4,
+        "goal_body": 36,
+        "plan_body": 44
+      },
+      "6": {
+        "title": 6,
+        "goal_label": 4,
+        "plan_label": 4,
+        "goal_body": 32,
+        "plan_body": 40
+      }
+    }
+  },
+  "required_skill_commit": "8b9b2e28471f38f3ef4798e376bf56f7854801fa"
+}

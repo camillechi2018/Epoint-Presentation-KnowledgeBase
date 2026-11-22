@@ -1,0 +1,99 @@
+{
+  "layouts": {
+    "content-blue-049": {
+      "structure": "comparison",
+      "verified_counts": [
+        4,
+        6
+      ],
+      "body_bounds_emu": [
+        545650,
+        11650980
+      ],
+      "fixed_capacity": {
+        "center.left": 4,
+        "center.right": 4,
+        "center.marker": 2,
+        "center.top": 8,
+        "center.bottom": 8,
+        "body.summary": 95
+      },
+      "capacities": {
+        "4": {
+          "left_title": 7,
+          "left_body": 40,
+          "right_title": 7,
+          "right_body": 40
+        },
+        "6": {
+          "left_title": 7,
+          "left_body": 40,
+          "right_title": 7,
+          "right_body": 40
+        }
+      }
+    },
+    "content-blue-215": {
+      "structure": "timeline",
+      "verified_counts": [
+        4,
+        5
+      ],
+      "body_bounds_emu": [
+        548638,
+        12192000
+      ],
+      "fixed_capacity": {},
+      "capacities": {
+        "4": {
+          "title": 12,
+          "body": [
+            30,
+            30
+          ],
+          "marker": 3
+        },
+        "5": {
+          "title": 9,
+          "body": [
+            22,
+            22
+          ],
+          "marker": 3
+        }
+      }
+    },
+    "content-blue-248": {
+      "structure": "process",
+      "verified_counts": [
+        4,
+        6
+      ],
+      "body_bounds_emu": [
+        547857,
+        11661101
+      ],
+      "fixed_capacity": {},
+      "capacities": {
+        "4": {
+          "title": 15,
+          "body": 60,
+          "marker": 4
+        },
+        "6": {
+          "title": 8,
+          "body": 38,
+          "marker": 4
+        }
+      }
+    }
+  },
+  "themes": [
+    "blue",
+    "red"
+  ],
+  "powerpoint_passed": 24,
+  "text_overflows": 0,
+  "fixed_body_span": true,
+  "required_skill_commit": "a73a203cf210540414419e6f2e2425c167ab150d"
+}

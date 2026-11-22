@@ -2,5 +2,9 @@
   "cardinality_mode": "fixed_until_validated",
   "supported_counts": [],
   "source_count": null,
-  "reflow_status": "not_implemented"
+  "reflow_status": "not_implemented",
+  "title_pressure_test": {
+    "safe_title_chars": 9,
+    "evidence": "normal and near-capacity Chinese title filled, PowerPoint exported, and text bounds checked"
+  }
 }

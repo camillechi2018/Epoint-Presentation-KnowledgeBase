@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0",
+  "scope": "11 original PPT cover components remaining from first screening",
+  "baseline_commit": "c9e82e7",
+  "method": "source-length and conservative title stress fill, Microsoft PowerPoint export, text bounds audit, visual review, logo audit, semantic mapping",
+  "promoted": [
+    "cover-05",
+    "cover-06",
+    "cover-08",
+    "cover-09",
+    "cover-10",
+    "cover-11",
+    "cover-14",
+    "cover-17",
+    "cover-18",
+    "cover-19",
+    "cover-20"
+  ],
+  "remaining_original_covers": [
+    "cover-03",
+    "cover-04",
+    "cover-12",
+    "cover-13",
+    "cover-16"
+  ],
+  "items": [
+    {
+      "layout_id": "cover-05",
+      "title_max_chars": 9,
+      "first_stress_overflows": 0,
+      "final_text_overflows": 0,
+      "powerpoint_export": "passed",
+      "logo": "passed",
+      "visual_review": "passed",
+      "final_sample_sha256": "11c1772047e3a432dd0476ff46bc7ce3d92a46c7865d815d5a2338f10ac25a13"
+    },
+    {
+      "layout_id": "cover-06",
+      "title_max_chars": 9,
+      "first_stress_overflows": 0,
+      "final_text_overflows": 0,
+      "powerpoint_export": "passed",
+      "logo": "passed",
+      "visual_review": "passed",
+      "final_sample_sha256": "edd4c1499cc44f026e86dfa4a77be78a8f05e861fb2abd71d460495cd1b56805"
+    },
+    {
+      "layout_id": "cover-08",
+      "title_max_chars": 9,
+      "first_stress_overflows": 0,
+      "final_text_overflows": 0,
+      "powerpoint_export": "passed",
+      "logo": "passed",
+      "visual_review": "passed",
+      "final_sample_sha256": "d07c6e45b36ac641ae442012b0508e8370bcd33e4249cc54f5fdda164943ff7d"
+    },
+    {
+      "layout_id": "cover-09",
+      "title_max_chars": 9,
+      "first_stress_overflows": 0,
+      "final_text_overflows": 0,
+      "powerpoint_export": "passed",
+      "logo": "passed",
+      "visual_review": "passed",
+      "final_sample_sha256": "323145a6e81c97a97a8f9912406fb871f9dbff61fc7badb6a9db33cc0d0dd4df"
+    },
+    {
+      "layout_id": "cover-10",
+      "title_max_chars": 9,
+      "first_stress_overflows": 0,
+      "final_text_overflows": 0,
+      "powerpoint_export": "passed",
+      "logo": "passed",
+      "visual_review": "passed",
+      "final_sample_sha256": "f3f3ebb431239bf586cc64d6d8ed507935b9a9316f1728a2404521a84f3aed79"
+    },
+    {
+      "layout_id": "cover-11",
+      "title_max_chars": 9,
+      "first_stress_overflows": 0,
+      "final_text_overflows": 0,
+      "powerpoint_export": "passed",
+      "logo": "passed",
+      "visual_review": "passed",
+      "final_sample_sha256": "2ccc4bfa0a6ceb9f8abaa1e9a20d0ec9aaaa24c56384de3d49079c711a06bf71"
+    },
+    {
+      "layout_id": "cover-14",
+      "title_max_chars": 7,
+      "first_stress_overflows": 1,
+      "final_text_overflows": 0,
+      "powerpoint_export": "passed",
+      "logo": "passed",
+      "visual_review": "passed",
+      "final_sample_sha256": "5da9d587f6ed1b25e07960b0e86c286475e06250e5513481df491cc7d5afcfd9"
+    },
+    {
+      "layout_id": "cover-17",
+      "title_max_chars": 10,
+      "first_stress_overflows": 0,
+      "final_text_overflows": 0,
+      "powerpoint_export": "passed",
+      "logo": "passed",
+      "visual_review": "passed",
+      "final_sample_sha256": "6f885461cd9141cfa2add83a0181b9416cc6c533c3c8e5d04d21fff62a5b7ea2"
+    },
+    {
+      "layout_id": "cover-18",
+      "title_max_chars": 7,
+      "first_stress_overflows": 1,
+      "final_text_overflows": 0,
+      "powerpoint_export": "passed",
+      "logo": "passed",
+      "visual_review": "passed",
+      "final_sample_sha256": "1db77dd3a28d2a73e2f040522d163ec6c0498a36614181c4a74429c7cab312d5"
+    },
+    {
+      "layout_id": "cover-19",
+      "title_max_chars": 7,
+      "first_stress_overflows": 1,
+      "final_text_overflows": 0,
+      "powerpoint_export": "passed",
+      "logo": "passed",
+      "visual_review": "passed",
+      "final_sample_sha256": "8ad0e840411b8f4d2d3f182a5ad12fd78d84dc0002578b80d3ad0c7033706e78"
+    },
+    {
+      "layout_id": "cover-20",
+      "title_max_chars": 7,
+      "first_stress_overflows": 1,
+      "final_text_overflows": 0,
+      "powerpoint_export": "passed",
+      "logo": "passed",
+      "visual_review": "passed",
+      "final_sample_sha256": "85b1035e542a3d7d8fa735c4f9def80893e9a868ee20ce814058355858ff48f6"
+    }
+  ],
+  "html_support": "not_implemented",
+  "motion_support": "source_static"
+}

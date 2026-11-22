@@ -15,7 +15,9 @@
         480.0,
         41.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "title",
+      "semantic_path": "cover.title",
+      "max_lines": 1
     },
     {
       "field": "text_12",
@@ -38,7 +40,7 @@
       "shape_id": 14,
       "shape_name": "文本框 13",
       "type": "text",
-      "max_chars": 27,
+      "max_chars": 22,
       "source_sample_chars": 27,
       "source_text": "EPOINT PRODUCT LAUNCH EVENT",
       "bounds_pt": [
@@ -47,7 +49,9 @@
         353.1,
         26.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "english_subtitle",
+      "semantic_path": "cover.english_subtitle",
+      "max_lines": 1
     },
     {
       "field": "text_17",
@@ -63,7 +67,9 @@
         241.9,
         21.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "event_details",
+      "semantic_path": "cover.event_details",
+      "max_lines": 1
     },
     {
       "field": "text_2",

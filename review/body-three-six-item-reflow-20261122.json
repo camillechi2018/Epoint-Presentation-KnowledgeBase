@@ -1,0 +1,35 @@
+{
+  "verified_counts": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "themes": [
+    "blue",
+    "red"
+  ],
+  "regular_cases": 16,
+  "six_item_capacity_cases": 4,
+  "powerpoint_passed": 20,
+  "text_overflows": 0,
+  "six_item_max_chars_by_slot": {
+    "155": {
+      "goal_label": 4,
+      "title": 6,
+      "goal_body": 32,
+      "plan_body": 40,
+      "plan_label": 4
+    },
+    "090": {
+      "title": 7,
+      "method": 30,
+      "method_label": 4,
+      "tool_label": 4,
+      "tool": 19,
+      "tag_a": 4,
+      "tag_b": 4
+    }
+  },
+  "required_skill_commit": "c95c17096524039f2758c06bdef3e18ed6ae84b6"
+}
