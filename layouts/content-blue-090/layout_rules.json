@@ -1,15 +1,19 @@
 {
   "cardinality_mode": "repeatable",
   "supported_counts": [
+    3,
     4,
-    5
+    5,
+    6
   ],
   "source_count": 5,
   "reflow_status": "native_centered_reflow_verified",
   "validation_status": "verified",
   "verified_counts": [
+    3,
     4,
-    5
+    5,
+    6
   ],
   "units": [
     [
@@ -94,5 +98,10 @@
     "right_label_ids": [
       122
     ]
+  },
+  "expand_columns": {
+    "anchor_shape_id": 13,
+    "preserve_group_width": true,
+    "clone_id_offset": 10000
   }
 }
