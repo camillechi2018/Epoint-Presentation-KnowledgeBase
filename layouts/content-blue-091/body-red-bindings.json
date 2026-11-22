@@ -6,7 +6,7 @@
       "shape_id": 42,
       "shape_name": "文本框 41",
       "type": "text",
-      "max_chars": 9,
+      "max_chars": 8,
       "source_sample_chars": 7,
       "source_text": "核心工作\n目标",
       "bounds_pt": [
@@ -18,8 +18,8 @@
       "semantic_path": "overview.heading",
       "required": true,
       "preserve_source_text_styles": true,
-      "max_lines": 2,
-      "max_width_units": 8
+      "max_lines": 3,
+      "max_width_units": 4
     },
     {
       "field": "text_35",
