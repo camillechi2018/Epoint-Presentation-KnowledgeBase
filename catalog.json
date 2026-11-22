@@ -5857,8 +5857,8 @@
       "version": "1.0.0-draft",
       "collection": "new-template-content",
       "role": "content",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
+      "information_relation": "five-column-accomplishments",
+      "classification_status": "verified",
       "family_id": "content-113",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
@@ -5879,7 +5879,7 @@
       },
       "source_page": 113,
       "shape_count": 59,
-      "media_status": "unreviewed",
+      "media_status": "verified_brand_logo",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -5892,7 +5892,10 @@
       "red_source_logo_shape_id": 3,
       "red_bindings": "layouts/content-blue-113/bindings-red.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 113
+      "red_source_page": 113,
+      "semantic_review_status": "verified_blue_red_short_copy",
+      "pptx_support": "verified_static_draft",
+      "title_pressure_status": "tested_short_copy_only"
     },
     {
       "id": "content-blue-114",
@@ -6067,8 +6070,8 @@
       "version": "1.0.0-draft",
       "collection": "new-template-content",
       "role": "content",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
+      "information_relation": "three-stage-problem-solving-process",
+      "classification_status": "verified",
       "family_id": "content-118",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
@@ -6089,7 +6092,7 @@
       },
       "source_page": 118,
       "shape_count": 58,
-      "media_status": "unreviewed",
+      "media_status": "verified_brand_logo",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -6102,7 +6105,10 @@
       "red_source_logo_shape_id": 24,
       "red_bindings": "layouts/content-blue-118/bindings-red.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 118
+      "red_source_page": 118,
+      "semantic_review_status": "verified_blue_red_short_copy",
+      "pptx_support": "verified_static_draft",
+      "title_pressure_status": "tested_short_copy_only"
     },
     {
       "id": "content-blue-119",
@@ -8801,8 +8807,8 @@
       "version": "1.0.0-draft",
       "collection": "new-template-content",
       "role": "content",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
+      "information_relation": "five-goal-action-plan-cards",
+      "classification_status": "verified",
       "family_id": "content-155",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
@@ -8823,7 +8829,7 @@
       },
       "source_page": 155,
       "shape_count": 54,
-      "media_status": "unreviewed",
+      "media_status": "verified_brand_logo",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -8836,7 +8842,10 @@
       "red_source_logo_shape_id": 4,
       "red_bindings": "layouts/content-blue-155/bindings-red.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 155
+      "red_source_page": 155,
+      "semantic_review_status": "verified_blue_red_short_copy",
+      "pptx_support": "verified_static_draft",
+      "title_pressure_status": "tested_short_copy_only"
     },
     {
       "id": "content-blue-156",

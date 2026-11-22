@@ -15,7 +15,9 @@
         606.5,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "page_title",
+      "semantic_path": "page.title",
+      "max_lines": 1
     },
     {
       "field": "text_21",
@@ -31,7 +33,9 @@
         151.4,
         28.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "goal_label",
+      "semantic_path": "items[0].goal_label",
+      "max_lines": 1
     },
     {
       "field": "text_23",
@@ -47,7 +51,9 @@
         151.4,
         28.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "goal_label",
+      "semantic_path": "items[1].goal_label",
+      "max_lines": 1
     },
     {
       "field": "text_25",
@@ -63,7 +69,9 @@
         151.4,
         28.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "goal_label",
+      "semantic_path": "items[2].goal_label",
+      "max_lines": 1
     },
     {
       "field": "text_27",
@@ -79,7 +87,9 @@
         151.4,
         28.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "goal_label",
+      "semantic_path": "items[3].goal_label",
+      "max_lines": 1
     },
     {
       "field": "text_29",
@@ -95,7 +105,9 @@
         151.4,
         28.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "goal_label",
+      "semantic_path": "items[4].goal_label",
+      "max_lines": 1
     },
     {
       "field": "text_37",
@@ -111,7 +123,9 @@
         129.9,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "title",
+      "semantic_path": "items[0].title",
+      "max_lines": 1
     },
     {
       "field": "text_38",
@@ -127,7 +141,9 @@
         129.9,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "title",
+      "semantic_path": "items[1].title",
+      "max_lines": 1
     },
     {
       "field": "text_41",
@@ -143,7 +159,9 @@
         129.9,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "title",
+      "semantic_path": "items[2].title",
+      "max_lines": 1
     },
     {
       "field": "text_42",
@@ -159,7 +177,9 @@
         129.9,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "title",
+      "semantic_path": "items[3].title",
+      "max_lines": 1
     },
     {
       "field": "text_43",
@@ -175,7 +195,9 @@
         129.9,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "title",
+      "semantic_path": "items[4].title",
+      "max_lines": 1
     },
     {
       "field": "text_44",
@@ -191,7 +213,9 @@
         151.4,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "goal_body",
+      "semantic_path": "items[0].goal_body",
+      "max_lines": 1
     },
     {
       "field": "text_45",
@@ -207,7 +231,9 @@
         137.5,
         78.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "plan_body",
+      "semantic_path": "items[0].plan_body",
+      "max_lines": 1
     },
     {
       "field": "text_10",
@@ -223,7 +249,9 @@
         81.5,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "plan_label",
+      "semantic_path": "items[0].plan_label",
+      "max_lines": 1
     },
     {
       "field": "text_47",
@@ -239,7 +267,9 @@
         81.5,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "plan_label",
+      "semantic_path": "items[1].plan_label",
+      "max_lines": 1
     },
     {
       "field": "text_48",
@@ -255,7 +285,9 @@
         81.5,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "plan_label",
+      "semantic_path": "items[2].plan_label",
+      "max_lines": 1
     },
     {
       "field": "text_49",
@@ -271,7 +303,9 @@
         81.5,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "plan_label",
+      "semantic_path": "items[3].plan_label",
+      "max_lines": 1
     },
     {
       "field": "text_50",
@@ -287,7 +321,9 @@
         81.5,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "plan_label",
+      "semantic_path": "items[4].plan_label",
+      "max_lines": 1
     },
     {
       "field": "text_51",
@@ -303,7 +339,9 @@
         151.4,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "goal_body",
+      "semantic_path": "items[1].goal_body",
+      "max_lines": 1
     },
     {
       "field": "text_52",
@@ -319,7 +357,9 @@
         151.4,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "goal_body",
+      "semantic_path": "items[2].goal_body",
+      "max_lines": 1
     },
     {
       "field": "text_53",
@@ -335,7 +375,9 @@
         151.4,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "goal_body",
+      "semantic_path": "items[3].goal_body",
+      "max_lines": 1
     },
     {
       "field": "text_54",
@@ -351,7 +393,9 @@
         151.4,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "goal_body",
+      "semantic_path": "items[4].goal_body",
+      "max_lines": 1
     },
     {
       "field": "text_55",
@@ -367,7 +411,9 @@
         137.5,
         78.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "plan_body",
+      "semantic_path": "items[1].plan_body",
+      "max_lines": 1
     },
     {
       "field": "text_56",
@@ -383,7 +429,9 @@
         137.5,
         78.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "plan_body",
+      "semantic_path": "items[2].plan_body",
+      "max_lines": 1
     },
     {
       "field": "text_57",
@@ -399,7 +447,9 @@
         137.5,
         78.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "plan_body",
+      "semantic_path": "items[3].plan_body",
+      "max_lines": 1
     },
     {
       "field": "text_58",
@@ -415,7 +465,9 @@
         137.5,
         78.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "plan_body",
+      "semantic_path": "items[4].plan_body",
+      "max_lines": 1
     }
   ],
   "objects": {
