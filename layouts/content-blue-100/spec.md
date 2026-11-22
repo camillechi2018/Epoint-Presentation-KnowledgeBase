@@ -2,4 +2,28 @@
 
 来源：blue P100。原生结构保留，可编辑。
 
-角色：content；信息关系及重复项数待人工复核。源稿文字、图表和图片不构成项目事实。
+通用结构为 `parallel-points`。带固定栏的并列指标。三项版保持左侧固定栏，内容三列等宽重排，轴线圆点随对应列移动。
+
+蓝红已验收 3、4 项。基于结构、项数和槽位容量自动选版。
+
+固定正文槽位的实测容量
+
+- `stub.top` 2 段，每段 2 字
+- `stub.bottom` 2 段，每段 2 字
+- `body.summary` 60 字
+
+### 3 项
+
+- `title` 11 字
+- `lead_label` 6 字
+- `lead_body` 36 字
+- `body` 3 段，每段 28 字
+
+### 4 项
+
+- `title` 8 字
+- `lead_label` 6 字
+- `lead_body` 24 字
+- `body` 3 段，每段 20 字
+
+PowerPoint 蓝红容量稿和常规稿通过。资产状态为 `draft_pending_review`。
