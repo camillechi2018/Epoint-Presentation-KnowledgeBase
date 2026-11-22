@@ -259,7 +259,7 @@
       "required": true,
       "preserve_source_text_styles": true,
       "max_lines": 1,
-      "max_width_units": 12
+      "max_width_units": 8
     },
     {
       "field": "text_76",
@@ -279,7 +279,7 @@
       "required": true,
       "preserve_source_text_styles": true,
       "max_lines": 1,
-      "max_width_units": 12
+      "max_width_units": 8
     },
     {
       "field": "text_77",
@@ -299,7 +299,7 @@
       "required": true,
       "preserve_source_text_styles": true,
       "max_lines": 1,
-      "max_width_units": 12
+      "max_width_units": 8
     },
     {
       "field": "text_61",

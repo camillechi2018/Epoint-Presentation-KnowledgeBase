@@ -431,7 +431,7 @@
           "asset": "layouts/content-blue-205/body-blue.pptx",
           "sha256": "dfc993e1f51a331539ff3b5dd587bda79f3b69655a3fa61617463b7203a828e8",
           "bindings": "layouts/content-blue-205/body-blue-bindings.json",
-          "bindings_sha256": "e3c9c46b0b51fb48b48ec7788d7678aeb0fbee96dbfc8da8d8e2f235dfba3bd7",
+          "bindings_sha256": "92365b6ab5a6f176dc5cb75db376514a654a09efb2d1fd0495fb088d9dd5dde7",
           "title_input": {
             "field": "text_3",
             "semantic_path": "page.title"
@@ -451,7 +451,7 @@
           "asset": "layouts/content-blue-205/body-red.pptx",
           "sha256": "147bcceeec7970bf03118b24b02cbc907470dc7fd4f470f8d6b412f86f314824",
           "bindings": "layouts/content-blue-205/body-red-bindings.json",
-          "bindings_sha256": "4f5c67e642595d43f19bf6aa488c9de479be9fb368cd6ea1d8212a3f048498ec",
+          "bindings_sha256": "70f17325d5a77ddbcd7a784c8ca26530d864b32a76927d3a4f17797d28ab7042",
           "title_input": {
             "field": "text_3",
             "semantic_path": "page.title"
