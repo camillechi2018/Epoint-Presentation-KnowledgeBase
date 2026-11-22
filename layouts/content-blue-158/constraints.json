@@ -1,0 +1,52 @@
+{
+  "rules": [
+    {
+      "type": "text_region",
+      "shape_id": 9,
+      "width_pt": 68.84913385826772,
+      "single_line": true
+    },
+    {
+      "type": "text_region",
+      "shape_id": 39,
+      "width_pt": 68.84913385826772,
+      "single_line": true
+    },
+    {
+      "type": "text_region",
+      "shape_id": 40,
+      "width_pt": 68.84913385826772,
+      "single_line": true
+    },
+    {
+      "type": "text_region",
+      "shape_id": 41,
+      "width_pt": 68.84913385826772,
+      "single_line": true
+    },
+    {
+      "type": "text_region",
+      "shape_id": 42,
+      "width_pt": 68.84913385826772,
+      "single_line": true
+    },
+    {
+      "type": "text_region",
+      "shape_id": 62,
+      "width_pt": 54.20811023622047,
+      "single_line": true
+    },
+    {
+      "type": "text_region",
+      "shape_id": 63,
+      "width_pt": 54.20811023622047,
+      "single_line": true
+    },
+    {
+      "type": "text_region",
+      "shape_id": 64,
+      "width_pt": 54.20811023622047,
+      "single_line": true
+    }
+  ]
+}

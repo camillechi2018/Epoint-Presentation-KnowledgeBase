@@ -1,0 +1,9 @@
+{
+  "rules": [
+    {
+      "type": "text_region",
+      "shape_id": 18,
+      "width_pt": 94
+    }
+  ]
+}

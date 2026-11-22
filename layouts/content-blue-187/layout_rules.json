@@ -1,6 +1,68 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
-  "source_count": null,
-  "reflow_status": "not_implemented"
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    4
+  ],
+  "source_count": 4,
+  "reflow_status": "not_implemented",
+  "verified_counts": [
+    4
+  ],
+  "validation_status": "verified_fixed_count",
+  "period_axis_schedule": {
+    "unit": "quarter",
+    "boundary_ids": [
+      67,
+      68,
+      69,
+      70
+    ],
+    "right_edge_id": 70,
+    "rows": [
+      {
+        "item": 0,
+        "task": null,
+        "stages": [
+          {
+            "bar_id": 2,
+            "label_id": 2
+          }
+        ]
+      },
+      {
+        "item": 1,
+        "task": null,
+        "stages": [
+          {
+            "bar_id": 33,
+            "label_id": 33
+          },
+          {
+            "bar_id": 3,
+            "label_id": 3
+          }
+        ]
+      },
+      {
+        "item": 2,
+        "task": null,
+        "stages": [
+          {
+            "bar_id": 4,
+            "label_id": 4
+          }
+        ]
+      },
+      {
+        "item": 3,
+        "task": null,
+        "stages": [
+          {
+            "bar_id": 31,
+            "label_id": 31
+          }
+        ]
+      }
+    ]
+  }
 }
