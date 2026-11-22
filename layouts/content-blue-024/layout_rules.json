@@ -1,6 +1,59 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
-  "source_count": null,
-  "reflow_status": "not_implemented"
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    5
+  ],
+  "source_count": 5,
+  "reflow_status": "not_implemented",
+  "verified_counts": [
+    5
+  ],
+  "validation_status": "verified_fixed_count",
+  "month_axis_schedule": {
+    "month_header_shape_ids": [
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82
+    ],
+    "bar_shape_ids_by_row": [
+      [
+        98,
+        50,
+        51
+      ],
+      [
+        99,
+        52,
+        53,
+        106
+      ],
+      [
+        100,
+        54,
+        55,
+        56
+      ],
+      [
+        101,
+        57,
+        58,
+        59
+      ],
+      [
+        102,
+        95,
+        96,
+        97
+      ]
+    ]
+  }
 }
