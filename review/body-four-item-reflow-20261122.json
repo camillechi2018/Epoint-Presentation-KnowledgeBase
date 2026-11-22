@@ -1,0 +1,23 @@
+{
+  "layouts": [
+    "content-blue-155",
+    "content-blue-090"
+  ],
+  "verified_counts": [
+    4,
+    5
+  ],
+  "themes": [
+    "blue",
+    "red"
+  ],
+  "planner_and_regular_fill": "8/8 passed",
+  "powerpoint_export": "8/8 passed",
+  "body_text_overflow_count": 0,
+  "unsupported_counts_rejected": [
+    3,
+    6
+  ],
+  "required_skill_commit": "f54671816eef5c8506c663ae06a8d7ba325d8e86",
+  "scope": "body content"
+}

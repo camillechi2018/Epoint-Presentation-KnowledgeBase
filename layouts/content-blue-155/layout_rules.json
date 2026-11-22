@@ -1,12 +1,83 @@
 {
-  "cardinality_mode": "fixed",
+  "cardinality_mode": "repeatable",
   "supported_counts": [
+    4,
     5
   ],
   "source_count": 5,
-  "reflow_status": "not_implemented",
+  "reflow_status": "native_centered_reflow_verified",
   "validation_status": "verified",
   "verified_counts": [
+    4,
     5
-  ]
+  ],
+  "units": [
+    [
+      14,
+      21,
+      22,
+      2,
+      37,
+      44,
+      45,
+      10,
+      59
+    ],
+    [
+      15,
+      23,
+      24,
+      32,
+      31,
+      38,
+      47,
+      51,
+      55,
+      61
+    ],
+    [
+      16,
+      25,
+      26,
+      33,
+      36,
+      41,
+      48,
+      52,
+      56,
+      62
+    ],
+    [
+      17,
+      27,
+      28,
+      34,
+      39,
+      42,
+      49,
+      53,
+      57,
+      63
+    ],
+    [
+      18,
+      29,
+      30,
+      35,
+      40,
+      43,
+      50,
+      54,
+      58,
+      64
+    ]
+  ],
+  "spacing_emu": 2217420,
+  "centered_reflow": {
+    "resize_shape_ids": [
+      19,
+      20
+    ],
+    "arc_shape_id": 19
+  }
 }
