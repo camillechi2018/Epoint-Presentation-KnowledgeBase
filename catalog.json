@@ -4517,8 +4517,8 @@
       "version": "1.0.0-draft",
       "collection": "new-template-content",
       "role": "content",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
+      "information_relation": "five-step-task-execution",
+      "classification_status": "verified",
       "family_id": "content-090",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
@@ -4552,7 +4552,11 @@
       "red_source_logo_shape_id": 24,
       "red_bindings": "layouts/content-blue-090/bindings-red.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 90
+      "red_source_page": 90,
+      "semantic_review_status": "verified_blue_red_body_only",
+      "pptx_support": "verified_static_body_draft",
+      "body_content_status": "verified_short_copy",
+      "header_validation_status": "excluded_skill_managed"
     },
     {
       "id": "content-blue-091",
@@ -10625,8 +10629,8 @@
       "version": "1.0.0-draft",
       "collection": "new-template-content",
       "role": "content",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
+      "information_relation": "twelve-month-four-quarter-plan",
+      "classification_status": "verified",
       "family_id": "content-188",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
@@ -10660,7 +10664,11 @@
       "red_source_logo_shape_id": 11,
       "red_bindings": "layouts/content-blue-188/bindings-red.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 188
+      "red_source_page": 188,
+      "semantic_review_status": "verified_blue_red_body_only",
+      "pptx_support": "verified_static_body_draft",
+      "body_content_status": "verified_short_copy",
+      "header_validation_status": "excluded_skill_managed"
     },
     {
       "id": "content-blue-189",
@@ -13228,8 +13236,8 @@
       "version": "1.0.0-draft",
       "collection": "new-template-content",
       "role": "content",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
+      "information_relation": "five-stage-work-plan",
+      "classification_status": "verified",
       "family_id": "content-233",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
@@ -13263,7 +13271,11 @@
       "red_source_logo_shape_id": 11,
       "red_bindings": "layouts/content-blue-233/bindings-red.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 233
+      "red_source_page": 233,
+      "semantic_review_status": "verified_blue_red_body_only",
+      "pptx_support": "verified_static_body_draft",
+      "body_content_status": "verified_short_copy",
+      "header_validation_status": "excluded_skill_managed"
     },
     {
       "id": "content-blue-234",
