@@ -6225,10 +6225,45 @@
           "columns[4].second_title",
           "columns[4].second_body"
         ],
-        "access_mode": "field_complete"
+        "access_mode": "field_complete",
+        "required_binding_paths_by_count": {
+          "4": [
+            "page.title",
+            "columns[0].footer_label",
+            "columns[1].footer_label",
+            "columns[2].footer_label",
+            "columns[3].footer_label",
+            "columns[0].circle_title",
+            "columns[1].circle_title",
+            "columns[2].circle_title",
+            "columns[3].circle_title",
+            "columns[0].first_title",
+            "columns[0].first_body",
+            "columns[0].second_title",
+            "columns[0].second_body",
+            "columns[1].first_title",
+            "columns[1].first_body",
+            "columns[1].second_title",
+            "columns[1].second_body",
+            "columns[2].first_title",
+            "columns[2].first_body",
+            "columns[2].second_title",
+            "columns[2].second_body",
+            "columns[3].first_title",
+            "columns[3].first_body",
+            "columns[3].second_title",
+            "columns[3].second_body"
+          ]
+        }
       },
       "structure_review_status": "verified_blue_red_fixed_count_short_copy",
-      "header_validation_status": "excluded_skill_managed"
+      "header_validation_status": "excluded_skill_managed",
+      "bindings_by_count": {
+        "4": {
+          "blue": "layouts/content-blue-113/bindings-4-blue.json",
+          "red": "layouts/content-blue-113/bindings-4-red.json"
+        }
+      }
     },
     {
       "id": "content-blue-114",
@@ -13910,9 +13945,76 @@
           "stages[4].action_label",
           "page.title"
         ],
-        "access_mode": "field_complete"
+        "access_mode": "field_complete",
+        "required_binding_paths_by_count": {
+          "3": [
+            "stages[0].title",
+            "stages[1].title",
+            "stages[2].title",
+            "stages[0].tag_a",
+            "stages[0].tag_b",
+            "stages[1].tag_a",
+            "stages[1].tag_b",
+            "stages[2].tag_a",
+            "stages[2].tag_b",
+            "stages[0].summary",
+            "stages[0].goal_label",
+            "stages[0].goal",
+            "stages[0].action_label",
+            "stages[1].summary",
+            "stages[1].goal_label",
+            "stages[1].goal",
+            "stages[1].action_label",
+            "stages[2].summary",
+            "stages[2].goal_label",
+            "stages[2].goal",
+            "stages[2].action_label",
+            "page.title"
+          ],
+          "4": [
+            "stages[0].title",
+            "stages[1].title",
+            "stages[2].title",
+            "stages[3].title",
+            "stages[0].tag_a",
+            "stages[0].tag_b",
+            "stages[1].tag_a",
+            "stages[1].tag_b",
+            "stages[2].tag_a",
+            "stages[2].tag_b",
+            "stages[3].tag_a",
+            "stages[3].tag_b",
+            "stages[0].summary",
+            "stages[0].goal_label",
+            "stages[0].goal",
+            "stages[0].action_label",
+            "stages[1].summary",
+            "stages[1].goal_label",
+            "stages[1].goal",
+            "stages[1].action_label",
+            "stages[2].summary",
+            "stages[2].goal_label",
+            "stages[2].goal",
+            "stages[2].action_label",
+            "stages[3].summary",
+            "stages[3].goal_label",
+            "stages[3].goal",
+            "stages[3].action_label",
+            "page.title"
+          ]
+        }
       },
-      "structure_review_status": "verified_blue_red_fixed_count_short_copy"
+      "structure_review_status": "verified_blue_red_fixed_count_short_copy",
+      "bindings_by_count": {
+        "3": {
+          "blue": "layouts/content-blue-233/bindings-3-blue.json",
+          "red": "layouts/content-blue-233/bindings-3-red.json"
+        },
+        "4": {
+          "blue": "layouts/content-blue-233/bindings-4-blue.json",
+          "red": "layouts/content-blue-233/bindings-4-red.json"
+        }
+      }
     },
     {
       "id": "content-blue-234",

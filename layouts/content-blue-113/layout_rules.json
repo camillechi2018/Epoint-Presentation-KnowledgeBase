@@ -1,12 +1,95 @@
 {
-  "cardinality_mode": "fixed",
+  "cardinality_mode": "repeatable",
   "supported_counts": [
+    4,
     5
   ],
   "source_count": 5,
-  "reflow_status": "not_implemented",
+  "reflow_status": "native_centered_reflow_verified",
   "validation_status": "verified",
   "verified_counts": [
+    4,
     5
-  ]
+  ],
+  "units": [
+    [
+      10,
+      16,
+      22,
+      27,
+      28,
+      44,
+      49,
+      50,
+      51,
+      52,
+      86
+    ],
+    [
+      11,
+      17,
+      23,
+      33,
+      34,
+      45,
+      61,
+      62,
+      63,
+      64,
+      85
+    ],
+    [
+      13,
+      18,
+      24,
+      36,
+      37,
+      46,
+      65,
+      66,
+      67,
+      68,
+      84
+    ],
+    [
+      12,
+      19,
+      25,
+      39,
+      40,
+      47,
+      69,
+      70,
+      71,
+      72,
+      83
+    ],
+    [
+      14,
+      20,
+      26,
+      42,
+      43,
+      48,
+      73,
+      74,
+      75,
+      76,
+      82
+    ]
+  ],
+  "spacing_emu": 2220468,
+  "centered_reflow": {
+    "resize_shape_ids": [
+      15
+    ],
+    "source_indices_by_count": {
+      "4": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  }
 }
