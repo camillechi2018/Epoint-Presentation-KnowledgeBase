@@ -1,0 +1,28 @@
+{
+  "rules": [
+    {
+      "type": "text_region",
+      "shape_id": 30,
+      "width_pt": 124,
+      "single_line": true
+    },
+    {
+      "type": "text_region",
+      "shape_id": 5,
+      "width_pt": 124,
+      "single_line": true
+    },
+    {
+      "type": "text_region",
+      "shape_id": 6,
+      "width_pt": 124,
+      "single_line": true
+    },
+    {
+      "type": "text_region",
+      "shape_id": 7,
+      "width_pt": 124,
+      "single_line": true
+    }
+  ]
+}

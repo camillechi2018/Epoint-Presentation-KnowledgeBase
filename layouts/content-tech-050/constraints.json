@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "type": "decoration_after_text",
+      "shape_id": 196,
+      "anchor_shape_id": 161,
+      "gap_pt": 3,
+      "right_margin_pt": 30
+    }
+  ]
+}
