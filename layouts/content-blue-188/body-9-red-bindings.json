@@ -1,0 +1,461 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "圆角矩形 35",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "第一季度总结",
+      "bounds_pt": [
+        527.9,
+        103.7,
+        95.1,
+        82.3
+      ],
+      "semantic_path": "groups[0].title",
+      "max_lines": 1,
+      "max_width_units": 12
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "圆角矩形 40",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "第二季度总结",
+      "bounds_pt": [
+        527.9,
+        217.2,
+        95.1,
+        82.3
+      ],
+      "semantic_path": "groups[1].title",
+      "max_lines": 1,
+      "max_width_units": 12
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "圆角矩形 41",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "第三季度总结",
+      "bounds_pt": [
+        527.9,
+        330.7,
+        95.1,
+        82.3
+      ],
+      "semantic_path": "groups[2].title",
+      "max_lines": 1,
+      "max_width_units": 12
+    },
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "文本框 5",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 9,
+      "source_text": "一月：战略规划定标",
+      "bounds_pt": [
+        47.7,
+        96.8,
+        140.6,
+        29.1
+      ],
+      "semantic_path": "groups[0].items[0].title",
+      "max_lines": 1,
+      "max_width_units": 20
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "文本框 12",
+      "type": "text",
+      "max_chars": 33,
+      "source_sample_chars": 20,
+      "source_text": "制定年度战略目标体系及具体实施路径方案。",
+      "bounds_pt": [
+        47.7,
+        130.1,
+        140.6,
+        55.7
+      ],
+      "semantic_path": "groups[0].items[0].body",
+      "max_lines": 1,
+      "max_width_units": 66
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "文本框 15",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 9,
+      "source_text": "二月：团队组建优化",
+      "bounds_pt": [
+        197.3,
+        96.8,
+        140.6,
+        29.1
+      ],
+      "semantic_path": "groups[0].items[1].title",
+      "max_lines": 1,
+      "max_width_units": 20
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "文本框 16",
+      "type": "text",
+      "max_chars": 33,
+      "source_sample_chars": 20,
+      "source_text": "完成组织架构调整优化与核心人才配置工作。",
+      "bounds_pt": [
+        197.3,
+        130.1,
+        140.6,
+        55.7
+      ],
+      "semantic_path": "groups[0].items[1].body",
+      "max_lines": 1,
+      "max_width_units": 66
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "文本框 18",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 9,
+      "source_text": "三月：流程标准建设",
+      "bounds_pt": [
+        346.8,
+        96.8,
+        140.6,
+        29.1
+      ],
+      "semantic_path": "groups[0].items[2].title",
+      "max_lines": 1,
+      "max_width_units": 20
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "文本框 19",
+      "type": "text",
+      "max_chars": 33,
+      "source_sample_chars": 20,
+      "source_text": "建立健全各项业务流程标准化管理体系文件。",
+      "bounds_pt": [
+        346.8,
+        130.1,
+        140.6,
+        55.7
+      ],
+      "semantic_path": "groups[0].items[2].body",
+      "max_lines": 1,
+      "max_width_units": 66
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "文本框 61",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 9,
+      "source_text": "四月：市场开拓布局",
+      "bounds_pt": [
+        47.7,
+        213.7,
+        140.6,
+        29.1
+      ],
+      "semantic_path": "groups[1].items[0].title",
+      "max_lines": 1,
+      "max_width_units": 20
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "文本框 62",
+      "type": "text",
+      "max_chars": 33,
+      "source_sample_chars": 19,
+      "source_text": "全面推进新区域市场开发与渠道网络建设。",
+      "bounds_pt": [
+        47.7,
+        247.0,
+        140.6,
+        55.7
+      ],
+      "semantic_path": "groups[1].items[0].body",
+      "max_lines": 1,
+      "max_width_units": 66
+    },
+    {
+      "field": "text_65",
+      "shape_id": 65,
+      "shape_name": "文本框 64",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 9,
+      "source_text": "五月：产品服务创新",
+      "bounds_pt": [
+        197.3,
+        213.7,
+        140.6,
+        29.1
+      ],
+      "semantic_path": "groups[1].items[1].title",
+      "max_lines": 1,
+      "max_width_units": 20
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "文本框 65",
+      "type": "text",
+      "max_chars": 33,
+      "source_sample_chars": 20,
+      "source_text": "持续升级优化服务产品体系与客户解决方案。",
+      "bounds_pt": [
+        197.3,
+        247.0,
+        140.6,
+        55.7
+      ],
+      "semantic_path": "groups[1].items[1].body",
+      "max_lines": 1,
+      "max_width_units": 66
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "文本框 67",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 9,
+      "source_text": "六月：中期复盘调整",
+      "bounds_pt": [
+        346.8,
+        213.7,
+        140.6,
+        29.1
+      ],
+      "semantic_path": "groups[1].items[2].title",
+      "max_lines": 1,
+      "max_width_units": 20
+    },
+    {
+      "field": "text_69",
+      "shape_id": 69,
+      "shape_name": "文本框 68",
+      "type": "text",
+      "max_chars": 33,
+      "source_sample_chars": 19,
+      "source_text": "全面评估上半年工作成果并优化业务策略。",
+      "bounds_pt": [
+        346.8,
+        247.0,
+        140.6,
+        55.7
+      ],
+      "semantic_path": "groups[1].items[2].body",
+      "max_lines": 1,
+      "max_width_units": 66
+    },
+    {
+      "field": "text_71",
+      "shape_id": 71,
+      "shape_name": "文本框 70",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 9,
+      "source_text": "七月：数字转型深化",
+      "bounds_pt": [
+        47.7,
+        330.7,
+        140.6,
+        29.1
+      ],
+      "semantic_path": "groups[2].items[0].title",
+      "max_lines": 1,
+      "max_width_units": 20
+    },
+    {
+      "field": "text_72",
+      "shape_id": 72,
+      "shape_name": "文本框 71",
+      "type": "text",
+      "max_chars": 33,
+      "source_sample_chars": 20,
+      "source_text": "加快推进业务数字化转型与智能化服务升级。",
+      "bounds_pt": [
+        47.7,
+        363.9,
+        140.6,
+        55.7
+      ],
+      "semantic_path": "groups[2].items[0].body",
+      "max_lines": 1,
+      "max_width_units": 66
+    },
+    {
+      "field": "text_74",
+      "shape_id": 74,
+      "shape_name": "文本框 73",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 9,
+      "source_text": "八月：客户关系深耕",
+      "bounds_pt": [
+        197.3,
+        330.7,
+        140.6,
+        29.1
+      ],
+      "semantic_path": "groups[2].items[1].title",
+      "max_lines": 1,
+      "max_width_units": 20
+    },
+    {
+      "field": "text_75",
+      "shape_id": 75,
+      "shape_name": "文本框 74",
+      "type": "text",
+      "max_chars": 33,
+      "source_sample_chars": 20,
+      "source_text": "系统开展重点客户关系维护与价值深度挖掘。",
+      "bounds_pt": [
+        197.3,
+        363.9,
+        140.6,
+        55.7
+      ],
+      "semantic_path": "groups[2].items[1].body",
+      "max_lines": 1,
+      "max_width_units": 66
+    },
+    {
+      "field": "text_77",
+      "shape_id": 77,
+      "shape_name": "文本框 76",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 9,
+      "source_text": "九月：运营效能提升",
+      "bounds_pt": [
+        346.8,
+        330.7,
+        140.6,
+        29.1
+      ],
+      "semantic_path": "groups[2].items[2].title",
+      "max_lines": 1,
+      "max_width_units": 20
+    },
+    {
+      "field": "text_78",
+      "shape_id": 78,
+      "shape_name": "文本框 77",
+      "type": "text",
+      "max_chars": 33,
+      "source_sample_chars": 19,
+      "source_text": "全面实施精细化运营管理与效率提升措施。",
+      "bounds_pt": [
+        346.8,
+        363.9,
+        140.6,
+        55.7
+      ],
+      "semantic_path": "groups[2].items[2].body",
+      "max_lines": 1,
+      "max_width_units": 66
+    },
+    {
+      "field": "text_94",
+      "shape_id": 94,
+      "shape_name": "文本框 93",
+      "type": "text",
+      "max_chars": 96,
+      "source_sample_chars": 64,
+      "source_text": "本季度重点完成年度战略规划部署工作，建立完善的目标管理体系与执行标准，优化组织架构配置与资源分配方案为全年工作推进奠定坚实基础。",
+      "bounds_pt": [
+        630.0,
+        103.9,
+        266.3,
+        82.0
+      ],
+      "semantic_path": "groups[0].summary",
+      "max_lines": 1,
+      "max_width_units": 192
+    },
+    {
+      "field": "text_95",
+      "shape_id": 95,
+      "shape_name": "文本框 94",
+      "type": "text",
+      "max_chars": 96,
+      "source_sample_chars": 72,
+      "source_text": "本季度重点推进业务市场拓展与服务产品创新工作，在保持主营业务稳定增长态势的同时，持续推进服务产品体系优化升级，为下半年业绩突破增长做好充分准备。",
+      "bounds_pt": [
+        630.0,
+        217.4,
+        266.3,
+        82.0
+      ],
+      "semantic_path": "groups[1].summary",
+      "max_lines": 1,
+      "max_width_units": 192
+    },
+    {
+      "field": "text_96",
+      "shape_id": 96,
+      "shape_name": "文本框 95",
+      "type": "text",
+      "max_chars": 96,
+      "source_sample_chars": 66,
+      "source_text": "本季度着力深化数字化转型与运营效能提升，通过精细化客户关系管理与服务质量优化，持续增强客户黏性与满意度，为年度目标冲刺储备充足动能。",
+      "bounds_pt": [
+        630.0,
+        330.9,
+        266.3,
+        82.0
+      ],
+      "semantic_path": "groups[2].summary",
+      "max_lines": 1,
+      "max_width_units": 192
+    },
+    {
+      "field": "text_99",
+      "shape_id": 99,
+      "shape_name": "文本框 98",
+      "type": "text",
+      "max_chars": 60,
+      "source_sample_chars": 45,
+      "source_text": "通过细化每月工作重点和充实季度总结内容，既保持了规划的宏观视野，又增强了执行层面的指导性。",
+      "bounds_pt": [
+        55.6,
+        462.5,
+        848.7,
+        27.0
+      ],
+      "semantic_path": "body.summary",
+      "max_lines": 1,
+      "max_width_units": 120
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}
