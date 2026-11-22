@@ -40,7 +40,7 @@
       "shape_id": 41,
       "shape_name": "矩形: 圆角 40",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 9,
       "source_text": "任务分解与目标设定",
       "bounds_pt": [
@@ -50,14 +50,15 @@
         30.2
       ],
       "semantic_path": "steps[0].title",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 14
     },
     {
       "field": "text_42",
       "shape_id": 42,
       "shape_name": "矩形: 圆角 41",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 9,
       "source_text": "优先排序与资源分配",
       "bounds_pt": [
@@ -67,14 +68,15 @@
         30.2
       ],
       "semantic_path": "steps[1].title",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 14
     },
     {
       "field": "text_43",
       "shape_id": 43,
       "shape_name": "矩形: 圆角 42",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 9,
       "source_text": "定期检查与任务反馈",
       "bounds_pt": [
@@ -84,14 +86,15 @@
         30.2
       ],
       "semantic_path": "steps[2].title",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 14
     },
     {
       "field": "text_44",
       "shape_id": 44,
       "shape_name": "矩形: 圆角 43",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 9,
       "source_text": "部门协作与团队沟通",
       "bounds_pt": [
@@ -101,14 +104,15 @@
         30.2
       ],
       "semantic_path": "steps[3].title",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 14
     },
     {
       "field": "text_45",
       "shape_id": 45,
       "shape_name": "矩形: 圆角 44",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 9,
       "source_text": "风险管理与应急预案",
       "bounds_pt": [
@@ -118,14 +122,15 @@
         30.2
       ],
       "semantic_path": "steps[4].title",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 14
     },
     {
       "field": "text_47",
       "shape_id": 47,
       "shape_name": "文本框 46",
       "type": "text",
-      "max_chars": 76,
+      "max_chars": 32,
       "source_sample_chars": 38,
       "source_text": "将工作任务进行拆解，明确每一项任务的具体目标，并为每个任务设定可量化的指标。",
       "bounds_pt": [
@@ -135,14 +140,15 @@
         60.1
       ],
       "semantic_path": "steps[0].method",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 64
     },
     {
       "field": "text_49",
       "shape_id": 49,
       "shape_name": "文本框 48",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "执行方式",
       "bounds_pt": [
@@ -152,14 +158,15 @@
         21.8
       ],
       "semantic_path": "steps[0].method_label",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_60",
       "shape_id": 60,
       "shape_name": "文本框 59",
       "type": "text",
-      "max_chars": 72,
+      "max_chars": 32,
       "source_sample_chars": 36,
       "source_text": "根据任务的紧急性和重要性进行优先级排序，确保高优先级的任务能够及时完成。",
       "bounds_pt": [
@@ -169,14 +176,15 @@
         60.1
       ],
       "semantic_path": "steps[1].method",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 64
     },
     {
       "field": "text_61",
       "shape_id": 61,
       "shape_name": "文本框 60",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "执行方式",
       "bounds_pt": [
@@ -186,14 +194,15 @@
         21.8
       ],
       "semantic_path": "steps[1].method_label",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_65",
       "shape_id": 65,
       "shape_name": "文本框 64",
       "type": "text",
-      "max_chars": 62,
+      "max_chars": 32,
       "source_sample_chars": 31,
       "source_text": "定期对任务进度进行检查，及时发现并解决问题，确保工作顺利推进。",
       "bounds_pt": [
@@ -203,14 +212,15 @@
         60.1
       ],
       "semantic_path": "steps[2].method",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 64
     },
     {
       "field": "text_66",
       "shape_id": 66,
       "shape_name": "文本框 65",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "执行方式",
       "bounds_pt": [
@@ -220,14 +230,15 @@
         21.8
       ],
       "semantic_path": "steps[2].method_label",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_70",
       "shape_id": 70,
       "shape_name": "文本框 69",
       "type": "text",
-      "max_chars": 74,
+      "max_chars": 32,
       "source_sample_chars": 37,
       "source_text": "确保不同部门之间的沟通畅通无阻，定期安排跨部门的协调会议，保持目标一致性。",
       "bounds_pt": [
@@ -237,14 +248,15 @@
         60.1
       ],
       "semantic_path": "steps[3].method",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 64
     },
     {
       "field": "text_71",
       "shape_id": 71,
       "shape_name": "文本框 70",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "执行方式",
       "bounds_pt": [
@@ -254,14 +266,15 @@
         21.8
       ],
       "semantic_path": "steps[3].method_label",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_75",
       "shape_id": 75,
       "shape_name": "文本框 74",
       "type": "text",
-      "max_chars": 68,
+      "max_chars": 32,
       "source_sample_chars": 34,
       "source_text": "提前识别任务中可能出现的风险，并制定应急预案迅速调整资源和执行策略。",
       "bounds_pt": [
@@ -271,14 +284,15 @@
         60.1
       ],
       "semantic_path": "steps[4].method",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 64
     },
     {
       "field": "text_76",
       "shape_id": 76,
       "shape_name": "文本框 75",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "执行方式",
       "bounds_pt": [
@@ -288,14 +302,15 @@
         21.8
       ],
       "semantic_path": "steps[4].method_label",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_80",
       "shape_id": 80,
       "shape_name": "文本框 79",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "使用工具",
       "bounds_pt": [
@@ -305,14 +320,15 @@
         21.8
       ],
       "semantic_path": "steps[0].tool_label",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_84",
       "shape_id": 84,
       "shape_name": "文本框 83",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "使用工具",
       "bounds_pt": [
@@ -322,14 +338,15 @@
         21.8
       ],
       "semantic_path": "steps[1].tool_label",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_88",
       "shape_id": 88,
       "shape_name": "文本框 87",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "使用工具",
       "bounds_pt": [
@@ -339,14 +356,15 @@
         21.8
       ],
       "semantic_path": "steps[2].tool_label",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_92",
       "shape_id": 92,
       "shape_name": "文本框 91",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "使用工具",
       "bounds_pt": [
@@ -356,14 +374,15 @@
         21.8
       ],
       "semantic_path": "steps[3].tool_label",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_96",
       "shape_id": 96,
       "shape_name": "文本框 95",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "使用工具",
       "bounds_pt": [
@@ -373,14 +392,15 @@
         21.8
       ],
       "semantic_path": "steps[4].tool_label",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_100",
       "shape_id": 100,
       "shape_name": "文本框 99",
       "type": "text",
-      "max_chars": 50,
+      "max_chars": 21,
       "source_sample_chars": 25,
       "source_text": "使用项目管理工具记录任务分解，设定各阶段的里程碑。",
       "bounds_pt": [
@@ -390,14 +410,15 @@
         41.9
       ],
       "semantic_path": "steps[0].tool",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 42
     },
     {
       "field": "text_101",
       "shape_id": 101,
       "shape_name": "文本框 100",
       "type": "text",
-      "max_chars": 48,
+      "max_chars": 21,
       "source_sample_chars": 24,
       "source_text": "使用艾森豪威尔矩阵来帮助排序任务，合理分配资源。",
       "bounds_pt": [
@@ -407,14 +428,15 @@
         41.9
       ],
       "semantic_path": "steps[1].tool",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 42
     },
     {
       "field": "text_102",
       "shape_id": 102,
       "shape_name": "文本框 101",
       "type": "text",
-      "max_chars": 44,
+      "max_chars": 21,
       "source_sample_chars": 22,
       "source_text": "使用团队协作工具进行实时沟通，进行回顾总结。",
       "bounds_pt": [
@@ -424,14 +446,15 @@
         41.9
       ],
       "semantic_path": "steps[2].tool",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 42
     },
     {
       "field": "text_103",
       "shape_id": 103,
       "shape_name": "文本框 102",
       "type": "text",
-      "max_chars": 48,
+      "max_chars": 21,
       "source_sample_chars": 24,
       "source_text": "建立共享文档，确保所有相关人员可以查看任务进展。",
       "bounds_pt": [
@@ -441,14 +464,15 @@
         41.9
       ],
       "semantic_path": "steps[3].tool",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 42
     },
     {
       "field": "text_104",
       "shape_id": 104,
       "shape_name": "文本框 103",
       "type": "text",
-      "max_chars": 44,
+      "max_chars": 21,
       "source_sample_chars": 22,
       "source_text": "使用风险评估工具，确保能够迅速响应突发情况。",
       "bounds_pt": [
@@ -458,14 +482,15 @@
         41.9
       ],
       "semantic_path": "steps[4].tool",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 42
     },
     {
       "field": "text_105",
       "shape_id": 105,
       "shape_name": "圆角矩形 104",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "明确目标",
       "bounds_pt": [
@@ -475,14 +500,15 @@
         19.5
       ],
       "semantic_path": "steps[0].tag_a",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_106",
       "shape_id": 106,
       "shape_name": "圆角矩形 105",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "量化指标",
       "bounds_pt": [
@@ -492,14 +518,15 @@
         19.5
       ],
       "semantic_path": "steps[0].tag_b",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_109",
       "shape_id": 109,
       "shape_name": "圆角矩形 108",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "优先排序",
       "bounds_pt": [
@@ -509,14 +536,15 @@
         19.5
       ],
       "semantic_path": "steps[1].tag_a",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_110",
       "shape_id": 110,
       "shape_name": "圆角矩形 109",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "及时完成",
       "bounds_pt": [
@@ -526,14 +554,15 @@
         19.5
       ],
       "semantic_path": "steps[1].tag_b",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_112",
       "shape_id": 112,
       "shape_name": "圆角矩形 111",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "进度检查",
       "bounds_pt": [
@@ -543,14 +572,15 @@
         19.5
       ],
       "semantic_path": "steps[2].tag_a",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_113",
       "shape_id": 113,
       "shape_name": "圆角矩形 112",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "解决问题",
       "bounds_pt": [
@@ -560,14 +590,15 @@
         19.5
       ],
       "semantic_path": "steps[2].tag_b",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_115",
       "shape_id": 115,
       "shape_name": "圆角矩形 114",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "沟通顺畅",
       "bounds_pt": [
@@ -577,14 +608,15 @@
         19.5
       ],
       "semantic_path": "steps[3].tag_a",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_116",
       "shape_id": 116,
       "shape_name": "圆角矩形 115",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "目标一致",
       "bounds_pt": [
@@ -594,14 +626,15 @@
         19.5
       ],
       "semantic_path": "steps[3].tag_b",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_118",
       "shape_id": 118,
       "shape_name": "圆角矩形 117",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "识别风险",
       "bounds_pt": [
@@ -611,14 +644,15 @@
         19.5
       ],
       "semantic_path": "steps[4].tag_a",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_119",
       "shape_id": 119,
       "shape_name": "圆角矩形 118",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "应急预案",
       "bounds_pt": [
@@ -628,7 +662,8 @@
         19.5
       ],
       "semantic_path": "steps[4].tag_b",
-      "max_lines": 1
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_122",

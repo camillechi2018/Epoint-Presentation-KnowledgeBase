@@ -7,7 +7,7 @@
     6
   ],
   "source_count": 5,
-  "reflow_status": "native_centered_reflow_verified",
+  "reflow_status": "native_fixed_span_reflow_verified",
   "validation_status": "verified",
   "verified_counts": [
     3,
@@ -88,20 +88,42 @@
     ]
   ],
   "spacing_emu": 2247323,
-  "centered_reflow": {
-    "resize_shape_ids": [
-      12
+  "centered_reflow": {},
+  "fixed_span_reflow": {
+    "fixed_width_shape_ids": [
+      55,
+      62,
+      67,
+      72,
+      77,
+      81,
+      85,
+      89,
+      93,
+      97
     ],
-    "left_label_ids": [
-      26
+    "tight_margins_when_expanded": [
+      105,
+      106,
+      109,
+      110,
+      112,
+      113,
+      115,
+      116,
+      118,
+      119
     ],
-    "right_label_ids": [
-      122
-    ]
-  },
-  "expand_columns": {
-    "anchor_shape_id": 13,
-    "preserve_group_width": true,
+    "anchor_shape_ids": [
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "preserve_gutter": true,
+    "extra_source_index": 4,
+    "extra_target_index": 5,
     "clone_id_offset": 10000
   }
 }

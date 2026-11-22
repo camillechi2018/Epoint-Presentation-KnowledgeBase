@@ -10,12 +10,38 @@
 - 页标题、Logo、下划线由技能处理，不计入本组件内容验收。
 - 蓝红主题仅验证了短文案填充；资产仍为 `draft_pending_review`。
 
-三项和四项保留对应数量的前置正文单元并居中。六项复制一个原生正文单元，为新增单元填充独立内容，并缩窄各列。蓝红两式均已通过常规选版、填充及 PowerPoint 导出。
+正文总宽保持原五项版的左右边界，按项数调整每列宽度。弧线段数和分隔线位置随列数变化。
 
-六项版每个正文单元的文字上限（字符数）
+各项数的实测容量如下。正文以一段输入，由 PowerPoint 按列宽换行。
 
-- `goal_label`：4
-- `title`：6
-- `goal_body`：32
-- `plan_body`：40
-- `plan_label`：4
+### 3 项
+
+- `title` 6 字
+- `goal_label` 4 字
+- `plan_label` 4 字
+- `goal_body` 60 字
+- `plan_body` 72 字
+
+### 4 项
+
+- `title` 6 字
+- `goal_label` 4 字
+- `plan_label` 4 字
+- `goal_body` 44 字
+- `plan_body` 52 字
+
+### 5 项
+
+- `title` 6 字
+- `goal_label` 4 字
+- `plan_label` 4 字
+- `goal_body` 36 字
+- `plan_body` 44 字
+
+### 6 项
+
+- `title` 6 字
+- `goal_label` 4 字
+- `plan_label` 4 字
+- `goal_body` 32 字
+- `plan_body` 40 字

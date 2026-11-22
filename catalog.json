@@ -4722,6 +4722,33 @@
         ],
         "access_mode": "field_complete",
         "required_binding_paths_by_count": {
+          "3": [
+            "body.title",
+            "body.start_label",
+            "steps[0].title",
+            "steps[1].title",
+            "steps[2].title",
+            "steps[0].method",
+            "steps[0].method_label",
+            "steps[1].method",
+            "steps[1].method_label",
+            "steps[2].method",
+            "steps[2].method_label",
+            "steps[0].tool_label",
+            "steps[1].tool_label",
+            "steps[2].tool_label",
+            "steps[0].tool",
+            "steps[1].tool",
+            "steps[2].tool",
+            "steps[0].tag_a",
+            "steps[0].tag_b",
+            "steps[1].tag_a",
+            "steps[1].tag_b",
+            "steps[2].tag_a",
+            "steps[2].tag_b",
+            "body.end_label",
+            "page.title"
+          ],
           "4": [
             "body.title",
             "body.start_label",
@@ -4756,34 +4783,7 @@
             "body.end_label",
             "page.title"
           ],
-          "3": [
-            "body.title",
-            "body.start_label",
-            "steps[0].title",
-            "steps[1].title",
-            "steps[2].title",
-            "steps[0].method",
-            "steps[0].method_label",
-            "steps[1].method",
-            "steps[1].method_label",
-            "steps[2].method",
-            "steps[2].method_label",
-            "steps[0].tool_label",
-            "steps[1].tool_label",
-            "steps[2].tool_label",
-            "steps[0].tool",
-            "steps[1].tool",
-            "steps[2].tool",
-            "steps[0].tag_a",
-            "steps[0].tag_b",
-            "steps[1].tag_a",
-            "steps[1].tag_b",
-            "steps[2].tag_a",
-            "steps[2].tag_b",
-            "body.end_label",
-            "page.title"
-          ],
-          "6": [
+          "5": [
             "body.title",
             "body.start_label",
             "steps[0].title",
@@ -4822,22 +4822,71 @@
             "steps[4].tag_a",
             "steps[4].tag_b",
             "body.end_label",
-            "page.title",
+            "page.title"
+          ],
+          "6": [
+            "body.title",
+            "body.start_label",
+            "steps[0].title",
+            "steps[1].title",
+            "steps[2].title",
+            "steps[3].title",
+            "steps[4].title",
             "steps[5].title",
+            "steps[0].method",
+            "steps[0].method_label",
+            "steps[1].method",
+            "steps[1].method_label",
+            "steps[2].method",
+            "steps[2].method_label",
+            "steps[3].method",
+            "steps[3].method_label",
+            "steps[4].method",
             "steps[5].method",
+            "steps[4].method_label",
             "steps[5].method_label",
+            "steps[0].tool_label",
+            "steps[1].tool_label",
+            "steps[2].tool_label",
+            "steps[3].tool_label",
+            "steps[4].tool_label",
             "steps[5].tool_label",
+            "steps[0].tool",
+            "steps[1].tool",
+            "steps[2].tool",
+            "steps[3].tool",
+            "steps[4].tool",
             "steps[5].tool",
+            "steps[0].tag_a",
+            "steps[0].tag_b",
+            "steps[1].tag_a",
+            "steps[1].tag_b",
+            "steps[2].tag_a",
+            "steps[2].tag_b",
+            "steps[3].tag_a",
+            "steps[3].tag_b",
+            "steps[4].tag_a",
             "steps[5].tag_a",
-            "steps[5].tag_b"
+            "steps[4].tag_b",
+            "steps[5].tag_b",
+            "body.end_label",
+            "page.title"
           ]
         }
       },
       "structure_review_status": "verified_blue_red_fixed_count_short_copy",
       "bindings_by_count": {
+        "3": {
+          "blue": "layouts/content-blue-090/bindings-3-blue.json",
+          "red": "layouts/content-blue-090/bindings-3-red.json"
+        },
+        "4": {
+          "blue": "layouts/content-blue-090/bindings-4-blue.json",
+          "red": "layouts/content-blue-090/bindings-4-red.json"
+        },
         "6": {
-          "blue": "layouts/content-blue-090/bindings-six-blue.json",
-          "red": "layouts/content-blue-090/bindings-six-red.json"
+          "blue": "layouts/content-blue-090/bindings-6-blue.json",
+          "red": "layouts/content-blue-090/bindings-6-red.json"
         }
       }
     },
@@ -9439,6 +9488,24 @@
         ],
         "access_mode": "field_complete",
         "required_binding_paths_by_count": {
+          "3": [
+            "page.title",
+            "items[0].goal_label",
+            "items[1].goal_label",
+            "items[2].goal_label",
+            "items[0].title",
+            "items[1].title",
+            "items[2].title",
+            "items[0].goal_body",
+            "items[0].plan_body",
+            "items[0].plan_label",
+            "items[1].plan_label",
+            "items[2].plan_label",
+            "items[1].goal_body",
+            "items[2].goal_body",
+            "items[1].plan_body",
+            "items[2].plan_body"
+          ],
           "4": [
             "page.title",
             "items[0].goal_label",
@@ -9462,25 +9529,7 @@
             "items[2].plan_body",
             "items[3].plan_body"
           ],
-          "3": [
-            "page.title",
-            "items[0].goal_label",
-            "items[1].goal_label",
-            "items[2].goal_label",
-            "items[0].title",
-            "items[1].title",
-            "items[2].title",
-            "items[0].goal_body",
-            "items[0].plan_body",
-            "items[0].plan_label",
-            "items[1].plan_label",
-            "items[2].plan_label",
-            "items[1].goal_body",
-            "items[2].goal_body",
-            "items[1].plan_body",
-            "items[2].plan_body"
-          ],
-          "6": [
+          "5": [
             "page.title",
             "items[0].goal_label",
             "items[1].goal_label",
@@ -9506,11 +9555,39 @@
             "items[1].plan_body",
             "items[2].plan_body",
             "items[3].plan_body",
-            "items[4].plan_body",
+            "items[4].plan_body"
+          ],
+          "6": [
+            "page.title",
+            "items[0].goal_label",
+            "items[1].goal_label",
+            "items[2].goal_label",
+            "items[3].goal_label",
+            "items[4].goal_label",
             "items[5].goal_label",
+            "items[0].title",
+            "items[1].title",
+            "items[2].title",
+            "items[3].title",
+            "items[4].title",
             "items[5].title",
+            "items[0].goal_body",
+            "items[0].plan_body",
+            "items[0].plan_label",
+            "items[1].plan_label",
+            "items[2].plan_label",
+            "items[3].plan_label",
+            "items[4].plan_label",
             "items[5].plan_label",
+            "items[1].goal_body",
+            "items[2].goal_body",
+            "items[3].goal_body",
+            "items[4].goal_body",
             "items[5].goal_body",
+            "items[1].plan_body",
+            "items[2].plan_body",
+            "items[3].plan_body",
+            "items[4].plan_body",
             "items[5].plan_body"
           ]
         }
@@ -9518,9 +9595,17 @@
       "structure_review_status": "verified_blue_red_fixed_count_short_copy",
       "header_validation_status": "excluded_skill_managed",
       "bindings_by_count": {
+        "3": {
+          "blue": "layouts/content-blue-155/bindings-3-blue.json",
+          "red": "layouts/content-blue-155/bindings-3-red.json"
+        },
+        "4": {
+          "blue": "layouts/content-blue-155/bindings-4-blue.json",
+          "red": "layouts/content-blue-155/bindings-4-red.json"
+        },
         "6": {
-          "blue": "layouts/content-blue-155/bindings-six-blue.json",
-          "red": "layouts/content-blue-155/bindings-six-red.json"
+          "blue": "layouts/content-blue-155/bindings-6-blue.json",
+          "red": "layouts/content-blue-155/bindings-6-red.json"
         }
       }
     },
