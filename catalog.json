@@ -26615,7 +26615,7 @@
       "color_family": "deep-blue",
       "role": "content",
       "information_relation": "process",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-process-050",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -26640,15 +26640,74 @@
         "cell_max_chars": 20
       },
       "shape_count": 127,
-      "media_status": "unreviewed",
+      "media_status": "verified_source_decorations",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "motion_suitability": "A",
-      "cardinality_status": "not_implemented",
+      "cardinality_status": "verified",
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 3,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "ready_source_by_theme": {
+        "deep-blue-tech": "layouts/content-tech-050/ready-deep-blue-tech.pptx"
+      },
+      "canonical_relation": "process",
+      "structure_type": "process",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "header_validation_status": "excluded_skill_managed",
+      "structure_review_status": "verified_deep_blue_tech_body_capacity",
+      "pptx_support": "verified_static_body_draft",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "process",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "wave_nodes[1].heading",
+          "wave_nodes[1].copy",
+          "wave_nodes[3].heading",
+          "wave_nodes[3].copy",
+          "wave_nodes[4].heading",
+          "wave_nodes[4].copy",
+          "wave_nodes[2].heading",
+          "wave_nodes[2].copy",
+          "wave_nodes[0].copy",
+          "wave_nodes[0].marker",
+          "wave_nodes[1].marker",
+          "wave_nodes[3].marker",
+          "wave_nodes[4].marker",
+          "wave_nodes[2].marker",
+          "wave_nodes[0].heading"
+        ],
+        "required_binding_paths_by_count": {
+          "5": [
+            "wave_nodes[1].heading",
+            "wave_nodes[1].copy",
+            "wave_nodes[3].heading",
+            "wave_nodes[3].copy",
+            "wave_nodes[4].heading",
+            "wave_nodes[4].copy",
+            "wave_nodes[2].heading",
+            "wave_nodes[2].copy",
+            "wave_nodes[0].copy",
+            "wave_nodes[0].marker",
+            "wave_nodes[1].marker",
+            "wave_nodes[3].marker",
+            "wave_nodes[4].marker",
+            "wave_nodes[2].marker",
+            "wave_nodes[0].heading"
+          ]
+        },
+        "access_mode": "field_complete",
+        "optional_binding_paths": [
+          "page.title",
+          "page.subtitle"
+        ]
+      }
     },
     {
       "id": "content-tech-051",
@@ -26657,8 +26716,8 @@
       "style_family": "deep-blue-tech",
       "color_family": "deep-blue",
       "role": "content",
-      "information_relation": "process",
-      "classification_status": "visual_initial",
+      "information_relation": "parallel-points",
+      "classification_status": "verified",
       "family_id": "tech-process-051",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -26683,17 +26742,123 @@
         "cell_max_chars": 20
       },
       "shape_count": 68,
-      "media_status": "unreviewed",
+      "media_status": "verified_source_decorations",
       "html_support": "not_implemented",
       "motion_support": "prototype_requires_playback_review",
       "motion_suitability": "A",
-      "cardinality_status": "internal_prototype_requires_visual_review",
+      "cardinality_status": "verified",
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 3,
       "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
       "item_group_status": "field_membership_reviewed_geometry_pending",
-      "item_group_field_count": 12
+      "item_group_field_count": 12,
+      "canonical_relation": "parallel-points",
+      "structure_type": "parallel-points",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "header_validation_status": "excluded_skill_managed",
+      "structure_review_status": "verified_deep_blue_tech_body_capacity",
+      "pptx_support": "verified_static_body_draft",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "parallel-points",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "pillar_cards[0].copy",
+          "pillar_cards[0].title",
+          "pillar_cards[1].copy",
+          "pillar_cards[2].copy",
+          "pillar_cards[3].copy",
+          "pillar_cards[4].copy",
+          "pillar_cards[5].copy",
+          "count.caption",
+          "pillar_cards[5].title",
+          "pillar_cards[4].title",
+          "pillar_cards[3].title",
+          "pillar_cards[2].title",
+          "pillar_cards[1].title"
+        ],
+        "required_binding_paths_by_count": {
+          "2": [
+            "pillar_cards[0].copy",
+            "pillar_cards[0].title",
+            "pillar_cards[1].copy",
+            "count.caption",
+            "pillar_cards[1].title"
+          ],
+          "3": [
+            "pillar_cards[0].copy",
+            "pillar_cards[0].title",
+            "pillar_cards[1].copy",
+            "pillar_cards[2].copy",
+            "count.caption",
+            "pillar_cards[2].title",
+            "pillar_cards[1].title"
+          ],
+          "4": [
+            "pillar_cards[0].copy",
+            "pillar_cards[0].title",
+            "pillar_cards[1].copy",
+            "pillar_cards[2].copy",
+            "pillar_cards[3].copy",
+            "count.caption",
+            "pillar_cards[3].title",
+            "pillar_cards[2].title",
+            "pillar_cards[1].title"
+          ],
+          "5": [
+            "pillar_cards[0].copy",
+            "pillar_cards[0].title",
+            "pillar_cards[1].copy",
+            "pillar_cards[2].copy",
+            "pillar_cards[3].copy",
+            "pillar_cards[4].copy",
+            "count.caption",
+            "pillar_cards[4].title",
+            "pillar_cards[3].title",
+            "pillar_cards[2].title",
+            "pillar_cards[1].title"
+          ],
+          "6": [
+            "pillar_cards[0].copy",
+            "pillar_cards[0].title",
+            "pillar_cards[1].copy",
+            "pillar_cards[2].copy",
+            "pillar_cards[3].copy",
+            "pillar_cards[4].copy",
+            "pillar_cards[5].copy",
+            "count.caption",
+            "pillar_cards[5].title",
+            "pillar_cards[4].title",
+            "pillar_cards[3].title",
+            "pillar_cards[2].title",
+            "pillar_cards[1].title"
+          ]
+        },
+        "access_mode": "field_complete",
+        "optional_binding_paths": [
+          "page.title",
+          "page.subtitle"
+        ]
+      },
+      "bindings_by_count": {
+        "2": {
+          "deep-blue-tech": "layouts/content-tech-051/bindings-2-deep-blue-tech.json"
+        },
+        "3": {
+          "deep-blue-tech": "layouts/content-tech-051/bindings-3-deep-blue-tech.json"
+        },
+        "4": {
+          "deep-blue-tech": "layouts/content-tech-051/bindings-4-deep-blue-tech.json"
+        },
+        "5": {
+          "deep-blue-tech": "layouts/content-tech-051/bindings-5-deep-blue-tech.json"
+        }
+      }
     },
     {
       "id": "content-tech-052",
@@ -27839,8 +28004,8 @@
       "style_family": "deep-blue-tech",
       "color_family": "deep-blue",
       "role": "content",
-      "information_relation": "hierarchy",
-      "classification_status": "visual_initial",
+      "information_relation": "parallel-points",
+      "classification_status": "verified",
       "family_id": "tech-hierarchy-062",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -27865,15 +28030,106 @@
         "cell_max_chars": 20
       },
       "shape_count": 80,
-      "media_status": "unreviewed",
+      "media_status": "verified_source_decorations",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "motion_suitability": "A",
-      "cardinality_status": "not_implemented",
+      "cardinality_status": "verified",
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 4,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "canonical_relation": "parallel-points",
+      "structure_type": "parallel-points",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "header_validation_status": "excluded_skill_managed",
+      "structure_review_status": "verified_deep_blue_tech_body_capacity",
+      "pptx_support": "verified_static_body_draft",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "parallel-points",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "orbit.caption",
+          "orbit_cards[1].heading",
+          "orbit_cards[1].copy",
+          "orbit_cards[2].heading",
+          "orbit_cards[2].copy",
+          "orbit_cards[0].heading",
+          "orbit_cards[0].copy",
+          "orbit_cards[8].heading",
+          "orbit_cards[8].copy",
+          "orbit_cards[9].heading",
+          "orbit_cards[9].copy",
+          "orbit_cards[7].heading",
+          "orbit_cards[7].copy",
+          "orbit_cards[6].heading",
+          "orbit_cards[6].copy",
+          "orbit_cards[5].heading",
+          "orbit_cards[5].copy",
+          "orbit_cards[4].heading",
+          "orbit_cards[4].copy",
+          "orbit_cards[3].heading",
+          "orbit_cards[3].copy"
+        ],
+        "required_binding_paths_by_count": {
+          "8": [
+            "orbit.caption",
+            "orbit_cards[1].heading",
+            "orbit_cards[1].copy",
+            "orbit_cards[0].heading",
+            "orbit_cards[0].copy",
+            "orbit_cards[6].heading",
+            "orbit_cards[6].copy",
+            "orbit_cards[7].heading",
+            "orbit_cards[7].copy",
+            "orbit_cards[5].heading",
+            "orbit_cards[5].copy",
+            "orbit_cards[4].heading",
+            "orbit_cards[4].copy",
+            "orbit_cards[3].heading",
+            "orbit_cards[3].copy",
+            "orbit_cards[2].heading",
+            "orbit_cards[2].copy"
+          ],
+          "10": [
+            "orbit.caption",
+            "orbit_cards[1].heading",
+            "orbit_cards[1].copy",
+            "orbit_cards[2].heading",
+            "orbit_cards[2].copy",
+            "orbit_cards[0].heading",
+            "orbit_cards[0].copy",
+            "orbit_cards[8].heading",
+            "orbit_cards[8].copy",
+            "orbit_cards[9].heading",
+            "orbit_cards[9].copy",
+            "orbit_cards[7].heading",
+            "orbit_cards[7].copy",
+            "orbit_cards[6].heading",
+            "orbit_cards[6].copy",
+            "orbit_cards[5].heading",
+            "orbit_cards[5].copy",
+            "orbit_cards[4].heading",
+            "orbit_cards[4].copy",
+            "orbit_cards[3].heading",
+            "orbit_cards[3].copy"
+          ]
+        },
+        "access_mode": "field_complete",
+        "optional_binding_paths": [
+          "page.title"
+        ]
+      },
+      "bindings_by_count": {
+        "8": {
+          "deep-blue-tech": "layouts/content-tech-062/bindings-8-deep-blue-tech.json"
+        }
+      }
     },
     {
       "id": "content-tech-063",
@@ -28362,8 +28618,8 @@
       "style_family": "deep-blue-tech",
       "color_family": "deep-blue",
       "role": "data-chart",
-      "information_relation": "data-chart",
-      "classification_status": "visual_initial",
+      "information_relation": "trend",
+      "classification_status": "verified",
       "family_id": "tech-data-chart-067",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -28388,15 +28644,72 @@
         "cell_max_chars": 20
       },
       "shape_count": 75,
-      "media_status": "unreviewed",
+      "media_status": "verified_source_decorations",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "motion_suitability": "B",
-      "cardinality_status": "not_implemented",
+      "cardinality_status": "verified",
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 59,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "ready_source_by_theme": {
+        "deep-blue-tech": "layouts/data-chart-tech-067/ready-deep-blue-tech.pptx"
+      },
+      "canonical_relation": "trend",
+      "structure_type": "trend",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "header_validation_status": "excluded_skill_managed",
+      "structure_review_status": "verified_deep_blue_tech_body_capacity",
+      "pptx_support": "verified_static_body_draft",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "trend",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "chart_commentary[0].title",
+          "chart_commentary[0].copy",
+          "chart_commentary[1].title",
+          "chart_commentary[1].copy",
+          "chart_commentary[2].title",
+          "chart_commentary[2].copy",
+          "chart.caption"
+        ],
+        "required_binding_paths_by_count": {
+          "6": [
+            "chart_commentary[0].title",
+            "chart_commentary[0].copy",
+            "chart_commentary[1].title",
+            "chart_commentary[1].copy",
+            "chart_commentary[2].title",
+            "chart_commentary[2].copy",
+            "chart.caption"
+          ],
+          "7": [
+            "chart_commentary[0].title",
+            "chart_commentary[0].copy",
+            "chart_commentary[1].title",
+            "chart_commentary[1].copy",
+            "chart_commentary[2].title",
+            "chart_commentary[2].copy",
+            "chart.caption"
+          ]
+        },
+        "access_mode": "field_complete",
+        "optional_binding_paths": [
+          "page.title",
+          "page.subtitle"
+        ]
+      },
+      "bindings_by_count": {
+        "6": {
+          "deep-blue-tech": "layouts/data-chart-tech-067/bindings-6-deep-blue-tech.json"
+        }
+      }
     },
     {
       "id": "data-chart-tech-068",
@@ -28405,8 +28718,8 @@
       "style_family": "deep-blue-tech",
       "color_family": "deep-blue",
       "role": "data-chart",
-      "information_relation": "metrics",
-      "classification_status": "visual_initial",
+      "information_relation": "composition",
+      "classification_status": "verified",
       "family_id": "tech-metrics-068",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -28431,15 +28744,81 @@
         "cell_max_chars": 20
       },
       "shape_count": 47,
-      "media_status": "unreviewed",
+      "media_status": "verified_source_decorations",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "motion_suitability": "B",
-      "cardinality_status": "not_implemented",
+      "cardinality_status": "verified",
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 22,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "ready_source_by_theme": {
+        "deep-blue-tech": "layouts/data-chart-tech-068/ready-deep-blue-tech.pptx"
+      },
+      "canonical_relation": "composition",
+      "structure_type": "composition",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "header_validation_status": "excluded_skill_managed",
+      "structure_review_status": "verified_deep_blue_tech_body_capacity",
+      "pptx_support": "verified_static_body_draft",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "composition",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "commentary_markers[0].number",
+          "commentary_panels[0].heading",
+          "commentary_panels[0].first_copy",
+          "commentary_markers[1].number",
+          "commentary_panels[0].second_copy",
+          "commentary_markers[2].number",
+          "commentary_panels[1].heading",
+          "commentary_panels[1].first_copy",
+          "commentary_markers[3].number",
+          "commentary_panels[1].second_copy"
+        ],
+        "required_binding_paths_by_count": {
+          "3": [
+            "commentary_markers[0].number",
+            "commentary_panels[0].heading",
+            "commentary_panels[0].first_copy",
+            "commentary_markers[1].number",
+            "commentary_panels[0].second_copy",
+            "commentary_markers[2].number",
+            "commentary_panels[1].heading",
+            "commentary_panels[1].first_copy",
+            "commentary_markers[3].number",
+            "commentary_panels[1].second_copy"
+          ],
+          "4": [
+            "commentary_markers[0].number",
+            "commentary_panels[0].heading",
+            "commentary_panels[0].first_copy",
+            "commentary_markers[1].number",
+            "commentary_panels[0].second_copy",
+            "commentary_markers[2].number",
+            "commentary_panels[1].heading",
+            "commentary_panels[1].first_copy",
+            "commentary_markers[3].number",
+            "commentary_panels[1].second_copy"
+          ]
+        },
+        "access_mode": "field_complete",
+        "optional_binding_paths": [
+          "page.title",
+          "page.subtitle"
+        ]
+      },
+      "bindings_by_count": {
+        "3": {
+          "deep-blue-tech": "layouts/data-chart-tech-068/bindings-3-deep-blue-tech.json"
+        }
+      }
     },
     {
       "id": "schedule-tech-069",
@@ -29086,7 +29465,7 @@
       "color_family": "deep-blue",
       "role": "content",
       "information_relation": "hierarchy",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-hierarchy-078",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -29111,15 +29490,68 @@
         "cell_max_chars": 20
       },
       "shape_count": 162,
-      "media_status": "unreviewed",
+      "media_status": "verified_source_decorations",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "motion_suitability": "B",
-      "cardinality_status": "not_implemented",
+      "cardinality_status": "verified",
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 4,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "canonical_relation": "hierarchy",
+      "structure_type": "hierarchy",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "header_validation_status": "excluded_skill_managed",
+      "structure_review_status": "verified_deep_blue_tech_body_capacity",
+      "pptx_support": "verified_static_body_draft",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "hierarchy",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "platform_titles[0].title",
+          "platform_titles[2].title",
+          "platform_titles[1].title",
+          "upper_nodes[0].label",
+          "upper_nodes[3].label",
+          "upper_nodes[2].label",
+          "middle_nodes[0].label",
+          "middle_nodes[3].label",
+          "middle_nodes[1].label",
+          "middle_nodes[2].label",
+          "lower_nodes[1].label",
+          "lower_nodes[0].label",
+          "lower_nodes[2].label",
+          "upper_nodes[1].label"
+        ],
+        "required_binding_paths_by_count": {
+          "11": [
+            "platform_titles[0].title",
+            "platform_titles[2].title",
+            "platform_titles[1].title",
+            "upper_nodes[0].label",
+            "upper_nodes[3].label",
+            "upper_nodes[2].label",
+            "middle_nodes[0].label",
+            "middle_nodes[3].label",
+            "middle_nodes[1].label",
+            "middle_nodes[2].label",
+            "lower_nodes[1].label",
+            "lower_nodes[0].label",
+            "lower_nodes[2].label",
+            "upper_nodes[1].label"
+          ]
+        },
+        "access_mode": "field_complete",
+        "optional_binding_paths": [
+          "page.title"
+        ]
+      }
     },
     {
       "id": "content-tech-079",
@@ -29129,7 +29561,7 @@
       "color_family": "deep-blue",
       "role": "content",
       "information_relation": "hierarchy",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-hierarchy-079",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -29154,15 +29586,93 @@
         "cell_max_chars": 20
       },
       "shape_count": 227,
-      "media_status": "unreviewed",
+      "media_status": "verified_source_decorations",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "motion_suitability": "B",
-      "cardinality_status": "not_implemented",
+      "cardinality_status": "verified",
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 4,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "canonical_relation": "hierarchy",
+      "structure_type": "hierarchy",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "header_validation_status": "excluded_skill_managed",
+      "structure_review_status": "verified_deep_blue_tech_body_capacity",
+      "pptx_support": "verified_static_body_draft",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "hierarchy",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "stack.middle",
+          "stack.lower",
+          "stack.footer",
+          "lower_nodes[0].label",
+          "lower_nodes[1].label",
+          "lower_nodes[2].label",
+          "upper_nodes[3].label",
+          "upper_nodes[0].label",
+          "upper_nodes[1].label",
+          "upper_nodes[2].label",
+          "stack.top",
+          "stack_middle_nodes[0].label",
+          "stack_middle_nodes[4].label",
+          "stack_middle_nodes[2].label",
+          "stack_middle_nodes[3].label",
+          "stack_middle_nodes[1].label"
+        ],
+        "required_binding_paths_by_count": {
+          "10": [
+            "stack.middle",
+            "stack.lower",
+            "stack.footer",
+            "lower_nodes[0].label",
+            "lower_nodes[1].label",
+            "lower_nodes[2].label",
+            "upper_nodes[3].label",
+            "upper_nodes[0].label",
+            "upper_nodes[1].label",
+            "upper_nodes[2].label",
+            "stack.top",
+            "stack_middle_nodes[0].label",
+            "stack_middle_nodes[2].label",
+            "stack_middle_nodes[1].label"
+          ],
+          "12": [
+            "stack.middle",
+            "stack.lower",
+            "stack.footer",
+            "lower_nodes[0].label",
+            "lower_nodes[1].label",
+            "lower_nodes[2].label",
+            "upper_nodes[3].label",
+            "upper_nodes[0].label",
+            "upper_nodes[1].label",
+            "upper_nodes[2].label",
+            "stack.top",
+            "stack_middle_nodes[0].label",
+            "stack_middle_nodes[4].label",
+            "stack_middle_nodes[2].label",
+            "stack_middle_nodes[3].label",
+            "stack_middle_nodes[1].label"
+          ]
+        },
+        "access_mode": "field_complete",
+        "optional_binding_paths": [
+          "page.title"
+        ]
+      },
+      "bindings_by_count": {
+        "10": {
+          "deep-blue-tech": "layouts/content-tech-079/bindings-10-deep-blue-tech.json"
+        }
+      }
     },
     {
       "id": "content-tech-080",
@@ -29172,7 +29682,7 @@
       "color_family": "deep-blue",
       "role": "content",
       "information_relation": "hierarchy",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-hierarchy-080",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -29197,15 +29707,102 @@
         "cell_max_chars": 20
       },
       "shape_count": 150,
-      "media_status": "unreviewed",
+      "media_status": "verified_source_decorations",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "motion_suitability": "B",
-      "cardinality_status": "not_implemented",
+      "cardinality_status": "verified",
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 3,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "canonical_relation": "hierarchy",
+      "structure_type": "hierarchy",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "header_validation_status": "excluded_skill_managed",
+      "structure_review_status": "verified_deep_blue_tech_body_capacity",
+      "pptx_support": "verified_static_body_draft",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "hierarchy",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "levels.middle",
+          "levels.bridge",
+          "arc_lower_nodes[7].label",
+          "arc_lower_nodes[6].label",
+          "arc_lower_nodes[5].label",
+          "arc_lower_nodes[4].label",
+          "arc_lower_nodes[3].label",
+          "arc_lower_nodes[2].label",
+          "arc_lower_nodes[1].label",
+          "arc_lower_nodes[0].label",
+          "arc_upper_nodes[6].label",
+          "arc_upper_nodes[0].label",
+          "arc_upper_nodes[1].label",
+          "arc_upper_nodes[2].label",
+          "arc_upper_nodes[3].label",
+          "arc_upper_nodes[4].label",
+          "arc_upper_nodes[5].label",
+          "levels.upper",
+          "levels.lower"
+        ],
+        "required_binding_paths_by_count": {
+          "13": [
+            "levels.middle",
+            "levels.bridge",
+            "arc_lower_nodes[7].label",
+            "arc_lower_nodes[6].label",
+            "arc_lower_nodes[5].label",
+            "arc_lower_nodes[4].label",
+            "arc_lower_nodes[3].label",
+            "arc_lower_nodes[2].label",
+            "arc_lower_nodes[1].label",
+            "arc_lower_nodes[0].label",
+            "arc_upper_nodes[4].label",
+            "arc_upper_nodes[0].label",
+            "arc_upper_nodes[1].label",
+            "arc_upper_nodes[2].label",
+            "arc_upper_nodes[3].label",
+            "levels.upper",
+            "levels.lower"
+          ],
+          "15": [
+            "levels.middle",
+            "levels.bridge",
+            "arc_lower_nodes[7].label",
+            "arc_lower_nodes[6].label",
+            "arc_lower_nodes[5].label",
+            "arc_lower_nodes[4].label",
+            "arc_lower_nodes[3].label",
+            "arc_lower_nodes[2].label",
+            "arc_lower_nodes[1].label",
+            "arc_lower_nodes[0].label",
+            "arc_upper_nodes[6].label",
+            "arc_upper_nodes[0].label",
+            "arc_upper_nodes[1].label",
+            "arc_upper_nodes[2].label",
+            "arc_upper_nodes[3].label",
+            "arc_upper_nodes[4].label",
+            "arc_upper_nodes[5].label",
+            "levels.upper",
+            "levels.lower"
+          ]
+        },
+        "access_mode": "field_complete",
+        "optional_binding_paths": [
+          "page.title"
+        ]
+      },
+      "bindings_by_count": {
+        "13": {
+          "deep-blue-tech": "layouts/content-tech-080/bindings-13-deep-blue-tech.json"
+        }
+      }
     },
     {
       "id": "content-tech-081",

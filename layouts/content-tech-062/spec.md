@@ -1,9 +1,20 @@
 # content-tech-062
 
-来源：深蓝科技风 P062；角色：content；关系初标：hierarchy。
+深蓝科技风源页 P062。中心计数与环绕卡片。
 
-递归对象：80；文本字段：23；图片：5；图表：0；源 Logo：有。
+通用结构 `parallel-points`。PowerPoint 已验证 8、10 项。
+选版使用正文结构、已验证项数和字段容量。
 
-原稿主题示例：工作十大核心 / 10 / 大重点。源稿示例事实不进入新项目。
+## 8 项文案容量
 
-项数／字段／动效均待人工复核；原生 PPTX 可编辑结构保留。
+- `orbit_cards[].heading` 最多 6 字
+- `orbit_cards[].copy` 最多 11 字
+- `orbit.caption` 最多 4 字
+
+## 10 项文案容量
+
+- `orbit_cards[].heading` 最多 6 字
+- `orbit_cards[].copy` 最多 11 字
+- `orbit.caption` 最多 4 字
+
+页标题、Logo 和公共装饰由演示文稿技能处理。资产状态为 `draft_pending_review`。

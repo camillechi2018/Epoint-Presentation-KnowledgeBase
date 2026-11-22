@@ -13,31 +13,15 @@
       "source_sample_chars": 6,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3637963,
         416934,
         4916076,
         430887
-      ]
-    },
-    {
-      "field": "text_238",
-      "shape_id": 238,
-      "shape_name": "文本框 237",
-      "type": "text",
-      "group_path": [],
-      "source_text": "10",
-      "source_sample_chars": 2,
-      "max_chars": 24,
-      "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
-      "bounds_emu_local": [
-        5393653,
-        2681834,
-        1404693,
-        923330
-      ]
+      ],
+      "semantic_path": "page.title",
+      "required": false,
+      "missing_action": "clear_text"
     },
     {
       "field": "text_239",
@@ -47,15 +31,16 @@
       "group_path": [],
       "source_text": "大重点",
       "source_sample_chars": 3,
-      "max_chars": 24,
+      "max_chars": 4,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         5406574,
         3561027,
         1404693,
         400110
-      ]
+      ],
+      "semantic_path": "orbit.caption",
+      "max_lines": 1
     },
     {
       "field": "text_489",
@@ -67,15 +52,16 @@
       ],
       "source_text": "问题解决",
       "source_sample_chars": 4,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3219086,
         1955182,
         1653294,
         275448
-      ]
+      ],
+      "semantic_path": "orbit_cards[1].heading",
+      "max_lines": 1
     },
     {
       "field": "text_490",
@@ -87,15 +73,16 @@
       ],
       "source_text": "关键问题闭环率 +85%",
       "source_sample_chars": 12,
-      "max_chars": 24,
+      "max_chars": 11,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3174619,
         2258137,
         1742230,
         150587
-      ]
+      ],
+      "semantic_path": "orbit_cards[1].copy",
+      "max_lines": 1
     },
     {
       "field": "text_252",
@@ -107,15 +94,16 @@
       ],
       "source_text": "专业成长",
       "source_sample_chars": 4,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3219086,
         1955182,
         1653294,
         275448
-      ]
+      ],
+      "semantic_path": "orbit_cards[2].heading",
+      "max_lines": 1
     },
     {
       "field": "text_253",
@@ -127,15 +115,16 @@
       ],
       "source_text": "技能认证 / 培训完成 +100%",
       "source_sample_chars": 17,
-      "max_chars": 25,
+      "max_chars": 11,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3174619,
         2255268,
         1742230,
         156325
-      ]
+      ],
+      "semantic_path": "orbit_cards[2].copy",
+      "max_lines": 1
     },
     {
       "field": "text_513",
@@ -147,15 +136,16 @@
       ],
       "source_text": "目标达成",
       "source_sample_chars": 4,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3219086,
         1955182,
         1653294,
         275448
-      ]
+      ],
+      "semantic_path": "orbit_cards[0].heading",
+      "max_lines": 1
     },
     {
       "field": "text_514",
@@ -167,15 +157,16 @@
       ],
       "source_text": "核心 KPI 完成率 +145%",
       "source_sample_chars": 16,
-      "max_chars": 24,
+      "max_chars": 11,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3174619,
         2255268,
         1742230,
         156325
-      ]
+      ],
+      "semantic_path": "orbit_cards[0].copy",
+      "max_lines": 1
     },
     {
       "field": "text_518",
@@ -187,15 +178,16 @@
       ],
       "source_text": "学习沉淀",
       "source_sample_chars": 4,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3219086,
         1955182,
         1653294,
         275448
-      ]
+      ],
+      "semantic_path": "orbit_cards[8].heading",
+      "max_lines": 1
     },
     {
       "field": "text_519",
@@ -207,15 +199,16 @@
       ],
       "source_text": "经验文档 / 复盘报告 +130%",
       "source_sample_chars": 17,
-      "max_chars": 25,
+      "max_chars": 11,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3174619,
         2255268,
         1742230,
         156325
-      ]
+      ],
+      "semantic_path": "orbit_cards[8].copy",
+      "max_lines": 1
     },
     {
       "field": "text_523",
@@ -227,15 +220,16 @@
       ],
       "source_text": "客户服务",
       "source_sample_chars": 4,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3219086,
         1955182,
         1653294,
         275448
-      ]
+      ],
+      "semantic_path": "orbit_cards[9].heading",
+      "max_lines": 1
     },
     {
       "field": "text_524",
@@ -247,15 +241,16 @@
       ],
       "source_text": "满意度评分 +95%",
       "source_sample_chars": 10,
-      "max_chars": 24,
+      "max_chars": 11,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3174619,
         2255268,
         1742230,
         156325
-      ]
+      ],
+      "semantic_path": "orbit_cards[9].copy",
+      "max_lines": 1
     },
     {
       "field": "text_528",
@@ -267,15 +262,16 @@
       ],
       "source_text": "成本控制",
       "source_sample_chars": 4,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3219086,
         1955182,
         1653294,
         275448
-      ]
+      ],
+      "semantic_path": "orbit_cards[7].heading",
+      "max_lines": 1
     },
     {
       "field": "text_529",
@@ -287,15 +283,16 @@
       ],
       "source_text": "资源损耗率下降 -35%",
       "source_sample_chars": 12,
-      "max_chars": 24,
+      "max_chars": 11,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3174619,
         2255268,
         1742230,
         156325
-      ]
+      ],
+      "semantic_path": "orbit_cards[7].copy",
+      "max_lines": 1
     },
     {
       "field": "text_533",
@@ -307,15 +304,16 @@
       ],
       "source_text": "团队贡献",
       "source_sample_chars": 4,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3219086,
         1955182,
         1653294,
         275448
-      ]
+      ],
+      "semantic_path": "orbit_cards[6].heading",
+      "max_lines": 1
     },
     {
       "field": "text_534",
@@ -327,15 +325,16 @@
       ],
       "source_text": "新人带教 / 经验分享",
       "source_sample_chars": 11,
-      "max_chars": 24,
+      "max_chars": 11,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3174619,
         2255268,
         1742230,
         156325
-      ]
+      ],
+      "semantic_path": "orbit_cards[6].copy",
+      "max_lines": 1
     },
     {
       "field": "text_538",
@@ -347,15 +346,16 @@
       ],
       "source_text": "创新突破",
       "source_sample_chars": 4,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3219086,
         1955182,
         1653294,
         275448
-      ]
+      ],
+      "semantic_path": "orbit_cards[5].heading",
+      "max_lines": 1
     },
     {
       "field": "text_539",
@@ -367,15 +367,16 @@
       ],
       "source_text": "优化方案落地数 +66%",
       "source_sample_chars": 12,
-      "max_chars": 24,
+      "max_chars": 11,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3174619,
         2255268,
         1742230,
         156325
-      ]
+      ],
+      "semantic_path": "orbit_cards[5].copy",
+      "max_lines": 1
     },
     {
       "field": "text_543",
@@ -387,15 +388,16 @@
       ],
       "source_text": "跨部门协作",
       "source_sample_chars": 5,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3219086,
         1955182,
         1653294,
         275448
-      ]
+      ],
+      "semantic_path": "orbit_cards[4].heading",
+      "max_lines": 1
     },
     {
       "field": "text_544",
@@ -407,15 +409,16 @@
       ],
       "source_text": "协同项目交付率 +120%",
       "source_sample_chars": 13,
-      "max_chars": 24,
+      "max_chars": 11,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3174619,
         2255268,
         1742230,
         156325
-      ]
+      ],
+      "semantic_path": "orbit_cards[4].copy",
+      "max_lines": 1
     },
     {
       "field": "text_548",
@@ -427,15 +430,16 @@
       ],
       "source_text": "流程优化",
       "source_sample_chars": 4,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3219086,
         1955182,
         1653294,
         275448
-      ]
+      ],
+      "semantic_path": "orbit_cards[3].heading",
+      "max_lines": 1
     },
     {
       "field": "text_549",
@@ -447,15 +451,16 @@
       ],
       "source_text": "工作效率提升 +60%",
       "source_sample_chars": 11,
-      "max_chars": 24,
+      "max_chars": 11,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3174619,
         2255268,
         1742230,
         156325
-      ]
+      ],
+      "semantic_path": "orbit_cards[3].copy",
+      "max_lines": 1
     }
   ],
   "objects": {
@@ -466,7 +471,7 @@
         "shape_id": 235,
         "shape_name": "图片 234",
         "sha256": "444b06fd41df6cf90e86bc783600e0557d2fe359bdde353263617b40c670937c",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           237
         ],
@@ -481,7 +486,7 @@
         "shape_id": 236,
         "shape_name": "图片 235",
         "sha256": "444b06fd41df6cf90e86bc783600e0557d2fe359bdde353263617b40c670937c",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           237
         ],
@@ -496,7 +501,7 @@
         "shape_id": 38,
         "shape_name": "Freeform 3076",
         "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           35,
           36
@@ -512,7 +517,7 @@
         "shape_id": 41,
         "shape_name": "图片 40",
         "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           35,
           36
@@ -539,5 +544,5 @@
       }
     ]
   },
-  "review": "visual index only; field semantics provisional"
+  "review": "deep-blue-tech structural body and text capacity"
 }

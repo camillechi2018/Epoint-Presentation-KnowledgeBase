@@ -9,15 +9,16 @@
       "group_path": [],
       "source_text": "多样化生态",
       "source_sample_chars": 5,
-      "max_chars": 24,
+      "max_chars": 5,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         5426587,
         3085896,
         1338828,
         369332
-      ]
+      ],
+      "semantic_path": "stack.middle",
+      "max_lines": 1
     },
     {
       "field": "text_49",
@@ -27,15 +28,16 @@
       "group_path": [],
       "source_text": "大数据技术栈",
       "source_sample_chars": 6,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         4922520,
         4442711,
         2346960,
         369332
-      ]
+      ],
+      "semantic_path": "stack.lower",
+      "max_lines": 1
     },
     {
       "field": "text_6",
@@ -47,13 +49,15 @@
       "source_sample_chars": 8,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3637963,
         416934,
         4916076,
         430887
-      ]
+      ],
+      "semantic_path": "page.title",
+      "required": false,
+      "missing_action": "clear_text"
     },
     {
       "field": "text_56",
@@ -63,15 +67,16 @@
       "group_path": [],
       "source_text": "智能云平台",
       "source_sample_chars": 5,
-      "max_chars": 24,
+      "max_chars": 5,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         5426586,
         5718158,
         1338828,
         369332
-      ]
+      ],
+      "semantic_path": "stack.footer",
+      "max_lines": 1
     },
     {
       "field": "text_628",
@@ -81,15 +86,16 @@
       "group_path": [],
       "source_text": "数据处理",
       "source_sample_chars": 4,
-      "max_chars": 24,
+      "max_chars": 4,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         2452771,
         4985354,
         1396574,
         307777
-      ]
+      ],
+      "semantic_path": "lower_nodes[0].label",
+      "max_lines": 1
     },
     {
       "field": "text_629",
@@ -99,15 +105,16 @@
       "group_path": [],
       "source_text": "智能分析",
       "source_sample_chars": 4,
-      "max_chars": 24,
+      "max_chars": 4,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         5397712,
         5310327,
         1396574,
         307777
-      ]
+      ],
+      "semantic_path": "lower_nodes[1].label",
+      "max_lines": 1
     },
     {
       "field": "text_630",
@@ -117,15 +124,16 @@
       "group_path": [],
       "source_text": "云端服务",
       "source_sample_chars": 4,
-      "max_chars": 24,
+      "max_chars": 4,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         8481885,
         4973839,
         1396574,
         307777
-      ]
+      ],
+      "semantic_path": "lower_nodes[2].label",
+      "max_lines": 1
     },
     {
       "field": "text_108",
@@ -135,15 +143,16 @@
       "group_path": [],
       "source_text": "服务",
       "source_sample_chars": 2,
-      "max_chars": 24,
+      "max_chars": 2,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         7637212,
         1789624,
         595036,
         338554
-      ]
+      ],
+      "semantic_path": "upper_nodes[3].label",
+      "max_lines": 1
     },
     {
       "field": "text_117",
@@ -153,15 +162,16 @@
       "group_path": [],
       "source_text": "开发者",
       "source_sample_chars": 3,
-      "max_chars": 24,
+      "max_chars": 3,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3857161,
         1789625,
         800220,
         338554
-      ]
+      ],
+      "semantic_path": "upper_nodes[0].label",
+      "max_lines": 1
     },
     {
       "field": "text_126",
@@ -171,15 +181,16 @@
       "group_path": [],
       "source_text": "产品",
       "source_sample_chars": 2,
-      "max_chars": 24,
+      "max_chars": 2,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         5130808,
         2157853,
         595036,
         338554
-      ]
+      ],
+      "semantic_path": "upper_nodes[1].label",
+      "max_lines": 1
     },
     {
       "field": "text_135",
@@ -189,15 +200,16 @@
       "group_path": [],
       "source_text": "应用",
       "source_sample_chars": 2,
-      "max_chars": 24,
+      "max_chars": 2,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         6466153,
         2157853,
         595036,
         338554
-      ]
+      ],
+      "semantic_path": "upper_nodes[2].label",
+      "max_lines": 1
     },
     {
       "field": "text_683",
@@ -207,15 +219,16 @@
       "group_path": [],
       "source_text": "核心",
       "source_sample_chars": 2,
-      "max_chars": 24,
+      "max_chars": 4,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         5128391,
         1314966,
         1935218,
         461665
-      ]
+      ],
+      "semantic_path": "stack.top",
+      "max_lines": 1
     },
     {
       "field": "text_596",
@@ -228,15 +241,21 @@
       ],
       "source_text": "数据采集\n整合",
       "source_sample_chars": 7,
-      "max_chars": 24,
+      "max_chars": 8,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         8936316,
         3032510,
         947859,
         492507
-      ]
+      ],
+      "semantic_path": "stack_middle_nodes[0].label",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        4,
+        3
+      ],
+      "preserve_paragraph_styles": true
     },
     {
       "field": "text_27",
@@ -249,15 +268,21 @@
       ],
       "source_text": "数据安全\n保障",
       "source_sample_chars": 7,
-      "max_chars": 24,
+      "max_chars": 8,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         8936316,
         3032510,
         947859,
         492507
-      ]
+      ],
+      "semantic_path": "stack_middle_nodes[4].label",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        4,
+        3
+      ],
+      "preserve_paragraph_styles": true
     },
     {
       "field": "text_47",
@@ -270,14 +295,19 @@
       ],
       "source_text": "数据处理分析",
       "source_sample_chars": 6,
-      "max_chars": 24,
+      "max_chars": 8,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         8936316,
         3032510,
         947859,
         492507
+      ],
+      "semantic_path": "stack_middle_nodes[2].label",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        4,
+        3
       ]
     },
     {
@@ -291,15 +321,21 @@
       ],
       "source_text": "数据挖掘\n预测",
       "source_sample_chars": 7,
-      "max_chars": 24,
+      "max_chars": 8,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         8936316,
         3032510,
         947859,
         492507
-      ]
+      ],
+      "semantic_path": "stack_middle_nodes[3].label",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        4,
+        3
+      ],
+      "preserve_paragraph_styles": true
     },
     {
       "field": "text_57",
@@ -312,14 +348,19 @@
       ],
       "source_text": "数据存储管理",
       "source_sample_chars": 6,
-      "max_chars": 24,
+      "max_chars": 8,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         8936316,
         3032510,
         947859,
         492507
+      ],
+      "semantic_path": "stack_middle_nodes[1].label",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        4,
+        3
       ]
     }
   ],
@@ -331,7 +372,7 @@
         "shape_id": 7,
         "shape_name": "Freeform 3076",
         "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           5
         ],
@@ -346,7 +387,7 @@
         "shape_id": 12,
         "shape_name": "图片 11",
         "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           5
         ],
@@ -361,7 +402,7 @@
         "shape_id": 16,
         "shape_name": "图片 15",
         "sha256": "5d39adb963f605f17395bd2f630b4faefea06c9367ad01bd1ddcd1e05c134292",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           22
         ],
@@ -376,7 +417,7 @@
         "shape_id": 24,
         "shape_name": "图片 23",
         "sha256": "5d39adb963f605f17395bd2f630b4faefea06c9367ad01bd1ddcd1e05c134292",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           23
         ],
@@ -391,7 +432,7 @@
         "shape_id": 43,
         "shape_name": "图片 42",
         "sha256": "5d39adb963f605f17395bd2f630b4faefea06c9367ad01bd1ddcd1e05c134292",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           42
         ],
@@ -406,7 +447,7 @@
         "shape_id": 32,
         "shape_name": "图片 31",
         "sha256": "5d39adb963f605f17395bd2f630b4faefea06c9367ad01bd1ddcd1e05c134292",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           31
         ],
@@ -421,7 +462,7 @@
         "shape_id": 53,
         "shape_name": "图片 52",
         "sha256": "5d39adb963f605f17395bd2f630b4faefea06c9367ad01bd1ddcd1e05c134292",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           52
         ],
@@ -436,7 +477,7 @@
         "shape_id": 21,
         "shape_name": "图片 20",
         "sha256": "8faef33d3b9c68b0353fc955135c1b0677e080312f84de074649e982819ab140",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [],
         "bounds_emu_local": [
           3804246,
@@ -460,5 +501,5 @@
       }
     ]
   },
-  "review": "visual index only; field semantics provisional"
+  "review": "deep-blue-tech structural body and text capacity"
 }

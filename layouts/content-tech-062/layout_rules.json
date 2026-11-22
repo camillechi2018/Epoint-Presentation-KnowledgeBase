@@ -1,8 +1,59 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
-  "source_count": null,
-  "candidate_counts": [],
-  "reflow_status": "not_implemented",
-  "grouping_status": "provisional_requires_manual_object_review"
+  "cardinality_mode": "repeatable",
+  "supported_counts": [
+    8,
+    10
+  ],
+  "source_count": 10,
+  "candidate_counts": [
+    8,
+    10
+  ],
+  "reflow_status": "native_fixed_span_reflow_verified",
+  "grouping_status": "provisional_requires_manual_object_review",
+  "geometry_count_label_shape_id": 238,
+  "verified_counts": [
+    8,
+    10
+  ],
+  "validation_status": "verified",
+  "geometry_by_count": {
+    "8": {
+      "remove_shape_ids": [
+        250,
+        526
+      ],
+      "bounds_emu": {},
+      "fixed_width_checks": [
+        {
+          "native_ids": [
+            255,
+            249,
+            250,
+            546,
+            541,
+            536,
+            531,
+            526,
+            516,
+            521
+          ],
+          "variant_ids": [
+            255,
+            249,
+            546,
+            541,
+            536,
+            531,
+            516,
+            521
+          ],
+          "span_emu": [
+            593447,
+            11569262
+          ]
+        }
+      ]
+    }
+  }
 }

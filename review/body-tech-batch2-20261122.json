@@ -1,0 +1,1443 @@
+{
+  "themes": [
+    "deep-blue-tech"
+  ],
+  "components": {
+    "content-tech-050": {
+      "structure": "process",
+      "description": "五节点波浪流程",
+      "verified_counts": [
+        5
+      ],
+      "capacity_chars": {
+        "5": {
+          "wave_nodes[0].heading": 3,
+          "wave_nodes[0].copy": [
+            18,
+            18,
+            18
+          ],
+          "wave_nodes[0].marker": 2,
+          "wave_nodes[1].heading": 4,
+          "wave_nodes[1].copy": [
+            11,
+            11
+          ],
+          "wave_nodes[1].marker": 2,
+          "wave_nodes[2].heading": 3,
+          "wave_nodes[2].copy": [
+            17,
+            17,
+            17
+          ],
+          "wave_nodes[2].marker": 2,
+          "wave_nodes[3].heading": 2,
+          "wave_nodes[3].copy": [
+            11,
+            11
+          ],
+          "wave_nodes[3].marker": 2,
+          "wave_nodes[4].heading": 4,
+          "wave_nodes[4].copy": [
+            4,
+            4
+          ],
+          "wave_nodes[4].marker": 2
+        }
+      },
+      "fixed_width_checks_by_count": {}
+    },
+    "content-tech-051": {
+      "structure": "parallel-points",
+      "description": "两端高、中部低的并列卡片",
+      "verified_counts": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "capacity_chars": {
+        "2": {
+          "pillar_cards[0].title": 6,
+          "pillar_cards[0].copy": [
+            23,
+            23
+          ],
+          "pillar_cards[1].title": 6,
+          "pillar_cards[1].copy": [
+            23,
+            23
+          ],
+          "count.caption": 5
+        },
+        "3": {
+          "pillar_cards[0].title": 6,
+          "pillar_cards[0].copy": [
+            23,
+            23
+          ],
+          "pillar_cards[1].title": 6,
+          "pillar_cards[1].copy": [
+            23,
+            23
+          ],
+          "pillar_cards[2].title": 6,
+          "pillar_cards[2].copy": [
+            23,
+            23
+          ],
+          "count.caption": 5
+        },
+        "4": {
+          "pillar_cards[0].title": 6,
+          "pillar_cards[0].copy": [
+            23,
+            23
+          ],
+          "pillar_cards[1].title": 6,
+          "pillar_cards[1].copy": [
+            23,
+            23
+          ],
+          "pillar_cards[2].title": 6,
+          "pillar_cards[2].copy": [
+            23,
+            23
+          ],
+          "pillar_cards[3].title": 6,
+          "pillar_cards[3].copy": [
+            23,
+            23
+          ],
+          "count.caption": 5
+        },
+        "5": {
+          "pillar_cards[0].title": 6,
+          "pillar_cards[0].copy": [
+            23,
+            23
+          ],
+          "pillar_cards[1].title": 6,
+          "pillar_cards[1].copy": [
+            23,
+            23
+          ],
+          "pillar_cards[2].title": 6,
+          "pillar_cards[2].copy": [
+            23,
+            23
+          ],
+          "pillar_cards[3].title": 6,
+          "pillar_cards[3].copy": [
+            23,
+            23
+          ],
+          "pillar_cards[4].title": 6,
+          "pillar_cards[4].copy": [
+            23,
+            23
+          ],
+          "count.caption": 5
+        },
+        "6": {
+          "pillar_cards[0].title": 5,
+          "pillar_cards[0].copy": [
+            17,
+            17
+          ],
+          "pillar_cards[1].title": 5,
+          "pillar_cards[1].copy": [
+            17,
+            17
+          ],
+          "pillar_cards[2].title": 5,
+          "pillar_cards[2].copy": [
+            17,
+            17
+          ],
+          "pillar_cards[3].title": 5,
+          "pillar_cards[3].copy": [
+            17,
+            17
+          ],
+          "pillar_cards[4].title": 5,
+          "pillar_cards[4].copy": [
+            17,
+            17
+          ],
+          "pillar_cards[5].title": 5,
+          "pillar_cards[5].copy": [
+            17,
+            17
+          ],
+          "count.caption": 5
+        }
+      },
+      "fixed_width_checks_by_count": {
+        "2": [
+          {
+            "native_ids": [
+              269,
+              271,
+              273,
+              274,
+              272,
+              270
+            ],
+            "variant_ids": [
+              269,
+              270
+            ],
+            "span_emu": [
+              696854,
+              11495147
+            ]
+          }
+        ],
+        "3": [
+          {
+            "native_ids": [
+              269,
+              271,
+              273,
+              274,
+              272,
+              270
+            ],
+            "variant_ids": [
+              269,
+              273,
+              270
+            ],
+            "span_emu": [
+              696854,
+              11495147
+            ]
+          }
+        ],
+        "4": [
+          {
+            "native_ids": [
+              269,
+              271,
+              273,
+              274,
+              272,
+              270
+            ],
+            "variant_ids": [
+              269,
+              271,
+              272,
+              270
+            ],
+            "span_emu": [
+              696854,
+              11495147
+            ]
+          }
+        ],
+        "5": [
+          {
+            "native_ids": [
+              269,
+              271,
+              273,
+              274,
+              272,
+              270
+            ],
+            "variant_ids": [
+              269,
+              271,
+              273,
+              272,
+              270
+            ],
+            "span_emu": [
+              696854,
+              11495147
+            ]
+          }
+        ]
+      }
+    },
+    "content-tech-062": {
+      "structure": "parallel-points",
+      "description": "中心计数与环绕卡片",
+      "verified_counts": [
+        8,
+        10
+      ],
+      "capacity_chars": {
+        "8": {
+          "orbit_cards[0].heading": 6,
+          "orbit_cards[0].copy": 11,
+          "orbit_cards[1].heading": 6,
+          "orbit_cards[1].copy": 11,
+          "orbit_cards[2].heading": 6,
+          "orbit_cards[2].copy": 11,
+          "orbit_cards[3].heading": 6,
+          "orbit_cards[3].copy": 11,
+          "orbit_cards[4].heading": 6,
+          "orbit_cards[4].copy": 11,
+          "orbit_cards[5].heading": 6,
+          "orbit_cards[5].copy": 11,
+          "orbit_cards[6].heading": 6,
+          "orbit_cards[6].copy": 11,
+          "orbit_cards[7].heading": 6,
+          "orbit_cards[7].copy": 11,
+          "orbit.caption": 4
+        },
+        "10": {
+          "orbit_cards[0].heading": 6,
+          "orbit_cards[0].copy": 11,
+          "orbit_cards[1].heading": 6,
+          "orbit_cards[1].copy": 11,
+          "orbit_cards[2].heading": 6,
+          "orbit_cards[2].copy": 11,
+          "orbit_cards[3].heading": 6,
+          "orbit_cards[3].copy": 11,
+          "orbit_cards[4].heading": 6,
+          "orbit_cards[4].copy": 11,
+          "orbit_cards[5].heading": 6,
+          "orbit_cards[5].copy": 11,
+          "orbit_cards[6].heading": 6,
+          "orbit_cards[6].copy": 11,
+          "orbit_cards[7].heading": 6,
+          "orbit_cards[7].copy": 11,
+          "orbit_cards[8].heading": 6,
+          "orbit_cards[8].copy": 11,
+          "orbit_cards[9].heading": 6,
+          "orbit_cards[9].copy": 11,
+          "orbit.caption": 4
+        }
+      },
+      "fixed_width_checks_by_count": {
+        "8": [
+          {
+            "native_ids": [
+              255,
+              249,
+              250,
+              546,
+              541,
+              536,
+              531,
+              526,
+              516,
+              521
+            ],
+            "variant_ids": [
+              255,
+              249,
+              546,
+              541,
+              536,
+              531,
+              516,
+              521
+            ],
+            "span_emu": [
+              593447,
+              11569262
+            ]
+          }
+        ]
+      }
+    },
+    "data-chart-tech-067": {
+      "structure": "trend",
+      "description": "原生柱形图与三张说明卡",
+      "verified_counts": [
+        6,
+        7
+      ],
+      "capacity_chars": {
+        "6": {
+          "chart_commentary[0].title": 8,
+          "chart_commentary[0].copy": [
+            18,
+            18
+          ],
+          "chart_commentary[1].title": 8,
+          "chart_commentary[1].copy": [
+            18,
+            18
+          ],
+          "chart_commentary[2].title": 8,
+          "chart_commentary[2].copy": [
+            18,
+            18
+          ],
+          "chart.caption": 12
+        },
+        "7": {
+          "chart_commentary[0].title": 8,
+          "chart_commentary[0].copy": [
+            18,
+            18
+          ],
+          "chart_commentary[1].title": 8,
+          "chart_commentary[1].copy": [
+            18,
+            18
+          ],
+          "chart_commentary[2].title": 8,
+          "chart_commentary[2].copy": [
+            18,
+            18
+          ],
+          "chart.caption": 12
+        }
+      },
+      "fixed_width_checks_by_count": {
+        "6": [
+          {
+            "native_ids": [
+              4
+            ],
+            "variant_ids": [
+              4
+            ],
+            "span_emu": [
+              616913,
+              11575086
+            ]
+          }
+        ]
+      }
+    },
+    "data-chart-tech-068": {
+      "structure": "composition",
+      "description": "原生圆环图与两组说明",
+      "verified_counts": [
+        3,
+        4
+      ],
+      "capacity_chars": {
+        "3": {
+          "commentary_panels[0].heading": 7,
+          "commentary_panels[0].first_copy": 42,
+          "commentary_panels[0].second_copy": 42,
+          "commentary_panels[1].heading": 7,
+          "commentary_panels[1].first_copy": 42,
+          "commentary_panels[1].second_copy": 42,
+          "commentary_markers[0].number": 1,
+          "commentary_markers[1].number": 1,
+          "commentary_markers[2].number": 1,
+          "commentary_markers[3].number": 1
+        },
+        "4": {
+          "commentary_panels[0].heading": 7,
+          "commentary_panels[0].first_copy": 42,
+          "commentary_panels[0].second_copy": 42,
+          "commentary_panels[1].heading": 7,
+          "commentary_panels[1].first_copy": 42,
+          "commentary_panels[1].second_copy": 42,
+          "commentary_markers[0].number": 1,
+          "commentary_markers[1].number": 1,
+          "commentary_markers[2].number": 1,
+          "commentary_markers[3].number": 1
+        }
+      },
+      "fixed_width_checks_by_count": {
+        "3": [
+          {
+            "native_ids": [
+              20
+            ],
+            "variant_ids": [
+              20
+            ],
+            "span_emu": [
+              4153866,
+              8030522
+            ]
+          }
+        ]
+      }
+    },
+    "content-tech-078": {
+      "structure": "hierarchy",
+      "description": "三层平台，节点分布为 4、4、3",
+      "verified_counts": [
+        11
+      ],
+      "capacity_chars": {
+        "11": {
+          "platform_titles[0].title": 6,
+          "platform_titles[1].title": 6,
+          "platform_titles[2].title": 6,
+          "upper_nodes[0].label": 4,
+          "upper_nodes[1].label": 4,
+          "upper_nodes[2].label": 4,
+          "upper_nodes[3].label": 4,
+          "middle_nodes[0].label": 6,
+          "middle_nodes[1].label": 6,
+          "middle_nodes[2].label": 6,
+          "middle_nodes[3].label": 6,
+          "lower_nodes[0].label": 5,
+          "lower_nodes[1].label": 5,
+          "lower_nodes[2].label": 5
+        }
+      },
+      "fixed_width_checks_by_count": {}
+    },
+    "content-tech-079": {
+      "structure": "hierarchy",
+      "description": "三层平台，节点分布为 4、3 或 5、3",
+      "verified_counts": [
+        10,
+        12
+      ],
+      "capacity_chars": {
+        "10": {
+          "stack.top": 4,
+          "stack.middle": 5,
+          "stack.lower": 6,
+          "stack.footer": 5,
+          "upper_nodes[0].label": 3,
+          "upper_nodes[1].label": 2,
+          "upper_nodes[2].label": 2,
+          "upper_nodes[3].label": 2,
+          "stack_middle_nodes[0].label": [
+            4,
+            3
+          ],
+          "stack_middle_nodes[1].label": [
+            4,
+            3
+          ],
+          "stack_middle_nodes[2].label": [
+            4,
+            3
+          ],
+          "lower_nodes[0].label": 4,
+          "lower_nodes[1].label": 4,
+          "lower_nodes[2].label": 4
+        },
+        "12": {
+          "stack.top": 4,
+          "stack.middle": 5,
+          "stack.lower": 6,
+          "stack.footer": 5,
+          "upper_nodes[0].label": 3,
+          "upper_nodes[1].label": 2,
+          "upper_nodes[2].label": 2,
+          "upper_nodes[3].label": 2,
+          "stack_middle_nodes[0].label": [
+            4,
+            3
+          ],
+          "stack_middle_nodes[1].label": [
+            4,
+            3
+          ],
+          "stack_middle_nodes[2].label": [
+            4,
+            3
+          ],
+          "stack_middle_nodes[3].label": [
+            4,
+            3
+          ],
+          "stack_middle_nodes[4].label": [
+            4,
+            3
+          ],
+          "lower_nodes[0].label": 4,
+          "lower_nodes[1].label": 4,
+          "lower_nodes[2].label": 4
+        }
+      },
+      "fixed_width_checks_by_count": {
+        "10": [
+          {
+            "native_ids": [
+              22,
+              52,
+              42,
+              31,
+              23
+            ],
+            "variant_ids": [
+              22,
+              42,
+              23
+            ],
+            "span_emu": [
+              2274625,
+              9917375
+            ]
+          }
+        ]
+      }
+    },
+    "content-tech-080": {
+      "structure": "hierarchy",
+      "description": "双层节点与双向箭头，节点分布为 5 或 7、8",
+      "verified_counts": [
+        13,
+        15
+      ],
+      "capacity_chars": {
+        "13": {
+          "levels.upper": 2,
+          "levels.middle": 2,
+          "levels.bridge": 2,
+          "levels.lower": 2,
+          "arc_upper_nodes[0].label": [
+            3,
+            3
+          ],
+          "arc_upper_nodes[1].label": [
+            3,
+            3
+          ],
+          "arc_upper_nodes[2].label": [
+            3,
+            3
+          ],
+          "arc_upper_nodes[3].label": [
+            3,
+            3
+          ],
+          "arc_upper_nodes[4].label": [
+            3,
+            3
+          ],
+          "arc_lower_nodes[0].label": [
+            3,
+            2
+          ],
+          "arc_lower_nodes[1].label": [
+            3,
+            2
+          ],
+          "arc_lower_nodes[2].label": [
+            3,
+            2
+          ],
+          "arc_lower_nodes[3].label": [
+            3,
+            2
+          ],
+          "arc_lower_nodes[4].label": [
+            3,
+            2
+          ],
+          "arc_lower_nodes[5].label": [
+            3,
+            2
+          ],
+          "arc_lower_nodes[6].label": [
+            3,
+            2
+          ],
+          "arc_lower_nodes[7].label": [
+            3,
+            2
+          ]
+        },
+        "15": {
+          "levels.upper": 2,
+          "levels.middle": 2,
+          "levels.bridge": 2,
+          "levels.lower": 2,
+          "arc_upper_nodes[0].label": [
+            3,
+            3
+          ],
+          "arc_upper_nodes[1].label": [
+            3,
+            3
+          ],
+          "arc_upper_nodes[2].label": [
+            3,
+            3
+          ],
+          "arc_upper_nodes[3].label": [
+            3,
+            3
+          ],
+          "arc_upper_nodes[4].label": [
+            3,
+            3
+          ],
+          "arc_upper_nodes[5].label": [
+            3,
+            3
+          ],
+          "arc_upper_nodes[6].label": [
+            3,
+            3
+          ],
+          "arc_lower_nodes[0].label": [
+            3,
+            2
+          ],
+          "arc_lower_nodes[1].label": [
+            3,
+            2
+          ],
+          "arc_lower_nodes[2].label": [
+            3,
+            2
+          ],
+          "arc_lower_nodes[3].label": [
+            3,
+            2
+          ],
+          "arc_lower_nodes[4].label": [
+            3,
+            2
+          ],
+          "arc_lower_nodes[5].label": [
+            3,
+            2
+          ],
+          "arc_lower_nodes[6].label": [
+            3,
+            2
+          ],
+          "arc_lower_nodes[7].label": [
+            3,
+            2
+          ]
+        }
+      },
+      "fixed_width_checks_by_count": {
+        "13": [
+          {
+            "native_ids": [
+              77,
+              85,
+              93,
+              101,
+              109,
+              145,
+              76
+            ],
+            "variant_ids": [
+              77,
+              93,
+              101,
+              109,
+              76
+            ],
+            "span_emu": [
+              2347251,
+              9844750
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "powerpoint_exports": 34,
+  "powerpoint_decks": [
+    {
+      "component": "content-tech-050",
+      "item_count": 5,
+      "capacity_sample": false,
+      "file": "P050-5项.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": false,
+      "fixed_width_checks": []
+    },
+    {
+      "component": "content-tech-050",
+      "item_count": 5,
+      "capacity_sample": true,
+      "file": "P050-5项-容量.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": false,
+      "fixed_width_checks": []
+    },
+    {
+      "component": "content-tech-051",
+      "item_count": 2,
+      "capacity_sample": false,
+      "file": "P051-2项.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": false,
+      "fixed_width_checks": [
+        {
+          "native_ids": [
+            269,
+            271,
+            273,
+            274,
+            272,
+            270
+          ],
+          "variant_ids": [
+            269,
+            270
+          ],
+          "span_emu": [
+            696854,
+            11495147
+          ]
+        }
+      ]
+    },
+    {
+      "component": "content-tech-051",
+      "item_count": 2,
+      "capacity_sample": true,
+      "file": "P051-2项-容量.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": false,
+      "fixed_width_checks": [
+        {
+          "native_ids": [
+            269,
+            271,
+            273,
+            274,
+            272,
+            270
+          ],
+          "variant_ids": [
+            269,
+            270
+          ],
+          "span_emu": [
+            696854,
+            11495147
+          ]
+        }
+      ]
+    },
+    {
+      "component": "content-tech-051",
+      "item_count": 3,
+      "capacity_sample": false,
+      "file": "P051-3项.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": false,
+      "fixed_width_checks": [
+        {
+          "native_ids": [
+            269,
+            271,
+            273,
+            274,
+            272,
+            270
+          ],
+          "variant_ids": [
+            269,
+            273,
+            270
+          ],
+          "span_emu": [
+            696854,
+            11495147
+          ]
+        }
+      ]
+    },
+    {
+      "component": "content-tech-051",
+      "item_count": 3,
+      "capacity_sample": true,
+      "file": "P051-3项-容量.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": false,
+      "fixed_width_checks": [
+        {
+          "native_ids": [
+            269,
+            271,
+            273,
+            274,
+            272,
+            270
+          ],
+          "variant_ids": [
+            269,
+            273,
+            270
+          ],
+          "span_emu": [
+            696854,
+            11495147
+          ]
+        }
+      ]
+    },
+    {
+      "component": "content-tech-051",
+      "item_count": 4,
+      "capacity_sample": false,
+      "file": "P051-4项.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": false,
+      "fixed_width_checks": [
+        {
+          "native_ids": [
+            269,
+            271,
+            273,
+            274,
+            272,
+            270
+          ],
+          "variant_ids": [
+            269,
+            271,
+            272,
+            270
+          ],
+          "span_emu": [
+            696854,
+            11495147
+          ]
+        }
+      ]
+    },
+    {
+      "component": "content-tech-051",
+      "item_count": 4,
+      "capacity_sample": true,
+      "file": "P051-4项-容量.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": false,
+      "fixed_width_checks": [
+        {
+          "native_ids": [
+            269,
+            271,
+            273,
+            274,
+            272,
+            270
+          ],
+          "variant_ids": [
+            269,
+            271,
+            272,
+            270
+          ],
+          "span_emu": [
+            696854,
+            11495147
+          ]
+        }
+      ]
+    },
+    {
+      "component": "content-tech-051",
+      "item_count": 5,
+      "capacity_sample": false,
+      "file": "P051-5项.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": false,
+      "fixed_width_checks": [
+        {
+          "native_ids": [
+            269,
+            271,
+            273,
+            274,
+            272,
+            270
+          ],
+          "variant_ids": [
+            269,
+            271,
+            273,
+            272,
+            270
+          ],
+          "span_emu": [
+            696854,
+            11495147
+          ]
+        }
+      ]
+    },
+    {
+      "component": "content-tech-051",
+      "item_count": 5,
+      "capacity_sample": true,
+      "file": "P051-5项-容量.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": false,
+      "fixed_width_checks": [
+        {
+          "native_ids": [
+            269,
+            271,
+            273,
+            274,
+            272,
+            270
+          ],
+          "variant_ids": [
+            269,
+            271,
+            273,
+            272,
+            270
+          ],
+          "span_emu": [
+            696854,
+            11495147
+          ]
+        }
+      ]
+    },
+    {
+      "component": "content-tech-051",
+      "item_count": 6,
+      "capacity_sample": false,
+      "file": "P051-6项.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": false,
+      "fixed_width_checks": []
+    },
+    {
+      "component": "content-tech-051",
+      "item_count": 6,
+      "capacity_sample": true,
+      "file": "P051-6项-容量.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": false,
+      "fixed_width_checks": []
+    },
+    {
+      "component": "content-tech-062",
+      "item_count": 8,
+      "capacity_sample": false,
+      "file": "P062-8项.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": false,
+      "fixed_width_checks": [
+        {
+          "native_ids": [
+            255,
+            249,
+            250,
+            546,
+            541,
+            536,
+            531,
+            526,
+            516,
+            521
+          ],
+          "variant_ids": [
+            255,
+            249,
+            546,
+            541,
+            536,
+            531,
+            516,
+            521
+          ],
+          "span_emu": [
+            593447,
+            11569262
+          ]
+        }
+      ]
+    },
+    {
+      "component": "content-tech-062",
+      "item_count": 8,
+      "capacity_sample": true,
+      "file": "P062-8项-容量.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": false,
+      "fixed_width_checks": [
+        {
+          "native_ids": [
+            255,
+            249,
+            250,
+            546,
+            541,
+            536,
+            531,
+            526,
+            516,
+            521
+          ],
+          "variant_ids": [
+            255,
+            249,
+            546,
+            541,
+            536,
+            531,
+            516,
+            521
+          ],
+          "span_emu": [
+            593447,
+            11569262
+          ]
+        }
+      ]
+    },
+    {
+      "component": "content-tech-062",
+      "item_count": 10,
+      "capacity_sample": false,
+      "file": "P062-10项.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": false,
+      "fixed_width_checks": []
+    },
+    {
+      "component": "content-tech-062",
+      "item_count": 10,
+      "capacity_sample": true,
+      "file": "P062-10项-容量.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": false,
+      "fixed_width_checks": []
+    },
+    {
+      "component": "data-chart-tech-067",
+      "item_count": 6,
+      "capacity_sample": false,
+      "file": "P067-6项.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": true,
+      "fixed_width_checks": [
+        {
+          "native_ids": [
+            4
+          ],
+          "variant_ids": [
+            4
+          ],
+          "span_emu": [
+            616913,
+            11575086
+          ]
+        }
+      ]
+    },
+    {
+      "component": "data-chart-tech-067",
+      "item_count": 6,
+      "capacity_sample": true,
+      "file": "P067-6项-容量.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": true,
+      "fixed_width_checks": [
+        {
+          "native_ids": [
+            4
+          ],
+          "variant_ids": [
+            4
+          ],
+          "span_emu": [
+            616913,
+            11575086
+          ]
+        }
+      ]
+    },
+    {
+      "component": "data-chart-tech-067",
+      "item_count": 7,
+      "capacity_sample": false,
+      "file": "P067-7项.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": true,
+      "fixed_width_checks": []
+    },
+    {
+      "component": "data-chart-tech-067",
+      "item_count": 7,
+      "capacity_sample": true,
+      "file": "P067-7项-容量.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": true,
+      "fixed_width_checks": []
+    },
+    {
+      "component": "content-tech-078",
+      "item_count": 11,
+      "capacity_sample": false,
+      "file": "P078-11项.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": false,
+      "fixed_width_checks": []
+    },
+    {
+      "component": "content-tech-078",
+      "item_count": 11,
+      "capacity_sample": true,
+      "file": "P078-11项-容量.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": false,
+      "fixed_width_checks": []
+    },
+    {
+      "component": "content-tech-079",
+      "item_count": 10,
+      "capacity_sample": false,
+      "file": "P079-10项.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": false,
+      "fixed_width_checks": [
+        {
+          "native_ids": [
+            22,
+            52,
+            42,
+            31,
+            23
+          ],
+          "variant_ids": [
+            22,
+            42,
+            23
+          ],
+          "span_emu": [
+            2274625,
+            9917375
+          ]
+        }
+      ]
+    },
+    {
+      "component": "content-tech-079",
+      "item_count": 10,
+      "capacity_sample": true,
+      "file": "P079-10项-容量.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": false,
+      "fixed_width_checks": [
+        {
+          "native_ids": [
+            22,
+            52,
+            42,
+            31,
+            23
+          ],
+          "variant_ids": [
+            22,
+            42,
+            23
+          ],
+          "span_emu": [
+            2274625,
+            9917375
+          ]
+        }
+      ]
+    },
+    {
+      "component": "content-tech-079",
+      "item_count": 12,
+      "capacity_sample": false,
+      "file": "P079-12项.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": false,
+      "fixed_width_checks": []
+    },
+    {
+      "component": "content-tech-079",
+      "item_count": 12,
+      "capacity_sample": true,
+      "file": "P079-12项-容量.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": false,
+      "fixed_width_checks": []
+    },
+    {
+      "component": "content-tech-080",
+      "item_count": 13,
+      "capacity_sample": false,
+      "file": "P080-13项.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": false,
+      "fixed_width_checks": [
+        {
+          "native_ids": [
+            77,
+            85,
+            93,
+            101,
+            109,
+            145,
+            76
+          ],
+          "variant_ids": [
+            77,
+            93,
+            101,
+            109,
+            76
+          ],
+          "span_emu": [
+            2347251,
+            9844750
+          ]
+        }
+      ]
+    },
+    {
+      "component": "content-tech-080",
+      "item_count": 13,
+      "capacity_sample": true,
+      "file": "P080-13项-容量.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": false,
+      "fixed_width_checks": [
+        {
+          "native_ids": [
+            77,
+            85,
+            93,
+            101,
+            109,
+            145,
+            76
+          ],
+          "variant_ids": [
+            77,
+            93,
+            101,
+            109,
+            76
+          ],
+          "span_emu": [
+            2347251,
+            9844750
+          ]
+        }
+      ]
+    },
+    {
+      "component": "content-tech-080",
+      "item_count": 15,
+      "capacity_sample": false,
+      "file": "P080-15项.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": false,
+      "fixed_width_checks": []
+    },
+    {
+      "component": "content-tech-080",
+      "item_count": 15,
+      "capacity_sample": true,
+      "file": "P080-15项-容量.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": false,
+      "fixed_width_checks": []
+    },
+    {
+      "component": "data-chart-tech-068",
+      "item_count": 3,
+      "capacity_sample": false,
+      "file": "P068-3项.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": true,
+      "fixed_width_checks": [
+        {
+          "native_ids": [
+            20
+          ],
+          "variant_ids": [
+            20
+          ],
+          "span_emu": [
+            4153866,
+            8030522
+          ]
+        }
+      ]
+    },
+    {
+      "component": "data-chart-tech-068",
+      "item_count": 3,
+      "capacity_sample": true,
+      "file": "P068-3项-容量.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": true,
+      "fixed_width_checks": [
+        {
+          "native_ids": [
+            20
+          ],
+          "variant_ids": [
+            20
+          ],
+          "span_emu": [
+            4153866,
+            8030522
+          ]
+        }
+      ]
+    },
+    {
+      "component": "data-chart-tech-068",
+      "item_count": 4,
+      "capacity_sample": false,
+      "file": "P068-4项.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": true,
+      "fixed_width_checks": []
+    },
+    {
+      "component": "data-chart-tech-068",
+      "item_count": 4,
+      "capacity_sample": true,
+      "file": "P068-4项-容量.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": true,
+      "fixed_width_checks": []
+    }
+  ],
+  "text_overflow_count": 0,
+  "header_in_scope": false,
+  "required_skill_commit": "3222fe8380f9440fb58153ec0715407e4e275e25"
+}
