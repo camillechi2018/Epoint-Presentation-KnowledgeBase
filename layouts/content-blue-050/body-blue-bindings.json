@@ -42,7 +42,7 @@
       "shape_id": 19,
       "shape_name": "文本框 18",
       "type": "text",
-      "max_chars": 34,
+      "max_chars": 21,
       "source_sample_chars": 35,
       "source_text": "项目从立项到执行往往经历漫长的审批周期，影响了项目的执行效率和及时性。",
       "bounds_pt": [
@@ -53,14 +53,14 @@
       ],
       "semantic_role": "risks[0]",
       "semantic_path": "risks[0].detail",
-      "max_lines": 2
+      "max_lines": 1
     },
     {
       "field": "text_20",
       "shape_id": 20,
       "shape_name": "文本框 19",
       "type": "text",
-      "max_chars": 34,
+      "max_chars": 21,
       "source_sample_chars": 34,
       "source_text": "项目资源配置存在过度集中或过度分散的现象，导致资源未能得到有效利用。",
       "bounds_pt": [
@@ -71,14 +71,14 @@
       ],
       "semantic_role": "risks[1]",
       "semantic_path": "risks[1].detail",
-      "max_lines": 2
+      "max_lines": 1
     },
     {
       "field": "text_21",
       "shape_id": 21,
       "shape_name": "文本框 20",
       "type": "text",
-      "max_chars": 34,
+      "max_chars": 23,
       "source_sample_chars": 37,
       "source_text": "精简决策流程：简化内部审批程序，推行电子审批，提高审批速度，减少层级审批。",
       "bounds_pt": [
@@ -89,14 +89,14 @@
       ],
       "semantic_role": "responses[0]",
       "semantic_path": "responses[0].detail",
-      "max_lines": 2
+      "max_lines": 1
     },
     {
       "field": "text_22",
       "shape_id": 22,
       "shape_name": "文本框 21",
       "type": "text",
-      "max_chars": 34,
+      "max_chars": 18,
       "source_sample_chars": 37,
       "source_text": "精确预算与规划：进行详细的各项预算和资源配置规划，及时调整和优化资源配置。",
       "bounds_pt": [
@@ -107,14 +107,14 @@
       ],
       "semantic_role": "responses[1]",
       "semantic_path": "responses[1].detail",
-      "max_lines": 2
+      "max_lines": 1
     },
     {
       "field": "text_23",
       "shape_id": 23,
       "shape_name": "文本框 22",
       "type": "text",
-      "max_chars": 34,
+      "max_chars": 21,
       "source_sample_chars": 43,
       "source_text": "缺乏对市场变化的敏感度和创新动力，面对市场竞争时无法灵活调整战略，导致市场适应性较差。",
       "bounds_pt": [
@@ -125,14 +125,14 @@
       ],
       "semantic_role": "risks[2]",
       "semantic_path": "risks[2].detail",
-      "max_lines": 2
+      "max_lines": 1
     },
     {
       "field": "text_24",
       "shape_id": 24,
       "shape_name": "文本框 23",
       "type": "text",
-      "max_chars": 34,
+      "max_chars": 21,
       "source_sample_chars": 37,
       "source_text": "部分员工缺乏足够的创新意识和能力，执行力低下，导致项目进展缓慢，效果不佳。",
       "bounds_pt": [
@@ -143,14 +143,14 @@
       ],
       "semantic_role": "risks[3]",
       "semantic_path": "risks[3].detail",
-      "max_lines": 2
+      "max_lines": 1
     },
     {
       "field": "text_25",
       "shape_id": 25,
       "shape_name": "文本框 24",
       "type": "text",
-      "max_chars": 34,
+      "max_chars": 24,
       "source_sample_chars": 38,
       "source_text": "推动内部创新文化：鼓励员工提出创新建议，建立奖励机制，激励员工参与项目创新。",
       "bounds_pt": [
@@ -161,14 +161,14 @@
       ],
       "semantic_role": "responses[2]",
       "semantic_path": "responses[2].detail",
-      "max_lines": 2
+      "max_lines": 1
     },
     {
       "field": "text_26",
       "shape_id": 26,
       "shape_name": "文本框 25",
       "type": "text",
-      "max_chars": 34,
+      "max_chars": 19,
       "source_sample_chars": 39,
       "source_text": "明确岗位责任：建立清晰的岗位职责体系，明确每个员工的责任和任务，确保责任到人。",
       "bounds_pt": [
@@ -179,14 +179,14 @@
       ],
       "semantic_role": "responses[3]",
       "semantic_path": "responses[3].detail",
-      "max_lines": 2
+      "max_lines": 1
     },
     {
       "field": "text_28",
       "shape_id": 28,
       "shape_name": "文本框 27",
       "type": "text",
-      "max_chars": 34,
+      "max_chars": 18,
       "source_sample_chars": 32,
       "source_text": "推动跨部门协作：整合多部门资源，避免资源重复投入和资源闲置现象。",
       "bounds_pt": [
@@ -197,14 +197,14 @@
       ],
       "semantic_role": "responses[1]",
       "semantic_path": "responses[1].detail_2",
-      "max_lines": 2
+      "max_lines": 1
     },
     {
       "field": "text_29",
       "shape_id": 29,
       "shape_name": "文本框 28",
       "type": "text",
-      "max_chars": 34,
+      "max_chars": 19,
       "source_sample_chars": 39,
       "source_text": "强化培训与支持：定期为员工提供培训，提升员工专业技能和能力，确保项目顺利推进。",
       "bounds_pt": [
@@ -215,7 +215,7 @@
       ],
       "semantic_role": "responses[3]",
       "semantic_path": "responses[3].detail_2",
-      "max_lines": 2
+      "max_lines": 1
     },
     {
       "field": "text_33",

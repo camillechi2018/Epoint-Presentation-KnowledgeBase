@@ -66,7 +66,7 @@
       "group_path": [],
       "source_text": "通过自我评估、职业兴趣测试等\n方式，了解自己的性格、优势\n兴趣等，明确职业发展方向",
       "source_sample_chars": 41,
-      "max_chars": 61,
+      "max_chars": 25,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -75,7 +75,8 @@
         2008188,
         599588
       ],
-      "semantic_path": "item_1.body"
+      "semantic_path": "item_1.body",
+      "max_lines": 1
     },
     {
       "field": "text_15",
@@ -85,7 +86,7 @@
       "group_path": [],
       "source_text": "积极参与实习、项目、志愿服务等实践活动，积累工作经验和职场人脉",
       "source_sample_chars": 31,
-      "max_chars": 46,
+      "max_chars": 36,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -94,7 +95,8 @@
         2107166,
         691921
       ],
-      "semantic_path": "item_2.body"
+      "semantic_path": "item_2.body",
+      "max_lines": 1
     },
     {
       "field": "text_16",
@@ -104,7 +106,7 @@
       "group_path": [],
       "source_text": "根据职业目标，制定技能提升计划，通过培训、自学等方式不断提升自我",
       "source_sample_chars": 32,
-      "max_chars": 48,
+      "max_chars": 39,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -113,7 +115,8 @@
         2239365,
         691921
       ],
-      "semantic_path": "item_3.body"
+      "semantic_path": "item_3.body",
+      "max_lines": 1
     },
     {
       "field": "text_17",
@@ -123,7 +126,7 @@
       "group_path": [],
       "source_text": "根据职业发展方向，设定短期、中期和长期职业目标，并规划实现路径",
       "source_sample_chars": 31,
-      "max_chars": 46,
+      "max_chars": 36,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -132,7 +135,8 @@
         2119663,
         691921
       ],
-      "semantic_path": "item_4.body"
+      "semantic_path": "item_4.body",
+      "max_lines": 1
     },
     {
       "field": "text_20",
@@ -180,7 +184,7 @@
       "group_path": [],
       "source_text": "根据职业发展情况和个人目标的变化，灵活调整职业发展规划，保持职业发展的动力和活力",
       "source_sample_chars": 40,
-      "max_chars": 60,
+      "max_chars": 42,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -189,7 +193,8 @@
         2438895,
         691921
       ],
-      "semantic_path": "item_5.body"
+      "semantic_path": "item_5.body",
+      "max_lines": 1
     },
     {
       "field": "text_66",
@@ -249,7 +254,8 @@
         8561121,
         301041
       ],
-      "semantic_path": "summary"
+      "semantic_path": "summary",
+      "max_lines": 1
     }
   ],
   "objects": {

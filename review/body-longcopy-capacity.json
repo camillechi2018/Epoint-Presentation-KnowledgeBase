@@ -14,14 +14,13 @@
       ],
       "role": "progress",
       "narrative_field_count": 6,
-      "narrative_min_recommended_cjk_chars": 51,
-      "narrative_max_recommended_cjk_chars": 163,
+      "narrative_min_recommended_cjk_chars": 32,
+      "narrative_max_recommended_cjk_chars": 55,
       "fields": [
         {
           "semantic_path": "items[0].body",
           "is_narrative": true,
-          "physical_max_cjk_chars": 72,
-          "recommended_max_cjk_chars": 61,
+          "recommended_max_cjk_chars": 42,
           "variants": [
             {
               "theme": "blue",
@@ -29,12 +28,14 @@
               "semantic_path": "items[0].body",
               "semantic_role": "body",
               "is_narrative": true,
-              "physical_max_cjk_chars": 72,
-              "registered_max_chars": 55,
+              "registered_max_chars": 42,
               "source_chars": 66,
               "box_width_pt": 138.4,
               "box_height_pt": 119.7,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 2,
+              "single_cjk_probe_chars": 50,
+              "actual_rendered_lines_in_boundary_tests": 5
             },
             {
               "theme": "red",
@@ -42,25 +43,26 @@
               "semantic_path": "items[0].body",
               "semantic_role": "body",
               "is_narrative": true,
-              "physical_max_cjk_chars": 72,
-              "registered_max_chars": 55,
+              "registered_max_chars": 42,
               "source_chars": 66,
               "box_width_pt": 138.4,
               "box_height_pt": 119.7,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 2,
+              "single_cjk_probe_chars": 50,
+              "actual_rendered_lines_in_boundary_tests": 5
             }
           ],
-          "manual_line_breaks": "not_tested",
-          "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 55,
-          "use_for_planning_cjk_chars": 55,
-          "normal_fill_tested_chars": 55
+          "manual_line_breaks": "powerpoint_boundary_tested",
+          "copy_form": "cjk_auto_wrap_and_two_input_lines",
+          "registered_min_max_chars": 42,
+          "use_for_planning_cjk_chars": 42,
+          "normal_fill_tested_chars": 42
         },
         {
           "semantic_path": "items[1].body",
           "is_narrative": true,
-          "physical_max_cjk_chars": 72,
-          "recommended_max_cjk_chars": 61,
+          "recommended_max_cjk_chars": 42,
           "variants": [
             {
               "theme": "blue",
@@ -68,12 +70,14 @@
               "semantic_path": "items[1].body",
               "semantic_role": "body",
               "is_narrative": true,
-              "physical_max_cjk_chars": 72,
-              "registered_max_chars": 55,
+              "registered_max_chars": 42,
               "source_chars": 70,
               "box_width_pt": 138.4,
               "box_height_pt": 119.7,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 2,
+              "single_cjk_probe_chars": 50,
+              "actual_rendered_lines_in_boundary_tests": 5
             },
             {
               "theme": "red",
@@ -81,25 +85,26 @@
               "semantic_path": "items[1].body",
               "semantic_role": "body",
               "is_narrative": true,
-              "physical_max_cjk_chars": 72,
-              "registered_max_chars": 55,
+              "registered_max_chars": 42,
               "source_chars": 70,
               "box_width_pt": 138.4,
               "box_height_pt": 119.7,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 2,
+              "single_cjk_probe_chars": 50,
+              "actual_rendered_lines_in_boundary_tests": 5
             }
           ],
-          "manual_line_breaks": "not_tested",
-          "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 55,
-          "use_for_planning_cjk_chars": 55,
-          "normal_fill_tested_chars": 55
+          "manual_line_breaks": "powerpoint_boundary_tested",
+          "copy_form": "cjk_auto_wrap_and_two_input_lines",
+          "registered_min_max_chars": 42,
+          "use_for_planning_cjk_chars": 42,
+          "normal_fill_tested_chars": 42
         },
         {
           "semantic_path": "items[2].body",
           "is_narrative": true,
-          "physical_max_cjk_chars": 72,
-          "recommended_max_cjk_chars": 61,
+          "recommended_max_cjk_chars": 42,
           "variants": [
             {
               "theme": "blue",
@@ -107,12 +112,14 @@
               "semantic_path": "items[2].body",
               "semantic_role": "body",
               "is_narrative": true,
-              "physical_max_cjk_chars": 72,
-              "registered_max_chars": 55,
+              "registered_max_chars": 42,
               "source_chars": 69,
               "box_width_pt": 138.4,
               "box_height_pt": 119.7,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 2,
+              "single_cjk_probe_chars": 50,
+              "actual_rendered_lines_in_boundary_tests": 5
             },
             {
               "theme": "red",
@@ -120,25 +127,26 @@
               "semantic_path": "items[2].body",
               "semantic_role": "body",
               "is_narrative": true,
-              "physical_max_cjk_chars": 72,
-              "registered_max_chars": 55,
+              "registered_max_chars": 42,
               "source_chars": 69,
               "box_width_pt": 138.4,
               "box_height_pt": 119.7,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 2,
+              "single_cjk_probe_chars": 50,
+              "actual_rendered_lines_in_boundary_tests": 5
             }
           ],
-          "manual_line_breaks": "not_tested",
-          "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 55,
-          "use_for_planning_cjk_chars": 55,
-          "normal_fill_tested_chars": 55
+          "manual_line_breaks": "powerpoint_boundary_tested",
+          "copy_form": "cjk_auto_wrap_and_two_input_lines",
+          "registered_min_max_chars": 42,
+          "use_for_planning_cjk_chars": 42,
+          "normal_fill_tested_chars": 42
         },
         {
           "semantic_path": "items[3].body",
           "is_narrative": true,
-          "physical_max_cjk_chars": 72,
-          "recommended_max_cjk_chars": 61,
+          "recommended_max_cjk_chars": 42,
           "variants": [
             {
               "theme": "blue",
@@ -146,12 +154,14 @@
               "semantic_path": "items[3].body",
               "semantic_role": "body",
               "is_narrative": true,
-              "physical_max_cjk_chars": 72,
-              "registered_max_chars": 55,
+              "registered_max_chars": 42,
               "source_chars": 67,
               "box_width_pt": 138.4,
               "box_height_pt": 119.7,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 2,
+              "single_cjk_probe_chars": 50,
+              "actual_rendered_lines_in_boundary_tests": 5
             },
             {
               "theme": "red",
@@ -159,25 +169,26 @@
               "semantic_path": "items[3].body",
               "semantic_role": "body",
               "is_narrative": true,
-              "physical_max_cjk_chars": 72,
-              "registered_max_chars": 55,
+              "registered_max_chars": 42,
               "source_chars": 67,
               "box_width_pt": 138.4,
               "box_height_pt": 119.7,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 2,
+              "single_cjk_probe_chars": 50,
+              "actual_rendered_lines_in_boundary_tests": 5
             }
           ],
-          "manual_line_breaks": "not_tested",
-          "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 55,
-          "use_for_planning_cjk_chars": 55,
-          "normal_fill_tested_chars": 55
+          "manual_line_breaks": "powerpoint_boundary_tested",
+          "copy_form": "cjk_auto_wrap_and_two_input_lines",
+          "registered_min_max_chars": 42,
+          "use_for_planning_cjk_chars": 42,
+          "normal_fill_tested_chars": 42
         },
         {
           "semantic_path": "items[4].body",
           "is_narrative": true,
-          "physical_max_cjk_chars": 60,
-          "recommended_max_cjk_chars": 51,
+          "recommended_max_cjk_chars": 32,
           "variants": [
             {
               "theme": "blue",
@@ -185,12 +196,14 @@
               "semantic_path": "items[4].body",
               "semantic_role": "body",
               "is_narrative": true,
-              "physical_max_cjk_chars": 60,
-              "registered_max_chars": 55,
+              "registered_max_chars": 32,
               "source_chars": 56,
               "box_width_pt": 138.4,
               "box_height_pt": 101.5,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 2,
+              "single_cjk_probe_chars": 40,
+              "actual_rendered_lines_in_boundary_tests": 4
             },
             {
               "theme": "red",
@@ -198,25 +211,26 @@
               "semantic_path": "items[4].body",
               "semantic_role": "body",
               "is_narrative": true,
-              "physical_max_cjk_chars": 60,
-              "registered_max_chars": 55,
+              "registered_max_chars": 32,
               "source_chars": 56,
               "box_width_pt": 138.4,
               "box_height_pt": 101.5,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 2,
+              "single_cjk_probe_chars": 40,
+              "actual_rendered_lines_in_boundary_tests": 4
             }
           ],
-          "manual_line_breaks": "not_tested",
-          "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 55,
-          "use_for_planning_cjk_chars": 51,
-          "normal_fill_tested_chars": 51
+          "manual_line_breaks": "powerpoint_boundary_tested",
+          "copy_form": "cjk_auto_wrap_and_two_input_lines",
+          "registered_min_max_chars": 32,
+          "use_for_planning_cjk_chars": 32,
+          "normal_fill_tested_chars": 32
         },
         {
           "semantic_path": "page.summary",
           "is_narrative": true,
-          "physical_max_cjk_chars": 192,
-          "recommended_max_cjk_chars": 163,
+          "recommended_max_cjk_chars": 55,
           "variants": [
             {
               "theme": "blue",
@@ -224,12 +238,14 @@
               "semantic_path": "page.summary",
               "semantic_role": "summary",
               "is_narrative": true,
-              "physical_max_cjk_chars": 192,
-              "registered_max_chars": 70,
+              "registered_max_chars": 55,
               "source_chars": 104,
               "box_width_pt": 642.1,
               "box_height_pt": 52.8,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 2,
+              "single_cjk_probe_chars": 70,
+              "actual_rendered_lines_in_boundary_tests": 2
             },
             {
               "theme": "red",
@@ -237,19 +253,21 @@
               "semantic_path": "page.summary",
               "semantic_role": "summary",
               "is_narrative": true,
-              "physical_max_cjk_chars": 192,
-              "registered_max_chars": 70,
+              "registered_max_chars": 55,
               "source_chars": 104,
               "box_width_pt": 642.1,
               "box_height_pt": 52.8,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 2,
+              "single_cjk_probe_chars": 70,
+              "actual_rendered_lines_in_boundary_tests": 2
             }
           ],
-          "manual_line_breaks": "not_tested",
-          "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 70,
-          "use_for_planning_cjk_chars": 70,
-          "normal_fill_tested_chars": 70
+          "manual_line_breaks": "powerpoint_boundary_tested",
+          "copy_form": "cjk_auto_wrap_and_two_input_lines",
+          "registered_min_max_chars": 55,
+          "use_for_planning_cjk_chars": 55,
+          "normal_fill_tested_chars": 55
         }
       ],
       "source_page": 15,
@@ -258,57 +276,63 @@
         "fill_layout"
       ],
       "operational_note": "按每个正文槽分别控制；组件最小值不能替代其他字段的上限",
-      "normal_fill_longcopy_status": "normal_fill_and_text_fit_passed_pending_visual_review",
-      "normal_fill_cases": [
-        {
-          "layout_id": "content-blue-015",
-          "theme": "blue",
-          "status": "filled",
-          "actual_chars": {
-            "items[0].body": 55,
-            "items[1].body": 55,
-            "items[2].body": 55,
-            "items[3].body": 55,
-            "items[4].body": 51,
-            "page.summary": 70
-          },
-          "powerpoint_overflow_count": 0
-        },
-        {
-          "layout_id": "content-blue-015",
-          "theme": "red",
-          "status": "filled",
-          "actual_chars": {
-            "items[0].body": 55,
-            "items[1].body": 55,
-            "items[2].body": 55,
-            "items[3].body": 55,
-            "items[4].body": 51,
-            "page.summary": 70
-          },
-          "powerpoint_overflow_count": 0
-        }
-      ],
-      "visual_longcopy_review": {
-        "review_date": "2026-11-10",
-        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
-        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
-        "variants": [
-          {
-            "theme": "blue",
-            "complete_fill": true,
-            "powerpoint_overflow_count": 0,
-            "visual_render": "complete-visual-previews/content-blue-015-blue.png"
-          },
-          {
-            "theme": "red",
-            "complete_fill": true,
-            "powerpoint_overflow_count": 0,
-            "visual_render": "complete-visual-previews/content-blue-015-red.png"
-          }
-        ]
+      "normal_fill_longcopy_status": "powerpoint_boundary_fills_verified",
+      "long_copy_review_status": "长文案已验收",
+      "capacity_revision": {
+        "date": "2026-11-23",
+        "evidence": "review/body-12pt-capacity-20261123.json"
       },
-      "long_copy_review_status": "长文案已验收"
+      "historical_longcopy_review": {
+        "normal_fill_cases": [
+          {
+            "layout_id": "content-blue-015",
+            "theme": "blue",
+            "status": "filled",
+            "actual_chars": {
+              "items[0].body": 55,
+              "items[1].body": 55,
+              "items[2].body": 55,
+              "items[3].body": 55,
+              "items[4].body": 51,
+              "page.summary": 70
+            },
+            "powerpoint_overflow_count": 0
+          },
+          {
+            "layout_id": "content-blue-015",
+            "theme": "red",
+            "status": "filled",
+            "actual_chars": {
+              "items[0].body": 55,
+              "items[1].body": 55,
+              "items[2].body": 55,
+              "items[3].body": 55,
+              "items[4].body": 51,
+              "page.summary": 70
+            },
+            "powerpoint_overflow_count": 0
+          }
+        ],
+        "visual_longcopy_review": {
+          "review_date": "2026-11-10",
+          "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+          "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+          "variants": [
+            {
+              "theme": "blue",
+              "complete_fill": true,
+              "powerpoint_overflow_count": 0,
+              "visual_render": "complete-visual-previews/content-blue-015-blue.png"
+            },
+            {
+              "theme": "red",
+              "complete_fill": true,
+              "powerpoint_overflow_count": 0,
+              "visual_render": "complete-visual-previews/content-blue-015-red.png"
+            }
+          ]
+        }
+      }
     },
     {
       "layout_id": "content-blue-025",
@@ -1509,14 +1533,13 @@
       ],
       "role": "comparison",
       "narrative_field_count": 10,
-      "narrative_min_recommended_cjk_chars": 37,
-      "narrative_max_recommended_cjk_chars": 49,
+      "narrative_min_recommended_cjk_chars": 18,
+      "narrative_max_recommended_cjk_chars": 24,
       "fields": [
         {
           "semantic_path": "responses[0].detail",
           "is_narrative": true,
-          "physical_max_cjk_chars": 56,
-          "recommended_max_cjk_chars": 47,
+          "recommended_max_cjk_chars": 23,
           "variants": [
             {
               "theme": "blue",
@@ -1524,12 +1547,14 @@
               "semantic_path": "responses[0].detail",
               "semantic_role": "responses[0]",
               "is_narrative": true,
-              "physical_max_cjk_chars": 56,
-              "registered_max_chars": 34,
+              "registered_max_chars": 23,
               "source_chars": 37,
               "box_width_pt": 297.5,
               "box_height_pt": 41.9,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 1,
+              "single_cjk_probe_chars": 23,
+              "actual_rendered_lines_in_boundary_tests": 1
             },
             {
               "theme": "red",
@@ -1537,25 +1562,26 @@
               "semantic_path": "responses[0].detail",
               "semantic_role": "responses[0]",
               "is_narrative": true,
-              "physical_max_cjk_chars": 56,
-              "registered_max_chars": 34,
+              "registered_max_chars": 23,
               "source_chars": 37,
               "box_width_pt": 297.5,
               "box_height_pt": 41.9,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 1,
+              "single_cjk_probe_chars": 23,
+              "actual_rendered_lines_in_boundary_tests": 1
             }
           ],
-          "manual_line_breaks": "not_tested",
+          "manual_line_breaks": "single_input_line",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 34,
-          "use_for_planning_cjk_chars": 34,
-          "normal_fill_tested_chars": 34
+          "registered_min_max_chars": 23,
+          "use_for_planning_cjk_chars": 23,
+          "normal_fill_tested_chars": 23
         },
         {
           "semantic_path": "responses[1].detail",
           "is_narrative": true,
-          "physical_max_cjk_chars": 44,
-          "recommended_max_cjk_chars": 37,
+          "recommended_max_cjk_chars": 18,
           "variants": [
             {
               "theme": "blue",
@@ -1563,12 +1589,14 @@
               "semantic_path": "responses[1].detail",
               "semantic_role": "responses[1]",
               "is_narrative": true,
-              "physical_max_cjk_chars": 44,
-              "registered_max_chars": 34,
+              "registered_max_chars": 18,
               "source_chars": 37,
               "box_width_pt": 240.2,
               "box_height_pt": 41.9,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 1,
+              "single_cjk_probe_chars": 18,
+              "actual_rendered_lines_in_boundary_tests": 1
             },
             {
               "theme": "red",
@@ -1576,25 +1604,26 @@
               "semantic_path": "responses[1].detail",
               "semantic_role": "responses[1]",
               "is_narrative": true,
-              "physical_max_cjk_chars": 44,
-              "registered_max_chars": 34,
+              "registered_max_chars": 18,
               "source_chars": 37,
               "box_width_pt": 240.2,
               "box_height_pt": 41.9,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 1,
+              "single_cjk_probe_chars": 18,
+              "actual_rendered_lines_in_boundary_tests": 1
             }
           ],
-          "manual_line_breaks": "not_tested",
+          "manual_line_breaks": "single_input_line",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 34,
-          "use_for_planning_cjk_chars": 34,
-          "normal_fill_tested_chars": 34
+          "registered_min_max_chars": 18,
+          "use_for_planning_cjk_chars": 18,
+          "normal_fill_tested_chars": 18
         },
         {
           "semantic_path": "responses[1].detail_2",
           "is_narrative": true,
-          "physical_max_cjk_chars": 44,
-          "recommended_max_cjk_chars": 37,
+          "recommended_max_cjk_chars": 18,
           "variants": [
             {
               "theme": "blue",
@@ -1602,12 +1631,14 @@
               "semantic_path": "responses[1].detail_2",
               "semantic_role": "responses[1]",
               "is_narrative": true,
-              "physical_max_cjk_chars": 44,
-              "registered_max_chars": 34,
+              "registered_max_chars": 18,
               "source_chars": 32,
               "box_width_pt": 240.2,
               "box_height_pt": 41.9,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 1,
+              "single_cjk_probe_chars": 18,
+              "actual_rendered_lines_in_boundary_tests": 1
             },
             {
               "theme": "red",
@@ -1615,25 +1646,26 @@
               "semantic_path": "responses[1].detail_2",
               "semantic_role": "responses[1]",
               "is_narrative": true,
-              "physical_max_cjk_chars": 44,
-              "registered_max_chars": 34,
+              "registered_max_chars": 18,
               "source_chars": 32,
               "box_width_pt": 240.2,
               "box_height_pt": 41.9,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 1,
+              "single_cjk_probe_chars": 18,
+              "actual_rendered_lines_in_boundary_tests": 1
             }
           ],
-          "manual_line_breaks": "not_tested",
+          "manual_line_breaks": "single_input_line",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 34,
-          "use_for_planning_cjk_chars": 34,
-          "normal_fill_tested_chars": 34
+          "registered_min_max_chars": 18,
+          "use_for_planning_cjk_chars": 18,
+          "normal_fill_tested_chars": 18
         },
         {
           "semantic_path": "responses[2].detail",
           "is_narrative": true,
-          "physical_max_cjk_chars": 58,
-          "recommended_max_cjk_chars": 49,
+          "recommended_max_cjk_chars": 24,
           "variants": [
             {
               "theme": "blue",
@@ -1641,12 +1673,14 @@
               "semantic_path": "responses[2].detail",
               "semantic_role": "responses[2]",
               "is_narrative": true,
-              "physical_max_cjk_chars": 58,
-              "registered_max_chars": 34,
+              "registered_max_chars": 24,
               "source_chars": 38,
               "box_width_pt": 306.0,
               "box_height_pt": 41.9,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 1,
+              "single_cjk_probe_chars": 24,
+              "actual_rendered_lines_in_boundary_tests": 1
             },
             {
               "theme": "red",
@@ -1654,25 +1688,26 @@
               "semantic_path": "responses[2].detail",
               "semantic_role": "responses[2]",
               "is_narrative": true,
-              "physical_max_cjk_chars": 58,
-              "registered_max_chars": 34,
+              "registered_max_chars": 24,
               "source_chars": 38,
               "box_width_pt": 306.0,
               "box_height_pt": 41.9,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 1,
+              "single_cjk_probe_chars": 24,
+              "actual_rendered_lines_in_boundary_tests": 1
             }
           ],
-          "manual_line_breaks": "not_tested",
+          "manual_line_breaks": "single_input_line",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 34,
-          "use_for_planning_cjk_chars": 34,
-          "normal_fill_tested_chars": 34
+          "registered_min_max_chars": 24,
+          "use_for_planning_cjk_chars": 24,
+          "normal_fill_tested_chars": 24
         },
         {
           "semantic_path": "responses[3].detail",
           "is_narrative": true,
-          "physical_max_cjk_chars": 46,
-          "recommended_max_cjk_chars": 39,
+          "recommended_max_cjk_chars": 19,
           "variants": [
             {
               "theme": "blue",
@@ -1680,12 +1715,14 @@
               "semantic_path": "responses[3].detail",
               "semantic_role": "responses[3]",
               "is_narrative": true,
-              "physical_max_cjk_chars": 46,
-              "registered_max_chars": 34,
+              "registered_max_chars": 19,
               "source_chars": 39,
               "box_width_pt": 248.9,
               "box_height_pt": 41.9,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 1,
+              "single_cjk_probe_chars": 19,
+              "actual_rendered_lines_in_boundary_tests": 1
             },
             {
               "theme": "red",
@@ -1693,25 +1730,26 @@
               "semantic_path": "responses[3].detail",
               "semantic_role": "responses[3]",
               "is_narrative": true,
-              "physical_max_cjk_chars": 46,
-              "registered_max_chars": 34,
+              "registered_max_chars": 19,
               "source_chars": 39,
               "box_width_pt": 248.9,
               "box_height_pt": 41.9,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 1,
+              "single_cjk_probe_chars": 19,
+              "actual_rendered_lines_in_boundary_tests": 1
             }
           ],
-          "manual_line_breaks": "not_tested",
+          "manual_line_breaks": "single_input_line",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 34,
-          "use_for_planning_cjk_chars": 34,
-          "normal_fill_tested_chars": 34
+          "registered_min_max_chars": 19,
+          "use_for_planning_cjk_chars": 19,
+          "normal_fill_tested_chars": 19
         },
         {
           "semantic_path": "responses[3].detail_2",
           "is_narrative": true,
-          "physical_max_cjk_chars": 46,
-          "recommended_max_cjk_chars": 39,
+          "recommended_max_cjk_chars": 19,
           "variants": [
             {
               "theme": "blue",
@@ -1719,12 +1757,14 @@
               "semantic_path": "responses[3].detail_2",
               "semantic_role": "responses[3]",
               "is_narrative": true,
-              "physical_max_cjk_chars": 46,
-              "registered_max_chars": 34,
+              "registered_max_chars": 19,
               "source_chars": 39,
               "box_width_pt": 248.4,
               "box_height_pt": 41.9,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 1,
+              "single_cjk_probe_chars": 19,
+              "actual_rendered_lines_in_boundary_tests": 1
             },
             {
               "theme": "red",
@@ -1732,25 +1772,26 @@
               "semantic_path": "responses[3].detail_2",
               "semantic_role": "responses[3]",
               "is_narrative": true,
-              "physical_max_cjk_chars": 46,
-              "registered_max_chars": 34,
+              "registered_max_chars": 19,
               "source_chars": 39,
               "box_width_pt": 248.4,
               "box_height_pt": 41.9,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 1,
+              "single_cjk_probe_chars": 19,
+              "actual_rendered_lines_in_boundary_tests": 1
             }
           ],
-          "manual_line_breaks": "not_tested",
+          "manual_line_breaks": "single_input_line",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 34,
-          "use_for_planning_cjk_chars": 34,
-          "normal_fill_tested_chars": 34
+          "registered_min_max_chars": 19,
+          "use_for_planning_cjk_chars": 19,
+          "normal_fill_tested_chars": 19
         },
         {
           "semantic_path": "risks[0].detail",
           "is_narrative": true,
-          "physical_max_cjk_chars": 50,
-          "recommended_max_cjk_chars": 42,
+          "recommended_max_cjk_chars": 21,
           "variants": [
             {
               "theme": "blue",
@@ -1758,12 +1799,14 @@
               "semantic_path": "risks[0].detail",
               "semantic_role": "risks[0]",
               "is_narrative": true,
-              "physical_max_cjk_chars": 50,
-              "registered_max_chars": 34,
+              "registered_max_chars": 21,
               "source_chars": 35,
               "box_width_pt": 267.6,
               "box_height_pt": 41.9,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 1,
+              "single_cjk_probe_chars": 21,
+              "actual_rendered_lines_in_boundary_tests": 1
             },
             {
               "theme": "red",
@@ -1771,25 +1814,26 @@
               "semantic_path": "risks[0].detail",
               "semantic_role": "risks[0]",
               "is_narrative": true,
-              "physical_max_cjk_chars": 50,
-              "registered_max_chars": 34,
+              "registered_max_chars": 21,
               "source_chars": 35,
               "box_width_pt": 267.6,
               "box_height_pt": 41.9,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 1,
+              "single_cjk_probe_chars": 21,
+              "actual_rendered_lines_in_boundary_tests": 1
             }
           ],
-          "manual_line_breaks": "not_tested",
+          "manual_line_breaks": "single_input_line",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 34,
-          "use_for_planning_cjk_chars": 34,
-          "normal_fill_tested_chars": 34
+          "registered_min_max_chars": 21,
+          "use_for_planning_cjk_chars": 21,
+          "normal_fill_tested_chars": 21
         },
         {
           "semantic_path": "risks[1].detail",
           "is_narrative": true,
-          "physical_max_cjk_chars": 50,
-          "recommended_max_cjk_chars": 42,
+          "recommended_max_cjk_chars": 21,
           "variants": [
             {
               "theme": "blue",
@@ -1797,12 +1841,14 @@
               "semantic_path": "risks[1].detail",
               "semantic_role": "risks[1]",
               "is_narrative": true,
-              "physical_max_cjk_chars": 50,
-              "registered_max_chars": 34,
+              "registered_max_chars": 21,
               "source_chars": 34,
               "box_width_pt": 267.6,
               "box_height_pt": 41.9,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 1,
+              "single_cjk_probe_chars": 21,
+              "actual_rendered_lines_in_boundary_tests": 1
             },
             {
               "theme": "red",
@@ -1810,25 +1856,26 @@
               "semantic_path": "risks[1].detail",
               "semantic_role": "risks[1]",
               "is_narrative": true,
-              "physical_max_cjk_chars": 50,
-              "registered_max_chars": 34,
+              "registered_max_chars": 21,
               "source_chars": 34,
               "box_width_pt": 267.6,
               "box_height_pt": 41.9,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 1,
+              "single_cjk_probe_chars": 21,
+              "actual_rendered_lines_in_boundary_tests": 1
             }
           ],
-          "manual_line_breaks": "not_tested",
+          "manual_line_breaks": "single_input_line",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 34,
-          "use_for_planning_cjk_chars": 34,
-          "normal_fill_tested_chars": 34
+          "registered_min_max_chars": 21,
+          "use_for_planning_cjk_chars": 21,
+          "normal_fill_tested_chars": 21
         },
         {
           "semantic_path": "risks[2].detail",
           "is_narrative": true,
-          "physical_max_cjk_chars": 50,
-          "recommended_max_cjk_chars": 42,
+          "recommended_max_cjk_chars": 21,
           "variants": [
             {
               "theme": "blue",
@@ -1836,12 +1883,14 @@
               "semantic_path": "risks[2].detail",
               "semantic_role": "risks[2]",
               "is_narrative": true,
-              "physical_max_cjk_chars": 50,
-              "registered_max_chars": 34,
+              "registered_max_chars": 21,
               "source_chars": 43,
               "box_width_pt": 268.3,
               "box_height_pt": 41.9,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 1,
+              "single_cjk_probe_chars": 21,
+              "actual_rendered_lines_in_boundary_tests": 1
             },
             {
               "theme": "red",
@@ -1849,25 +1898,26 @@
               "semantic_path": "risks[2].detail",
               "semantic_role": "risks[2]",
               "is_narrative": true,
-              "physical_max_cjk_chars": 50,
-              "registered_max_chars": 34,
+              "registered_max_chars": 21,
               "source_chars": 43,
               "box_width_pt": 268.3,
               "box_height_pt": 41.9,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 1,
+              "single_cjk_probe_chars": 21,
+              "actual_rendered_lines_in_boundary_tests": 1
             }
           ],
-          "manual_line_breaks": "not_tested",
+          "manual_line_breaks": "single_input_line",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 34,
-          "use_for_planning_cjk_chars": 34,
-          "normal_fill_tested_chars": 34
+          "registered_min_max_chars": 21,
+          "use_for_planning_cjk_chars": 21,
+          "normal_fill_tested_chars": 21
         },
         {
           "semantic_path": "risks[3].detail",
           "is_narrative": true,
-          "physical_max_cjk_chars": 50,
-          "recommended_max_cjk_chars": 42,
+          "recommended_max_cjk_chars": 21,
           "variants": [
             {
               "theme": "blue",
@@ -1875,12 +1925,14 @@
               "semantic_path": "risks[3].detail",
               "semantic_role": "risks[3]",
               "is_narrative": true,
-              "physical_max_cjk_chars": 50,
-              "registered_max_chars": 34,
+              "registered_max_chars": 21,
               "source_chars": 37,
               "box_width_pt": 268.3,
               "box_height_pt": 41.9,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 1,
+              "single_cjk_probe_chars": 21,
+              "actual_rendered_lines_in_boundary_tests": 1
             },
             {
               "theme": "red",
@@ -1888,19 +1940,21 @@
               "semantic_path": "risks[3].detail",
               "semantic_role": "risks[3]",
               "is_narrative": true,
-              "physical_max_cjk_chars": 50,
-              "registered_max_chars": 34,
+              "registered_max_chars": 21,
               "source_chars": 37,
               "box_width_pt": 268.3,
               "box_height_pt": 41.9,
-              "font_size_pt": 10.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 1,
+              "single_cjk_probe_chars": 21,
+              "actual_rendered_lines_in_boundary_tests": 1
             }
           ],
-          "manual_line_breaks": "not_tested",
+          "manual_line_breaks": "single_input_line",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 34,
-          "use_for_planning_cjk_chars": 34,
-          "normal_fill_tested_chars": 34
+          "registered_min_max_chars": 21,
+          "use_for_planning_cjk_chars": 21,
+          "normal_fill_tested_chars": 21
         }
       ],
       "source_page": 50,
@@ -1909,65 +1963,71 @@
         "fill_layout"
       ],
       "operational_note": "按每个正文槽分别控制；组件最小值不能替代其他字段的上限",
-      "normal_fill_longcopy_status": "normal_fill_and_text_fit_passed_pending_visual_review",
-      "normal_fill_cases": [
-        {
-          "layout_id": "content-blue-050",
-          "theme": "blue",
-          "status": "filled",
-          "actual_chars": {
-            "risks[0].detail": 34,
-            "risks[1].detail": 34,
-            "responses[0].detail": 34,
-            "responses[1].detail": 34,
-            "risks[2].detail": 34,
-            "risks[3].detail": 34,
-            "responses[2].detail": 34,
-            "responses[3].detail": 34,
-            "responses[1].detail_2": 34,
-            "responses[3].detail_2": 34
-          },
-          "powerpoint_overflow_count": 0
-        },
-        {
-          "layout_id": "content-blue-050",
-          "theme": "red",
-          "status": "filled",
-          "actual_chars": {
-            "risks[0].detail": 34,
-            "risks[1].detail": 34,
-            "responses[0].detail": 34,
-            "responses[1].detail": 34,
-            "risks[2].detail": 34,
-            "risks[3].detail": 34,
-            "responses[2].detail": 34,
-            "responses[3].detail": 34,
-            "responses[1].detail_2": 34,
-            "responses[3].detail_2": 34
-          },
-          "powerpoint_overflow_count": 0
-        }
-      ],
-      "visual_longcopy_review": {
-        "review_date": "2026-11-10",
-        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
-        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
-        "variants": [
-          {
-            "theme": "blue",
-            "complete_fill": true,
-            "powerpoint_overflow_count": 0,
-            "visual_render": "complete-visual-previews/content-blue-050-blue.png"
-          },
-          {
-            "theme": "red",
-            "complete_fill": true,
-            "powerpoint_overflow_count": 0,
-            "visual_render": "complete-visual-previews/content-blue-050-red.png"
-          }
-        ]
+      "normal_fill_longcopy_status": "powerpoint_boundary_fills_verified",
+      "long_copy_review_status": "长文案已验收",
+      "capacity_revision": {
+        "date": "2026-11-23",
+        "evidence": "review/body-12pt-capacity-20261123.json"
       },
-      "long_copy_review_status": "长文案已验收"
+      "historical_longcopy_review": {
+        "normal_fill_cases": [
+          {
+            "layout_id": "content-blue-050",
+            "theme": "blue",
+            "status": "filled",
+            "actual_chars": {
+              "risks[0].detail": 34,
+              "risks[1].detail": 34,
+              "responses[0].detail": 34,
+              "responses[1].detail": 34,
+              "risks[2].detail": 34,
+              "risks[3].detail": 34,
+              "responses[2].detail": 34,
+              "responses[3].detail": 34,
+              "responses[1].detail_2": 34,
+              "responses[3].detail_2": 34
+            },
+            "powerpoint_overflow_count": 0
+          },
+          {
+            "layout_id": "content-blue-050",
+            "theme": "red",
+            "status": "filled",
+            "actual_chars": {
+              "risks[0].detail": 34,
+              "risks[1].detail": 34,
+              "responses[0].detail": 34,
+              "responses[1].detail": 34,
+              "risks[2].detail": 34,
+              "risks[3].detail": 34,
+              "responses[2].detail": 34,
+              "responses[3].detail": 34,
+              "responses[1].detail_2": 34,
+              "responses[3].detail_2": 34
+            },
+            "powerpoint_overflow_count": 0
+          }
+        ],
+        "visual_longcopy_review": {
+          "review_date": "2026-11-10",
+          "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+          "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+          "variants": [
+            {
+              "theme": "blue",
+              "complete_fill": true,
+              "powerpoint_overflow_count": 0,
+              "visual_render": "complete-visual-previews/content-blue-050-blue.png"
+            },
+            {
+              "theme": "red",
+              "complete_fill": true,
+              "powerpoint_overflow_count": 0,
+              "visual_render": "complete-visual-previews/content-blue-050-red.png"
+            }
+          ]
+        }
+      }
     },
     {
       "layout_id": "content-blue-060",
@@ -21995,8 +22055,8 @@
       ],
       "role": "content",
       "narrative_field_count": 6,
-      "narrative_min_recommended_cjk_chars": 33,
-      "narrative_max_recommended_cjk_chars": 40,
+      "narrative_min_recommended_cjk_chars": 25,
+      "narrative_max_recommended_cjk_chars": 42,
       "fields": [
         {
           "semantic_path": "center.unit",
@@ -22027,8 +22087,7 @@
         {
           "semantic_path": "item_1.body",
           "is_narrative": true,
-          "physical_max_cjk_chars": 42,
-          "recommended_max_cjk_chars": 35,
+          "recommended_max_cjk_chars": 25,
           "variants": [
             {
               "theme": "deep-blue-tech",
@@ -22036,25 +22095,26 @@
               "semantic_path": "item_1.body",
               "semantic_role": "reviewed_text",
               "is_narrative": true,
-              "physical_max_cjk_chars": 42,
-              "registered_max_chars": 61,
+              "registered_max_chars": 25,
               "source_chars": 41,
               "box_width_pt": 158.13,
               "box_height_pt": 47.21,
-              "font_size_pt": 11.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 1,
+              "single_cjk_probe_chars": 25,
+              "actual_rendered_lines_in_boundary_tests": 2
             }
           ],
-          "manual_line_breaks": "not_tested",
+          "manual_line_breaks": "single_input_line",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 61,
-          "use_for_planning_cjk_chars": 35,
-          "normal_fill_tested_chars": 35
+          "registered_min_max_chars": 25,
+          "use_for_planning_cjk_chars": 25,
+          "normal_fill_tested_chars": 25
         },
         {
           "semantic_path": "item_2.body",
           "is_narrative": true,
-          "physical_max_cjk_chars": 39,
-          "recommended_max_cjk_chars": 33,
+          "recommended_max_cjk_chars": 36,
           "variants": [
             {
               "theme": "deep-blue-tech",
@@ -22062,25 +22122,26 @@
               "semantic_path": "item_2.body",
               "semantic_role": "reviewed_text",
               "is_narrative": true,
-              "physical_max_cjk_chars": 39,
-              "registered_max_chars": 46,
+              "registered_max_chars": 36,
               "source_chars": 31,
               "box_width_pt": 165.92,
               "box_height_pt": 54.48,
-              "font_size_pt": 11.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 1,
+              "single_cjk_probe_chars": 36,
+              "actual_rendered_lines_in_boundary_tests": 3
             }
           ],
-          "manual_line_breaks": "not_tested",
+          "manual_line_breaks": "single_input_line",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 46,
-          "use_for_planning_cjk_chars": 33,
-          "normal_fill_tested_chars": 33
+          "registered_min_max_chars": 36,
+          "use_for_planning_cjk_chars": 36,
+          "normal_fill_tested_chars": 36
         },
         {
           "semantic_path": "item_3.body",
           "is_narrative": true,
-          "physical_max_cjk_chars": 42,
-          "recommended_max_cjk_chars": 35,
+          "recommended_max_cjk_chars": 39,
           "variants": [
             {
               "theme": "deep-blue-tech",
@@ -22088,25 +22149,26 @@
               "semantic_path": "item_3.body",
               "semantic_role": "reviewed_text",
               "is_narrative": true,
-              "physical_max_cjk_chars": 42,
-              "registered_max_chars": 48,
+              "registered_max_chars": 39,
               "source_chars": 32,
               "box_width_pt": 176.33,
               "box_height_pt": 54.48,
-              "font_size_pt": 11.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 1,
+              "single_cjk_probe_chars": 39,
+              "actual_rendered_lines_in_boundary_tests": 3
             }
           ],
-          "manual_line_breaks": "not_tested",
+          "manual_line_breaks": "single_input_line",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 48,
-          "use_for_planning_cjk_chars": 35,
-          "normal_fill_tested_chars": 35
+          "registered_min_max_chars": 39,
+          "use_for_planning_cjk_chars": 39,
+          "normal_fill_tested_chars": 39
         },
         {
           "semantic_path": "item_4.body",
           "is_narrative": true,
-          "physical_max_cjk_chars": 39,
-          "recommended_max_cjk_chars": 33,
+          "recommended_max_cjk_chars": 36,
           "variants": [
             {
               "theme": "deep-blue-tech",
@@ -22114,25 +22176,26 @@
               "semantic_path": "item_4.body",
               "semantic_role": "reviewed_text",
               "is_narrative": true,
-              "physical_max_cjk_chars": 39,
-              "registered_max_chars": 46,
+              "registered_max_chars": 36,
               "source_chars": 31,
               "box_width_pt": 166.9,
               "box_height_pt": 54.48,
-              "font_size_pt": 11.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 1,
+              "single_cjk_probe_chars": 36,
+              "actual_rendered_lines_in_boundary_tests": 3
             }
           ],
-          "manual_line_breaks": "not_tested",
+          "manual_line_breaks": "single_input_line",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 46,
-          "use_for_planning_cjk_chars": 33,
-          "normal_fill_tested_chars": 33
+          "registered_min_max_chars": 36,
+          "use_for_planning_cjk_chars": 36,
+          "normal_fill_tested_chars": 36
         },
         {
           "semantic_path": "item_5.body",
           "is_narrative": true,
-          "physical_max_cjk_chars": 48,
-          "recommended_max_cjk_chars": 40,
+          "recommended_max_cjk_chars": 42,
           "variants": [
             {
               "theme": "deep-blue-tech",
@@ -22140,25 +22203,26 @@
               "semantic_path": "item_5.body",
               "semantic_role": "reviewed_text",
               "is_narrative": true,
-              "physical_max_cjk_chars": 48,
-              "registered_max_chars": 60,
+              "registered_max_chars": 42,
               "source_chars": 40,
               "box_width_pt": 192.04,
               "box_height_pt": 54.48,
-              "font_size_pt": 11.0
+              "font_size_pt": 12.0,
+              "registered_max_lines": 1,
+              "single_cjk_probe_chars": 42,
+              "actual_rendered_lines_in_boundary_tests": 3
             }
           ],
-          "manual_line_breaks": "not_tested",
+          "manual_line_breaks": "single_input_line",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 60,
-          "use_for_planning_cjk_chars": 40,
-          "normal_fill_tested_chars": 40
+          "registered_min_max_chars": 42,
+          "use_for_planning_cjk_chars": 42,
+          "normal_fill_tested_chars": 42
         },
         {
           "semantic_path": "summary",
           "is_narrative": true,
-          "physical_max_cjk_chars": 48,
-          "recommended_max_cjk_chars": 40,
+          "recommended_max_cjk_chars": 39,
           "variants": [
             {
               "theme": "deep-blue-tech",
@@ -22166,15 +22230,17 @@
               "semantic_path": "summary",
               "semantic_role": "reviewed_text",
               "is_narrative": true,
-              "physical_max_cjk_chars": 48,
               "registered_max_chars": 39,
               "source_chars": 26,
               "box_width_pt": 674.1,
               "box_height_pt": 23.7,
-              "font_size_pt": 14.0
+              "font_size_pt": 14.0,
+              "registered_max_lines": 1,
+              "single_cjk_probe_chars": 39,
+              "actual_rendered_lines_in_boundary_tests": 1
             }
           ],
-          "manual_line_breaks": "not_tested",
+          "manual_line_breaks": "single_input_line",
           "copy_form": "single_paragraph_cjk_auto_wrap",
           "registered_min_max_chars": 39,
           "use_for_planning_cjk_chars": 39,
@@ -22187,38 +22253,44 @@
         "fill_layout"
       ],
       "operational_note": "按每个正文槽分别控制；组件最小值不能替代其他字段的上限",
-      "normal_fill_longcopy_status": "normal_fill_and_text_fit_passed_pending_visual_review",
-      "normal_fill_cases": [
-        {
-          "layout_id": "content-tech-016",
-          "theme": "deep-blue-tech",
-          "status": "filled",
-          "actual_chars": {
-            "item_1.body": 35,
-            "item_2.body": 33,
-            "item_3.body": 35,
-            "item_4.body": 33,
-            "item_5.body": 40,
-            "center.unit": 5,
-            "summary": 39
-          },
-          "powerpoint_overflow_count": 0
-        }
-      ],
-      "visual_longcopy_review": {
-        "review_date": "2026-11-10",
-        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
-        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
-        "variants": [
-          {
-            "theme": "deep-blue-tech",
-            "complete_fill": true,
-            "powerpoint_overflow_count": 0,
-            "visual_render": "complete-visual-previews/content-tech-016-deep-blue-tech.png"
-          }
-        ]
+      "normal_fill_longcopy_status": "powerpoint_boundary_fills_verified",
+      "long_copy_review_status": "长文案已验收",
+      "capacity_revision": {
+        "date": "2026-11-23",
+        "evidence": "review/body-12pt-capacity-20261123.json"
       },
-      "long_copy_review_status": "长文案已验收"
+      "historical_longcopy_review": {
+        "normal_fill_cases": [
+          {
+            "layout_id": "content-tech-016",
+            "theme": "deep-blue-tech",
+            "status": "filled",
+            "actual_chars": {
+              "item_1.body": 35,
+              "item_2.body": 33,
+              "item_3.body": 35,
+              "item_4.body": 33,
+              "item_5.body": 40,
+              "center.unit": 5,
+              "summary": 39
+            },
+            "powerpoint_overflow_count": 0
+          }
+        ],
+        "visual_longcopy_review": {
+          "review_date": "2026-11-10",
+          "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+          "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+          "variants": [
+            {
+              "theme": "deep-blue-tech",
+              "complete_fill": true,
+              "powerpoint_overflow_count": 0,
+              "visual_render": "complete-visual-previews/content-tech-016-deep-blue-tech.png"
+            }
+          ]
+        }
+      }
     },
     {
       "layout_id": "content-tech-017",
@@ -33371,7 +33443,8 @@
     "The number counts simplified Chinese characters in one paragraph with automatic line wrap. Explicit line breaks and mixed Latin text need a new fit check.",
     "PowerPoint text bounds were checked; visual rhythm and full-deck collisions are outside this numeric capacity reference.",
     "The usable planning number is the lower of the recommended physical limit and the current registered max_chars; max_lines and max_width_units still apply.",
-    "source_fallback preparation does not prove that the normal fill_layout route accepts that component."
+    "source_fallback preparation does not prove that the normal fill_layout route accepts that component.",
+    "P015、P050、P016 以 2026-11-23 的 12 pt 下限复验为准。single_cjk_probe_chars 为受原字段上限约束的探测值。"
   ],
   "normal_fill_validation": {
     "cases": 189,

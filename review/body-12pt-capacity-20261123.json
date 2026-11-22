@@ -1,0 +1,1306 @@
+{
+  "schema_version": "1.0",
+  "review_date": "2026-11-23",
+  "base_knowledge_commit": "21311e87a3dfb6fcdef6955c7829c0a9d0b07a92",
+  "status": "powerpoint_boundary_fills_verified",
+  "powerpoint": {
+    "name": "Microsoft PowerPoint",
+    "version": "16.0",
+    "executable_version": "16.0.20326.20318"
+  },
+  "source_body_variants": 5,
+  "verified_bindings": 38,
+  "page_count": 16,
+  "field_checks": 112,
+  "overflow_count": 0,
+  "auto_shrink_count": 0,
+  "min_body_font_pt": 12,
+  "summary_font_exception_pt": 14,
+  "pages": [
+    {
+      "layout_id": "content-blue-015",
+      "theme": "blue",
+      "case": "满字数-全角中文",
+      "input_sha256": "967c96dbcd5aa3bec6f3badeaf1ca96c38fb7d607efa5413b423ec995427027e",
+      "powerpoint_saved_sha256": "3260395ca54a0986ad0bb4e5f8e543582f976c35d5dedc487dd47a96bb3bfc9b",
+      "export_sha256": "0d04b3bd81056dd7ebb7b7676e76d6964cad18739e0a4e0bc97f370329ad00fb",
+      "fields": [
+        {
+          "shape_id": 58,
+          "semantic_path": "items[0].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 60,
+          "semantic_path": "items[1].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 62,
+          "semantic_path": "items[2].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 64,
+          "semantic_path": "items[3].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 66,
+          "semantic_path": "items[4].body",
+          "max_chars": 32,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 4,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 6,
+          "semantic_path": "page.summary",
+          "max_chars": 55,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 2,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        }
+      ],
+      "preview": "review/body-12pt-capacity-20261123/content-blue-015-blue.png"
+    },
+    {
+      "layout_id": "content-blue-015",
+      "theme": "blue",
+      "case": "满字数-混排文案",
+      "input_sha256": "78370f2e65ab8e89f6e9be00fcbafa38b43caf3c2683289c96e4ffb9d116540b",
+      "powerpoint_saved_sha256": "c2de9b43a127d1cd8d210f5e12a078c63dae159582f9d50f26dfdee42ce69f8d",
+      "export_sha256": "78f840e8e1058fa1d48d9919e49c72332c4d5d35ebac3e706c8dd604e86fc4c9",
+      "fields": [
+        {
+          "shape_id": 58,
+          "semantic_path": "items[0].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 4,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 60,
+          "semantic_path": "items[1].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 4,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 62,
+          "semantic_path": "items[2].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 4,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 64,
+          "semantic_path": "items[3].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 4,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 66,
+          "semantic_path": "items[4].body",
+          "max_chars": 32,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 4,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 6,
+          "semantic_path": "page.summary",
+          "max_chars": 55,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        }
+      ]
+    },
+    {
+      "layout_id": "content-blue-015",
+      "theme": "blue",
+      "case": "满字数和行数-首行长",
+      "input_sha256": "a01d62260850e555e1fc6289471309d57a8416d8a527c4869f6ce8683f24b69a",
+      "powerpoint_saved_sha256": "edb1e2689920dfa3cc1e1f9dc1d2ef16749a1d58102a2c8c85f0004905fa777d",
+      "export_sha256": "4e0715867e5cead5bc30045f502916a7a9464d4e66218a264ebf7c2d5ac731ce",
+      "fields": [
+        {
+          "shape_id": 58,
+          "semantic_path": "items[0].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 60,
+          "semantic_path": "items[1].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 62,
+          "semantic_path": "items[2].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 64,
+          "semantic_path": "items[3].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 66,
+          "semantic_path": "items[4].body",
+          "max_chars": 32,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 4,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 6,
+          "semantic_path": "page.summary",
+          "max_chars": 55,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 2,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        }
+      ]
+    },
+    {
+      "layout_id": "content-blue-015",
+      "theme": "blue",
+      "case": "满字数和行数-末行长",
+      "input_sha256": "7882e442a296671a06aab166e945dc87813d904049ca7db96f6c6f93c6ce3681",
+      "powerpoint_saved_sha256": "c906d1acef9ca4c53c931dbdf953813726a5339f8b7d7a04fd1f11dfab73a157",
+      "export_sha256": "cd78f9aa5ea460c71f8af0a8c543863f9f8929ed66f8a386726dc9a9c940c5d2",
+      "fields": [
+        {
+          "shape_id": 58,
+          "semantic_path": "items[0].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 60,
+          "semantic_path": "items[1].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 62,
+          "semantic_path": "items[2].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 64,
+          "semantic_path": "items[3].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 66,
+          "semantic_path": "items[4].body",
+          "max_chars": 32,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 4,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 6,
+          "semantic_path": "page.summary",
+          "max_chars": 55,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 2,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        }
+      ]
+    },
+    {
+      "layout_id": "content-blue-015",
+      "theme": "blue",
+      "case": "满字数和行数-均衡分行",
+      "input_sha256": "9c3d0b3b6e2fc445ed232fe6881bf8e20ea91fb2edb6cc609ac7e272c9d874df",
+      "powerpoint_saved_sha256": "796ffed227140bad8da50bdb3769b6f52a4039677856f09b201244f8ed09f96a",
+      "export_sha256": "985af602f7be41fd7a315318876fa53e02666a9df9d1ac2c2f17ef91621456de",
+      "fields": [
+        {
+          "shape_id": 58,
+          "semantic_path": "items[0].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 60,
+          "semantic_path": "items[1].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 62,
+          "semantic_path": "items[2].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 64,
+          "semantic_path": "items[3].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 66,
+          "semantic_path": "items[4].body",
+          "max_chars": 32,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 4,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 6,
+          "semantic_path": "page.summary",
+          "max_chars": 55,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 2,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        }
+      ]
+    },
+    {
+      "layout_id": "content-blue-015",
+      "theme": "red",
+      "case": "满字数-全角中文",
+      "input_sha256": "3910d2ee64b5610f60b589378b59027296d32f36a4054f5cb418f9da23f209e3",
+      "powerpoint_saved_sha256": "b9e92715d71a0a0824f07fda748c5066acdeefe3bfe29efbbbeb516935888643",
+      "export_sha256": "bf4502a23cf2a1128574f0aa6f9f4540f45a46b853bb9fbb59c34b374dffaba9",
+      "fields": [
+        {
+          "shape_id": 58,
+          "semantic_path": "items[0].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 60,
+          "semantic_path": "items[1].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 62,
+          "semantic_path": "items[2].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 64,
+          "semantic_path": "items[3].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 66,
+          "semantic_path": "items[4].body",
+          "max_chars": 32,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 4,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 6,
+          "semantic_path": "page.summary",
+          "max_chars": 55,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 2,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        }
+      ],
+      "preview": "review/body-12pt-capacity-20261123/content-blue-015-red.png"
+    },
+    {
+      "layout_id": "content-blue-015",
+      "theme": "red",
+      "case": "满字数-混排文案",
+      "input_sha256": "ad6f5626f60339a464aac72309d18d3b0d4c80d552179977e0333887c561b1da",
+      "powerpoint_saved_sha256": "c0f920a886bc97ca9ddf66a9d6d213ea339af127875ef30364c76e2996a8b078",
+      "export_sha256": "e100eb4d77b226fc0e5fd6861e3e8dd64bf170115c3fe10fa7a84773ec2de224",
+      "fields": [
+        {
+          "shape_id": 58,
+          "semantic_path": "items[0].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 4,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 60,
+          "semantic_path": "items[1].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 4,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 62,
+          "semantic_path": "items[2].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 4,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 64,
+          "semantic_path": "items[3].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 4,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 66,
+          "semantic_path": "items[4].body",
+          "max_chars": 32,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 4,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 6,
+          "semantic_path": "page.summary",
+          "max_chars": 55,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        }
+      ]
+    },
+    {
+      "layout_id": "content-blue-015",
+      "theme": "red",
+      "case": "满字数和行数-首行长",
+      "input_sha256": "f07cb24db3f42b617f46431bcf8845110dbdfd705f50b2412783e001f3211484",
+      "powerpoint_saved_sha256": "08971f1153bd5e6ae91da03db3cfb39691891da98d84b6d818116ffe33c9798e",
+      "export_sha256": "f559be965f073f29521b8d49117f9a5c2c5970776d00e17d7f09fc0ff2f7edf4",
+      "fields": [
+        {
+          "shape_id": 58,
+          "semantic_path": "items[0].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 60,
+          "semantic_path": "items[1].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 62,
+          "semantic_path": "items[2].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 64,
+          "semantic_path": "items[3].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 66,
+          "semantic_path": "items[4].body",
+          "max_chars": 32,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 4,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 6,
+          "semantic_path": "page.summary",
+          "max_chars": 55,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 2,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        }
+      ]
+    },
+    {
+      "layout_id": "content-blue-015",
+      "theme": "red",
+      "case": "满字数和行数-末行长",
+      "input_sha256": "db7be98049454f89dccf9b2b4d6ddf4be3780d1ab500a8b14f2c3cf305e581cf",
+      "powerpoint_saved_sha256": "578efb0f03ab1e2c5531403dd39ca9b1a5519a4213242d0c561cbf2ffee733a6",
+      "export_sha256": "0858a73a7eb8a4cfa98ffc9d4c04f9ab5b32dc71f00af943c647d6f445d9e759",
+      "fields": [
+        {
+          "shape_id": 58,
+          "semantic_path": "items[0].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 60,
+          "semantic_path": "items[1].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 62,
+          "semantic_path": "items[2].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 64,
+          "semantic_path": "items[3].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 66,
+          "semantic_path": "items[4].body",
+          "max_chars": 32,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 4,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 6,
+          "semantic_path": "page.summary",
+          "max_chars": 55,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 2,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        }
+      ]
+    },
+    {
+      "layout_id": "content-blue-015",
+      "theme": "red",
+      "case": "满字数和行数-均衡分行",
+      "input_sha256": "59c02777dc065f8d7cd7c1b063f7d118d5a876fc1bc945617569787ca2662f52",
+      "powerpoint_saved_sha256": "506f93ae8ee21037223ab930e75a622b568778d8b16133519ba43bc539affef5",
+      "export_sha256": "1eacd3ab07f18cc8df58255dfc3768fc0cf63b9f8ce1e22e3d5ff449202bf139",
+      "fields": [
+        {
+          "shape_id": 58,
+          "semantic_path": "items[0].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 60,
+          "semantic_path": "items[1].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 62,
+          "semantic_path": "items[2].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 64,
+          "semantic_path": "items[3].body",
+          "max_chars": 42,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 5,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 66,
+          "semantic_path": "items[4].body",
+          "max_chars": 32,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 4,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 6,
+          "semantic_path": "page.summary",
+          "max_chars": 55,
+          "max_lines": 2,
+          "font_pt": 12.0,
+          "rendered_lines": 2,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        }
+      ]
+    },
+    {
+      "layout_id": "content-blue-050",
+      "theme": "blue",
+      "case": "满字数-全角中文",
+      "input_sha256": "3c1b8add951c715643abab5d82504d8930afbc396c40ea1f083bdcc474d15a7f",
+      "powerpoint_saved_sha256": "de17a982f42cb752dfc799fe1e8020a3fd78db2debefb01dce07fed708e0109d",
+      "export_sha256": "4cfcd5d71ad8fbd41189776beb88f0ef0c8428541285185be85f3302ee7e3473",
+      "fields": [
+        {
+          "shape_id": 19,
+          "semantic_path": "risks[0].detail",
+          "max_chars": 21,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 20,
+          "semantic_path": "risks[1].detail",
+          "max_chars": 21,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 21,
+          "semantic_path": "responses[0].detail",
+          "max_chars": 23,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 22,
+          "semantic_path": "responses[1].detail",
+          "max_chars": 18,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 23,
+          "semantic_path": "risks[2].detail",
+          "max_chars": 21,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 24,
+          "semantic_path": "risks[3].detail",
+          "max_chars": 21,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 25,
+          "semantic_path": "responses[2].detail",
+          "max_chars": 24,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 26,
+          "semantic_path": "responses[3].detail",
+          "max_chars": 19,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 28,
+          "semantic_path": "responses[1].detail_2",
+          "max_chars": 18,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 29,
+          "semantic_path": "responses[3].detail_2",
+          "max_chars": 19,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        }
+      ],
+      "preview": "review/body-12pt-capacity-20261123/content-blue-050-blue.png"
+    },
+    {
+      "layout_id": "content-blue-050",
+      "theme": "blue",
+      "case": "满字数-混排文案",
+      "input_sha256": "8c2d2ddd0c7d5d3a09b7ca36408d7d1766b42097e385388fcb444355efb6bf0f",
+      "powerpoint_saved_sha256": "0ade988370b2ed684036b36debac47be9a539d74b9907a06ab3f30dc9a58b3a8",
+      "export_sha256": "76c480e44d74d6eb973808b0bf95305dca85d95f5dc8d99ede9e892e1d7ae54a",
+      "fields": [
+        {
+          "shape_id": 19,
+          "semantic_path": "risks[0].detail",
+          "max_chars": 21,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 20,
+          "semantic_path": "risks[1].detail",
+          "max_chars": 21,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 21,
+          "semantic_path": "responses[0].detail",
+          "max_chars": 23,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 22,
+          "semantic_path": "responses[1].detail",
+          "max_chars": 18,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 23,
+          "semantic_path": "risks[2].detail",
+          "max_chars": 21,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 24,
+          "semantic_path": "risks[3].detail",
+          "max_chars": 21,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 25,
+          "semantic_path": "responses[2].detail",
+          "max_chars": 24,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 26,
+          "semantic_path": "responses[3].detail",
+          "max_chars": 19,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 28,
+          "semantic_path": "responses[1].detail_2",
+          "max_chars": 18,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 29,
+          "semantic_path": "responses[3].detail_2",
+          "max_chars": 19,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        }
+      ]
+    },
+    {
+      "layout_id": "content-blue-050",
+      "theme": "red",
+      "case": "满字数-全角中文",
+      "input_sha256": "7e694712068da0f3a3eaa21b496f886c24f362e232c06c65dc7d5405dc745269",
+      "powerpoint_saved_sha256": "e72390b492046db943dd2dfd529a90280fccfc696788944cb084fa169aa0ae5a",
+      "export_sha256": "e51aa614832281ab73574b80467e56942ee8a02b2d1159aac65b160167927fa4",
+      "fields": [
+        {
+          "shape_id": 19,
+          "semantic_path": "risks[0].detail",
+          "max_chars": 21,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 20,
+          "semantic_path": "risks[1].detail",
+          "max_chars": 21,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 21,
+          "semantic_path": "responses[0].detail",
+          "max_chars": 23,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 22,
+          "semantic_path": "responses[1].detail",
+          "max_chars": 18,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 23,
+          "semantic_path": "risks[2].detail",
+          "max_chars": 21,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 24,
+          "semantic_path": "risks[3].detail",
+          "max_chars": 21,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 25,
+          "semantic_path": "responses[2].detail",
+          "max_chars": 24,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 26,
+          "semantic_path": "responses[3].detail",
+          "max_chars": 19,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 28,
+          "semantic_path": "responses[1].detail_2",
+          "max_chars": 18,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 29,
+          "semantic_path": "responses[3].detail_2",
+          "max_chars": 19,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        }
+      ],
+      "preview": "review/body-12pt-capacity-20261123/content-blue-050-red.png"
+    },
+    {
+      "layout_id": "content-blue-050",
+      "theme": "red",
+      "case": "满字数-混排文案",
+      "input_sha256": "236a328b991bcbcd2942c82836af1b52fcdede8bb4892b9e295d61f0f5fa0bf7",
+      "powerpoint_saved_sha256": "2797dfabcd710c5259b648f8ce57cffea86abcd341da87dc89cedeae65ba88d2",
+      "export_sha256": "e5c455b3c2017c8d9b54c27059ad08b8dea86c40b2483bc17e29c61ef4ee959b",
+      "fields": [
+        {
+          "shape_id": 19,
+          "semantic_path": "risks[0].detail",
+          "max_chars": 21,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 20,
+          "semantic_path": "risks[1].detail",
+          "max_chars": 21,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 21,
+          "semantic_path": "responses[0].detail",
+          "max_chars": 23,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 22,
+          "semantic_path": "responses[1].detail",
+          "max_chars": 18,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 23,
+          "semantic_path": "risks[2].detail",
+          "max_chars": 21,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 24,
+          "semantic_path": "risks[3].detail",
+          "max_chars": 21,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 25,
+          "semantic_path": "responses[2].detail",
+          "max_chars": 24,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 26,
+          "semantic_path": "responses[3].detail",
+          "max_chars": 19,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 28,
+          "semantic_path": "responses[1].detail_2",
+          "max_chars": 18,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 29,
+          "semantic_path": "responses[3].detail_2",
+          "max_chars": 19,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        }
+      ]
+    },
+    {
+      "layout_id": "content-tech-016",
+      "theme": "deep-blue-tech",
+      "case": "满字数-全角中文",
+      "input_sha256": "0956a164080a76b5bc1a56db3261d6443fde6cbeef971fefeec0488064f446e5",
+      "powerpoint_saved_sha256": "3dac432336c0b516669122f09b8c0c1ca198baed6660d79c49b89149b9557f9c",
+      "export_sha256": "db34468a04609192695dedce27512a7f2d39fc3c005779eadd2f5b512764717d",
+      "fields": [
+        {
+          "shape_id": 14,
+          "semantic_path": "item_1.body",
+          "max_chars": 25,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 2,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 15,
+          "semantic_path": "item_2.body",
+          "max_chars": 36,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 3,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 16,
+          "semantic_path": "item_3.body",
+          "max_chars": 39,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 3,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 17,
+          "semantic_path": "item_4.body",
+          "max_chars": 36,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 3,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 25,
+          "semantic_path": "item_5.body",
+          "max_chars": 42,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 3,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 46,
+          "semantic_path": "summary",
+          "max_chars": 39,
+          "max_lines": 1,
+          "font_pt": 14.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        }
+      ],
+      "preview": "review/body-12pt-capacity-20261123/content-tech-016-deep-blue-tech.png"
+    },
+    {
+      "layout_id": "content-tech-016",
+      "theme": "deep-blue-tech",
+      "case": "满字数-混排文案",
+      "input_sha256": "b4379c53ab7b2a2d776aff9525762e6f72e2cb1aba810a7e09d142e812dd5eae",
+      "powerpoint_saved_sha256": "303b3afeaf63c104bcbe05ac0818eb80913eb0f0cdf219f149edefefa20f556d",
+      "export_sha256": "03e375155904301b52cb03e627de4d3524ebe57dd4c671833f601a8ba50547cb",
+      "fields": [
+        {
+          "shape_id": 14,
+          "semantic_path": "item_1.body",
+          "max_chars": 25,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 2,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 15,
+          "semantic_path": "item_2.body",
+          "max_chars": 36,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 3,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 16,
+          "semantic_path": "item_3.body",
+          "max_chars": 39,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 3,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 17,
+          "semantic_path": "item_4.body",
+          "max_chars": 36,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 3,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 25,
+          "semantic_path": "item_5.body",
+          "max_chars": 42,
+          "max_lines": 1,
+          "font_pt": 12.0,
+          "rendered_lines": 3,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        },
+        {
+          "shape_id": 46,
+          "semantic_path": "summary",
+          "max_chars": 39,
+          "max_lines": 1,
+          "font_pt": 14.0,
+          "rendered_lines": 1,
+          "overflow_pt": 0,
+          "auto_shrink": false
+        }
+      ]
+    }
+  ]
+}

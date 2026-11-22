@@ -1641,9 +1641,9 @@
         "themes": {
           "blue": {
             "asset": "layouts/content-blue-015/body-blue.pptx",
-            "sha256": "28f40c3d76df99ec75705e6a512c1244522ab4ba70339181e57b208602bb767b",
+            "sha256": "ea5a979cae44a3ba7142c4bfeb037325111a30132a2c7e3bb13bed918a46c9ff",
             "bindings": "layouts/content-blue-015/body-blue-bindings.json",
-            "bindings_sha256": "f60f37dfeffb40e59e84e50170c609f516a6cc9011d7c12272bf837e1d1a309b",
+            "bindings_sha256": "afb87023594c247c8a9245775c9ddc4e7367db6bbd16a28b65110bbe61918975",
             "title_input": {
               "field": "text_2",
               "semantic_path": "page.title"
@@ -1661,9 +1661,9 @@
           },
           "red": {
             "asset": "layouts/content-blue-015/body-red.pptx",
-            "sha256": "1646fce1da8fbe67a52f5ab1b11248fa0b9e3e80424ba47c64dd3faa3873dc4f",
+            "sha256": "e09114b62c22af288405bc97283ee357252184aed32c596f128cb2732c6beccf",
             "bindings": "layouts/content-blue-015/body-red-bindings.json",
-            "bindings_sha256": "d40124f74427846b5331a1748d181d65bfd81e88db2c024175ea37036f9ccd8b",
+            "bindings_sha256": "49a1b4e7334720258c9332bffe0eeadc359186db48317169c742aad8d5353120",
             "title_input": {
               "field": "text_2",
               "semantic_path": "page.title"
@@ -6995,9 +6995,9 @@
         "themes": {
           "blue": {
             "asset": "layouts/content-blue-050/body-blue.pptx",
-            "sha256": "7ac7cf5da58f2da8bf9d3ddf8fd2fadf9183ea48586d5cb52b56abadf6809da2",
+            "sha256": "d85bd0a76a61b79dbc23c738ff0aa20fd340e0a4d7486d235b6c646783aaaedd",
             "bindings": "layouts/content-blue-050/body-blue-bindings.json",
-            "bindings_sha256": "6c78ac933d734e3546930d63b38dfc5223976e323c29266e3001573248de4840",
+            "bindings_sha256": "e4ef7726684c8ed57297bdeecca232f1c3ac970144b8ba983d2fc0c30b3db14f",
             "title_input": {
               "field": "text_10",
               "semantic_path": "page.title"
@@ -7015,9 +7015,9 @@
           },
           "red": {
             "asset": "layouts/content-blue-050/body-red.pptx",
-            "sha256": "b627e3b586592b1859645bcd52537c33b928ccae83c445fb62676d743d268654",
+            "sha256": "1a79078ea99635f8e97db39b1f6724aea8fd0abb331488e000bee0e1344139b5",
             "bindings": "layouts/content-blue-050/body-red-bindings.json",
-            "bindings_sha256": "7274ffada842169e009fba5bb5ad42e23534734a19e8110254d114b7a7345b47",
+            "bindings_sha256": "5e7042575894ecad67684252af4e3f09570f98d441778bf179cffe5c7bde135b",
             "title_input": {
               "field": "text_10",
               "semantic_path": "page.title"
@@ -41352,9 +41352,9 @@
         "themes": {
           "deep-blue-tech": {
             "asset": "layouts/content-tech-016/body-deep-blue-tech.pptx",
-            "sha256": "5fdf114ebaf4423951e3b6a326d50eadc6fa92d296ee58da4900e1678965c60b",
+            "sha256": "4b88ea56aea17cc8e87f00d19b2ff606d3b878680badbafedf7a21f03a6dfe95",
             "bindings": "layouts/content-tech-016/body-deep-blue-tech-bindings.json",
-            "bindings_sha256": "2eb759610c56cc81a66d9fe0be77ee268942f70dbafcca5c7941bbc38f1b9cb8",
+            "bindings_sha256": "8d3f372c12881452d6342e8ababf9c7a857cebb252e7b1986ede88110c6c7b14",
             "title_input": {
               "field": "text_45",
               "semantic_path": "heading"

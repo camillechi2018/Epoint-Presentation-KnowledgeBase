@@ -128,6 +128,8 @@ P188 支持 8、9、12 项，每组一张汇总卡，正文总宽保持不变。
 
 ## 长文案与变项数
 
+P015、P050 和科技风 P016 的纯正文按 12 pt 下限调整，当前容量以逐主题绑定和[2026-11-23 PowerPoint 复验记录](review/body-12pt-capacity-20261123.json)为准。
+
 [正文长文案容量表](review/body-longcopy-capacity.json)覆盖 117 个正文组件、189 个蓝红科技主题版本。`physical_max_cjk_chars` 是单框实测极限，`recommended_max_cjk_chars` 是参考值；组稿优先使用更严格的 `use_for_planning_cjk_chars`，拥挤字段还须遵守 `visual_safe_max_cjk_chars`。117 个正文组件已按登记的可调用字数完成签收，见[视觉复核记录](review/body-longcopy-visual-review.md)。真实文案仍须通过行宽、行数和整页渲染。
 
 变项数只按**具体组件**的 `verified_counts` 开放。蓝红目录、科技目录各有自己的已验收范围；其他流程或清单的变项数原型，不因目录可变而自动开放。固定项数组件只接受已登记的原生数量。

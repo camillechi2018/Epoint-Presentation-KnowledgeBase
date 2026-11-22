@@ -258,7 +258,7 @@
       "shape_id": 58,
       "shape_name": "文本框 57",
       "type": "text",
-      "max_chars": 55,
+      "max_chars": 42,
       "source_sample_chars": 66,
       "source_text": "项目概述：对客户数据分析平台进行了全面升级，提升了数据处理分析能力。\n主要成果：平台数据处理速度提升了50%，使得实时分析成为可能。",
       "bounds_pt": [
@@ -276,7 +276,7 @@
       "shape_id": 60,
       "shape_name": "文本框 59",
       "type": "text",
-      "max_chars": 55,
+      "max_chars": 42,
       "source_sample_chars": 70,
       "source_text": "项目概述：启动并实施了企业数字化转型项目，包括引入新技术、改进业务流程和加强数字化培训。\n主要成果：业务流程数字化提升了整体运营效率30%。",
       "bounds_pt": [
@@ -294,7 +294,7 @@
       "shape_id": 62,
       "shape_name": "文本框 61",
       "type": "text",
-      "max_chars": 55,
+      "max_chars": 42,
       "source_sample_chars": 69,
       "source_text": "项目概述：完成供应链管理系统的整合工作，将各个环节信息系统进行了优化。\n主要成果：实现了供应链各环节的实时可视化，提升了供应链的响应速度。",
       "bounds_pt": [
@@ -312,7 +312,7 @@
       "shape_id": 64,
       "shape_name": "文本框 63",
       "type": "text",
-      "max_chars": 55,
+      "max_chars": 42,
       "source_sample_chars": 67,
       "source_text": "项目概述：对公司品牌重塑包括新品牌定位、标识设计以及传播策略的实施。\n主要成果：品牌形象得到了客户和行业的积极反馈，增强了市场竞争力。",
       "bounds_pt": [
@@ -330,7 +330,7 @@
       "shape_id": 66,
       "shape_name": "文本框 65",
       "type": "text",
-      "max_chars": 55,
+      "max_chars": 32,
       "source_sample_chars": 56,
       "source_text": "项目概述：推出了新的员工健康与福利计划，涵盖健康检查福利等方面。\n主要成果：员工对健康福利的满意度提高了35%。",
       "bounds_pt": [
@@ -366,7 +366,7 @@
       "shape_id": 6,
       "shape_name": "Rectangle 4",
       "type": "text",
-      "max_chars": 70,
+      "max_chars": 55,
       "source_sample_chars": 104,
       "source_text": "在过去的一年中，我们公司取得了显著的进展和成就。通过不断优化内部流程和引入创新技术，我们不仅提升了运营效率，还显著降低了成本。我们的客户满意度得到了显著提升，客户反馈的积极评价进一步验证了我们服务质量的改善。",
       "bounds_pt": [
