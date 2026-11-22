@@ -1647,14 +1647,14 @@
           "stages[3].funnel_title",
           "stages[0].left_title",
           "stages[0].left_body",
-          "stages[1].left_title",
-          "stages[1].left_body",
-          "stages[2].left_title",
-          "stages[2].left_body",
           "stages[0].right_title",
           "stages[0].right_body",
+          "stages[1].left_title",
+          "stages[1].left_body",
           "stages[1].right_title",
           "stages[1].right_body",
+          "stages[2].left_title",
+          "stages[2].left_body",
           "stages[2].right_title",
           "stages[2].right_body",
           "stages[3].left_title",
@@ -1662,10 +1662,66 @@
           "stages[3].right_title",
           "stages[3].right_body"
         ],
-        "access_mode": "field_complete"
+        "access_mode": "field_complete",
+        "required_binding_paths_by_count": {
+          "3": [
+            "page.title",
+            "stages[0].vertical_label",
+            "stages[1].vertical_label",
+            "stages[2].vertical_label",
+            "stages[0].funnel_title",
+            "stages[1].funnel_title",
+            "stages[2].funnel_title",
+            "stages[0].left_title",
+            "stages[0].left_body",
+            "stages[0].right_title",
+            "stages[0].right_body",
+            "stages[1].left_title",
+            "stages[1].left_body",
+            "stages[1].right_title",
+            "stages[1].right_body",
+            "stages[2].left_title",
+            "stages[2].left_body",
+            "stages[2].right_title",
+            "stages[2].right_body"
+          ],
+          "4": [
+            "page.title",
+            "stages[0].vertical_label",
+            "stages[1].vertical_label",
+            "stages[2].vertical_label",
+            "stages[3].vertical_label",
+            "stages[0].funnel_title",
+            "stages[1].funnel_title",
+            "stages[2].funnel_title",
+            "stages[3].funnel_title",
+            "stages[0].left_title",
+            "stages[0].left_body",
+            "stages[0].right_title",
+            "stages[0].right_body",
+            "stages[1].left_title",
+            "stages[1].left_body",
+            "stages[1].right_title",
+            "stages[1].right_body",
+            "stages[2].left_title",
+            "stages[2].left_body",
+            "stages[2].right_title",
+            "stages[2].right_body",
+            "stages[3].left_title",
+            "stages[3].left_body",
+            "stages[3].right_title",
+            "stages[3].right_body"
+          ]
+        }
       },
       "structure_review_status": "verified_blue_red_fixed_count_short_copy",
-      "header_validation_status": "excluded_skill_managed"
+      "header_validation_status": "excluded_skill_managed",
+      "bindings_by_count": {
+        "3": {
+          "blue": "layouts/content-blue-035/bindings-3-blue.json",
+          "red": "layouts/content-blue-035/bindings-3-red.json"
+        }
+      }
     },
     {
       "id": "content-blue-036",
@@ -2848,10 +2904,55 @@
           "items[4].body",
           "items[4].title"
         ],
-        "access_mode": "field_complete"
+        "access_mode": "field_complete",
+        "required_binding_paths_by_count": {
+          "4": [
+            "page.title",
+            "items[0].number",
+            "items[2].number",
+            "items[1].number",
+            "items[3].number",
+            "diagram.title",
+            "diagram.subtitle",
+            "items[0].body",
+            "items[0].title",
+            "items[1].body",
+            "items[1].title",
+            "items[2].body",
+            "items[2].title",
+            "items[3].body",
+            "items[3].title"
+          ],
+          "5": [
+            "page.title",
+            "items[0].number",
+            "items[2].number",
+            "items[1].number",
+            "items[3].number",
+            "items[4].number",
+            "diagram.title",
+            "diagram.subtitle",
+            "items[0].body",
+            "items[0].title",
+            "items[1].body",
+            "items[1].title",
+            "items[2].body",
+            "items[2].title",
+            "items[3].body",
+            "items[3].title",
+            "items[4].body",
+            "items[4].title"
+          ]
+        }
       },
       "structure_review_status": "verified_blue_red_fixed_count_short_copy",
-      "header_validation_status": "excluded_skill_managed"
+      "header_validation_status": "excluded_skill_managed",
+      "bindings_by_count": {
+        "4": {
+          "blue": "layouts/content-blue-057/bindings-4-blue.json",
+          "red": "layouts/content-blue-057/bindings-4-red.json"
+        }
+      }
     },
     {
       "id": "content-blue-058",
@@ -6727,10 +6828,79 @@
           "phases[1].bottom_title",
           "phases[2].bottom_title"
         ],
-        "access_mode": "field_complete"
+        "access_mode": "field_complete",
+        "required_binding_paths_by_count": {
+          "2": [
+            "page.title",
+            "phases[0].top_title",
+            "phases[0].stage_title",
+            "phases[1].stage_title",
+            "phases[0].steps[0].title",
+            "phases[0].steps[0].body",
+            "phases[0].steps[1].title",
+            "phases[0].steps[1].body",
+            "phases[1].steps[0].title",
+            "phases[1].steps[0].body",
+            "phases[1].steps[1].title",
+            "phases[1].steps[1].body",
+            "phases[0].steps[2].title",
+            "phases[0].steps[2].body",
+            "phases[0].steps[3].title",
+            "phases[0].steps[3].body",
+            "phases[1].steps[2].title",
+            "phases[1].steps[2].body",
+            "phases[1].steps[3].title",
+            "phases[1].steps[3].body",
+            "phases[1].top_title",
+            "phases[0].bottom_title",
+            "phases[1].bottom_title"
+          ],
+          "3": [
+            "page.title",
+            "phases[0].top_title",
+            "phases[0].stage_title",
+            "phases[1].stage_title",
+            "phases[2].stage_title",
+            "phases[0].steps[0].title",
+            "phases[0].steps[0].body",
+            "phases[0].steps[1].title",
+            "phases[0].steps[1].body",
+            "phases[1].steps[0].title",
+            "phases[1].steps[0].body",
+            "phases[1].steps[1].title",
+            "phases[1].steps[1].body",
+            "phases[2].steps[0].title",
+            "phases[2].steps[0].body",
+            "phases[2].steps[1].title",
+            "phases[2].steps[1].body",
+            "phases[0].steps[2].title",
+            "phases[0].steps[2].body",
+            "phases[0].steps[3].title",
+            "phases[0].steps[3].body",
+            "phases[1].steps[2].title",
+            "phases[1].steps[2].body",
+            "phases[1].steps[3].title",
+            "phases[1].steps[3].body",
+            "phases[2].steps[2].title",
+            "phases[2].steps[2].body",
+            "phases[2].steps[3].title",
+            "phases[2].steps[3].body",
+            "phases[1].top_title",
+            "phases[2].top_title",
+            "phases[0].bottom_title",
+            "phases[1].bottom_title",
+            "phases[2].bottom_title"
+          ]
+        }
       },
       "structure_review_status": "verified_blue_red_fixed_count_short_copy",
-      "header_validation_status": "excluded_skill_managed"
+      "header_validation_status": "excluded_skill_managed",
+      "bindings_by_count": {
+        "2": {
+          "blue": "layouts/content-blue-118/bindings-2-blue.json",
+          "red": "layouts/content-blue-118/bindings-2-red.json"
+        }
+      }
     },
     {
       "id": "content-blue-119",

@@ -1,0 +1,103 @@
+{
+  "verified_counts": {
+    "content-blue-035": [
+      3,
+      4
+    ],
+    "content-blue-057": [
+      4,
+      5
+    ],
+    "content-blue-118": [
+      2,
+      3
+    ]
+  },
+  "themes": [
+    "blue",
+    "red"
+  ],
+  "regular_cases": 12,
+  "capacity_cases": 12,
+  "powerpoint_passed": 24,
+  "text_overflows": 0,
+  "fixed_body_span": true,
+  "body_span_emu": {
+    "content-blue-035": {
+      "left_emu": 561372,
+      "width_emu": 11111628
+    },
+    "content-blue-057": {
+      "left_emu": 285135,
+      "width_emu": 11358225
+    },
+    "content-blue-118": {
+      "left_emu": 227075,
+      "width_emu": 11737849
+    }
+  },
+  "capacities": {
+    "content-blue-035": {
+      "3": {
+        "funnel_title": [
+          6,
+          6,
+          3
+        ],
+        "left_title": 10,
+        "right_title": 10,
+        "left_body": 32,
+        "right_body": 32
+      },
+      "4": {
+        "funnel_title": [
+          5,
+          5,
+          4,
+          2
+        ],
+        "left_title": 8,
+        "right_title": 8,
+        "left_body": 22,
+        "right_body": 22
+      }
+    },
+    "content-blue-057": {
+      "4": {
+        "title": 11,
+        "body": 90,
+        "number": 2,
+        "diagram.title": 7,
+        "diagram.subtitle": 12
+      },
+      "5": {
+        "title": 11,
+        "body": 64,
+        "number": 2,
+        "diagram.title": 7,
+        "diagram.subtitle": 12
+      }
+    },
+    "content-blue-118": {
+      "2": {
+        "top_title": 12,
+        "bottom_title": 12,
+        "stage_title": 14,
+        "title": 10,
+        "body": 56
+      },
+      "3": {
+        "top_title": 9,
+        "bottom_title": 9,
+        "stage_title": 10,
+        "title": 7,
+        "body": 36
+      }
+    }
+  },
+  "p035_vertical_label": {
+    "lines": 4,
+    "chars_per_line": 1
+  },
+  "required_skill_commit": "ca780f5133ae3f7ebb8ba9c341ede04093c1e09f"
+}
