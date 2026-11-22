@@ -1,0 +1,390 @@
+{
+  "scope": "role reclassification only",
+  "counts": {
+    "closing": 1,
+    "directory": 4,
+    "cover": 1,
+    "section": 23
+  },
+  "entries": [
+    {
+      "id": "content-blue-077",
+      "role": "closing",
+      "basis": "居中“感谢大家的观看 / THANK YOU”，底部是联系及汇报信息",
+      "themes": {
+        "blue": {
+          "source": "sources/blue.pptx",
+          "page": 77
+        },
+        "red": {
+          "source": "sources/red.pptx",
+          "page": 77
+        }
+      }
+    },
+    {
+      "id": "content-blue-078",
+      "role": "directory",
+      "basis": "01–06 六个全稿章节入口，同一页集中展示",
+      "themes": {
+        "blue": {
+          "source": "sources/blue.pptx",
+          "page": 78
+        },
+        "red": {
+          "source": "sources/red.pptx",
+          "page": 78
+        }
+      }
+    },
+    {
+      "id": "content-blue-163",
+      "role": "cover",
+      "basis": "整套述职主标题、副题、汇报人及时间",
+      "themes": {
+        "blue": {
+          "source": "sources/blue.pptx",
+          "page": 163
+        },
+        "red": {
+          "source": "sources/red.pptx",
+          "page": 163
+        }
+      }
+    },
+    {
+      "id": "content-blue-164",
+      "role": "directory",
+      "basis": "CONTENT 和 01–06 六个章节卡片",
+      "themes": {
+        "blue": {
+          "source": "sources/blue.pptx",
+          "page": 164
+        }
+      }
+    },
+    {
+      "id": "content-blue-295",
+      "role": "directory",
+      "basis": "左栏“目录 / CONTENTS”，右侧 01–08 章节名及概要",
+      "themes": {
+        "blue": {
+          "source": "sources/blue.pptx",
+          "page": 295
+        },
+        "red": {
+          "source": "sources/red.pptx",
+          "page": 296
+        }
+      }
+    },
+    {
+      "id": "content-red-164",
+      "role": "directory",
+      "basis": "红版 CONTENT 和 01–06 六个章节卡片",
+      "themes": {
+        "red": {
+          "source": "sources/red.pptx",
+          "page": 164
+        }
+      }
+    },
+    {
+      "id": "content-blue-008",
+      "role": "section",
+      "basis": "PART.2“工作成果展示”，只有章号及转场标题",
+      "themes": {
+        "blue": {
+          "source": "sources/blue.pptx",
+          "page": 8
+        },
+        "red": {
+          "source": "sources/red.pptx",
+          "page": 8
+        }
+      }
+    },
+    {
+      "id": "content-blue-042",
+      "role": "section",
+      "basis": "PART.3“不足与改进”，只有章号及转场标题",
+      "themes": {
+        "blue": {
+          "source": "sources/blue.pptx",
+          "page": 42
+        },
+        "red": {
+          "source": "sources/red.pptx",
+          "page": 42
+        }
+      }
+    },
+    {
+      "id": "content-blue-051",
+      "role": "section",
+      "basis": "PART.4“学习与成长”，只有章号及转场标题",
+      "themes": {
+        "blue": {
+          "source": "sources/blue.pptx",
+          "page": 51
+        },
+        "red": {
+          "source": "sources/red.pptx",
+          "page": 51
+        }
+      }
+    },
+    {
+      "id": "content-blue-061",
+      "role": "section",
+      "basis": "PART.5“明年工作计划”，只有章号及转场标题",
+      "themes": {
+        "blue": {
+          "source": "sources/blue.pptx",
+          "page": 61
+        },
+        "red": {
+          "source": "sources/red.pptx",
+          "page": 61
+        }
+      }
+    },
+    {
+      "id": "content-blue-075",
+      "role": "section",
+      "basis": "PART.6“感谢与展望”，大章号 6 和转场标题构成章节开场",
+      "themes": {
+        "blue": {
+          "source": "sources/blue.pptx",
+          "page": 75
+        },
+        "red": {
+          "source": "sources/red.pptx",
+          "page": 75
+        }
+      }
+    },
+    {
+      "id": "content-blue-079",
+      "role": "section",
+      "basis": "大章号 1“目标回顾”，没有论述或数据区",
+      "themes": {
+        "blue": {
+          "source": "sources/blue.pptx",
+          "page": 79
+        },
+        "red": {
+          "source": "sources/red.pptx",
+          "page": 79
+        }
+      }
+    },
+    {
+      "id": "content-blue-103",
+      "role": "section",
+      "basis": "大章号 2“工作成果展示”，没有论述或数据区",
+      "themes": {
+        "blue": {
+          "source": "sources/blue.pptx",
+          "page": 103
+        },
+        "red": {
+          "source": "sources/red.pptx",
+          "page": 103
+        }
+      }
+    },
+    {
+      "id": "content-blue-132",
+      "role": "section",
+      "basis": "大章号 3“不足与改进”，没有论述或数据区",
+      "themes": {
+        "blue": {
+          "source": "sources/blue.pptx",
+          "page": 132
+        },
+        "red": {
+          "source": "sources/red.pptx",
+          "page": 132
+        }
+      }
+    },
+    {
+      "id": "content-blue-141",
+      "role": "section",
+      "basis": "大章号 4“学习与成长”，没有论述或数据区",
+      "themes": {
+        "blue": {
+          "source": "sources/blue.pptx",
+          "page": 141
+        },
+        "red": {
+          "source": "sources/red.pptx",
+          "page": 141
+        }
+      }
+    },
+    {
+      "id": "content-blue-154",
+      "role": "section",
+      "basis": "大章号 5“工作计划”，没有论述或数据区",
+      "themes": {
+        "blue": {
+          "source": "sources/blue.pptx",
+          "page": 154
+        },
+        "red": {
+          "source": "sources/red.pptx",
+          "page": 154
+        }
+      }
+    },
+    {
+      "id": "content-blue-162",
+      "role": "section",
+      "basis": "大章号 6“感谢与展望”，与前 5 张为同系列章节页",
+      "themes": {
+        "blue": {
+          "source": "sources/blue.pptx",
+          "page": 162
+        },
+        "red": {
+          "source": "sources/red.pptx",
+          "page": 162
+        }
+      }
+    },
+    {
+      "id": "content-blue-165",
+      "role": "section",
+      "basis": "PART ONE“岗位认知”，章号 01 与章节主题",
+      "themes": {
+        "blue": {
+          "source": "sources/blue.pptx",
+          "page": 165
+        }
+      }
+    },
+    {
+      "id": "content-blue-168",
+      "role": "section",
+      "basis": "PART TWO“业绩回顾”，章号 02 与章节主题",
+      "themes": {
+        "blue": {
+          "source": "sources/blue.pptx",
+          "page": 168
+        }
+      }
+    },
+    {
+      "id": "content-blue-171",
+      "role": "section",
+      "basis": "PART THREE“成果展示”，章号 03 与章节主题",
+      "themes": {
+        "blue": {
+          "source": "sources/blue.pptx",
+          "page": 171
+        }
+      }
+    },
+    {
+      "id": "content-blue-178",
+      "role": "section",
+      "basis": "PART FOUR“核心能力”，章号 04 与章节主题",
+      "themes": {
+        "blue": {
+          "source": "sources/blue.pptx",
+          "page": 178
+        }
+      }
+    },
+    {
+      "id": "content-blue-183",
+      "role": "section",
+      "basis": "章号 05“战略规划”，整页为章节标识，英文 PART 字样沿用 04",
+      "themes": {
+        "blue": {
+          "source": "sources/blue.pptx",
+          "page": 183
+        }
+      }
+    },
+    {
+      "id": "content-blue-189",
+      "role": "section",
+      "basis": "章号 06“职业规划”，整页为章节标识，英文 PART 字样沿用 04",
+      "themes": {
+        "blue": {
+          "source": "sources/blue.pptx",
+          "page": 189
+        }
+      }
+    },
+    {
+      "id": "content-red-165",
+      "role": "section",
+      "basis": "红版章号 01“岗位认知”",
+      "themes": {
+        "red": {
+          "source": "sources/red.pptx",
+          "page": 165
+        }
+      }
+    },
+    {
+      "id": "content-red-168",
+      "role": "section",
+      "basis": "红版章号 02“业绩回顾”",
+      "themes": {
+        "red": {
+          "source": "sources/red.pptx",
+          "page": 168
+        }
+      }
+    },
+    {
+      "id": "content-red-171",
+      "role": "section",
+      "basis": "红版章号 03“成果展示”",
+      "themes": {
+        "red": {
+          "source": "sources/red.pptx",
+          "page": 171
+        }
+      }
+    },
+    {
+      "id": "content-red-178",
+      "role": "section",
+      "basis": "红版章号 04“核心能力”",
+      "themes": {
+        "red": {
+          "source": "sources/red.pptx",
+          "page": 178
+        }
+      }
+    },
+    {
+      "id": "content-red-183",
+      "role": "section",
+      "basis": "红版章号 05“战略规划”，英文 PART 字样沿用 04",
+      "themes": {
+        "red": {
+          "source": "sources/red.pptx",
+          "page": 183
+        }
+      }
+    },
+    {
+      "id": "content-red-189",
+      "role": "section",
+      "basis": "红版章号 06“职业规划”，英文 PART 字样沿用 04",
+      "themes": {
+        "red": {
+          "source": "sources/red.pptx",
+          "page": 189
+        }
+      }
+    }
+  ]
+}
