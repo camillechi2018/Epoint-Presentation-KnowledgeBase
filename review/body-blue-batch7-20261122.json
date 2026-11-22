@@ -1,0 +1,137 @@
+{
+  "layouts": {
+    "content-blue-044": {
+      "structure": "comparison",
+      "verified_counts": [
+        4,
+        6
+      ],
+      "body_bounds_emu": [
+        547291,
+        11655955
+      ],
+      "fixed_capacity": {
+        "center.left": [
+          2,
+          2
+        ],
+        "center.right": [
+          2,
+          2
+        ],
+        "center.labels[0].text": 4,
+        "center.labels[1].text": 4,
+        "center.labels[2].text": 4,
+        "center.labels[3].text": 4,
+        "center.labels[4].text": 4,
+        "center.labels[5].text": 4,
+        "center.quadrants[0].text": 2,
+        "center.quadrants[1].text": 2,
+        "center.quadrants[2].text": 2,
+        "center.quadrants[3].text": 2
+      },
+      "capacities": {
+        "4": {
+          "left_title": 10,
+          "left_body": [
+            38,
+            38
+          ],
+          "right_title": 10,
+          "right_body": [
+            38,
+            38
+          ]
+        },
+        "6": {
+          "left_title": 10,
+          "left_body": [
+            26,
+            26
+          ],
+          "right_title": 10,
+          "right_body": [
+            26,
+            26
+          ]
+        }
+      }
+    },
+    "content-blue-063": {
+      "structure": "timeline",
+      "verified_counts": [
+        6,
+        8
+      ],
+      "body_bounds_emu": [
+        548640,
+        11661103
+      ],
+      "fixed_capacity": {},
+      "capacities": {
+        "6": {
+          "title": 10,
+          "body": 55,
+          "marker": 5
+        },
+        "8": {
+          "title": 6,
+          "body": 36,
+          "marker": 5
+        }
+      }
+    },
+    "content-blue-134": {
+      "structure": "comparison",
+      "verified_counts": [
+        6,
+        8
+      ],
+      "body_bounds_emu": [
+        552450,
+        11639549
+      ],
+      "fixed_capacity": {
+        "center.spine": 10,
+        "center.left": [
+          4,
+          4
+        ],
+        "center.right": [
+          4,
+          4
+        ],
+        "center.left_footer": 6,
+        "center.right_footer": 6,
+        "center.labels[0].text": 3,
+        "center.labels[1].text": 3,
+        "center.labels[2].text": 3,
+        "center.labels[3].text": 3,
+        "center.labels[4].text": 3,
+        "center.labels[5].text": 3
+      },
+      "capacities": {
+        "6": {
+          "left_title": 9,
+          "left_body": 54,
+          "right_title": 9,
+          "right_body": 54
+        },
+        "8": {
+          "left_title": 9,
+          "left_body": 34,
+          "right_title": 9,
+          "right_body": 34
+        }
+      }
+    }
+  },
+  "themes": [
+    "blue",
+    "red"
+  ],
+  "powerpoint_passed": 24,
+  "text_overflows": 0,
+  "fixed_body_span": true,
+  "required_skill_commit": "a73a203cf210540414419e6f2e2425c167ab150d"
+}
