@@ -1,0 +1,440 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "TextBox 6",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 10,
+      "source_text": "5,250,000元",
+      "bounds_pt": [
+        62.2,
+        158.4,
+        173.6,
+        36.4
+      ],
+      "semantic_path": "quarters[0].value",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 11
+    },
+    {
+      "field": "text_88",
+      "shape_id": 88,
+      "shape_name": "文本框 87",
+      "type": "text",
+      "max_chars": 7,
+      "source_sample_chars": 7,
+      "source_text": "第一季度营业额",
+      "bounds_pt": [
+        62.2,
+        195.4,
+        111.7,
+        24.2
+      ],
+      "semantic_path": "quarters[0].label",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 12
+    },
+    {
+      "field": "text_91",
+      "shape_id": 91,
+      "shape_name": "TextBox 6",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 10,
+      "source_text": "6,402,000元",
+      "bounds_pt": [
+        283.6,
+        158.4,
+        173.6,
+        36.4
+      ],
+      "semantic_path": "quarters[1].value",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 11
+    },
+    {
+      "field": "text_94",
+      "shape_id": 94,
+      "shape_name": "文本框 93",
+      "type": "text",
+      "max_chars": 7,
+      "source_sample_chars": 7,
+      "source_text": "第二季度营业额",
+      "bounds_pt": [
+        283.6,
+        195.4,
+        111.4,
+        24.2
+      ],
+      "semantic_path": "quarters[1].label",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 12
+    },
+    {
+      "field": "text_99",
+      "shape_id": 99,
+      "shape_name": "TextBox 6",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 10,
+      "source_text": "5,880,000元",
+      "bounds_pt": [
+        505.0,
+        158.4,
+        173.6,
+        36.4
+      ],
+      "semantic_path": "quarters[2].value",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 11
+    },
+    {
+      "field": "text_102",
+      "shape_id": 102,
+      "shape_name": "文本框 101",
+      "type": "text",
+      "max_chars": 7,
+      "source_sample_chars": 7,
+      "source_text": "第三季度营业额",
+      "bounds_pt": [
+        505.0,
+        195.4,
+        111.7,
+        24.2
+      ],
+      "semantic_path": "quarters[2].label",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 12
+    },
+    {
+      "field": "text_107",
+      "shape_id": 107,
+      "shape_name": "TextBox 6",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 10,
+      "source_text": "7,418,000元",
+      "bounds_pt": [
+        726.4,
+        158.4,
+        173.6,
+        36.4
+      ],
+      "semantic_path": "quarters[3].value",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 11
+    },
+    {
+      "field": "text_110",
+      "shape_id": 110,
+      "shape_name": "文本框 109",
+      "type": "text",
+      "max_chars": 7,
+      "source_sample_chars": 7,
+      "source_text": "第四季度营业额",
+      "bounds_pt": [
+        726.4,
+        195.4,
+        111.7,
+        24.2
+      ],
+      "semantic_path": "quarters[3].label",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 12
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "TextBox 57",
+      "type": "text",
+      "max_chars": 3,
+      "source_sample_chars": 3,
+      "source_text": "80%",
+      "bounds_pt": [
+        87.8,
+        288.9,
+        37.0,
+        13.4
+      ],
+      "semantic_path": "rates[0].value",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 3
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "文本框 61",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "市场增长率",
+      "bounds_pt": [
+        167.3,
+        271.5,
+        105.4,
+        29.1
+      ],
+      "semantic_path": "rates[0].title",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 10
+    },
+    {
+      "field": "text_65",
+      "shape_id": 65,
+      "shape_name": "文本框 64",
+      "type": "text",
+      "max_chars": 12,
+      "source_sample_chars": 13,
+      "source_text": "Market growth",
+      "bounds_pt": [
+        167.3,
+        299.3,
+        105.4,
+        19.4
+      ],
+      "semantic_path": "rates[0].english",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 6
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "TextBox 60",
+      "type": "text",
+      "max_chars": 3,
+      "source_sample_chars": 3,
+      "source_text": "60%",
+      "bounds_pt": [
+        87.3,
+        375.6,
+        37.0,
+        13.4
+      ],
+      "semantic_path": "rates[1].value",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 3
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "文本框 62",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "利润增长率",
+      "bounds_pt": [
+        167.9,
+        358.6,
+        104.2,
+        29.1
+      ],
+      "semantic_path": "rates[1].title",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 10
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "文本框 65",
+      "type": "text",
+      "max_chars": 13,
+      "source_sample_chars": 13,
+      "source_text": "Profit growth",
+      "bounds_pt": [
+        167.3,
+        385.7,
+        105.4,
+        19.4
+      ],
+      "semantic_path": "rates[1].english",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 7
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "TextBox 69",
+      "type": "text",
+      "max_chars": 3,
+      "source_sample_chars": 3,
+      "source_text": "40%",
+      "bounds_pt": [
+        87.8,
+        463.3,
+        37.0,
+        13.4
+      ],
+      "semantic_path": "rates[2].value",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 3
+    },
+    {
+      "field": "text_64",
+      "shape_id": 64,
+      "shape_name": "文本框 63",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "成本降低率",
+      "bounds_pt": [
+        167.9,
+        446.6,
+        104.2,
+        29.1
+      ],
+      "semantic_path": "rates[2].title",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 10
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "文本框 66",
+      "type": "text",
+      "max_chars": 14,
+      "source_sample_chars": 14,
+      "source_text": "Cost reduction",
+      "bounds_pt": [
+        167.3,
+        473.9,
+        105.4,
+        19.4
+      ],
+      "semantic_path": "rates[2].english",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 9
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "业绩数据统计",
+      "bounds_pt": [
+        365.4,
+        272.7,
+        97.8,
+        24.2
+      ],
+      "semantic_path": "revenue.caption",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 10
+    },
+    {
+      "field": "text_117",
+      "shape_id": 117,
+      "shape_name": "文本框 116",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "2890000元",
+      "bounds_pt": [
+        780.1,
+        397.6,
+        95.8,
+        26.7
+      ],
+      "semantic_path": "revenue.last_month",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 9
+    }
+  ],
+  "objects": {
+    "charts": [
+      {
+        "shape_id": 30,
+        "shape_name": "Chart 55",
+        "categories_max": 2,
+        "series_max": 1,
+        "series_min": 1,
+        "series_name_max_chars": 6,
+        "category_counts": [
+          2
+        ],
+        "category_max_chars": 2
+      },
+      {
+        "shape_id": 35,
+        "shape_name": "Chart 58",
+        "categories_max": 2,
+        "series_max": 1,
+        "series_min": 1,
+        "series_name_max_chars": 6,
+        "category_counts": [
+          2
+        ],
+        "category_max_chars": 2
+      },
+      {
+        "shape_id": 40,
+        "shape_name": "Chart 67",
+        "categories_max": 2,
+        "series_max": 1,
+        "series_min": 1,
+        "series_name_max_chars": 6,
+        "category_counts": [
+          2
+        ],
+        "category_max_chars": 2
+      },
+      {
+        "shape_id": 46,
+        "shape_name": "Chart 85",
+        "categories_max": 12,
+        "series_max": 1,
+        "series_min": 1,
+        "series_name_max_chars": 6,
+        "category_counts": [
+          12
+        ],
+        "category_max_chars": 3
+      }
+    ],
+    "tables": [],
+    "images": []
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

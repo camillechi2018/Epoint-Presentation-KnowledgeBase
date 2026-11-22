@@ -19991,12 +19991,12 @@
       "version": "1.0.0-draft",
       "collection": "new-template-content",
       "role": "data-chart",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
+      "information_relation": "comparison",
+      "classification_status": "verified",
       "family_id": "data-chart-170",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
-      "bindings": "layouts/content-blue-170/bindings.json",
+      "bindings": "layouts/content-blue-170/candidate-blue-bindings.json",
       "spec": "layouts/content-blue-170/spec.md",
       "layout_rules": "layouts/content-blue-170/layout_rules.json",
       "motion": "layouts/content-blue-170/motion.json",
@@ -20024,9 +20024,99 @@
       "source_logo_shape_id": 23,
       "source_logo_asset_sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
       "red_source_logo_shape_id": 11,
-      "red_bindings": "layouts/content-blue-170/bindings-red.json",
+      "red_bindings": "layouts/content-blue-170/candidate-red-bindings.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 170
+      "red_source_page": 170,
+      "canonical_relation": "comparison",
+      "pptx_support": "verified_static_body_draft",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "search_label": "四季度服务收入回顾",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "comparison",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "page.title",
+          "quarters[0].period",
+          "quarters[0].metric",
+          "quarters[0].total",
+          "quarters[0].unit",
+          "quarters[0].summary_title",
+          "quarters[0].note",
+          "quarters[1].period",
+          "quarters[1].metric",
+          "quarters[1].total",
+          "quarters[1].unit",
+          "quarters[1].summary_title",
+          "quarters[1].note",
+          "quarters[2].period",
+          "quarters[2].metric",
+          "quarters[2].total",
+          "quarters[2].unit",
+          "quarters[2].summary_title",
+          "quarters[2].note",
+          "quarters[3].period",
+          "quarters[3].metric",
+          "quarters[3].total",
+          "quarters[3].unit",
+          "quarters[3].summary_title",
+          "quarters[3].note"
+        ],
+        "access_mode": "field_complete"
+      },
+      "body_component_contract": {
+        "version": 2,
+        "themes": {
+          "blue": {
+            "asset": "layouts/content-blue-170/body-blue.pptx",
+            "sha256": "559b681bd83a09bf5459bf42ef9da40d3c6f08cd48c6914592ed1bb6815c19c0",
+            "bindings": "layouts/content-blue-170/body-blue-bindings.json",
+            "bindings_sha256": "560876ee84289734a8ec5ba103142b91964fb4ce841c94b9af851539217f787c",
+            "title_input": {
+              "field": "text_10",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              10,
+              12,
+              23
+            ],
+            "source": {
+              "source": "sources/blue.pptx",
+              "page": 170,
+              "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+            }
+          },
+          "red": {
+            "asset": "layouts/content-blue-170/body-red.pptx",
+            "sha256": "7d6c54706c2a320186b199f2d3551578e697b9630e4746a875fe1d5afef7d8a9",
+            "bindings": "layouts/content-blue-170/body-red-bindings.json",
+            "bindings_sha256": "a979999bd616129989fb85256ae0a51c522902d3e1958990a234d839ae3dce94",
+            "title_input": {
+              "field": "text_10",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              10,
+              11,
+              12
+            ],
+            "source": {
+              "source": "sources/red.pptx",
+              "page": 170,
+              "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+            }
+          }
+        }
+      },
+      "original_bindings_by_theme": {
+        "blue": "layouts/content-blue-170/bindings.json",
+        "red": "layouts/content-blue-170/bindings-red.json"
+      }
     },
     {
       "id": "content-blue-171",
@@ -32750,12 +32840,12 @@
       "version": "1.0.0-draft",
       "collection": "new-template-content",
       "role": "data-chart",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
+      "information_relation": "comparison",
+      "classification_status": "verified",
       "family_id": "data-chart-278",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
-      "bindings": "layouts/content-blue-278/bindings.json",
+      "bindings": "layouts/content-blue-278/candidate-blue-bindings.json",
       "spec": "layouts/content-blue-278/spec.md",
       "layout_rules": "layouts/content-blue-278/layout_rules.json",
       "motion": "layouts/content-blue-278/motion.json",
@@ -32783,9 +32873,79 @@
       "source_logo_shape_id": 12,
       "source_logo_asset_sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
       "red_source_logo_shape_id": 3,
-      "red_bindings": "layouts/content-blue-278/bindings-red.json",
+      "red_bindings": "layouts/content-blue-278/candidate-red-bindings.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 279
+      "red_source_page": 279,
+      "canonical_relation": "comparison",
+      "pptx_support": "verified_static_body_draft",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "search_label": "年度各季服务收入",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "comparison",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "page.title",
+          "halves[0].heading",
+          "halves[1].heading",
+          "halves[0].description",
+          "halves[1].description"
+        ],
+        "access_mode": "field_complete"
+      },
+      "body_component_contract": {
+        "version": 2,
+        "themes": {
+          "blue": {
+            "asset": "layouts/content-blue-278/body-blue.pptx",
+            "sha256": "1287c2a96c99bda31ae4f58cd2e650fb2cfa1ad397cee8ddc80776d4301983ee",
+            "bindings": "layouts/content-blue-278/body-blue-bindings.json",
+            "bindings_sha256": "929f10a151c59c9b230e4c26ebabb875fb1b51d900aaa2729849997145598362",
+            "title_input": {
+              "field": "text_2",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              2,
+              4,
+              12
+            ],
+            "source": {
+              "source": "sources/blue.pptx",
+              "page": 278,
+              "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+            }
+          },
+          "red": {
+            "asset": "layouts/content-blue-278/body-red.pptx",
+            "sha256": "61c23d45548e2b241248b95131622a5e085b2af4cfca3074c0073c25b7ac55d9",
+            "bindings": "layouts/content-blue-278/body-red-bindings.json",
+            "bindings_sha256": "84a8b5a631a3cf1e9b16b79eca9548cbbfaeb442f2a87ee2c9e830c1455cf537",
+            "title_input": {
+              "field": "text_2",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              2,
+              3,
+              4
+            ],
+            "source": {
+              "source": "sources/red.pptx",
+              "page": 279,
+              "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+            }
+          }
+        }
+      },
+      "original_bindings_by_theme": {
+        "blue": "layouts/content-blue-278/bindings.json",
+        "red": "layouts/content-blue-278/bindings-red.json"
+      }
     },
     {
       "id": "content-blue-279",
@@ -32892,12 +33052,12 @@
       "version": "1.0.0-draft",
       "collection": "new-template-content",
       "role": "data-chart",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
+      "information_relation": "trend",
+      "classification_status": "verified",
       "family_id": "data-chart-280",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
-      "bindings": "layouts/content-blue-280/bindings.json",
+      "bindings": "layouts/content-blue-280/candidate-blue-bindings.json",
       "spec": "layouts/content-blue-280/spec.md",
       "layout_rules": "layouts/content-blue-280/layout_rules.json",
       "motion": "layouts/content-blue-280/motion.json",
@@ -32925,9 +33085,94 @@
       "source_logo_shape_id": 5,
       "source_logo_asset_sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
       "red_source_logo_shape_id": 11,
-      "red_bindings": "layouts/content-blue-280/bindings-red.json",
+      "red_bindings": "layouts/content-blue-280/candidate-red-bindings.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 281
+      "red_source_page": 281,
+      "canonical_relation": "trend",
+      "pptx_support": "verified_static_body_draft",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "search_label": "年度收入与办理成效",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "trend",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "page.title",
+          "quarters[0].value",
+          "quarters[0].label",
+          "quarters[1].value",
+          "quarters[1].label",
+          "quarters[2].value",
+          "quarters[2].label",
+          "quarters[3].value",
+          "quarters[3].label",
+          "rates[0].value",
+          "rates[0].title",
+          "rates[0].english",
+          "rates[1].value",
+          "rates[1].title",
+          "rates[1].english",
+          "rates[2].value",
+          "rates[2].title",
+          "rates[2].english",
+          "revenue.caption",
+          "revenue.last_month"
+        ],
+        "access_mode": "field_complete"
+      },
+      "body_component_contract": {
+        "version": 2,
+        "themes": {
+          "blue": {
+            "asset": "layouts/content-blue-280/body-blue.pptx",
+            "sha256": "ecdc47eac58a18bb39485c6610e171888240332dd3fdf6b034e3aff2887db858",
+            "bindings": "layouts/content-blue-280/body-blue-bindings.json",
+            "bindings_sha256": "3e4d42dc5e9c59f9308d4457e6f8ad6e62499e8d1af02e18f332b619cd1201d7",
+            "title_input": {
+              "field": "text_2",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              2,
+              4,
+              5
+            ],
+            "source": {
+              "source": "sources/blue.pptx",
+              "page": 280,
+              "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+            }
+          },
+          "red": {
+            "asset": "layouts/content-blue-280/body-red.pptx",
+            "sha256": "8815a843fd00fa6d9eb3d2d5190d8191b21d6227c0414ba6ef4f000bf2d62544",
+            "bindings": "layouts/content-blue-280/body-red-bindings.json",
+            "bindings_sha256": "69ca8cb59248c96eed3b898fb4d0ba96e9817bf320eca4d738c2e9ffb03e7cb3",
+            "title_input": {
+              "field": "text_2",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              2,
+              4,
+              11
+            ],
+            "source": {
+              "source": "sources/red.pptx",
+              "page": 281,
+              "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+            }
+          }
+        }
+      },
+      "original_bindings_by_theme": {
+        "blue": "layouts/content-blue-280/bindings.json",
+        "red": "layouts/content-blue-280/bindings-red.json"
+      }
     },
     {
       "id": "content-blue-281",
@@ -33102,12 +33347,12 @@
       "version": "1.0.0-draft",
       "collection": "new-template-content",
       "role": "data-chart",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
+      "information_relation": "comparison",
+      "classification_status": "verified",
       "family_id": "data-chart-285",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
-      "bindings": "layouts/content-blue-285/bindings.json",
+      "bindings": "layouts/content-blue-285/candidate-blue-bindings.json",
       "spec": "layouts/content-blue-285/spec.md",
       "layout_rules": "layouts/content-blue-285/layout_rules.json",
       "motion": "layouts/content-blue-285/motion.json",
@@ -33135,9 +33380,84 @@
       "source_logo_shape_id": 8,
       "source_logo_asset_sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
       "red_source_logo_shape_id": 11,
-      "red_bindings": "layouts/content-blue-285/bindings-red.json",
+      "red_bindings": "layouts/content-blue-285/candidate-red-bindings.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 286
+      "red_source_page": 286,
+      "canonical_relation": "comparison",
+      "pptx_support": "verified_static_body_draft",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "search_label": "三网点受理量与达成率",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "comparison",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "page.title",
+          "sites[0].label",
+          "sites[0].total",
+          "sites[0].callout",
+          "sites[1].label",
+          "sites[1].total",
+          "sites[1].callout",
+          "sites[2].label",
+          "sites[2].total",
+          "sites[2].callout"
+        ],
+        "access_mode": "field_complete"
+      },
+      "body_component_contract": {
+        "version": 2,
+        "themes": {
+          "blue": {
+            "asset": "layouts/content-blue-285/body-blue.pptx",
+            "sha256": "ccdd5f1ba9ca760c074112bb794ad3ace9a1a518e08c26376ee67e450da4d0ef",
+            "bindings": "layouts/content-blue-285/body-blue-bindings.json",
+            "bindings_sha256": "4679b4d4239d5d5d91136e6a5dc7b3d9e6692da4e40924659bfefe6e23f775f3",
+            "title_input": {
+              "field": "text_2",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              2,
+              4,
+              8
+            ],
+            "source": {
+              "source": "sources/blue.pptx",
+              "page": 285,
+              "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+            }
+          },
+          "red": {
+            "asset": "layouts/content-blue-285/body-red.pptx",
+            "sha256": "746daea0443d249c0b49322577be91c6ceb99909c91ac519215fd8ffb09719fa",
+            "bindings": "layouts/content-blue-285/body-red-bindings.json",
+            "bindings_sha256": "a301d8d8664eed76b90dcb67740f8bc5f21a54cdc202e43847d42b18be0e4f18",
+            "title_input": {
+              "field": "text_2",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              2,
+              4,
+              11
+            ],
+            "source": {
+              "source": "sources/red.pptx",
+              "page": 286,
+              "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+            }
+          }
+        }
+      },
+      "original_bindings_by_theme": {
+        "blue": "layouts/content-blue-285/bindings.json",
+        "red": "layouts/content-blue-285/bindings-red.json"
+      }
     },
     {
       "id": "content-blue-286",
@@ -33492,12 +33812,12 @@
       "version": "1.0.0-draft",
       "collection": "new-template-content",
       "role": "data-chart",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
+      "information_relation": "trend",
+      "classification_status": "verified",
       "family_id": "data-chart-293",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
-      "bindings": "layouts/content-blue-293/bindings.json",
+      "bindings": "layouts/content-blue-293/candidate-blue-bindings.json",
       "spec": "layouts/content-blue-293/spec.md",
       "layout_rules": "layouts/content-blue-293/layout_rules.json",
       "motion": "layouts/content-blue-293/motion.json",
@@ -33525,9 +33845,83 @@
       "source_logo_shape_id": 2,
       "source_logo_asset_sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
       "red_source_logo_shape_id": 11,
-      "red_bindings": "layouts/content-blue-293/bindings-red.json",
+      "red_bindings": "layouts/content-blue-293/candidate-red-bindings.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 294
+      "red_source_page": 294,
+      "canonical_relation": "trend",
+      "pptx_support": "verified_static_body_draft",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "search_label": "历年运营结余与成本",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "trend",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "page.title",
+          "cost.callout",
+          "chart.caption",
+          "surplus.callout",
+          "surplus.heading",
+          "chart.unit",
+          "cost.heading",
+          "surplus.note",
+          "cost.note"
+        ],
+        "access_mode": "field_complete"
+      },
+      "body_component_contract": {
+        "version": 2,
+        "themes": {
+          "blue": {
+            "asset": "layouts/content-blue-293/body-blue.pptx",
+            "sha256": "351de34c41d9a9c704c7fa799bd06d607c58155f1c7e678434a7723ddc173a27",
+            "bindings": "layouts/content-blue-293/body-blue-bindings.json",
+            "bindings_sha256": "f91612ef0aade1168d223cc6f56d673c3205e079f97db76e70ed3d9e3b83daa5",
+            "title_input": {
+              "field": "text_3",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              2,
+              3,
+              5
+            ],
+            "source": {
+              "source": "sources/blue.pptx",
+              "page": 293,
+              "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+            }
+          },
+          "red": {
+            "asset": "layouts/content-blue-293/body-red.pptx",
+            "sha256": "eb4ae16bde11f2553908d289d89c78cabfcc936c1a798d7bdb978edefbf41e7b",
+            "bindings": "layouts/content-blue-293/body-red-bindings.json",
+            "bindings_sha256": "d87becb8da4dc6f5a31a415b9174d0af025fdc42174b2f7bb4346cce4ee9f2e8",
+            "title_input": {
+              "field": "text_3",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              3,
+              5,
+              11
+            ],
+            "source": {
+              "source": "sources/red.pptx",
+              "page": 294,
+              "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+            }
+          }
+        }
+      },
+      "original_bindings_by_theme": {
+        "blue": "layouts/content-blue-293/bindings.json",
+        "red": "layouts/content-blue-293/bindings-red.json"
+      }
     },
     {
       "id": "content-blue-294",

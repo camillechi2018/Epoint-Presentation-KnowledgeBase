@@ -1,0 +1,184 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "TextBox 106",
+      "type": "text",
+      "max_chars": 3,
+      "source_sample_chars": 3,
+      "source_text": "29W",
+      "bounds_pt": [
+        203.2,
+        337.9,
+        83.5,
+        28.7
+      ],
+      "semantic_path": "cost.callout",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 3
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "文本框 8",
+      "type": "text",
+      "max_chars": 11,
+      "source_sample_chars": 11,
+      "source_text": "近7年净利润和成本数据",
+      "bounds_pt": [
+        58.8,
+        96.0,
+        204.5,
+        29.1
+      ],
+      "semantic_path": "chart.caption",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 20
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "TextBox 106",
+      "type": "text",
+      "max_chars": 3,
+      "source_sample_chars": 3,
+      "source_text": "86W",
+      "bounds_pt": [
+        202.9,
+        334.2,
+        83.5,
+        28.7
+      ],
+      "semantic_path": "surplus.callout",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 3
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "文本框 28",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 10,
+      "source_text": "近7年净利润数据分析",
+      "bounds_pt": [
+        131.8,
+        426.8,
+        187.7,
+        29.1
+      ],
+      "semantic_path": "surplus.heading",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 12
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "type": "text",
+      "max_chars": 7,
+      "source_sample_chars": 7,
+      "source_text": "（单位：万元）",
+      "bounds_pt": [
+        250.8,
+        103.0,
+        84.3,
+        19.4
+      ],
+      "semantic_path": "chart.unit",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 14
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "文本框 30",
+      "type": "text",
+      "max_chars": 9,
+      "source_sample_chars": 9,
+      "source_text": "近7年成本数据分析",
+      "bounds_pt": [
+        569.4,
+        426.8,
+        168.7,
+        29.1
+      ],
+      "semantic_path": "cost.heading",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 12
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "文本框 32",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 52,
+      "source_text": "近7年净利润整体呈现稳步增长态势，从2020年的较低水平持续攀升，至2026年达到86万元，创历史新高。",
+      "bounds_pt": [
+        126.9,
+        455.2,
+        333.6,
+        41.9
+      ],
+      "semantic_path": "surplus.note",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 50
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "文本框 33",
+      "type": "text",
+      "max_chars": 54,
+      "source_sample_chars": 60,
+      "source_text": "近7年成本总体控制在合理区间，2023年成本为29万元，在营收增长的同时实现了成本的有效控制，为利润增长提供了有力支撑。",
+      "bounds_pt": [
+        569.4,
+        455.2,
+        333.6,
+        41.9
+      ],
+      "semantic_path": "cost.note",
+      "required": true,
+      "preserve_source_text_styles": true,
+      "max_lines": 1,
+      "max_width_units": 48
+    }
+  ],
+  "objects": {
+    "charts": [
+      {
+        "shape_id": 7,
+        "shape_name": "Chart 86",
+        "series_max": 2,
+        "series_min": 2,
+        "series_name_max_chars": 6,
+        "data_mode": "xy",
+        "points_max": 7,
+        "point_counts": [
+          7
+        ]
+      }
+    ],
+    "tables": [],
+    "images": []
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

@@ -1,0 +1,275 @@
+{
+  "base": "f207aed67adce6e119d6a26fa72579d5bdff493d",
+  "entries": [
+    {
+      "id": "content-blue-170",
+      "name": "四组并列柱图与顶部数字",
+      "native_count": 4,
+      "verified_counts": [
+        4
+      ],
+      "themes": {
+        "blue": {
+          "asset": "layouts/content-blue-170/body-blue.pptx",
+          "sha256": "559b681bd83a09bf5459bf42ef9da40d3c6f08cd48c6914592ed1bb6815c19c0",
+          "bindings": "layouts/content-blue-170/body-blue-bindings.json",
+          "bindings_sha256": "560876ee84289734a8ec5ba103142b91964fb4ce841c94b9af851539217f787c",
+          "title_input": {
+            "field": "text_10",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            10,
+            12,
+            23
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 170,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-170/body-red.pptx",
+          "sha256": "7d6c54706c2a320186b199f2d3551578e697b9630e4746a875fe1d5afef7d8a9",
+          "bindings": "layouts/content-blue-170/body-red-bindings.json",
+          "bindings_sha256": "a979999bd616129989fb85256ae0a51c522902d3e1958990a234d839ae3dce94",
+          "title_input": {
+            "field": "text_10",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            10,
+            11,
+            12
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 170,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      },
+      "reference_bindings": {
+        "blue": "layouts/content-blue-170/candidate-blue-bindings.json",
+        "red": "layouts/content-blue-170/candidate-red-bindings.json"
+      }
+    },
+    {
+      "id": "content-blue-278",
+      "name": "四个季度柱图",
+      "native_count": 4,
+      "verified_counts": [
+        4
+      ],
+      "themes": {
+        "blue": {
+          "asset": "layouts/content-blue-278/body-blue.pptx",
+          "sha256": "1287c2a96c99bda31ae4f58cd2e650fb2cfa1ad397cee8ddc80776d4301983ee",
+          "bindings": "layouts/content-blue-278/body-blue-bindings.json",
+          "bindings_sha256": "929f10a151c59c9b230e4c26ebabb875fb1b51d900aaa2729849997145598362",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            4,
+            12
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 278,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-278/body-red.pptx",
+          "sha256": "61c23d45548e2b241248b95131622a5e085b2af4cfca3074c0073c25b7ac55d9",
+          "bindings": "layouts/content-blue-278/body-red-bindings.json",
+          "bindings_sha256": "84a8b5a631a3cf1e9b16b79eca9548cbbfaeb442f2a87ee2c9e830c1455cf537",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            3,
+            4
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 279,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      },
+      "reference_bindings": {
+        "blue": "layouts/content-blue-278/candidate-blue-bindings.json",
+        "red": "layouts/content-blue-278/candidate-red-bindings.json"
+      }
+    },
+    {
+      "id": "content-blue-280",
+      "name": "四个顶部指标、三环图和折线",
+      "native_count": 4,
+      "verified_counts": [
+        4
+      ],
+      "themes": {
+        "blue": {
+          "asset": "layouts/content-blue-280/body-blue.pptx",
+          "sha256": "ecdc47eac58a18bb39485c6610e171888240332dd3fdf6b034e3aff2887db858",
+          "bindings": "layouts/content-blue-280/body-blue-bindings.json",
+          "bindings_sha256": "3e4d42dc5e9c59f9308d4457e6f8ad6e62499e8d1af02e18f332b619cd1201d7",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            4,
+            5
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 280,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-280/body-red.pptx",
+          "sha256": "8815a843fd00fa6d9eb3d2d5190d8191b21d6227c0414ba6ef4f000bf2d62544",
+          "bindings": "layouts/content-blue-280/body-red-bindings.json",
+          "bindings_sha256": "69ca8cb59248c96eed3b898fb4d0ba96e9817bf320eca4d738c2e9ffb03e7cb3",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            4,
+            11
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 281,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      },
+      "reference_bindings": {
+        "blue": "layouts/content-blue-280/candidate-blue-bindings.json",
+        "red": "layouts/content-blue-280/candidate-red-bindings.json"
+      }
+    },
+    {
+      "id": "content-blue-285",
+      "name": "三组柱线图及三项关键指标",
+      "native_count": 3,
+      "verified_counts": [
+        3
+      ],
+      "themes": {
+        "blue": {
+          "asset": "layouts/content-blue-285/body-blue.pptx",
+          "sha256": "ccdd5f1ba9ca760c074112bb794ad3ace9a1a518e08c26376ee67e450da4d0ef",
+          "bindings": "layouts/content-blue-285/body-blue-bindings.json",
+          "bindings_sha256": "4679b4d4239d5d5d91136e6a5dc7b3d9e6692da4e40924659bfefe6e23f775f3",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            4,
+            8
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 285,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-285/body-red.pptx",
+          "sha256": "746daea0443d249c0b49322577be91c6ceb99909c91ac519215fd8ffb09719fa",
+          "bindings": "layouts/content-blue-285/body-red-bindings.json",
+          "bindings_sha256": "a301d8d8664eed76b90dcb67740f8bc5f21a54cdc202e43847d42b18be0e4f18",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            4,
+            11
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 286,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      },
+      "reference_bindings": {
+        "blue": "layouts/content-blue-285/candidate-blue-bindings.json",
+        "red": "layouts/content-blue-285/candidate-red-bindings.json"
+      }
+    },
+    {
+      "id": "content-blue-293",
+      "name": "双序列散点趋势加底部结论",
+      "native_count": 7,
+      "verified_counts": [
+        7
+      ],
+      "themes": {
+        "blue": {
+          "asset": "layouts/content-blue-293/body-blue.pptx",
+          "sha256": "351de34c41d9a9c704c7fa799bd06d607c58155f1c7e678434a7723ddc173a27",
+          "bindings": "layouts/content-blue-293/body-blue-bindings.json",
+          "bindings_sha256": "f91612ef0aade1168d223cc6f56d673c3205e079f97db76e70ed3d9e3b83daa5",
+          "title_input": {
+            "field": "text_3",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            3,
+            5
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 293,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-293/body-red.pptx",
+          "sha256": "eb4ae16bde11f2553908d289d89c78cabfcc936c1a798d7bdb978edefbf41e7b",
+          "bindings": "layouts/content-blue-293/body-red-bindings.json",
+          "bindings_sha256": "d87becb8da4dc6f5a31a415b9174d0af025fdc42174b2f7bb4346cce4ee9f2e8",
+          "title_input": {
+            "field": "text_3",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            3,
+            5,
+            11
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 294,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      },
+      "reference_bindings": {
+        "blue": "layouts/content-blue-293/candidate-blue-bindings.json",
+        "red": "layouts/content-blue-293/candidate-red-bindings.json"
+      }
+    }
+  ]
+}
