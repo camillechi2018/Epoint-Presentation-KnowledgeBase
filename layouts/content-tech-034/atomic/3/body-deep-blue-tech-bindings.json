@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "page.summary",
+      "semantic_path": "page.summary",
+      "shape_id": 3089,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 44,
+      "max_lines": 1,
+      "max_width_units": 89,
+      "font_size_pt": 14.0,
+      "typography_role": "chinese_body"
+    },
+    {
+      "field": "items[0].heading",
+      "semantic_path": "items[0].heading",
+      "shape_id": 116,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 10,
+      "max_lines": 1,
+      "max_width_units": 21,
+      "font_size_pt": 18.0,
+      "typography_role": "chinese_heading"
+    },
+    {
+      "field": "items[0].body",
+      "semantic_path": "items[0].body",
+      "shape_id": 117,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 55,
+      "max_lines": 4,
+      "max_width_units": 27,
+      "font_size_pt": 13.0,
+      "typography_role": "chinese_body"
+    },
+    {
+      "field": "items[1].heading",
+      "semantic_path": "items[1].heading",
+      "shape_id": 196,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 10,
+      "max_lines": 1,
+      "max_width_units": 21,
+      "font_size_pt": 18.0,
+      "typography_role": "chinese_heading"
+    },
+    {
+      "field": "items[1].body",
+      "semantic_path": "items[1].body",
+      "shape_id": 197,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 55,
+      "max_lines": 4,
+      "max_width_units": 27,
+      "font_size_pt": 13.0,
+      "typography_role": "chinese_body"
+    },
+    {
+      "field": "items[2].heading",
+      "semantic_path": "items[2].heading",
+      "shape_id": 276,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 10,
+      "max_lines": 1,
+      "max_width_units": 21,
+      "font_size_pt": 18.0,
+      "typography_role": "chinese_heading"
+    },
+    {
+      "field": "items[2].body",
+      "semantic_path": "items[2].body",
+      "shape_id": 277,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 55,
+      "max_lines": 4,
+      "max_width_units": 27,
+      "font_size_pt": 13.0,
+      "typography_role": "chinese_body"
+    }
+  ],
+  "atom_group_ids": [
+    100,
+    180,
+    260
+  ],
+  "locked_text": {}
+}

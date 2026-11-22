@@ -1,0 +1,145 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "page.summary",
+      "semantic_path": "page.summary",
+      "shape_id": 21,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 50,
+      "max_lines": 1,
+      "max_width_units": 100,
+      "font_size_pt": 14.0,
+      "typography_role": "chinese_body"
+    },
+    {
+      "field": "items[0].time",
+      "semantic_path": "items[0].time",
+      "shape_id": 22,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 8,
+      "max_lines": 1,
+      "max_width_units": 17,
+      "font_size_pt": 14.0,
+      "typography_role": "chinese_heading"
+    },
+    {
+      "field": "items[0].activity",
+      "semantic_path": "items[0].activity",
+      "shape_id": 15,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 10,
+      "max_lines": 1,
+      "max_width_units": 20,
+      "font_size_pt": 16.0,
+      "typography_role": "chinese_body"
+    },
+    {
+      "field": "items[0].owner",
+      "semantic_path": "items[0].owner",
+      "shape_id": 32,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 3,
+      "max_lines": 1,
+      "max_width_units": 6,
+      "font_size_pt": 16.0,
+      "typography_role": "chinese_heading"
+    },
+    {
+      "field": "items[1].time",
+      "semantic_path": "items[1].time",
+      "shape_id": 29,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 8,
+      "max_lines": 1,
+      "max_width_units": 17,
+      "font_size_pt": 14.0,
+      "typography_role": "chinese_heading"
+    },
+    {
+      "field": "items[1].activity",
+      "semantic_path": "items[1].activity",
+      "shape_id": 19,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 12,
+      "max_lines": 1,
+      "max_width_units": 25,
+      "font_size_pt": 13,
+      "typography_role": "chinese_body"
+    },
+    {
+      "field": "items[1].owner",
+      "semantic_path": "items[1].owner",
+      "shape_id": 36,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 3,
+      "max_lines": 1,
+      "max_width_units": 6,
+      "font_size_pt": 16,
+      "typography_role": "chinese_heading"
+    },
+    {
+      "field": "items[2].time",
+      "semantic_path": "items[2].time",
+      "shape_id": 31,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 8,
+      "max_lines": 1,
+      "max_width_units": 17,
+      "font_size_pt": 14.0,
+      "typography_role": "chinese_heading"
+    },
+    {
+      "field": "items[2].activity",
+      "semantic_path": "items[2].activity",
+      "shape_id": 95,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 12,
+      "max_lines": 1,
+      "max_width_units": 25,
+      "font_size_pt": 13,
+      "typography_role": "chinese_body"
+    },
+    {
+      "field": "items[2].owner",
+      "semantic_path": "items[2].owner",
+      "shape_id": 38,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 3,
+      "max_lines": 1,
+      "max_width_units": 6,
+      "font_size_pt": 16,
+      "typography_role": "chinese_heading"
+    }
+  ],
+  "atom_group_ids": [
+    201,
+    202,
+    203
+  ],
+  "locked_text": {
+    "12": "时间",
+    "13": "活动安排",
+    "14": "负责人"
+  }
+}

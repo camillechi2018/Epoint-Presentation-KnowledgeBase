@@ -1,0 +1,138 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "items[0].heading",
+      "semantic_path": "items[0].heading",
+      "shape_id": 106,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 9,
+      "max_lines": 1,
+      "max_width_units": 19,
+      "font_size_pt": 20.0,
+      "render_prefix": "01  "
+    },
+    {
+      "field": "items[0].body",
+      "semantic_path": "items[0].body",
+      "shape_id": 108,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 110,
+      "max_lines": 3,
+      "max_width_units": 73,
+      "font_size_pt": 10.0
+    },
+    {
+      "field": "items[1].heading",
+      "semantic_path": "items[1].heading",
+      "shape_id": 116,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 9,
+      "max_lines": 1,
+      "max_width_units": 19,
+      "font_size_pt": 20.0,
+      "render_prefix": "02  "
+    },
+    {
+      "field": "items[1].body",
+      "semantic_path": "items[1].body",
+      "shape_id": 118,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 110,
+      "max_lines": 3,
+      "max_width_units": 73,
+      "font_size_pt": 10.0
+    },
+    {
+      "field": "items[2].heading",
+      "semantic_path": "items[2].heading",
+      "shape_id": 126,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 9,
+      "max_lines": 1,
+      "max_width_units": 19,
+      "font_size_pt": 20.0,
+      "render_prefix": "03  "
+    },
+    {
+      "field": "items[2].body",
+      "semantic_path": "items[2].body",
+      "shape_id": 128,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 110,
+      "max_lines": 3,
+      "max_width_units": 73,
+      "font_size_pt": 10.0
+    },
+    {
+      "field": "items[3].heading",
+      "semantic_path": "items[3].heading",
+      "shape_id": 136,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 9,
+      "max_lines": 1,
+      "max_width_units": 19,
+      "font_size_pt": 20.0,
+      "render_prefix": "04  "
+    },
+    {
+      "field": "items[3].body",
+      "semantic_path": "items[3].body",
+      "shape_id": 138,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 110,
+      "max_lines": 3,
+      "max_width_units": 73,
+      "font_size_pt": 10.0
+    },
+    {
+      "field": "items[4].heading",
+      "semantic_path": "items[4].heading",
+      "shape_id": 146,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 9,
+      "max_lines": 1,
+      "max_width_units": 19,
+      "font_size_pt": 20.0,
+      "render_prefix": "05  "
+    },
+    {
+      "field": "items[4].body",
+      "semantic_path": "items[4].body",
+      "shape_id": 148,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 110,
+      "max_lines": 3,
+      "max_width_units": 73,
+      "font_size_pt": 10.0
+    }
+  ],
+  "atom_group_ids": [
+    100,
+    110,
+    120,
+    130,
+    140
+  ],
+  "locked_text": {}
+}

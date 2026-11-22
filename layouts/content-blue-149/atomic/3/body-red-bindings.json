@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "page.plan_title",
+      "semantic_path": "page.plan_title",
+      "shape_id": 63,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 15,
+      "max_lines": 1,
+      "max_width_units": 31,
+      "font_size_pt": 20.0
+    },
+    {
+      "field": "page.summary",
+      "semantic_path": "page.summary",
+      "shape_id": 62,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 135,
+      "max_lines": 2,
+      "max_width_units": 135,
+      "font_size_pt": 12.0
+    },
+    {
+      "field": "items[0].heading",
+      "semantic_path": "items[0].heading",
+      "shape_id": 46,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 11,
+      "max_lines": 1,
+      "max_width_units": 23,
+      "font_size_pt": 20.0
+    },
+    {
+      "field": "items[0].goal_and_action",
+      "semantic_path": "items[0].goal_and_action",
+      "shape_id": 56,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 71,
+      "max_lines": 4,
+      "max_width_units": 34,
+      "font_size_pt": 13.0
+    },
+    {
+      "field": "items[1].heading",
+      "semantic_path": "items[1].heading",
+      "shape_id": 47,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 11,
+      "max_lines": 1,
+      "max_width_units": 23,
+      "font_size_pt": 20.0
+    },
+    {
+      "field": "items[1].goal_and_action",
+      "semantic_path": "items[1].goal_and_action",
+      "shape_id": 58,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 71,
+      "max_lines": 4,
+      "max_width_units": 34,
+      "font_size_pt": 13.0
+    },
+    {
+      "field": "items[2].heading",
+      "semantic_path": "items[2].heading",
+      "shape_id": 48,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 11,
+      "max_lines": 1,
+      "max_width_units": 23,
+      "font_size_pt": 20.0
+    },
+    {
+      "field": "items[2].goal_and_action",
+      "semantic_path": "items[2].goal_and_action",
+      "shape_id": 59,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 71,
+      "max_lines": 4,
+      "max_width_units": 34,
+      "font_size_pt": 13.0
+    }
+  ],
+  "atom_group_ids": [
+    2,
+    4,
+    5
+  ],
+  "locked_text": {
+    "51": "01",
+    "52": "02",
+    "53": "03"
+  }
+}

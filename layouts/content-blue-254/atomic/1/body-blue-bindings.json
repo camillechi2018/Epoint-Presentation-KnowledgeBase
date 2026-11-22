@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "items[0].heading",
+      "semantic_path": "items[0].heading",
+      "shape_id": 34,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 19,
+      "max_lines": 1,
+      "max_width_units": 38,
+      "font_size_pt": 20.0
+    },
+    {
+      "field": "items[0].problem",
+      "semantic_path": "items[0].problem",
+      "shape_id": 24,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 77,
+      "max_lines": 3,
+      "max_width_units": 50,
+      "font_size_pt": 16.0
+    },
+    {
+      "field": "items[0].action",
+      "semantic_path": "items[0].action",
+      "shape_id": 27,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 107,
+      "max_lines": 4,
+      "max_width_units": 52,
+      "font_size_pt": 15.5
+    }
+  ],
+  "atom_group_ids": [
+    3
+  ],
+  "locked_text": {
+    "32": "解决方案："
+  }
+}

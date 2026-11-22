@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "items[0].heading",
+      "semantic_path": "items[0].heading",
+      "shape_id": 94,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 6,
+      "max_lines": 1,
+      "max_width_units": 12,
+      "font_size_pt": 14.0
+    },
+    {
+      "field": "items[0].change",
+      "semantic_path": "items[0].change",
+      "shape_id": 99,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 71,
+      "max_lines": 4,
+      "max_width_units": 35,
+      "font_size_pt": 15.0
+    },
+    {
+      "field": "items[0].outcome",
+      "semantic_path": "items[0].outcome",
+      "shape_id": 100,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 71,
+      "max_lines": 4,
+      "max_width_units": 35,
+      "font_size_pt": 15.0
+    },
+    {
+      "field": "items[1].heading",
+      "semantic_path": "items[1].heading",
+      "shape_id": 98,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 6,
+      "max_lines": 1,
+      "max_width_units": 12,
+      "font_size_pt": 14.0
+    },
+    {
+      "field": "items[1].change",
+      "semantic_path": "items[1].change",
+      "shape_id": 107,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 71,
+      "max_lines": 4,
+      "max_width_units": 35,
+      "font_size_pt": 15.0
+    },
+    {
+      "field": "items[1].outcome",
+      "semantic_path": "items[1].outcome",
+      "shape_id": 108,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 71,
+      "max_lines": 4,
+      "max_width_units": 35,
+      "font_size_pt": 15.0
+    }
+  ],
+  "atom_group_ids": [
+    2,
+    4
+  ],
+  "locked_text": {
+    "34": "作出的改变",
+    "39": "取得的成就"
+  }
+}

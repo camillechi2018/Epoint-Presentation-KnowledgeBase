@@ -1,0 +1,115 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "page.summary",
+      "semantic_path": "page.summary",
+      "shape_id": 10,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 50,
+      "max_lines": 1,
+      "max_width_units": 100,
+      "font_size_pt": 14.0,
+      "typography_role": "chinese_body"
+    },
+    {
+      "field": "page.message",
+      "semantic_path": "page.message",
+      "shape_id": 39,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 12,
+      "max_lines": 1,
+      "max_width_units": 24,
+      "font_size_pt": 36.0,
+      "typography_role": "chinese_body"
+    },
+    {
+      "field": "items[0].heading",
+      "semantic_path": "items[0].heading",
+      "shape_id": 503,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 13,
+      "max_lines": 1,
+      "max_width_units": 26,
+      "font_size_pt": 16.0,
+      "typography_role": "chinese_heading"
+    },
+    {
+      "field": "items[0].body",
+      "semantic_path": "items[0].body",
+      "shape_id": 504,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 50,
+      "max_lines": 3,
+      "max_width_units": 33,
+      "font_size_pt": 12.0,
+      "typography_role": "chinese_body"
+    },
+    {
+      "field": "items[1].heading",
+      "semantic_path": "items[1].heading",
+      "shape_id": 513,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 13,
+      "max_lines": 1,
+      "max_width_units": 26,
+      "font_size_pt": 16.0,
+      "typography_role": "chinese_heading"
+    },
+    {
+      "field": "items[1].body",
+      "semantic_path": "items[1].body",
+      "shape_id": 514,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 50,
+      "max_lines": 3,
+      "max_width_units": 33,
+      "font_size_pt": 12.0,
+      "typography_role": "chinese_body"
+    },
+    {
+      "field": "items[2].heading",
+      "semantic_path": "items[2].heading",
+      "shape_id": 523,
+      "type": "text",
+      "semantic_role": "heading",
+      "required": true,
+      "max_chars": 13,
+      "max_lines": 1,
+      "max_width_units": 26,
+      "font_size_pt": 16.0,
+      "typography_role": "chinese_heading"
+    },
+    {
+      "field": "items[2].body",
+      "semantic_path": "items[2].body",
+      "shape_id": 524,
+      "type": "text",
+      "semantic_role": "body",
+      "required": true,
+      "max_chars": 50,
+      "max_lines": 3,
+      "max_width_units": 33,
+      "font_size_pt": 12.0,
+      "typography_role": "chinese_body"
+    }
+  ],
+  "atom_group_ids": [
+    500,
+    510,
+    520
+  ],
+  "locked_text": {}
+}
