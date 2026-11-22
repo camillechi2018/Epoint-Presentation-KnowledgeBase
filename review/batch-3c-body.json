@@ -1,0 +1,837 @@
+{
+  "scope": "固定原生项数、短文案、蓝红",
+  "entries": [
+    {
+      "id": "content-blue-185",
+      "name": "五阶段阶梯计划",
+      "native_count": 5,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 16,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-185/body-blue.pptx",
+          "sha256": "90ca7f52c8fee46ad32b1ff473402d7e91110f20bf96d316366cf4023ff92ce3",
+          "bindings": "layouts/content-blue-185/body-blue-bindings.json",
+          "bindings_sha256": "18764a73a6b304b320c9827c2f8ee55c626fdd47bfa42922ef3a5684142b8758",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            10,
+            63
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 185,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-185/body-red.pptx",
+          "sha256": "6f656351b7fb8a198e847903e06bcd9057c7b8f23fcf999797ee07173760d1ea",
+          "bindings": "layouts/content-blue-185/body-red-bindings.json",
+          "bindings_sha256": "a12cce446ea11895846bee5952e173bbc0ba990e4f77d0f91954e4506d22bf6f",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            11,
+            63
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 185,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-192",
+      "name": "三组任务月度进度",
+      "native_count": 3,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 30,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-192/body-blue.pptx",
+          "sha256": "3794dbbe69c54ab858ab32dc6cfbd9eebd6c961491523ee884e5f26eaf185407",
+          "bindings": "layouts/content-blue-192/body-blue-bindings.json",
+          "bindings_sha256": "18da3e03dea4d1abc67318e7b5a073ab898fa8c7e2caff13a466f678845156f0",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            4,
+            5
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 192,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-192/body-red.pptx",
+          "sha256": "deb878666b9f1591030ee98f459b751fcf5c3983a0306f2dc88b9a091567ecf0",
+          "bindings": "layouts/content-blue-192/body-red-bindings.json",
+          "bindings_sha256": "7520ae22e5c8207564af407371340d82d611c5be3fdc6be836f2141623789281",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            4,
+            11
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 192,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-193",
+      "name": "三组月度条带排期",
+      "native_count": 3,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 21,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-193/body-blue.pptx",
+          "sha256": "1bf8110e78d42546b3ca9a01a7a52a057c71ba32680f10d6c284cec372a9ff7e",
+          "bindings": "layouts/content-blue-193/body-blue-bindings.json",
+          "bindings_sha256": "3eaf9514b2416a1470e63e28c6039aa40ae9fcab29a32012d5f41588eb8126fb",
+          "title_input": {
+            "field": "text_4",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            4,
+            6,
+            7
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 193,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-193/body-red.pptx",
+          "sha256": "a9c350621aebc0d88195dc3e405b28b095f22227ae8b03601abdad12dce70665",
+          "bindings": "layouts/content-blue-193/body-red-bindings.json",
+          "bindings_sha256": "0ea627d2c2916d9fac8a84ca35338f1f4341ec1b2ffed3d747bc6c988f6034b6",
+          "title_input": {
+            "field": "text_4",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            4,
+            5,
+            6
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 193,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-194",
+      "name": "四项目季度排期与指标",
+      "native_count": 4,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 22,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-194/body-blue.pptx",
+          "sha256": "de27f4600f5ee37847fcd4b7649f10916e03dccb686a168298cd47edf20814d2",
+          "bindings": "layouts/content-blue-194/body-blue-bindings.json",
+          "bindings_sha256": "b11b6a295dcd6b5d56edc46c64fdc914a511cd620f0be3f990398f0e77bbad4f",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            4,
+            49
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 194,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-194/body-red.pptx",
+          "sha256": "6d3d50c1169bc051acb85a31c72ac82c66ac943739cc6f64db882899e737ea66",
+          "bindings": "layouts/content-blue-194/body-red-bindings.json",
+          "bindings_sha256": "4b4d585b3a89f88e557b7b97eeb1ccd5d7330fe5c7e3b058985717dde9de1472",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            5,
+            49
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 194,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-195",
+      "name": "三组任务季度排期",
+      "native_count": 3,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 24,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-195/body-blue.pptx",
+          "sha256": "a8a2c0667a27cf2dc6525be9f56dd10ecb08bf4c4e3f7cf70c8ec7907fd7a26a",
+          "bindings": "layouts/content-blue-195/body-blue-bindings.json",
+          "bindings_sha256": "331d6e11697e90b5ae44f0e5a6a64d8a420b6e71679bd0a9cce135dd94d80eda",
+          "title_input": {
+            "field": "text_4",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            4,
+            44,
+            51
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 195,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-195/body-red.pptx",
+          "sha256": "21bfbf5be05c06249e513c5b9890f60034c130f5bb4a0b97529928a32898fcee",
+          "bindings": "layouts/content-blue-195/body-red-bindings.json",
+          "bindings_sha256": "e638bb7c08f27856bd2e612deaba5a082af142ca6432521bf9e6546911c4e7a1",
+          "title_input": {
+            "field": "text_4",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            4,
+            26,
+            51
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 195,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-198",
+      "name": "十二月三行任务矩阵",
+      "native_count": 12,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 28,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-198/body-blue.pptx",
+          "sha256": "debf781dd4982fc650e7a1cb3e86397272fe93067b5523a644f0c136291ac82b",
+          "bindings": "layouts/content-blue-198/body-blue-bindings.json",
+          "bindings_sha256": "f9d42405780cb8425904bb7fa645f3178fe78264e953a91ba2d3f1dec4b688d9",
+          "title_input": {
+            "field": "text_28",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            28,
+            31,
+            33
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 198,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-198/body-red.pptx",
+          "sha256": "e7bf3ab7240ffbb35654bfc27d3e2bc707f9dda0bd4ca4775948831bdd1ea184",
+          "bindings": "layouts/content-blue-198/body-red-bindings.json",
+          "bindings_sha256": "3bea91e61cd71d1dbc1a7ef5c9c5edfa086c0b801043e7a2490fc26dbbce146d",
+          "title_input": {
+            "field": "text_28",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            28,
+            30,
+            31
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 198,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-200",
+      "name": "五年度里程碑与措施",
+      "native_count": 5,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 35,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-200/body-blue.pptx",
+          "sha256": "53721f72f8f91e2c735a1f3abf6c56b69cea1bd2893595237af71d5750cef29d",
+          "bindings": "layouts/content-blue-200/body-blue-bindings.json",
+          "bindings_sha256": "cadf564f0675da7dfa0a3664caeac385e6d4c212581a2f468cadd7d70acafd74",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            8,
+            9
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 200,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-200/body-red.pptx",
+          "sha256": "d900b0ce8acd27ad66e976c6126a840806c413603191a8029ca8ac24cae605f6",
+          "bindings": "layouts/content-blue-200/body-red-bindings.json",
+          "bindings_sha256": "fdf75fe628ac8ebc01347073c3e82d0d3953d7a82134da4a443e4d693fbe4449",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            4,
+            8
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 200,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-203",
+      "name": "四季度双任务与标签",
+      "native_count": 4,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 24,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-203/body-blue.pptx",
+          "sha256": "fcb09de3c8870dc449a7ea4464eb5c18fcee6fdaf24b3a237970470e40c0bf84",
+          "bindings": "layouts/content-blue-203/body-blue-bindings.json",
+          "bindings_sha256": "1a5830e0be58dd61697aaf7cb268ffe429c38f5c57f07f02be2c46ee896f4c0e",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            4,
+            5
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 203,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-203/body-red.pptx",
+          "sha256": "3a161253b6fbdca56381782ef433fbb82d4097417bf29f105cb7892d1297ae1a",
+          "bindings": "layouts/content-blue-203/body-red-bindings.json",
+          "bindings_sha256": "148b5130fc8d637583dded799a60858ed6ae59577d7e2f6f9641cbb41de7c41d",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            3,
+            4
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 203,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-205",
+      "name": "上下半年回环双轨",
+      "native_count": 3,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 24,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-205/body-blue.pptx",
+          "sha256": "dfc993e1f51a331539ff3b5dd587bda79f3b69655a3fa61617463b7203a828e8",
+          "bindings": "layouts/content-blue-205/body-blue-bindings.json",
+          "bindings_sha256": "e3c9c46b0b51fb48b48ec7788d7678aeb0fbee96dbfc8da8d8e2f235dfba3bd7",
+          "title_input": {
+            "field": "text_3",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            3,
+            5,
+            6
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 205,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-205/body-red.pptx",
+          "sha256": "147bcceeec7970bf03118b24b02cbc907470dc7fd4f470f8d6b412f86f314824",
+          "bindings": "layouts/content-blue-205/body-red-bindings.json",
+          "bindings_sha256": "4f5c67e642595d43f19bf6aa488c9de479be9fb368cd6ea1d8212a3f048498ec",
+          "title_input": {
+            "field": "text_3",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            3,
+            5,
+            11
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 205,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-209",
+      "name": "两通道四季度计划",
+      "native_count": 4,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 18,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-209/body-blue.pptx",
+          "sha256": "652aae8eb398a5d4b262c7a2d3c7219da2fb4ab6b0f3adb831e711829362f09c",
+          "bindings": "layouts/content-blue-209/body-blue-bindings.json",
+          "bindings_sha256": "ef588532b1f64fd3e1449e1d0cca37946956ea9f145c87b47a815ba093e8a1b1",
+          "title_input": {
+            "field": "text_3",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            3,
+            6,
+            7
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 209,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-209/body-red.pptx",
+          "sha256": "9addfb0edc0e1c3b7b833168a38a2bb04e75cbcbbd793b47b63c8937ff988472",
+          "bindings": "layouts/content-blue-209/body-red-bindings.json",
+          "bindings_sha256": "97fad9018b3ba70ef1a61b697d3c32564b70b4016c1e7f8e2df8d0a714a3f14c",
+          "title_input": {
+            "field": "text_3",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            3,
+            6,
+            11
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 209,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-210",
+      "name": "十二月交错短清单",
+      "native_count": 12,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 24,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-210/body-blue.pptx",
+          "sha256": "68cc5e032c96350fc7da30f59e26b5834868f2970360aa427b1a00372f41c4fc",
+          "bindings": "layouts/content-blue-210/body-blue-bindings.json",
+          "bindings_sha256": "3634312ce097402bb133ffbd4b4e124b8c4f52bf397b61d0a059585eac8eb99d",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            4,
+            6
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 210,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-210/body-red.pptx",
+          "sha256": "5efaef569295a048e8c32e6cef10656b5e1367413987da274ad738e71d91a9d6",
+          "bindings": "layouts/content-blue-210/body-red-bindings.json",
+          "bindings_sha256": "9996465b01cf2761de603c8df3fc741444dabc3e0402b37d9c62c32888da3731",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            3,
+            4
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 210,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-211",
+      "name": "双分支十二月计划",
+      "native_count": 12,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 29,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-211/body-blue.pptx",
+          "sha256": "5723b2435089fb8b68989d5f3e64dc52945cf3ad6f863718d63edc3cc1060454",
+          "bindings": "layouts/content-blue-211/body-blue-bindings.json",
+          "bindings_sha256": "381fc00bbe26fdd193f75e2a82f8782c74ff64fd80989ffa2e5db618ae517d4b",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            6,
+            7
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 211,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-211/body-red.pptx",
+          "sha256": "d97a5e40def945099ba1c5bb7d0865a46ad6a6ba5bd8fb8036b3adb21c48df0c",
+          "bindings": "layouts/content-blue-211/body-red-bindings.json",
+          "bindings_sha256": "c89f81a767530959c64bc7bd99d5dd91e67a21267e7db622957044dd7d92b3d1",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            7,
+            11
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 211,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-212",
+      "name": "五个月份节点与指标",
+      "native_count": 5,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 24,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-212/body-blue.pptx",
+          "sha256": "2c843f02b9621a1e3835ced50c9391a6d0dc8977d340e84517e837e816f39066",
+          "bindings": "layouts/content-blue-212/body-blue-bindings.json",
+          "bindings_sha256": "5ab70849b3478335e37346b0eea8c38641527a15a0936aa02daded5d41329cc8",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            7,
+            8
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 212,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-212/body-red.pptx",
+          "sha256": "8575bdb256a248844eeca1ddc79b5c0dfcf1b08a1f9cc4d1e9000b99af89c83f",
+          "bindings": "layouts/content-blue-212/body-red-bindings.json",
+          "bindings_sha256": "61b8a92e1ba8c6053849e16133b166f80f6c1499a41e6b5f6d7d563d85d3ef6f",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            7,
+            11
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 212,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-213",
+      "name": "六节点双项目计划",
+      "native_count": 6,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 39,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-213/body-blue.pptx",
+          "sha256": "74f7b2de824e624bebda7be75e92473a266c83cf1640311ee36cf66cf839b2f4",
+          "bindings": "layouts/content-blue-213/body-blue-bindings.json",
+          "bindings_sha256": "5de84d79ade63e4afcb722bc26b904ebdaf578fb1c5f55ea0c0d3d33e61c81b0",
+          "title_input": {
+            "field": "text_5",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            5,
+            7,
+            22
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 213,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-213/body-red.pptx",
+          "sha256": "5b452e62adf84f285a6f063b2e40c3044cfacbfcf4e60bb24099d0f9f3c0ee23",
+          "bindings": "layouts/content-blue-213/body-red-bindings.json",
+          "bindings_sha256": "e6a4c10b37d62096feff637588bf54be13bd4b0f7f078bcec05df352c9f32b3a",
+          "title_input": {
+            "field": "text_5",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            5,
+            11,
+            22
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 213,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-215",
+      "name": "五周交错里程碑",
+      "native_count": 5,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 10,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-215/body-blue.pptx",
+          "sha256": "11187a21e3a395f373398922ff95e0f2b9f0200335e3b46a80e50b94915defff",
+          "bindings": "layouts/content-blue-215/body-blue-bindings.json",
+          "bindings_sha256": "3cfdc0aa38dbe155bbf5d4098355165a2c6c17610dcc366db812f366630ab1b6",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            6,
+            13
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 215,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-215/body-red.pptx",
+          "sha256": "a9093241adc90425b88a41431647f1ae42dd029e5e345e5f66dae8f162e6ac34",
+          "bindings": "layouts/content-blue-215/body-red-bindings.json",
+          "bindings_sha256": "95f81f309d92dab10dc088f11e35f2d9f8031ee3e2be887395a1e474c3a8135d",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            11,
+            13
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 215,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-216",
+      "name": "六月轨道与双措施",
+      "native_count": 6,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 33,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-216/body-blue.pptx",
+          "sha256": "8e824bde5b629c60423be7a3f8e07477b1f13c74ce4dbd1ded4b4e1a25636ae8",
+          "bindings": "layouts/content-blue-216/body-blue-bindings.json",
+          "bindings_sha256": "895d9c6c2a81dab7d80be239451cd5f958bfce47e893ab0cdd86c3b6e5e3c9f0",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            6,
+            9
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 216,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-216/body-red.pptx",
+          "sha256": "da77cc3629f8ce6f112fad254979c47130e1d90b4216a24320dff4c55d8f0208",
+          "bindings": "layouts/content-blue-216/body-red-bindings.json",
+          "bindings_sha256": "82ed0a524f6adf027a971c08c4badd8739351243d734b9a21d3ee16f080531ae",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            4,
+            9
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 216,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    }
+  ]
+}

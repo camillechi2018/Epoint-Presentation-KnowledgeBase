@@ -1,6 +1,126 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
-  "source_count": null,
-  "reflow_status": "not_implemented"
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    3
+  ],
+  "source_count": 3,
+  "reflow_status": "not_implemented",
+  "verified_counts": [
+    3
+  ],
+  "validation_status": "verified_fixed_count",
+  "period_axis_schedule": {
+    "unit": "quarter",
+    "boundary_ids": [
+      19,
+      20,
+      21,
+      22
+    ],
+    "right_edge_id": 6,
+    "rows": [
+      {
+        "item": 0,
+        "task": 0,
+        "stages": [
+          {
+            "bar_id": 36,
+            "label_id": 36
+          }
+        ]
+      },
+      {
+        "item": 0,
+        "task": 1,
+        "stages": [
+          {
+            "bar_id": 37,
+            "label_id": 37
+          },
+          {
+            "bar_id": 38,
+            "label_id": 38
+          }
+        ]
+      },
+      {
+        "item": 0,
+        "task": 2,
+        "stages": [
+          {
+            "bar_id": 39,
+            "label_id": 39
+          }
+        ]
+      },
+      {
+        "item": 1,
+        "task": 0,
+        "stages": [
+          {
+            "bar_id": 40,
+            "label_id": 40
+          },
+          {
+            "bar_id": 41,
+            "label_id": 41
+          }
+        ]
+      },
+      {
+        "item": 1,
+        "task": 1,
+        "stages": [
+          {
+            "bar_id": 42,
+            "label_id": 42
+          }
+        ]
+      },
+      {
+        "item": 1,
+        "task": 2,
+        "stages": [
+          {
+            "bar_id": 43,
+            "label_id": 43
+          }
+        ]
+      },
+      {
+        "item": 2,
+        "task": 0,
+        "stages": [
+          {
+            "bar_id": 45,
+            "label_id": 45
+          },
+          {
+            "bar_id": 48,
+            "label_id": 48
+          }
+        ]
+      },
+      {
+        "item": 2,
+        "task": 1,
+        "stages": [
+          {
+            "bar_id": 46,
+            "label_id": 46
+          }
+        ]
+      },
+      {
+        "item": 2,
+        "task": 2,
+        "stages": [
+          {
+            "bar_id": 47,
+            "label_id": 47
+          }
+        ]
+      }
+    ]
+  }
 }

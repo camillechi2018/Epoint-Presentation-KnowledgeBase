@@ -1,6 +1,121 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
-  "source_count": null,
-  "reflow_status": "not_implemented"
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    3
+  ],
+  "source_count": 3,
+  "reflow_status": "not_implemented",
+  "verified_counts": [
+    3
+  ],
+  "validation_status": "verified_fixed_count",
+  "period_axis_schedule": {
+    "unit": "month",
+    "header_ids": [
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "rows": [
+      {
+        "item": 0,
+        "task": 0,
+        "stages": [
+          {
+            "bar_id": 2,
+            "label_id": 63
+          }
+        ]
+      },
+      {
+        "item": 0,
+        "task": 1,
+        "stages": [
+          {
+            "bar_id": 3,
+            "label_id": 64
+          }
+        ]
+      },
+      {
+        "item": 0,
+        "task": 2,
+        "stages": [
+          {
+            "bar_id": 12,
+            "label_id": 65
+          }
+        ]
+      },
+      {
+        "item": 1,
+        "task": 0,
+        "stages": [
+          {
+            "bar_id": 13,
+            "label_id": 66
+          }
+        ]
+      },
+      {
+        "item": 1,
+        "task": 1,
+        "stages": [
+          {
+            "bar_id": 35,
+            "label_id": 67
+          }
+        ]
+      },
+      {
+        "item": 1,
+        "task": 2,
+        "stages": [
+          {
+            "bar_id": 36,
+            "label_id": 68
+          }
+        ]
+      },
+      {
+        "item": 2,
+        "task": 0,
+        "stages": [
+          {
+            "bar_id": 39,
+            "label_id": 69
+          }
+        ]
+      },
+      {
+        "item": 2,
+        "task": 1,
+        "stages": [
+          {
+            "bar_id": 41,
+            "label_id": 70
+          }
+        ]
+      },
+      {
+        "item": 2,
+        "task": 2,
+        "stages": [
+          {
+            "bar_id": 42,
+            "label_id": 71
+          }
+        ]
+      }
+    ]
+  }
 }

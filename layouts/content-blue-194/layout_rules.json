@@ -1,6 +1,79 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
-  "source_count": null,
-  "reflow_status": "not_implemented"
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    4
+  ],
+  "source_count": 4,
+  "reflow_status": "not_implemented",
+  "verified_counts": [
+    4
+  ],
+  "validation_status": "verified_fixed_count",
+  "period_axis_schedule": {
+    "unit": "quarter",
+    "header_ids": [
+      29,
+      31,
+      32,
+      33
+    ],
+    "rows": [
+      {
+        "item": 0,
+        "task": null,
+        "stages": [
+          {
+            "bar_id": 38,
+            "label_id": 38
+          },
+          {
+            "bar_id": 39,
+            "label_id": 39
+          }
+        ]
+      },
+      {
+        "item": 1,
+        "task": null,
+        "stages": [
+          {
+            "bar_id": 40,
+            "label_id": 40
+          },
+          {
+            "bar_id": 41,
+            "label_id": 41
+          }
+        ]
+      },
+      {
+        "item": 2,
+        "task": null,
+        "stages": [
+          {
+            "bar_id": 42,
+            "label_id": 42
+          },
+          {
+            "bar_id": 43,
+            "label_id": 43
+          }
+        ]
+      },
+      {
+        "item": 3,
+        "task": null,
+        "stages": [
+          {
+            "bar_id": 44,
+            "label_id": 44
+          },
+          {
+            "bar_id": 45,
+            "label_id": 45
+          }
+        ]
+      }
+    ]
+  }
 }
