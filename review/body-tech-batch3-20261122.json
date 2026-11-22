@@ -1,0 +1,856 @@
+{
+  "themes": [
+    "deep-blue-tech"
+  ],
+  "components": {
+    "data-chart-tech-070": {
+      "structure": "trend",
+      "description": "全宽双柱加折线组合图，按横轴类目计数",
+      "verified_counts": [
+        4,
+        5
+      ],
+      "chart_capacity_by_count": {
+        "4": [
+          {
+            "shape_id": 5,
+            "shape_name": "图表 4",
+            "group_path": [],
+            "categories_max": 5,
+            "series_max": 3,
+            "series_min": 3,
+            "series_name_max_chars": 5,
+            "category_max_chars": 4,
+            "title_in_binding": true,
+            "count_matches_categories": true
+          }
+        ],
+        "5": [
+          {
+            "shape_id": 5,
+            "shape_name": "图表 4",
+            "group_path": [],
+            "categories_max": 5,
+            "series_max": 3,
+            "series_min": 3,
+            "series_name_max_chars": 5,
+            "category_max_chars": 4,
+            "title_in_binding": true,
+            "count_matches_categories": true
+          }
+        ]
+      },
+      "capacity_chars": {
+        "4": {
+          "combo_plot.note": 16
+        },
+        "5": {
+          "combo_plot.note": 16
+        }
+      },
+      "fixed_width_checks_by_count": {
+        "4": [
+          {
+            "native_ids": [
+              5
+            ],
+            "variant_ids": [
+              5
+            ],
+            "span_emu": [
+              681640,
+              11639813
+            ]
+          }
+        ]
+      }
+    },
+    "data-chart-tech-072": {
+      "structure": "comparison",
+      "description": "左右双圆环，按每环类目数计数",
+      "verified_counts": [
+        4,
+        5
+      ],
+      "chart_capacity_by_count": {
+        "4": [
+          {
+            "shape_id": 79,
+            "shape_name": "图表 78",
+            "group_path": [],
+            "categories_max": 5,
+            "series_max": 1,
+            "series_min": 1,
+            "series_name_max_chars": 5,
+            "category_max_chars": 4,
+            "title_in_binding": true,
+            "count_matches_categories": true,
+            "minimum_slice_share": 0.12,
+            "value_range": [
+              1,
+              9999
+            ],
+            "total_shape_id": 68
+          },
+          {
+            "shape_id": 101,
+            "shape_name": "图表 100",
+            "group_path": [],
+            "categories_max": 5,
+            "series_max": 1,
+            "series_min": 1,
+            "series_name_max_chars": 5,
+            "category_max_chars": 4,
+            "title_in_binding": true,
+            "count_matches_categories": true,
+            "minimum_slice_share": 0.12,
+            "value_range": [
+              1,
+              9999
+            ],
+            "total_shape_id": 102
+          }
+        ],
+        "5": [
+          {
+            "shape_id": 79,
+            "shape_name": "图表 78",
+            "group_path": [],
+            "categories_max": 5,
+            "series_max": 1,
+            "series_min": 1,
+            "series_name_max_chars": 5,
+            "category_max_chars": 4,
+            "title_in_binding": true,
+            "count_matches_categories": true,
+            "minimum_slice_share": 0.12,
+            "value_range": [
+              1,
+              9999
+            ],
+            "total_shape_id": 68
+          },
+          {
+            "shape_id": 101,
+            "shape_name": "图表 100",
+            "group_path": [],
+            "categories_max": 5,
+            "series_max": 1,
+            "series_min": 1,
+            "series_name_max_chars": 5,
+            "category_max_chars": 4,
+            "title_in_binding": true,
+            "count_matches_categories": true,
+            "minimum_slice_share": 0.12,
+            "value_range": [
+              1,
+              9999
+            ],
+            "total_shape_id": 102
+          }
+        ]
+      },
+      "capacity_chars": {
+        "4": {
+          "doughnut_panels[0].heading": 14,
+          "doughnut_panels[1].heading": 14
+        },
+        "5": {
+          "doughnut_panels[0].heading": 14,
+          "doughnut_panels[1].heading": 14
+        }
+      },
+      "fixed_width_checks_by_count": {
+        "4": [
+          {
+            "native_ids": [
+              79,
+              101
+            ],
+            "variant_ids": [
+              79,
+              101
+            ],
+            "span_emu": [
+              1349373,
+              10775541
+            ]
+          }
+        ]
+      }
+    },
+    "data-chart-tech-073": {
+      "structure": "trend",
+      "description": "左侧双摘要与右侧组合图，按横轴类目计数",
+      "verified_counts": [
+        6,
+        7
+      ],
+      "chart_capacity_by_count": {
+        "6": [
+          {
+            "shape_id": 60,
+            "shape_name": "图表 59",
+            "group_path": [],
+            "categories_max": 7,
+            "series_max": 3,
+            "series_min": 3,
+            "series_name_max_chars": 5,
+            "category_max_chars": 4,
+            "title_in_binding": true,
+            "count_matches_categories": true
+          }
+        ],
+        "7": [
+          {
+            "shape_id": 60,
+            "shape_name": "图表 59",
+            "group_path": [],
+            "categories_max": 7,
+            "series_max": 3,
+            "series_min": 3,
+            "series_name_max_chars": 5,
+            "category_max_chars": 4,
+            "title_in_binding": true,
+            "count_matches_categories": true
+          }
+        ]
+      },
+      "capacity_chars": {
+        "6": {
+          "summary_cards[0].description": [
+            9,
+            9
+          ],
+          "summary_cards[0].value": 7,
+          "summary_cards[1].description": 11,
+          "summary_cards[1].value": 7
+        },
+        "7": {
+          "summary_cards[0].description": [
+            9,
+            9
+          ],
+          "summary_cards[0].value": 7,
+          "summary_cards[1].description": 11,
+          "summary_cards[1].value": 7
+        }
+      },
+      "fixed_width_checks_by_count": {
+        "6": [
+          {
+            "native_ids": [
+              60
+            ],
+            "variant_ids": [
+              60
+            ],
+            "span_emu": [
+              4790791,
+              11251117
+            ]
+          }
+        ]
+      }
+    },
+    "data-chart-tech-074": {
+      "structure": "composition",
+      "description": "左侧说明卡与右侧饼图，按饼图类目计数",
+      "verified_counts": [
+        2,
+        3
+      ],
+      "chart_capacity_by_count": {
+        "2": [
+          {
+            "shape_id": 26,
+            "shape_name": "图表 25",
+            "group_path": [],
+            "categories_max": 3,
+            "series_max": 1,
+            "series_min": 1,
+            "series_name_max_chars": 5,
+            "category_max_chars": 4,
+            "title_in_binding": true,
+            "count_matches_categories": true,
+            "minimum_slice_share": 0.12,
+            "value_range": [
+              1,
+              9999
+            ],
+            "category_label_shape_ids": [
+              42,
+              187
+            ]
+          }
+        ],
+        "3": [
+          {
+            "shape_id": 26,
+            "shape_name": "图表 25",
+            "group_path": [],
+            "categories_max": 3,
+            "series_max": 1,
+            "series_min": 1,
+            "series_name_max_chars": 5,
+            "category_max_chars": 4,
+            "title_in_binding": true,
+            "count_matches_categories": true,
+            "minimum_slice_share": 0.12,
+            "value_range": [
+              1,
+              9999
+            ],
+            "category_label_shape_ids": [
+              42,
+              203,
+              187
+            ]
+          }
+        ]
+      },
+      "capacity_chars": {
+        "2": {
+          "pie_companion[0].copy": [
+            18,
+            18
+          ],
+          "pie_companion[1].copy": [
+            18,
+            18
+          ]
+        },
+        "3": {
+          "pie_companion[0].copy": [
+            18,
+            18
+          ],
+          "pie_companion[1].copy": [
+            18,
+            18
+          ],
+          "pie_companion[2].copy": [
+            18,
+            18
+          ]
+        }
+      },
+      "fixed_width_checks_by_count": {
+        "2": [
+          {
+            "native_ids": [
+              26
+            ],
+            "variant_ids": [
+              26
+            ],
+            "span_emu": [
+              6163079,
+              10854373
+            ]
+          }
+        ]
+      }
+    },
+    "data-chart-tech-076": {
+      "structure": "comparison",
+      "description": "并排小柱形图，按图表卡片数计数；每张图固定 3 个类目",
+      "verified_counts": [
+        2,
+        3
+      ],
+      "chart_capacity_by_count": {
+        "2": [
+          {
+            "shape_id": 12,
+            "shape_name": "图表 11",
+            "group_path": [],
+            "categories_max": 3,
+            "series_max": 1,
+            "series_min": 1,
+            "series_name_max_chars": 5,
+            "category_max_chars": 4,
+            "title_in_binding": true,
+            "category_counts": [
+              3
+            ],
+            "value_range": [
+              0,
+              9999
+            ]
+          },
+          {
+            "shape_id": 14,
+            "shape_name": "图表 13",
+            "group_path": [],
+            "categories_max": 3,
+            "series_max": 1,
+            "series_min": 1,
+            "series_name_max_chars": 5,
+            "category_max_chars": 4,
+            "title_in_binding": true,
+            "category_counts": [
+              3
+            ],
+            "value_range": [
+              0,
+              9999
+            ]
+          }
+        ],
+        "3": [
+          {
+            "shape_id": 12,
+            "shape_name": "图表 11",
+            "group_path": [],
+            "categories_max": 3,
+            "series_max": 1,
+            "series_min": 1,
+            "series_name_max_chars": 5,
+            "category_max_chars": 4,
+            "title_in_binding": true,
+            "category_counts": [
+              3
+            ],
+            "value_range": [
+              0,
+              9999
+            ]
+          },
+          {
+            "shape_id": 13,
+            "shape_name": "图表 12",
+            "group_path": [],
+            "categories_max": 3,
+            "series_max": 1,
+            "series_min": 1,
+            "series_name_max_chars": 5,
+            "category_max_chars": 4,
+            "title_in_binding": true,
+            "category_counts": [
+              3
+            ],
+            "value_range": [
+              0,
+              9999
+            ]
+          },
+          {
+            "shape_id": 14,
+            "shape_name": "图表 13",
+            "group_path": [],
+            "categories_max": 3,
+            "series_max": 1,
+            "series_min": 1,
+            "series_name_max_chars": 5,
+            "category_max_chars": 4,
+            "title_in_binding": true,
+            "category_counts": [
+              3
+            ],
+            "value_range": [
+              0,
+              9999
+            ]
+          }
+        ]
+      },
+      "capacity_chars": {
+        "2": {
+          "column_cards[0].heading": 8,
+          "column_cards[0].copy": [
+            17,
+            17
+          ],
+          "column_cards[1].heading": 8,
+          "column_cards[1].copy": [
+            17,
+            17
+          ]
+        },
+        "3": {
+          "column_cards[0].heading": 7,
+          "column_cards[0].copy": [
+            13,
+            13
+          ],
+          "column_cards[1].heading": 7,
+          "column_cards[1].copy": [
+            13,
+            13
+          ],
+          "column_cards[2].heading": 7,
+          "column_cards[2].copy": [
+            13,
+            13
+          ]
+        }
+      },
+      "fixed_width_checks_by_count": {
+        "2": [
+          {
+            "native_ids": [
+              56,
+              66,
+              74
+            ],
+            "variant_ids": [
+              56,
+              74
+            ],
+            "span_emu": [
+              711687,
+              11467613
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "powerpoint_exports": 20,
+  "powerpoint_decks": [
+    {
+      "component": "data-chart-tech-070",
+      "item_count": 4,
+      "capacity_sample": false,
+      "file": "P070-4项.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": true,
+      "fixed_width_checks": [
+        {
+          "native_ids": [
+            5
+          ],
+          "variant_ids": [
+            5
+          ],
+          "span_emu": [
+            681640,
+            11639813
+          ]
+        }
+      ]
+    },
+    {
+      "component": "data-chart-tech-070",
+      "item_count": 4,
+      "capacity_sample": true,
+      "file": "P070-4项-容量.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": true,
+      "fixed_width_checks": [
+        {
+          "native_ids": [
+            5
+          ],
+          "variant_ids": [
+            5
+          ],
+          "span_emu": [
+            681640,
+            11639813
+          ]
+        }
+      ]
+    },
+    {
+      "component": "data-chart-tech-070",
+      "item_count": 5,
+      "capacity_sample": false,
+      "file": "P070-5项.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": true,
+      "fixed_width_checks": []
+    },
+    {
+      "component": "data-chart-tech-070",
+      "item_count": 5,
+      "capacity_sample": true,
+      "file": "P070-5项-容量.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": true,
+      "fixed_width_checks": []
+    },
+    {
+      "component": "data-chart-tech-072",
+      "item_count": 4,
+      "capacity_sample": false,
+      "file": "P072-4项.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": true,
+      "fixed_width_checks": [
+        {
+          "native_ids": [
+            79,
+            101
+          ],
+          "variant_ids": [
+            79,
+            101
+          ],
+          "span_emu": [
+            1349373,
+            10775541
+          ]
+        }
+      ]
+    },
+    {
+      "component": "data-chart-tech-072",
+      "item_count": 4,
+      "capacity_sample": true,
+      "file": "P072-4项-容量.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": true,
+      "fixed_width_checks": [
+        {
+          "native_ids": [
+            79,
+            101
+          ],
+          "variant_ids": [
+            79,
+            101
+          ],
+          "span_emu": [
+            1349373,
+            10775541
+          ]
+        }
+      ]
+    },
+    {
+      "component": "data-chart-tech-072",
+      "item_count": 5,
+      "capacity_sample": false,
+      "file": "P072-5项.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": true,
+      "fixed_width_checks": []
+    },
+    {
+      "component": "data-chart-tech-072",
+      "item_count": 5,
+      "capacity_sample": true,
+      "file": "P072-5项-容量.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": true,
+      "fixed_width_checks": []
+    },
+    {
+      "component": "data-chart-tech-073",
+      "item_count": 6,
+      "capacity_sample": false,
+      "file": "P073-6项.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": true,
+      "fixed_width_checks": [
+        {
+          "native_ids": [
+            60
+          ],
+          "variant_ids": [
+            60
+          ],
+          "span_emu": [
+            4790791,
+            11251117
+          ]
+        }
+      ]
+    },
+    {
+      "component": "data-chart-tech-073",
+      "item_count": 6,
+      "capacity_sample": true,
+      "file": "P073-6项-容量.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": true,
+      "fixed_width_checks": [
+        {
+          "native_ids": [
+            60
+          ],
+          "variant_ids": [
+            60
+          ],
+          "span_emu": [
+            4790791,
+            11251117
+          ]
+        }
+      ]
+    },
+    {
+      "component": "data-chart-tech-073",
+      "item_count": 7,
+      "capacity_sample": false,
+      "file": "P073-7项.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": true,
+      "fixed_width_checks": []
+    },
+    {
+      "component": "data-chart-tech-073",
+      "item_count": 7,
+      "capacity_sample": true,
+      "file": "P073-7项-容量.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": true,
+      "fixed_width_checks": []
+    },
+    {
+      "component": "data-chart-tech-074",
+      "item_count": 2,
+      "capacity_sample": false,
+      "file": "P074-2项.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": true,
+      "fixed_width_checks": [
+        {
+          "native_ids": [
+            26
+          ],
+          "variant_ids": [
+            26
+          ],
+          "span_emu": [
+            6163079,
+            10854373
+          ]
+        }
+      ]
+    },
+    {
+      "component": "data-chart-tech-074",
+      "item_count": 2,
+      "capacity_sample": true,
+      "file": "P074-2项-容量.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": true,
+      "fixed_width_checks": [
+        {
+          "native_ids": [
+            26
+          ],
+          "variant_ids": [
+            26
+          ],
+          "span_emu": [
+            6163079,
+            10854373
+          ]
+        }
+      ]
+    },
+    {
+      "component": "data-chart-tech-074",
+      "item_count": 3,
+      "capacity_sample": false,
+      "file": "P074-3项.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": true,
+      "fixed_width_checks": []
+    },
+    {
+      "component": "data-chart-tech-074",
+      "item_count": 3,
+      "capacity_sample": true,
+      "file": "P074-3项-容量.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": true,
+      "fixed_width_checks": []
+    },
+    {
+      "component": "data-chart-tech-076",
+      "item_count": 2,
+      "capacity_sample": false,
+      "file": "P076-2项.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": true,
+      "fixed_width_checks": [
+        {
+          "native_ids": [
+            56,
+            66,
+            74
+          ],
+          "variant_ids": [
+            56,
+            74
+          ],
+          "span_emu": [
+            711687,
+            11467613
+          ]
+        }
+      ]
+    },
+    {
+      "component": "data-chart-tech-076",
+      "item_count": 2,
+      "capacity_sample": true,
+      "file": "P076-2项-容量.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": true,
+      "fixed_width_checks": [
+        {
+          "native_ids": [
+            56,
+            66,
+            74
+          ],
+          "variant_ids": [
+            56,
+            74
+          ],
+          "span_emu": [
+            711687,
+            11467613
+          ]
+        }
+      ]
+    },
+    {
+      "component": "data-chart-tech-076",
+      "item_count": 3,
+      "capacity_sample": false,
+      "file": "P076-3项.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": true,
+      "fixed_width_checks": []
+    },
+    {
+      "component": "data-chart-tech-076",
+      "item_count": 3,
+      "capacity_sample": true,
+      "file": "P076-3项-容量.pptx",
+      "selected_by_structure": true,
+      "text_verified": true,
+      "native_chart_series_verified": true,
+      "fixed_width_checks": []
+    }
+  ],
+  "text_overflow_count": 0,
+  "header_in_scope": false,
+  "required_skill_commit": "777127ad5dc3ac89aca0321477b8e67802d321d2"
+}

@@ -1,9 +1,23 @@
 # data-chart-tech-068
 
-来源：深蓝科技风 P068；角色：data-chart；关系初标：metrics。
+深蓝科技风源页 P068。原生圆环图与两组说明。
 
-递归对象：47；文本字段：20；图片：3；图表：1；源 Logo：有。
+通用结构 `composition`。PowerPoint 已验证 3、4 项。
+选版使用正文结构、已验证项数和字段容量。
 
-原稿主题示例：20% / D企业 / 11%。源稿示例事实不进入新项目。
+## 3 项文案容量
 
-项数／字段／动效均待人工复核；原生 PPTX 可编辑结构保留。
+- `commentary_panels[].heading` 最多 7 字
+- `commentary_panels[].first_copy` 最多 42 字
+- `commentary_panels[].second_copy` 最多 42 字
+- `commentary_markers[].number` 最多 1 字
+
+## 4 项文案容量
+
+- `commentary_panels[].heading` 最多 7 字
+- `commentary_panels[].first_copy` 最多 42 字
+- `commentary_panels[].second_copy` 最多 42 字
+- `commentary_markers[].number` 最多 1 字
+
+项数按原生图表类目计。每个类目名称上限 4 字，原生图表保留一个可编辑数据系列。
+页标题、Logo 和公共装饰由演示文稿技能处理。资产状态为 `draft_pending_review`。

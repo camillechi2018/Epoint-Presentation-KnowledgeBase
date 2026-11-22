@@ -14,13 +14,15 @@
       "source_sample_chars": 8,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3637963,
         416934,
         4916076,
         430887
-      ]
+      ],
+      "semantic_path": "page.title",
+      "required": false,
+      "missing_action": "clear_text"
     },
     {
       "field": "text_7",
@@ -35,13 +37,15 @@
       "source_sample_chars": 24,
       "max_chars": 36,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         1285874,
         1056165,
         9620252,
         301041
-      ]
+      ],
+      "semantic_path": "page.subtitle",
+      "required": false,
+      "missing_action": "clear_text"
     },
     {
       "field": "text_41",
@@ -54,16 +58,17 @@
       ],
       "source_text": "受干扰少",
       "source_sample_chars": 4,
-      "max_chars": 24,
+      "max_chars": 5,
       "typography_role": "chinese_heading",
-      "semantic_role": "item_field_reviewed",
       "bounds_emu_local": [
         705303,
         2276364,
         1669392,
         374205
       ],
-      "semantic_key": "item_1.title"
+      "semantic_key": "item_1.title",
+      "semantic_path": "arrow_cards[0].heading",
+      "max_lines": 1
     },
     {
       "field": "text_42",
@@ -76,16 +81,17 @@
       ],
       "source_text": "不采取微生物方式，不受周边环境或者餐厨垃圾种类的影响",
       "source_sample_chars": 26,
-      "max_chars": 39,
+      "max_chars": 24,
       "typography_role": "chinese_body",
-      "semantic_role": "item_field_reviewed",
       "bounds_emu_local": [
         617646,
         2826426,
         2581275,
         557140
       ],
-      "semantic_key": "item_1.description"
+      "semantic_key": "item_1.description",
+      "semantic_path": "arrow_cards[0].copy",
+      "max_lines": 1
     },
     {
       "field": "text_48",
@@ -98,16 +104,17 @@
       ],
       "source_text": "臭味去除",
       "source_sample_chars": 4,
-      "max_chars": 24,
+      "max_chars": 5,
       "typography_role": "chinese_heading",
-      "semantic_role": "item_field_reviewed",
       "bounds_emu_local": [
         705303,
         2276364,
         1669392,
         374205
       ],
-      "semantic_key": "item_2.title"
+      "semantic_key": "item_2.title",
+      "semantic_path": "arrow_cards[1].heading",
+      "max_lines": 1
     },
     {
       "field": "text_49",
@@ -120,16 +127,17 @@
       ],
       "source_text": "可分解各种餐厨垃圾中95%以上的盐分，臭味几乎被完全去除",
       "source_sample_chars": 28,
-      "max_chars": 42,
+      "max_chars": 24,
       "typography_role": "chinese_body",
-      "semantic_role": "item_field_reviewed",
       "bounds_emu_local": [
         617646,
         2826426,
         2581275,
         557140
       ],
-      "semantic_key": "item_2.description"
+      "semantic_key": "item_2.description",
+      "semantic_path": "arrow_cards[1].copy",
+      "max_lines": 1
     },
     {
       "field": "text_54",
@@ -142,16 +150,17 @@
       ],
       "source_text": "低碳环保",
       "source_sample_chars": 4,
-      "max_chars": 24,
+      "max_chars": 5,
       "typography_role": "chinese_heading",
-      "semantic_role": "item_field_reviewed",
       "bounds_emu_local": [
         705303,
         2276364,
         1669392,
         374205
       ],
-      "semantic_key": "item_3.title"
+      "semantic_key": "item_3.title",
+      "semantic_path": "arrow_cards[2].heading",
+      "max_lines": 1
     },
     {
       "field": "text_55",
@@ -164,16 +173,17 @@
       ],
       "source_text": "采用彻底分解方式，无任何二次污染物产生，绿色环保的先导技术",
       "source_sample_chars": 29,
-      "max_chars": 43,
+      "max_chars": 24,
       "typography_role": "chinese_body",
-      "semantic_role": "item_field_reviewed",
       "bounds_emu_local": [
         617646,
         2826426,
         2581275,
         557140
       ],
-      "semantic_key": "item_3.description"
+      "semantic_key": "item_3.description",
+      "semantic_path": "arrow_cards[2].copy",
+      "max_lines": 1
     },
     {
       "field": "text_74",
@@ -186,16 +196,17 @@
       ],
       "source_text": "分解迅速",
       "source_sample_chars": 4,
-      "max_chars": 24,
+      "max_chars": 5,
       "typography_role": "chinese_heading",
-      "semantic_role": "item_field_reviewed",
       "bounds_emu_local": [
         705303,
         2276364,
         1669392,
         374205
       ],
-      "semantic_key": "item_4.title"
+      "semantic_key": "item_4.title",
+      "semantic_path": "arrow_cards[3].heading",
+      "max_lines": 1
     },
     {
       "field": "text_75",
@@ -208,16 +219,17 @@
       ],
       "source_text": "4小时迅速分解餐厨垃圾变为液态肥料，高效节能",
       "source_sample_chars": 22,
-      "max_chars": 33,
+      "max_chars": 24,
       "typography_role": "chinese_body",
-      "semantic_role": "item_field_reviewed",
       "bounds_emu_local": [
         617646,
         2826426,
         2179683,
         557140
       ],
-      "semantic_key": "item_4.description"
+      "semantic_key": "item_4.description",
+      "semantic_path": "arrow_cards[3].copy",
+      "max_lines": 1
     },
     {
       "field": "text_69",
@@ -230,16 +242,17 @@
       ],
       "source_text": "经济实惠",
       "source_sample_chars": 4,
-      "max_chars": 24,
+      "max_chars": 5,
       "typography_role": "chinese_heading",
-      "semantic_role": "item_field_reviewed",
       "bounds_emu_local": [
         705303,
         2276364,
         1669392,
         374205
       ],
-      "semantic_key": "item_5.title"
+      "semantic_key": "item_5.title",
+      "semantic_path": "arrow_cards[4].heading",
+      "max_lines": 1
     },
     {
       "field": "text_70",
@@ -252,16 +265,17 @@
       ],
       "source_text": "催化酶填充一次后，至少可使用30次，处理成本低，效率高",
       "source_sample_chars": 27,
-      "max_chars": 40,
+      "max_chars": 24,
       "typography_role": "chinese_body",
-      "semantic_role": "item_field_reviewed",
       "bounds_emu_local": [
         617646,
         2826426,
         2283915,
         557140
       ],
-      "semantic_key": "item_5.description"
+      "semantic_key": "item_5.description",
+      "semantic_path": "arrow_cards[4].copy",
+      "max_lines": 1
     },
     {
       "field": "text_64",
@@ -274,16 +288,17 @@
       ],
       "source_text": "物联网",
       "source_sample_chars": 3,
-      "max_chars": 24,
+      "max_chars": 5,
       "typography_role": "chinese_heading",
-      "semantic_role": "item_field_reviewed",
       "bounds_emu_local": [
         705303,
         2276364,
         1669392,
         374205
       ],
-      "semantic_key": "item_6.title"
+      "semantic_key": "item_6.title",
+      "semantic_path": "arrow_cards[5].heading",
+      "max_lines": 1
     },
     {
       "field": "text_65",
@@ -296,16 +311,17 @@
       ],
       "source_text": "物联网+大数据，运行数据可通过物联网系统在电脑进行查看和监控",
       "source_sample_chars": 30,
-      "max_chars": 45,
+      "max_chars": 24,
       "typography_role": "chinese_body",
-      "semantic_role": "item_field_reviewed",
       "bounds_emu_local": [
         617646,
         2826426,
         2581275,
         557140
       ],
-      "semantic_key": "item_6.description"
+      "semantic_key": "item_6.description",
+      "semantic_path": "arrow_cards[5].copy",
+      "max_lines": 1
     }
   ],
   "objects": {
@@ -316,7 +332,7 @@
         "shape_id": 8,
         "shape_name": "Freeform 3076",
         "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           2,
           4
@@ -332,7 +348,7 @@
         "shape_id": 11,
         "shape_name": "图片 10",
         "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           2,
           4
@@ -359,5 +375,5 @@
       }
     ]
   },
-  "review": "visual index only; field semantics provisional"
+  "review": "deep-blue-tech structural body and text capacity"
 }

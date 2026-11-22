@@ -2,132 +2,6 @@
   "schema_version": "1.0",
   "fields": [
     {
-      "field": "text_9",
-      "shape_id": 9,
-      "shape_name": "Rectangle 22",
-      "type": "text",
-      "group_path": [],
-      "source_text": "3290.4",
-      "source_sample_chars": 6,
-      "max_chars": 24,
-      "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
-      "bounds_emu_local": [
-        1289493,
-        4727100,
-        1005083,
-        246221
-      ]
-    },
-    {
-      "field": "text_14",
-      "shape_id": 14,
-      "shape_name": "Rectangle 22",
-      "type": "text",
-      "group_path": [],
-      "source_text": "4589.0",
-      "source_sample_chars": 6,
-      "max_chars": 24,
-      "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
-      "bounds_emu_local": [
-        2769319,
-        4399446,
-        1005083,
-        246221
-      ]
-    },
-    {
-      "field": "text_19",
-      "shape_id": 19,
-      "shape_name": "Rectangle 22",
-      "type": "text",
-      "group_path": [],
-      "source_text": "5296.6",
-      "source_sample_chars": 6,
-      "max_chars": 24,
-      "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
-      "bounds_emu_local": [
-        4245811,
-        4252637,
-        1003480,
-        246221
-      ]
-    },
-    {
-      "field": "text_24",
-      "shape_id": 24,
-      "shape_name": "Rectangle 22",
-      "type": "text",
-      "group_path": [],
-      "source_text": "3234.2",
-      "source_sample_chars": 6,
-      "max_chars": 24,
-      "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
-      "bounds_emu_local": [
-        5718292,
-        4808971,
-        1009892,
-        246221
-      ]
-    },
-    {
-      "field": "text_29",
-      "shape_id": 29,
-      "shape_name": "Rectangle 22",
-      "type": "text",
-      "group_path": [],
-      "source_text": "5516.7",
-      "source_sample_chars": 6,
-      "max_chars": 24,
-      "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
-      "bounds_emu_local": [
-        7222032,
-        4170712,
-        953787,
-        246221
-      ]
-    },
-    {
-      "field": "text_35",
-      "shape_id": 35,
-      "shape_name": "Rectangle 22",
-      "type": "text",
-      "group_path": [],
-      "source_text": "6365.1",
-      "source_sample_chars": 6,
-      "max_chars": 24,
-      "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
-      "bounds_emu_local": [
-        8702873,
-        4036035,
-        952184,
-        246221
-      ]
-    },
-    {
-      "field": "text_40",
-      "shape_id": 40,
-      "shape_name": "Rectangle 22",
-      "type": "text",
-      "group_path": [],
-      "source_text": "7271.4",
-      "source_sample_chars": 6,
-      "max_chars": 24,
-      "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
-      "bounds_emu_local": [
-        10176160,
-        3848332,
-        956992,
-        246221
-      ]
-    },
-    {
       "field": "text_42",
       "shape_id": 42,
       "shape_name": "文本框 41",
@@ -135,15 +9,16 @@
       "group_path": [],
       "source_text": "市场规模持续增长",
       "source_sample_chars": 8,
-      "max_chars": 24,
+      "max_chars": 8,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         1442190,
         1881922,
         3160356,
         400110
-      ]
+      ],
+      "semantic_path": "chart_commentary[0].title",
+      "max_lines": 1
     },
     {
       "field": "text_43",
@@ -153,15 +28,21 @@
       "group_path": [],
       "source_text": "随着中国经济的蓬勃发展和人们对素质教育\n重视程度的提高，素质教育市场规模不断扩大",
       "source_sample_chars": 40,
-      "max_chars": 60,
+      "max_chars": 37,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         897361,
         2359909,
         2978645,
         488788
-      ]
+      ],
+      "semantic_path": "chart_commentary[0].copy",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        18,
+        18
+      ],
+      "preserve_paragraph_styles": true
     },
     {
       "field": "text_46",
@@ -171,15 +52,16 @@
       "group_path": [],
       "source_text": "细分市场快速发展",
       "source_sample_chars": 8,
-      "max_chars": 24,
+      "max_chars": 8,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         5130834,
         1881922,
         2433817,
         400110
-      ]
+      ],
+      "semantic_path": "chart_commentary[1].title",
+      "max_lines": 1
     },
     {
       "field": "text_47",
@@ -189,15 +71,21 @@
       "group_path": [],
       "source_text": "素质教育市场呈现出细分化、专业化、\n智能化的发展特点",
       "source_sample_chars": 26,
-      "max_chars": 39,
+      "max_chars": 37,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         4586006,
         2359909,
         2978645,
         488788
-      ]
+      ],
+      "semantic_path": "chart_commentary[1].copy",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        18,
+        18
+      ],
+      "preserve_paragraph_styles": true
     },
     {
       "field": "text_50",
@@ -207,15 +95,16 @@
       "group_path": [],
       "source_text": "政策和市场双重驱动",
       "source_sample_chars": 9,
-      "max_chars": 24,
+      "max_chars": 8,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         8819479,
         1881922,
         2714469,
         400110
-      ]
+      ],
+      "semantic_path": "chart_commentary[2].title",
+      "max_lines": 1
     },
     {
       "field": "text_51",
@@ -225,15 +114,21 @@
       "group_path": [],
       "source_text": "不仅推动了素质教育行业的持续发展 \n也为更多孩子提供了丰富、多元的教育选择",
       "source_sample_chars": 37,
-      "max_chars": 55,
+      "max_chars": 37,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         8274651,
         2368758,
         2970937,
         488788
-      ]
+      ],
+      "semantic_path": "chart_commentary[2].copy",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        18,
+        18
+      ],
+      "preserve_paragraph_styles": true
     },
     {
       "field": "text_54",
@@ -245,15 +140,16 @@
       ],
       "source_text": "素质教育市场规模（亿元）",
       "source_sample_chars": 12,
-      "max_chars": 24,
+      "max_chars": 12,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         4501141,
         5810215,
         1613621,
         161583
-      ]
+      ],
+      "semantic_path": "chart.caption",
+      "max_lines": 1
     },
     {
       "field": "text_45",
@@ -268,13 +164,15 @@
       "source_sample_chars": 8,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3637963,
         416934,
         4916076,
         430887
-      ]
+      ],
+      "semantic_path": "page.title",
+      "required": false,
+      "missing_action": "clear_text"
     },
     {
       "field": "text_78",
@@ -289,13 +187,15 @@
       "source_sample_chars": 23,
       "max_chars": 34,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         1285874,
         1056165,
         9620252,
         301041
-      ]
+      ],
+      "semantic_path": "page.subtitle",
+      "required": false,
+      "missing_action": "clear_text"
     }
   ],
   "objects": {
@@ -304,8 +204,15 @@
         "shape_id": 4,
         "shape_name": "图表 3",
         "group_path": [],
-        "categories_max": 12,
-        "series_max": 5
+        "categories_max": 7,
+        "series_max": 1,
+        "count_matches_categories": true,
+        "title_in_binding": true,
+        "category_max_chars": 4,
+        "value_range": [
+          0,
+          9999
+        ]
       }
     ],
     "tables": [],
@@ -314,7 +221,7 @@
         "shape_id": 79,
         "shape_name": "Freeform 3076",
         "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           2,
           3
@@ -330,7 +237,7 @@
         "shape_id": 85,
         "shape_name": "图片 84",
         "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           2,
           3
@@ -357,5 +264,5 @@
       }
     ]
   },
-  "review": "visual index only; field semantics provisional"
+  "review": "deep-blue-tech structural body and text capacity"
 }

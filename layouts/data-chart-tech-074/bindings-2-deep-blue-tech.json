@@ -1,0 +1,154 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "group_path": [
+        2
+      ],
+      "source_text": "行业结构分析报告",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "bounds_emu_local": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ],
+      "semantic_path": "page.title",
+      "required": false,
+      "missing_action": "clear_text"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "group_path": [
+        117,
+        85
+      ],
+      "source_text": "连续12年全球最大网络零售市场；直播电商渗透率从2020年，4.9%跃升至2026年37.8%",
+      "source_sample_chars": 47,
+      "max_chars": 37,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        1097696,
+        2184573,
+        3993018,
+        634533
+      ],
+      "semantic_path": "pie_companion[0].copy",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        18,
+        18
+      ]
+    },
+    {
+      "field": "text_186",
+      "shape_id": 186,
+      "shape_name": "文本框 185",
+      "type": "text",
+      "group_path": [
+        182,
+        183
+      ],
+      "source_text": "行业增长企稳，营收和利润分别增长40%\n和39%；AI与数字资产是投资亮点",
+      "source_sample_chars": 37,
+      "max_chars": 37,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        1097696,
+        2166993,
+        3993018,
+        669694
+      ],
+      "semantic_path": "pie_companion[1].copy",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        18,
+        18
+      ],
+      "preserve_paragraph_styles": true
+    }
+  ],
+  "objects": {
+    "charts": [
+      {
+        "shape_id": 26,
+        "shape_name": "图表 25",
+        "group_path": [],
+        "categories_max": 3,
+        "series_max": 1,
+        "series_min": 1,
+        "series_name_max_chars": 5,
+        "category_max_chars": 4,
+        "title_in_binding": true,
+        "count_matches_categories": true,
+        "minimum_slice_share": 0.12,
+        "value_range": [
+          1,
+          9999
+        ],
+        "category_label_shape_ids": [
+          42,
+          187
+        ]
+      }
+    ],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 9,
+        "shape_name": "Freeform 3076",
+        "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+        "semantic_role": "source_decorative_locked",
+        "group_path": [
+          2,
+          5
+        ],
+        "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ]
+      },
+      {
+        "shape_id": 13,
+        "shape_name": "图片 12",
+        "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+        "semantic_role": "source_decorative_locked",
+        "group_path": [
+          2,
+          5
+        ],
+        "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ]
+      },
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          11057890,
+          6476365,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "deep-blue-tech native chart validation"
+}

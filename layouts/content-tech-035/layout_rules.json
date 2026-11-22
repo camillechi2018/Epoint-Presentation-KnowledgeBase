@@ -1,14 +1,114 @@
 {
-  "cardinality_mode": "fixed",
+  "cardinality_mode": "repeatable",
   "supported_counts": [
+    2,
     3
   ],
   "source_count": 3,
   "candidate_counts": [],
-  "reflow_status": "not_implemented",
+  "reflow_status": "native_fixed_span_reflow_verified",
   "grouping_status": "provisional_requires_manual_object_review",
   "verified_counts": [
+    2,
     3
   ],
-  "validation_status": "verified_fixed_count"
+  "validation_status": "verified",
+  "geometry_by_count": {
+    "2": {
+      "remove_shape_ids": [
+        4147,
+        4148,
+        4149,
+        4156,
+        4151,
+        4152,
+        4160
+      ],
+      "bounds_emu": {
+        "25": [
+          672990,
+          1878173,
+          5183192,
+          4357527
+        ],
+        "32": [
+          866062,
+          3178901,
+          4789384,
+          1247008
+        ],
+        "35": [
+          866062,
+          4730212,
+          4789384,
+          1195712
+        ],
+        "59": [
+          5684514,
+          6043656,
+          192044,
+          192044
+        ],
+        "26": [
+          6335817,
+          1878173,
+          5183192,
+          4357527
+        ],
+        "33": [
+          6437416,
+          3178901,
+          4789384,
+          1247008
+        ],
+        "36": [
+          6437417,
+          4730212,
+          4789384,
+          973664
+        ],
+        "56": [
+          6304258,
+          2157597,
+          1440941,
+          830997
+        ],
+        "60": [
+          11326965,
+          6043656,
+          192044,
+          192044
+        ],
+        "4157": [
+          7343139,
+          2337176,
+          1884498,
+          409159
+        ],
+        "4159": [
+          7510703,
+          2394171,
+          1822688,
+          307777
+        ]
+      },
+      "fixed_width_checks": [
+        {
+          "native_ids": [
+            25,
+            26,
+            4147
+          ],
+          "variant_ids": [
+            25,
+            26
+          ],
+          "span_emu": [
+            672990,
+            11519009
+          ]
+        }
+      ]
+    }
+  }
 }

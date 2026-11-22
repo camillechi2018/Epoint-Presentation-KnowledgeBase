@@ -1,11 +1,38 @@
 # content-tech-051
 
-来源：深蓝科技风 P051；角色：content；关系初标：process。
+深蓝科技风源页 P051。两端高、中部低的并列卡片。
 
-递归对象：68；文本字段：16；图片：3；图表：0；源 Logo：有。
+通用结构 `parallel-points`。PowerPoint 已验证 2、3、4、5、6 项。
+选版使用正文结构、已验证项数和字段容量。
 
-原稿主题示例：团队协作能够集合众人之力，实现个人难以达成的目标 
-[通过团队协作，促进知识共享，提升团队整体能力 / 团队协作 / 在团队中，明确每个人的角色和责任，确保任务分配合理 
-每个人都要清楚自己的职责，并尽力完成。源稿示例事实不进入新项目。
+## 2 项文案容量
 
-项数／字段／动效均待人工复核；原生 PPTX 可编辑结构保留。
+- `pillar_cards[].title` 最多 6 字
+- `pillar_cards[].copy` 各段上限 23、23 字
+- `count.caption` 最多 5 字
+
+## 3 项文案容量
+
+- `pillar_cards[].title` 最多 6 字
+- `pillar_cards[].copy` 各段上限 23、23 字
+- `count.caption` 最多 5 字
+
+## 4 项文案容量
+
+- `pillar_cards[].title` 最多 6 字
+- `pillar_cards[].copy` 各段上限 23、23 字
+- `count.caption` 最多 5 字
+
+## 5 项文案容量
+
+- `pillar_cards[].title` 最多 6 字
+- `pillar_cards[].copy` 各段上限 23、23 字
+- `count.caption` 最多 5 字
+
+## 6 项文案容量
+
+- `pillar_cards[].title` 最多 5 字
+- `pillar_cards[].copy` 各段上限 17、17 字
+- `count.caption` 最多 5 字
+
+页标题、Logo 和公共装饰由演示文稿技能处理。资产状态为 `draft_pending_review`。

@@ -1,9 +1,15 @@
 # content-tech-025
 
-来源：深蓝科技风 P025；角色：content；关系初标：parallel-points。
+深蓝科技风源页 P025。四象限圆心与四组说明。
 
-递归对象：148；文本字段：18；图片：3；图表：0；源 Logo：有。
+通用结构 `parallel-points`。PowerPoint 已验证 4 项。
+选版使用正文结构、已验证项数和字段容量。
 
-原稿主题示例：M / B / Q。源稿示例事实不进入新项目。
+## 4 项文案容量
 
-项数／字段／动效均待人工复核；原生 PPTX 可编辑结构保留。
+- `quadrants[].glyph` 最多 1 字
+- `quadrants[].title` 最多 4 字
+- `quadrants[].caption` 最多 11 字
+- `quadrants[].paragraphs` 各段上限 12、12、12 字
+
+页标题、Logo 和公共装饰由演示文稿技能处理。资产状态为 `draft_pending_review`。

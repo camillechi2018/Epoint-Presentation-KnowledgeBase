@@ -14,13 +14,15 @@
       "source_sample_chars": 8,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3637963,
         416934,
         4916076,
         430887
-      ]
+      ],
+      "semantic_path": "page.title",
+      "required": false,
+      "missing_action": "clear_text"
     },
     {
       "field": "text_23",
@@ -35,49 +37,15 @@
       "source_sample_chars": 26,
       "max_chars": 39,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         1285874,
         1056165,
         9620252,
         301041
-      ]
-    },
-    {
-      "field": "text_68",
-      "shape_id": 68,
-      "shape_name": "文本框 67",
-      "type": "text",
-      "group_path": [],
-      "source_text": "6411\nMillion",
-      "source_sample_chars": 12,
-      "max_chars": 24,
-      "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
-      "bounds_emu_local": [
-        2703742,
-        3799595,
-        1106392,
-        769441
-      ]
-    },
-    {
-      "field": "text_102",
-      "shape_id": 102,
-      "shape_name": "文本框 101",
-      "type": "text",
-      "group_path": [],
-      "source_text": "6411\nMillion",
-      "source_sample_chars": 12,
-      "max_chars": 24,
-      "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
-      "bounds_emu_local": [
-        8314780,
-        3799595,
-        1106392,
-        769441
-      ]
+      ],
+      "semantic_path": "page.subtitle",
+      "required": false,
+      "missing_action": "clear_text"
     },
     {
       "field": "text_9",
@@ -87,15 +55,16 @@
       "group_path": [],
       "source_text": "CEX现货24小时交易量",
       "source_sample_chars": 12,
-      "max_chars": 24,
+      "max_chars": 14,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         668959,
         1693246,
         5185877,
         557246
-      ]
+      ],
+      "semantic_path": "doughnut_panels[0].heading",
+      "max_lines": 1
     },
     {
       "field": "text_108",
@@ -105,15 +74,16 @@
       "group_path": [],
       "source_text": "DEX现货24小时交易量",
       "source_sample_chars": 12,
-      "max_chars": 24,
+      "max_chars": 14,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         6287663,
         1693246,
         5185877,
         557246
-      ]
+      ],
+      "semantic_path": "doughnut_panels[1].heading",
+      "max_lines": 1
     }
   ],
   "objects": {
@@ -122,15 +92,37 @@
         "shape_id": 79,
         "shape_name": "图表 78",
         "group_path": [],
-        "categories_max": 12,
-        "series_max": 5
+        "categories_max": 5,
+        "series_max": 1,
+        "series_min": 1,
+        "series_name_max_chars": 5,
+        "category_max_chars": 4,
+        "title_in_binding": true,
+        "count_matches_categories": true,
+        "minimum_slice_share": 0.12,
+        "value_range": [
+          1,
+          9999
+        ],
+        "total_shape_id": 68
       },
       {
         "shape_id": 101,
         "shape_name": "图表 100",
         "group_path": [],
-        "categories_max": 12,
-        "series_max": 5
+        "categories_max": 5,
+        "series_max": 1,
+        "series_min": 1,
+        "series_name_max_chars": 5,
+        "category_max_chars": 4,
+        "title_in_binding": true,
+        "count_matches_categories": true,
+        "minimum_slice_share": 0.12,
+        "value_range": [
+          1,
+          9999
+        ],
+        "total_shape_id": 102
       }
     ],
     "tables": [],
@@ -139,7 +131,7 @@
         "shape_id": 7,
         "shape_name": "Picture 62",
         "sha256": "7a6f62184e1128d2a4fa75b28433d6fb789d0294ce4d835d25877b5e3f558631",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           95
         ],
@@ -154,7 +146,7 @@
         "shape_id": 98,
         "shape_name": "Picture 62",
         "sha256": "7a6f62184e1128d2a4fa75b28433d6fb789d0294ce4d835d25877b5e3f558631",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           96
         ],
@@ -169,7 +161,7 @@
         "shape_id": 24,
         "shape_name": "Freeform 3076",
         "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           19,
           20
@@ -185,7 +177,7 @@
         "shape_id": 80,
         "shape_name": "图片 79",
         "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           19,
           20
@@ -212,5 +204,5 @@
       }
     ]
   },
-  "review": "visual index only; field semantics provisional"
+  "review": "deep-blue-tech native chart validation"
 }

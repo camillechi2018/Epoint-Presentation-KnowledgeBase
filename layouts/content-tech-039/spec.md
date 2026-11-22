@@ -1,3 +1,26 @@
 # 四维现状与措施框架
 
-原模板组件 content-tech-039，原生项数 4。原版全页和绑定留档。适用于能提供完整结构字段的短文案。纯正文资产保留正文对象，公共页眉由技能生成。增减项数、长文案、HTML 与动效需单独验证。
+深蓝科技风源页 P039。上下两层对齐的说明列。
+
+通用结构 `parallel-points`。PowerPoint 已验证 3、4 项。
+选版使用正文结构、已验证项数和字段容量。
+
+## 3 项文案容量
+
+- `stacked_columns[].upper_title` 最多 3 字
+- `stacked_columns[].upper_caption` 最多 6 字
+- `stacked_columns[].upper_copy` 最多 48 字
+- `stacked_columns[].lower_title` 最多 6 字
+- `stacked_columns[].lower_copy` 最多 58 字
+
+## 4 项文案容量
+
+- `stacked_columns[].upper_title` 最多 3 字
+- `stacked_columns[].upper_caption` 最多 6 字
+- `stacked_columns[].upper_copy` 最多 40 字
+- `stacked_columns[].lower_title` 最多 6 字
+- `stacked_columns[].lower_copy` 最多 48 字
+
+页标题、Logo 和公共装饰由演示文稿技能处理。资产状态为 `draft_pending_review`。
+
+装配使用已登记的纯正文资产和技能公共页眉。

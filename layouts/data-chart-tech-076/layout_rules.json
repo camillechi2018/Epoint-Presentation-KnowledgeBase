@@ -1,8 +1,123 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
-  "source_count": null,
-  "candidate_counts": [],
-  "reflow_status": "not_implemented",
-  "grouping_status": "provisional_requires_manual_object_review"
+  "cardinality_mode": "repeatable",
+  "supported_counts": [
+    2,
+    3
+  ],
+  "source_count": 3,
+  "candidate_counts": [
+    2,
+    3
+  ],
+  "reflow_status": "native_fixed_span_reflow_verified",
+  "grouping_status": "provisional_requires_manual_object_review",
+  "verified_counts": [
+    2,
+    3
+  ],
+  "validation_status": "verified",
+  "geometry_by_count": {
+    "2": {
+      "remove_shape_ids": [
+        66,
+        13,
+        17,
+        19,
+        87,
+        98
+      ],
+      "bounds_emu": {
+        "56": [
+          711687,
+          2723561,
+          5224705,
+          3959169
+        ],
+        "74": [
+          6242908,
+          2723561,
+          5224705,
+          3959169
+        ],
+        "12": [
+          825284,
+          2832860,
+          5010209,
+          3365612
+        ],
+        "14": [
+          6350156,
+          2832860,
+          5010209,
+          3365612
+        ],
+        "15": [
+          6665765,
+          1529253,
+          4378991,
+          484456
+        ],
+        "16": [
+          673098,
+          1529253,
+          5314581,
+          484456
+        ],
+        "18": [
+          1256916,
+          1942496,
+          4134248,
+          580450
+        ],
+        "20": [
+          6788137,
+          1942496,
+          4134248,
+          580450
+        ],
+        "86": [
+          873218,
+          5321498,
+          4904217,
+          447267
+        ],
+        "88": [
+          6403152,
+          5321498,
+          4904217,
+          447267
+        ],
+        "94": [
+          822363,
+          1753221,
+          5026204,
+          71750
+        ],
+        "99": [
+          6623094,
+          1753221,
+          4464334,
+          71750
+        ]
+      },
+      "fixed_width_checks": [
+        {
+          "native_ids": [
+            56,
+            66,
+            74
+          ],
+          "variant_ids": [
+            56,
+            74
+          ],
+          "span_emu": [
+            711687,
+            11467613
+          ]
+        }
+      ]
+    }
+  },
+  "shared_chart_value_scale": true
 }

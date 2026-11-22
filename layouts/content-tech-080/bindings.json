@@ -9,15 +9,16 @@
       "group_path": [],
       "source_text": "智能",
       "source_sample_chars": 2,
-      "max_chars": 24,
+      "max_chars": 2,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         5574099,
         3546784,
         1043803,
         400110
-      ]
+      ],
+      "semantic_path": "levels.middle",
+      "max_lines": 1
     },
     {
       "field": "text_27",
@@ -27,15 +28,16 @@
       "group_path": [],
       "source_text": "连接",
       "source_sample_chars": 2,
-      "max_chars": 24,
+      "max_chars": 2,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         5574099,
         4379420,
         1043803,
         276999
-      ]
+      ],
+      "semantic_path": "levels.bridge",
+      "max_lines": 1
     },
     {
       "field": "text_30",
@@ -45,15 +47,21 @@
       "group_path": [],
       "source_text": "智慧\n营销",
       "source_sample_chars": 5,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         9514565,
         5620720,
         911526,
         492507
-      ]
+      ],
+      "semantic_path": "arc_lower_nodes[7].label",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        3,
+        2
+      ],
+      "preserve_paragraph_styles": true
     },
     {
       "field": "text_31",
@@ -63,15 +71,21 @@
       "group_path": [],
       "source_text": "数字化\n班组",
       "source_sample_chars": 6,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         8580763,
         5814395,
         911526,
         492507
-      ]
+      ],
+      "semantic_path": "arc_lower_nodes[6].label",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        3,
+        2
+      ],
+      "preserve_paragraph_styles": true
     },
     {
       "field": "text_32",
@@ -81,15 +95,21 @@
       "group_path": [],
       "source_text": "移动\n协同",
       "source_sample_chars": 5,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         7572091,
         5905200,
         911526,
         492507
-      ]
+      ],
+      "semantic_path": "arc_lower_nodes[5].label",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        3,
+        2
+      ],
+      "preserve_paragraph_styles": true
     },
     {
       "field": "text_33",
@@ -99,15 +119,21 @@
       "group_path": [],
       "source_text": "新能源\n运营",
       "source_sample_chars": 6,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         6416533,
         5971240,
         911526,
         492507
-      ]
+      ],
+      "semantic_path": "arc_lower_nodes[4].label",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        3,
+        2
+      ],
+      "preserve_paragraph_styles": true
     },
     {
       "field": "text_34",
@@ -117,15 +143,21 @@
       "group_path": [],
       "source_text": "综合能源\n服务",
       "source_sample_chars": 7,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         4789136,
         5971240,
         1061138,
         492507
-      ]
+      ],
+      "semantic_path": "arc_lower_nodes[3].label",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        3,
+        2
+      ],
+      "preserve_paragraph_styles": true
     },
     {
       "field": "text_35",
@@ -135,15 +167,21 @@
       "group_path": [],
       "source_text": "零碳\n园区",
       "source_sample_chars": 5,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3690395,
         5905200,
         911526,
         492507
-      ]
+      ],
+      "semantic_path": "arc_lower_nodes[2].label",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        3,
+        2
+      ],
+      "preserve_paragraph_styles": true
     },
     {
       "field": "text_36",
@@ -153,15 +191,21 @@
       "group_path": [],
       "source_text": "破资产\n管理",
       "source_sample_chars": 6,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         2713508,
         5814395,
         911526,
         492507
-      ]
+      ],
+      "semantic_path": "arc_lower_nodes[1].label",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        3,
+        2
+      ],
+      "preserve_paragraph_styles": true
     },
     {
       "field": "text_37",
@@ -171,15 +215,21 @@
       "group_path": [],
       "source_text": "生态\n协同",
       "source_sample_chars": 5,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         1765909,
         5620720,
         911526,
         492507
-      ]
+      ],
+      "semantic_path": "arc_lower_nodes[0].label",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        3,
+        2
+      ],
+      "preserve_paragraph_styles": true
     },
     {
       "field": "text_6",
@@ -191,13 +241,15 @@
       "source_sample_chars": 9,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3637963,
         416934,
         4916076,
         430887
-      ]
+      ],
+      "semantic_path": "page.title",
+      "required": false,
+      "missing_action": "clear_text"
     },
     {
       "field": "text_20",
@@ -209,15 +261,21 @@
       ],
       "source_text": "智慧\n管网",
       "source_sample_chars": 5,
-      "max_chars": 24,
+      "max_chars": 7,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         10475888,
         2647898,
         563156,
         350160
-      ]
+      ],
+      "semantic_path": "arc_upper_nodes[6].label",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        3,
+        3
+      ],
+      "preserve_paragraph_styles": true
     },
     {
       "field": "text_79",
@@ -229,15 +287,21 @@
       ],
       "source_text": "智慧\n运检",
       "source_sample_chars": 5,
-      "max_chars": 24,
+      "max_chars": 7,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         10475888,
         2647898,
         563156,
         350160
-      ]
+      ],
+      "semantic_path": "arc_upper_nodes[0].label",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        3,
+        3
+      ],
+      "preserve_paragraph_styles": true
     },
     {
       "field": "text_87",
@@ -249,15 +313,21 @@
       ],
       "source_text": "智慧\n变电站",
       "source_sample_chars": 6,
-      "max_chars": 24,
+      "max_chars": 7,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         10475888,
         2647898,
         563156,
         350160
-      ]
+      ],
+      "semantic_path": "arc_upper_nodes[1].label",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        3,
+        3
+      ],
+      "preserve_paragraph_styles": true
     },
     {
       "field": "text_95",
@@ -269,15 +339,21 @@
       ],
       "source_text": "能效\n优化",
       "source_sample_chars": 5,
-      "max_chars": 24,
+      "max_chars": 7,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         10475888,
         2647898,
         563156,
         350160
-      ]
+      ],
+      "semantic_path": "arc_upper_nodes[2].label",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        3,
+        3
+      ],
+      "preserve_paragraph_styles": true
     },
     {
       "field": "text_103",
@@ -289,15 +365,21 @@
       ],
       "source_text": "智能\n安全",
       "source_sample_chars": 5,
-      "max_chars": 24,
+      "max_chars": 7,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         10475888,
         2647898,
         563156,
         350160
-      ]
+      ],
+      "semantic_path": "arc_upper_nodes[3].label",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        3,
+        3
+      ],
+      "preserve_paragraph_styles": true
     },
     {
       "field": "text_139",
@@ -309,15 +391,21 @@
       ],
       "source_text": "全真互\n联产线",
       "source_sample_chars": 7,
-      "max_chars": 24,
+      "max_chars": 7,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         10475888,
         2647898,
         563156,
         350160
-      ]
+      ],
+      "semantic_path": "arc_upper_nodes[4].label",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        3,
+        3
+      ],
+      "preserve_paragraph_styles": true
     },
     {
       "field": "text_147",
@@ -329,15 +417,21 @@
       ],
       "source_text": "智慧\n矿车",
       "source_sample_chars": 5,
-      "max_chars": 24,
+      "max_chars": 7,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         10475888,
         2647898,
         563156,
         350160
-      ]
+      ],
+      "semantic_path": "arc_upper_nodes[5].label",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        3,
+        3
+      ],
+      "preserve_paragraph_styles": true
     },
     {
       "field": "text_43",
@@ -347,15 +441,16 @@
       "group_path": [],
       "source_text": "增效",
       "source_sample_chars": 2,
-      "max_chars": 24,
+      "max_chars": 2,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         5706793,
         1615382,
         778415,
         400110
-      ]
+      ],
+      "semantic_path": "levels.upper",
+      "max_lines": 1
     },
     {
       "field": "text_28",
@@ -365,15 +460,16 @@
       "group_path": [],
       "source_text": "降本",
       "source_sample_chars": 2,
-      "max_chars": 24,
+      "max_chars": 2,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         5725161,
         4709712,
         778415,
         400110
-      ]
+      ],
+      "semantic_path": "levels.lower",
+      "max_lines": 1
     }
   ],
   "objects": {
@@ -384,7 +480,7 @@
         "shape_id": 7,
         "shape_name": "Freeform 3076",
         "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           5
         ],
@@ -399,7 +495,7 @@
         "shape_id": 12,
         "shape_name": "图片 11",
         "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           5
         ],
@@ -414,7 +510,7 @@
         "shape_id": 218,
         "shape_name": "图片 217",
         "sha256": "04b623d02160cf64d681570dc676c432b16fb670d056325dfe7f3a39f35795a3",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [],
         "bounds_emu_local": [
           4184909,
@@ -427,7 +523,7 @@
         "shape_id": 219,
         "shape_name": "图片 218",
         "sha256": "8faef33d3b9c68b0353fc955135c1b0677e080312f84de074649e982819ab140",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [],
         "bounds_emu_local": [
           3741663,
@@ -451,5 +547,5 @@
       }
     ]
   },
-  "review": "visual index only; field semantics provisional"
+  "review": "deep-blue-tech structural body and text capacity"
 }

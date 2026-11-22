@@ -5,10 +5,10 @@
   ],
   "source_count": 5,
   "candidate_counts": [],
-  "reflow_status": "not_implemented",
+  "reflow_status": "native_only_verified",
   "grouping_status": "provisional_requires_manual_object_review",
   "verified_counts": [
     5
   ],
-  "validation_status": "verified_fixed_count"
+  "validation_status": "verified"
 }

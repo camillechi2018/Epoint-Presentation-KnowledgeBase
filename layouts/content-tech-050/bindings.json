@@ -13,13 +13,15 @@
       "source_sample_chars": 4,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3637963,
         416934,
         4916076,
         430887
-      ]
+      ],
+      "semantic_path": "page.title",
+      "required": false,
+      "missing_action": "clear_text"
     },
     {
       "field": "text_56",
@@ -31,13 +33,15 @@
       "source_sample_chars": 28,
       "max_chars": 42,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         1285874,
         1056165,
         9620252,
         301041
-      ]
+      ],
+      "semantic_path": "page.subtitle",
+      "required": false,
+      "missing_action": "clear_text"
     },
     {
       "field": "text_74",
@@ -47,15 +51,16 @@
       "group_path": [],
       "source_text": "雷火灸",
       "source_sample_chars": 3,
-      "max_chars": 24,
+      "max_chars": 4,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3641094,
         1578823,
         1474744,
         461665
-      ]
+      ],
+      "semantic_path": "wave_nodes[1].heading",
+      "max_lines": 1
     },
     {
       "field": "text_78",
@@ -65,14 +70,19 @@
       "group_path": [],
       "source_text": "适用于过敏性鼻炎、呼吸系统疾病、骨关节疾病等",
       "source_sample_chars": 22,
-      "max_chars": 33,
+      "max_chars": 23,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         3295432,
         2311573,
         2166068,
         524824
+      ],
+      "semantic_path": "wave_nodes[1].copy",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        11,
+        11
       ]
     },
     {
@@ -83,15 +93,16 @@
       "group_path": [],
       "source_text": "火针",
       "source_sample_chars": 2,
-      "max_chars": 24,
+      "max_chars": 2,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         7996637,
         1578823,
         800219,
         461665
-      ]
+      ],
+      "semantic_path": "wave_nodes[3].heading",
+      "max_lines": 1
     },
     {
       "field": "text_146",
@@ -101,15 +112,21 @@
       "group_path": [],
       "source_text": "适用于骨关节疾病\n带状疱疹、湿疹等",
       "source_sample_chars": 17,
-      "max_chars": 25,
+      "max_chars": 23,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         7295928,
         2311573,
         2166068,
         524824
-      ]
+      ],
+      "semantic_path": "wave_nodes[3].copy",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        11,
+        11
+      ],
+      "preserve_paragraph_styles": true
     },
     {
       "field": "text_150",
@@ -119,15 +136,16 @@
       "group_path": [],
       "source_text": "疫情防控",
       "source_sample_chars": 4,
-      "max_chars": 24,
+      "max_chars": 4,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         9679935,
         4505970,
         1415772,
         461665
-      ]
+      ],
+      "semantic_path": "wave_nodes[4].heading",
+      "max_lines": 1
     },
     {
       "field": "text_151",
@@ -137,15 +155,21 @@
       "group_path": [],
       "source_text": "防重于治\n未病先治",
       "source_sample_chars": 9,
-      "max_chars": 24,
+      "max_chars": 9,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         9992658,
         5248155,
         800219,
         461665
-      ]
+      ],
+      "semantic_path": "wave_nodes[4].copy",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        4,
+        4
+      ],
+      "preserve_paragraph_styles": true
     },
     {
       "field": "text_158",
@@ -155,15 +179,16 @@
       "group_path": [],
       "source_text": "麦粒灸",
       "source_sample_chars": 3,
-      "max_chars": 24,
+      "max_chars": 3,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         5809280,
         4505970,
         1107996,
         461665
-      ]
+      ],
+      "semantic_path": "wave_nodes[2].heading",
+      "max_lines": 1
     },
     {
       "field": "text_159",
@@ -173,15 +198,22 @@
       "group_path": [],
       "source_text": "常灸的穴位是足三里，通过疤痕产生\n自体免疫蛋白可提升免疫力，用于一些\n免疫缺陷疾病及肿瘤病人辅助治疗",
       "source_sample_chars": 50,
-      "max_chars": 75,
+      "max_chars": 53,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         4527275,
         5211222,
         3672006,
         746423
-      ]
+      ],
+      "semantic_path": "wave_nodes[2].copy",
+      "max_lines": 3,
+      "paragraph_max_chars": [
+        17,
+        17,
+        17
+      ],
+      "preserve_paragraph_styles": true
     },
     {
       "field": "text_162",
@@ -191,15 +223,22 @@
       "group_path": [],
       "source_text": "取穴八髎穴，针对顽固性便秘、腰骶部疾病、\n坐骨神经痛、妇科月经不调、\n盆腔炎等相关疾病均有良好治疗效果",
       "source_sample_chars": 51,
-      "max_chars": 76,
+      "max_chars": 56,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         473711,
         5248155,
         3804918,
         746423
-      ]
+      ],
+      "semantic_path": "wave_nodes[0].copy",
+      "max_lines": 3,
+      "paragraph_max_chars": [
+        18,
+        18,
+        18
+      ],
+      "preserve_paragraph_styles": true
     },
     {
       "field": "text_164",
@@ -211,15 +250,16 @@
       ],
       "source_text": "01",
       "source_sample_chars": 2,
-      "max_chars": 24,
+      "max_chars": 2,
       "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         1947644,
         3601932,
         857052,
         558615
-      ]
+      ],
+      "semantic_path": "wave_nodes[0].marker",
+      "max_lines": 1
     },
     {
       "field": "text_86",
@@ -231,15 +271,16 @@
       ],
       "source_text": "02",
       "source_sample_chars": 2,
-      "max_chars": 24,
+      "max_chars": 2,
       "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         1947644,
         3650407,
         857052,
         461665
-      ]
+      ],
+      "semantic_path": "wave_nodes[1].marker",
+      "max_lines": 1
     },
     {
       "field": "text_102",
@@ -251,15 +292,16 @@
       ],
       "source_text": "04",
       "source_sample_chars": 2,
-      "max_chars": 24,
+      "max_chars": 2,
       "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         1947644,
         3650407,
         857052,
         461665
-      ]
+      ],
+      "semantic_path": "wave_nodes[3].marker",
+      "max_lines": 1
     },
     {
       "field": "text_118",
@@ -271,15 +313,16 @@
       ],
       "source_text": "05",
       "source_sample_chars": 2,
-      "max_chars": 24,
+      "max_chars": 2,
       "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         1947644,
         3650407,
         857052,
         461665
-      ]
+      ],
+      "semantic_path": "wave_nodes[4].marker",
+      "max_lines": 1
     },
     {
       "field": "text_134",
@@ -291,33 +334,16 @@
       ],
       "source_text": "03",
       "source_sample_chars": 2,
-      "max_chars": 24,
+      "max_chars": 2,
       "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         1947644,
         3650407,
         857052,
         461665
-      ]
-    },
-    {
-      "field": "text_168",
-      "shape_id": 168,
-      "shape_name": "常用图形-168",
-      "type": "text",
-      "group_path": [],
-      "source_text": "骨谬",
-      "source_sample_chars": 2,
-      "max_chars": 24,
-      "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
-      "bounds_emu_local": [
-        452061,
-        4638050,
-        800219,
-        461665
-      ]
+      ],
+      "semantic_path": "wave_nodes[2].marker",
+      "max_lines": 1
     },
     {
       "field": "text_161",
@@ -329,15 +355,16 @@
       ],
       "source_text": "八  针",
       "source_sample_chars": 4,
-      "max_chars": 24,
+      "max_chars": 3,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
       "bounds_emu_local": [
         1822171,
         4638050,
         1107996,
         461665
-      ]
+      ],
+      "semantic_path": "wave_nodes[0].heading",
+      "max_lines": 1
     }
   ],
   "objects": {
@@ -348,7 +375,7 @@
         "shape_id": 31,
         "shape_name": "图形 30",
         "sha256": "79833e75b8628fdaed87fa29e5166ba7a419bd5219b77719d6d0c3a470d3a1e4",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [],
         "bounds_emu_local": [
           1318457,
@@ -361,7 +388,7 @@
         "shape_id": 15,
         "shape_name": "Freeform 3076",
         "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           5,
           8
@@ -377,7 +404,7 @@
         "shape_id": 18,
         "shape_name": "图片 17",
         "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           5,
           8
@@ -404,5 +431,5 @@
       }
     ]
   },
-  "review": "visual index only; field semantics provisional"
+  "review": "deep-blue-tech structural body and text capacity"
 }

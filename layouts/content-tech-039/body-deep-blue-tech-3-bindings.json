@@ -1,0 +1,316 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "object 30",
+      "type": "text",
+      "group_path": [],
+      "source_text": "KAN DA SHI",
+      "source_sample_chars": 10,
+      "max_chars": 6,
+      "typography_role": "latin_numeric",
+      "bounds_emu_local": [
+        1950320,
+        2126443,
+        1024318,
+        184153
+      ],
+      "semantic_path": "items[0].context.tag",
+      "max_lines": 1
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "object 30",
+      "type": "text",
+      "group_path": [],
+      "source_text": "KAN DA SHI",
+      "source_sample_chars": 10,
+      "max_chars": 6,
+      "typography_role": "latin_numeric",
+      "bounds_emu_local": [
+        5575567,
+        2126443,
+        1063360,
+        184153
+      ],
+      "semantic_path": "items[1].context.tag",
+      "max_lines": 1
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "object 30",
+      "type": "text",
+      "group_path": [],
+      "source_text": "KAN DA SHI",
+      "source_sample_chars": 10,
+      "max_chars": 6,
+      "typography_role": "latin_numeric",
+      "bounds_emu_local": [
+        9200815,
+        2126443,
+        1068451,
+        184153
+      ],
+      "semantic_path": "items[2].context.tag",
+      "max_lines": 1
+    },
+    {
+      "field": "text_82",
+      "shape_id": 82,
+      "shape_name": "文本框 81",
+      "type": "text",
+      "group_path": [],
+      "source_text": "基于用户使用场景，快速低成本实现 产品智能与互联升级，强化用户连接 互动与体验，数据反哺用户运营与\n产品迭代、",
+      "source_sample_chars": 55,
+      "max_chars": 58,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        924343,
+        4606289,
+        3297251,
+        937436
+      ],
+      "semantic_path": "items[0].body",
+      "max_lines": 1
+    },
+    {
+      "field": "text_95",
+      "shape_id": 95,
+      "shape_name": "TextBox 32",
+      "type": "text",
+      "group_path": [],
+      "source_text": "产品智能化",
+      "source_sample_chars": 5,
+      "max_chars": 6,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        1043879,
+        4282581,
+        3058179,
+        307777
+      ],
+      "semantic_path": "items[0].heading",
+      "max_lines": 1
+    },
+    {
+      "field": "text_97",
+      "shape_id": 97,
+      "shape_name": "文本框 96",
+      "type": "text",
+      "group_path": [],
+      "source_text": "构建全域精准营销、全渠道销售、服 务智能、数字供应链、智能制造等能 力，打造以数据智能驱动的全链路运 营体系，上下游协同高效\n与DTC转型升级",
+      "source_sample_chars": 71,
+      "max_chars": 58,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        4388395,
+        4606289,
+        3297251,
+        1152880
+      ],
+      "semantic_path": "items[1].body",
+      "max_lines": 1
+    },
+    {
+      "field": "text_98",
+      "shape_id": 98,
+      "shape_name": "TextBox 32",
+      "type": "text",
+      "group_path": [],
+      "source_text": "经营数智化",
+      "source_sample_chars": 5,
+      "max_chars": 6,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        4507931,
+        4282581,
+        3058179,
+        307777
+      ],
+      "semantic_path": "items[1].heading",
+      "max_lines": 1
+    },
+    {
+      "field": "text_100",
+      "shape_id": 100,
+      "shape_name": "文本框 99",
+      "type": "text",
+      "group_path": [],
+      "source_text": "打造以用户价值为共同目标、以成员 的自驱力和创造力激发为根本、以业 务和组织的网络协同为机制、以共治 共生为文化，能柔性动态敏捷响应\n内 外部环境变化的敏捷组织",
+      "source_sample_chars": 80,
+      "max_chars": 58,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        7852447,
+        4606289,
+        3297251,
+        1152880
+      ],
+      "semantic_path": "items[2].body",
+      "max_lines": 1
+    },
+    {
+      "field": "text_101",
+      "shape_id": 101,
+      "shape_name": "TextBox 32",
+      "type": "text",
+      "group_path": [],
+      "source_text": "组织敏捷化",
+      "source_sample_chars": 5,
+      "max_chars": 6,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        7971983,
+        4282581,
+        3058179,
+        307777
+      ],
+      "semantic_path": "items[2].heading",
+      "max_lines": 1
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "TextBox 32",
+      "type": "text",
+      "group_path": [],
+      "source_text": "看大势",
+      "source_sample_chars": 3,
+      "max_chars": 3,
+      "typography_role": "chinese_heading",
+      "bounds_emu_local": [
+        962231,
+        1952252,
+        1102456,
+        401905
+      ],
+      "semantic_path": "items[0].context.heading",
+      "max_lines": 1
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "TextBox 32",
+      "type": "text",
+      "group_path": [],
+      "source_text": "看标杆",
+      "source_sample_chars": 3,
+      "max_chars": 3,
+      "typography_role": "chinese_heading",
+      "bounds_emu_local": [
+        4587479,
+        1947980,
+        1102456,
+        401905
+      ],
+      "semantic_path": "items[1].context.heading",
+      "max_lines": 1
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "TextBox 32",
+      "type": "text",
+      "group_path": [],
+      "source_text": "看市场",
+      "source_sample_chars": 3,
+      "max_chars": 3,
+      "typography_role": "chinese_heading",
+      "bounds_emu_local": [
+        8212727,
+        1947980,
+        1102456,
+        401905
+      ],
+      "semantic_path": "items[2].context.heading",
+      "max_lines": 1
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "文本框 28",
+      "type": "text",
+      "group_path": [],
+      "source_text": "国内外环境不利影响，家电行业在承压中前行，政策鼓励牵引， 需要新力量驱动需求与产业升级",
+      "source_sample_chars": 43,
+      "max_chars": 48,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        899838,
+        2485309,
+        3252501,
+        721993
+      ],
+      "semantic_path": "items[0].context.body",
+      "max_lines": 1
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "group_path": [],
+      "source_text": "行业领先企业消费者为中心，通过系统上云，打造智能产品，借助数智化工具支撑业务运营提效 等，取得良好效果",
+      "source_sample_chars": 51,
+      "max_chars": 48,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        4525086,
+        2485309,
+        3252501,
+        721993
+      ],
+      "semantic_path": "items[1].context.body",
+      "max_lines": 1
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "group_path": [],
+      "source_text": "家电企业数智化转型需求迫切， 需求与关注点覆盖业务经营提效、  IT降本与技术领先、组织团队成长 等",
+      "source_sample_chars": 50,
+      "max_chars": 48,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        8150334,
+        2485309,
+        3252501,
+        721993
+      ],
+      "semantic_path": "items[2].context.body",
+      "max_lines": 1
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "矩形 3",
+      "type": "text",
+      "group_path": [],
+      "source_text": "从大势、市场、标杆和自身四个维度拆解企业数字化转型方向",
+      "source_sample_chars": 27,
+      "max_chars": 40,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ],
+      "semantic_path": "overview.body",
+      "required": false,
+      "missing_action": "clear_text"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "deep-blue-tech structural body and text capacity"
+}

@@ -1,0 +1,493 @@
+{
+  "theme": "deep-blue-tech",
+  "source_component_count": 85,
+  "body_component_count": 66,
+  "pending_count": 0,
+  "components_rechecked": 21,
+  "pure_body_components_rechecked": 6,
+  "powerpoint_exports": 80,
+  "body_text_overflows": 0,
+  "required_skill_commit": "b788231a31de5d6fd99f2b79f9d7834ec29cb8af",
+  "results": [
+    {
+      "file": "P025-4项.pptx",
+      "component": "content-tech-025",
+      "count": 4,
+      "pure_body": false
+    },
+    {
+      "file": "P025-4项-容量.pptx",
+      "component": "content-tech-025",
+      "count": 4,
+      "pure_body": false
+    },
+    {
+      "file": "P027-8项.pptx",
+      "component": "content-tech-027",
+      "count": 8,
+      "pure_body": false
+    },
+    {
+      "file": "P027-8项-容量.pptx",
+      "component": "content-tech-027",
+      "count": 8,
+      "pure_body": false
+    },
+    {
+      "file": "P035-2项.pptx",
+      "component": "content-tech-035",
+      "count": 2,
+      "pure_body": true
+    },
+    {
+      "file": "P035-2项-容量.pptx",
+      "component": "content-tech-035",
+      "count": 2,
+      "pure_body": true
+    },
+    {
+      "file": "P035-3项.pptx",
+      "component": "content-tech-035",
+      "count": 3,
+      "pure_body": true
+    },
+    {
+      "file": "P035-3项-容量.pptx",
+      "component": "content-tech-035",
+      "count": 3,
+      "pure_body": true
+    },
+    {
+      "file": "P036-2项.pptx",
+      "component": "content-tech-036",
+      "count": 2,
+      "pure_body": true
+    },
+    {
+      "file": "P036-2项-容量.pptx",
+      "component": "content-tech-036",
+      "count": 2,
+      "pure_body": true
+    },
+    {
+      "file": "P036-3项.pptx",
+      "component": "content-tech-036",
+      "count": 3,
+      "pure_body": true
+    },
+    {
+      "file": "P036-3项-容量.pptx",
+      "component": "content-tech-036",
+      "count": 3,
+      "pure_body": true
+    },
+    {
+      "file": "P039-3项.pptx",
+      "component": "content-tech-039",
+      "count": 3,
+      "pure_body": true
+    },
+    {
+      "file": "P039-3项-容量.pptx",
+      "component": "content-tech-039",
+      "count": 3,
+      "pure_body": true
+    },
+    {
+      "file": "P039-4项.pptx",
+      "component": "content-tech-039",
+      "count": 4,
+      "pure_body": true
+    },
+    {
+      "file": "P039-4项-容量.pptx",
+      "component": "content-tech-039",
+      "count": 4,
+      "pure_body": true
+    },
+    {
+      "file": "P041-2项.pptx",
+      "component": "content-tech-041",
+      "count": 2,
+      "pure_body": true
+    },
+    {
+      "file": "P041-2项-容量.pptx",
+      "component": "content-tech-041",
+      "count": 2,
+      "pure_body": true
+    },
+    {
+      "file": "P041-3项.pptx",
+      "component": "content-tech-041",
+      "count": 3,
+      "pure_body": true
+    },
+    {
+      "file": "P041-3项-容量.pptx",
+      "component": "content-tech-041",
+      "count": 3,
+      "pure_body": true
+    },
+    {
+      "file": "P044-5项.pptx",
+      "component": "content-tech-044",
+      "count": 5,
+      "pure_body": false
+    },
+    {
+      "file": "P044-5项-容量.pptx",
+      "component": "content-tech-044",
+      "count": 5,
+      "pure_body": false
+    },
+    {
+      "file": "P049-4项.pptx",
+      "component": "content-tech-049",
+      "count": 4,
+      "pure_body": true
+    },
+    {
+      "file": "P049-4项-容量.pptx",
+      "component": "content-tech-049",
+      "count": 4,
+      "pure_body": true
+    },
+    {
+      "file": "P049-6项.pptx",
+      "component": "content-tech-049",
+      "count": 6,
+      "pure_body": true
+    },
+    {
+      "file": "P049-6项-容量.pptx",
+      "component": "content-tech-049",
+      "count": 6,
+      "pure_body": true
+    },
+    {
+      "file": "P050-5项.pptx",
+      "component": "content-tech-050",
+      "count": 5,
+      "pure_body": true
+    },
+    {
+      "file": "P050-5项-容量.pptx",
+      "component": "content-tech-050",
+      "count": 5,
+      "pure_body": true
+    },
+    {
+      "file": "P051-2项.pptx",
+      "component": "content-tech-051",
+      "count": 2,
+      "pure_body": false
+    },
+    {
+      "file": "P051-2项-容量.pptx",
+      "component": "content-tech-051",
+      "count": 2,
+      "pure_body": false
+    },
+    {
+      "file": "P051-3项.pptx",
+      "component": "content-tech-051",
+      "count": 3,
+      "pure_body": false
+    },
+    {
+      "file": "P051-3项-容量.pptx",
+      "component": "content-tech-051",
+      "count": 3,
+      "pure_body": false
+    },
+    {
+      "file": "P051-4项.pptx",
+      "component": "content-tech-051",
+      "count": 4,
+      "pure_body": false
+    },
+    {
+      "file": "P051-4项-容量.pptx",
+      "component": "content-tech-051",
+      "count": 4,
+      "pure_body": false
+    },
+    {
+      "file": "P051-5项.pptx",
+      "component": "content-tech-051",
+      "count": 5,
+      "pure_body": false
+    },
+    {
+      "file": "P051-5项-容量.pptx",
+      "component": "content-tech-051",
+      "count": 5,
+      "pure_body": false
+    },
+    {
+      "file": "P051-6项.pptx",
+      "component": "content-tech-051",
+      "count": 6,
+      "pure_body": false
+    },
+    {
+      "file": "P051-6项-容量.pptx",
+      "component": "content-tech-051",
+      "count": 6,
+      "pure_body": false
+    },
+    {
+      "file": "P062-8项.pptx",
+      "component": "content-tech-062",
+      "count": 8,
+      "pure_body": false
+    },
+    {
+      "file": "P062-8项-容量.pptx",
+      "component": "content-tech-062",
+      "count": 8,
+      "pure_body": false
+    },
+    {
+      "file": "P062-10项.pptx",
+      "component": "content-tech-062",
+      "count": 10,
+      "pure_body": false
+    },
+    {
+      "file": "P062-10项-容量.pptx",
+      "component": "content-tech-062",
+      "count": 10,
+      "pure_body": false
+    },
+    {
+      "file": "P067-6项.pptx",
+      "component": "data-chart-tech-067",
+      "count": 6,
+      "pure_body": false
+    },
+    {
+      "file": "P067-6项-容量.pptx",
+      "component": "data-chart-tech-067",
+      "count": 6,
+      "pure_body": false
+    },
+    {
+      "file": "P067-7项.pptx",
+      "component": "data-chart-tech-067",
+      "count": 7,
+      "pure_body": false
+    },
+    {
+      "file": "P067-7项-容量.pptx",
+      "component": "data-chart-tech-067",
+      "count": 7,
+      "pure_body": false
+    },
+    {
+      "file": "P078-11项.pptx",
+      "component": "content-tech-078",
+      "count": 11,
+      "pure_body": false
+    },
+    {
+      "file": "P078-11项-容量.pptx",
+      "component": "content-tech-078",
+      "count": 11,
+      "pure_body": false
+    },
+    {
+      "file": "P079-10项.pptx",
+      "component": "content-tech-079",
+      "count": 10,
+      "pure_body": false
+    },
+    {
+      "file": "P079-10项-容量.pptx",
+      "component": "content-tech-079",
+      "count": 10,
+      "pure_body": false
+    },
+    {
+      "file": "P079-12项.pptx",
+      "component": "content-tech-079",
+      "count": 12,
+      "pure_body": false
+    },
+    {
+      "file": "P079-12项-容量.pptx",
+      "component": "content-tech-079",
+      "count": 12,
+      "pure_body": false
+    },
+    {
+      "file": "P080-13项.pptx",
+      "component": "content-tech-080",
+      "count": 13,
+      "pure_body": false
+    },
+    {
+      "file": "P080-13项-容量.pptx",
+      "component": "content-tech-080",
+      "count": 13,
+      "pure_body": false
+    },
+    {
+      "file": "P080-15项.pptx",
+      "component": "content-tech-080",
+      "count": 15,
+      "pure_body": false
+    },
+    {
+      "file": "P080-15项-容量.pptx",
+      "component": "content-tech-080",
+      "count": 15,
+      "pure_body": false
+    },
+    {
+      "file": "P068-3项.pptx",
+      "component": "data-chart-tech-068",
+      "count": 3,
+      "pure_body": false
+    },
+    {
+      "file": "P068-3项-容量.pptx",
+      "component": "data-chart-tech-068",
+      "count": 3,
+      "pure_body": false
+    },
+    {
+      "file": "P068-4项.pptx",
+      "component": "data-chart-tech-068",
+      "count": 4,
+      "pure_body": false
+    },
+    {
+      "file": "P068-4项-容量.pptx",
+      "component": "data-chart-tech-068",
+      "count": 4,
+      "pure_body": false
+    },
+    {
+      "file": "P070-4项.pptx",
+      "component": "data-chart-tech-070",
+      "count": 4,
+      "pure_body": false
+    },
+    {
+      "file": "P070-4项-容量.pptx",
+      "component": "data-chart-tech-070",
+      "count": 4,
+      "pure_body": false
+    },
+    {
+      "file": "P070-5项.pptx",
+      "component": "data-chart-tech-070",
+      "count": 5,
+      "pure_body": false
+    },
+    {
+      "file": "P070-5项-容量.pptx",
+      "component": "data-chart-tech-070",
+      "count": 5,
+      "pure_body": false
+    },
+    {
+      "file": "P072-4项.pptx",
+      "component": "data-chart-tech-072",
+      "count": 4,
+      "pure_body": false
+    },
+    {
+      "file": "P072-4项-容量.pptx",
+      "component": "data-chart-tech-072",
+      "count": 4,
+      "pure_body": false
+    },
+    {
+      "file": "P072-5项.pptx",
+      "component": "data-chart-tech-072",
+      "count": 5,
+      "pure_body": false
+    },
+    {
+      "file": "P072-5项-容量.pptx",
+      "component": "data-chart-tech-072",
+      "count": 5,
+      "pure_body": false
+    },
+    {
+      "file": "P073-6项.pptx",
+      "component": "data-chart-tech-073",
+      "count": 6,
+      "pure_body": false
+    },
+    {
+      "file": "P073-6项-容量.pptx",
+      "component": "data-chart-tech-073",
+      "count": 6,
+      "pure_body": false
+    },
+    {
+      "file": "P073-7项.pptx",
+      "component": "data-chart-tech-073",
+      "count": 7,
+      "pure_body": false
+    },
+    {
+      "file": "P073-7项-容量.pptx",
+      "component": "data-chart-tech-073",
+      "count": 7,
+      "pure_body": false
+    },
+    {
+      "file": "P074-2项.pptx",
+      "component": "data-chart-tech-074",
+      "count": 2,
+      "pure_body": false
+    },
+    {
+      "file": "P074-2项-容量.pptx",
+      "component": "data-chart-tech-074",
+      "count": 2,
+      "pure_body": false
+    },
+    {
+      "file": "P074-3项.pptx",
+      "component": "data-chart-tech-074",
+      "count": 3,
+      "pure_body": false
+    },
+    {
+      "file": "P074-3项-容量.pptx",
+      "component": "data-chart-tech-074",
+      "count": 3,
+      "pure_body": false
+    },
+    {
+      "file": "P076-2项.pptx",
+      "component": "data-chart-tech-076",
+      "count": 2,
+      "pure_body": false
+    },
+    {
+      "file": "P076-2项-容量.pptx",
+      "component": "data-chart-tech-076",
+      "count": 2,
+      "pure_body": false
+    },
+    {
+      "file": "P076-3项.pptx",
+      "component": "data-chart-tech-076",
+      "count": 3,
+      "pure_body": false
+    },
+    {
+      "file": "P076-3项-容量.pptx",
+      "component": "data-chart-tech-076",
+      "count": 3,
+      "pure_body": false
+    }
+  ]
+}

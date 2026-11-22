@@ -2,29 +2,217 @@
   "schema_version": "1.0",
   "fields": [
     {
-      "field": "text_23",
-      "shape_id": 23,
-      "shape_name": "矩形 22",
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "文本框 31",
       "type": "text",
-      "group_path": [
-        19,
-        21
-      ],
-      "source_text": "复盘行业内容输出、客户圈层建设与案例沉淀的赋能成效",
-      "source_sample_chars": 25,
-      "max_chars": 22,
+      "group_path": [],
+      "source_text": "呈现终端数据价值\n《IP宣发实效研究白皮书》\n《数说山河 共营复苏——2023旅游行业营销洞察白皮书》",
+      "source_sample_chars": 51,
+      "max_chars": 44,
       "typography_role": "chinese_body",
       "bounds_emu_local": [
-        1815439,
-        1056165,
-        8561121,
-        301041
+        866062,
+        3178901,
+        2908567,
+        1247008
       ],
-      "semantic_path": "overview.body",
-      "required": true,
-      "preserve_source_text_styles": true,
+      "semantic_path": "items[0].body",
+      "max_lines": 3,
+      "paragraph_max_chars": [
+        8,
+        17,
+        17
+      ],
+      "preserve_paragraph_styles": true
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "group_path": [],
+      "source_text": "深挖客户诉求\n发布系列行业专题栏目—专题化输出教育资讯、旅游、金融电商、游戏、生活服务行业营销观察及解决方案",
+      "source_sample_chars": 54,
+      "max_chars": 43,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        866062,
+        4730212,
+        2908567,
+        1195712
+      ],
+      "semantic_path": "items[0].note",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        8,
+        34
+      ],
+      "preserve_paragraph_styles": true
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "文本框 53",
+      "type": "text",
+      "group_path": [],
+      "source_text": "01",
+      "source_sample_chars": 2,
+      "max_chars": 2,
+      "typography_role": "latin_numeric",
+      "bounds_emu_local": [
+        749597,
+        2157597,
+        1246423,
+        830997
+      ],
+      "semantic_path": "numbered_cards[0].marker",
       "max_lines": 1,
-      "max_width_units": 22
+      "required": false,
+      "missing_action": "clear_text",
+      "default_text": "01"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "文本框 32",
+      "type": "text",
+      "group_path": [],
+      "source_text": "活动形式升级\n6场网服菁英会，沙龙+菁英会结合，触达100+核心客户\n3场游戏菁英会，30+核心客户",
+      "source_sample_chars": 50,
+      "max_chars": 44,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        4556599,
+        3178901,
+        2908567,
+        1247008
+      ],
+      "semantic_path": "items[1].body",
+      "max_lines": 3,
+      "paragraph_max_chars": [
+        8,
+        17,
+        17
+      ],
+      "preserve_paragraph_styles": true
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "group_path": [],
+      "source_text": "行业头部客户深度交流\n2场Workshop，深度交流用户增长+长效经营解决方案",
+      "source_sample_chars": 39,
+      "max_chars": 43,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        4556600,
+        4730212,
+        2908567,
+        973664
+      ],
+      "semantic_path": "items[1].note",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        8,
+        34
+      ],
+      "preserve_paragraph_styles": true
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "文本框 55",
+      "type": "text",
+      "group_path": [],
+      "source_text": "02",
+      "source_sample_chars": 2,
+      "max_chars": 2,
+      "typography_role": "latin_numeric",
+      "bounds_emu_local": [
+        4423441,
+        2157597,
+        1440941,
+        830997
+      ],
+      "semantic_path": "numbered_cards[1].marker",
+      "max_lines": 1,
+      "required": false,
+      "missing_action": "clear_text",
+      "default_text": "02"
+    },
+    {
+      "field": "text_4148",
+      "shape_id": 4148,
+      "shape_name": "文本框 4147",
+      "type": "text",
+      "group_path": [],
+      "source_text": "首次传递长效经营价值\n23个案例入围，9个案例落地孵化，输出9大行业方案+2篇专家深度解读\n《长效经营绿皮书》发布",
+      "source_sample_chars": 57,
+      "max_chars": 44,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        8343633,
+        3178901,
+        2908567,
+        1247008
+      ],
+      "semantic_path": "items[2].body",
+      "max_lines": 3,
+      "paragraph_max_chars": [
+        8,
+        17,
+        17
+      ],
+      "preserve_paragraph_styles": true
+    },
+    {
+      "field": "text_4149",
+      "shape_id": 4149,
+      "shape_name": "文本框 4148",
+      "type": "text",
+      "group_path": [],
+      "source_text": "年度案例包装\n年度案例专刊：联合清华打造行业年度案例专刊，呈现5个精华案例",
+      "source_sample_chars": 37,
+      "max_chars": 43,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        8343633,
+        4730212,
+        2908567,
+        973664
+      ],
+      "semantic_path": "items[2].note",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        8,
+        34
+      ],
+      "preserve_paragraph_styles": true
+    },
+    {
+      "field": "text_4151",
+      "shape_id": 4151,
+      "shape_name": "文本框 4150",
+      "type": "text",
+      "group_path": [],
+      "source_text": "03",
+      "source_sample_chars": 2,
+      "max_chars": 2,
+      "typography_role": "latin_numeric",
+      "bounds_emu_local": [
+        8185075,
+        2157597,
+        1440941,
+        830997
+      ],
+      "semantic_path": "numbered_cards[2].marker",
+      "max_lines": 1,
+      "required": false,
+      "missing_action": "clear_text",
+      "default_text": "03"
     },
     {
       "field": "text_4158",
@@ -43,10 +231,7 @@
         307777
       ],
       "semantic_path": "items[0].heading",
-      "required": true,
-      "preserve_source_text_styles": true,
-      "max_lines": 1,
-      "max_width_units": 8
+      "max_lines": 1
     },
     {
       "field": "text_4159",
@@ -65,10 +250,7 @@
         307777
       ],
       "semantic_path": "items[1].heading",
-      "required": true,
-      "preserve_source_text_styles": true,
-      "max_lines": 1,
-      "max_width_units": 8
+      "max_lines": 1
     },
     {
       "field": "text_4160",
@@ -87,196 +269,30 @@
         307777
       ],
       "semantic_path": "items[2].heading",
-      "required": true,
-      "preserve_source_text_styles": true,
-      "max_lines": 1,
-      "max_width_units": 8
+      "max_lines": 1
     },
     {
-      "field": "text_32",
-      "shape_id": 32,
-      "shape_name": "文本框 31",
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "矩形 22",
       "type": "text",
-      "group_path": [],
-      "source_text": "呈现终端数据价值\n《IP宣发实效研究白皮书》\n《数说山河 共营复苏——2023旅游行业营销洞察白皮书》",
-      "source_sample_chars": 51,
-      "max_chars": 40,
+      "group_path": [
+        19,
+        21
+      ],
+      "source_text": "复盘行业内容输出、客户圈层建设与案例沉淀的赋能成效",
+      "source_sample_chars": 25,
+      "max_chars": 37,
       "typography_role": "chinese_body",
       "bounds_emu_local": [
-        866062,
-        3178901,
-        2908567,
-        1247008
+        1815439,
+        1056165,
+        8561121,
+        301041
       ],
-      "semantic_path": "items[0].body",
-      "required": true,
-      "preserve_source_text_styles": true,
-      "max_lines": 3,
-      "max_width_units": 14
-    },
-    {
-      "field": "text_33",
-      "shape_id": 33,
-      "shape_name": "文本框 32",
-      "type": "text",
-      "group_path": [],
-      "source_text": "活动形式升级\n6场网服菁英会，沙龙+菁英会结合，触达100+核心客户\n3场游戏菁英会，30+核心客户",
-      "source_sample_chars": 50,
-      "max_chars": 40,
-      "typography_role": "chinese_body",
-      "bounds_emu_local": [
-        4556599,
-        3178901,
-        2908567,
-        1247008
-      ],
-      "semantic_path": "items[1].body",
-      "required": true,
-      "preserve_source_text_styles": true,
-      "max_lines": 3,
-      "max_width_units": 14
-    },
-    {
-      "field": "text_4148",
-      "shape_id": 4148,
-      "shape_name": "文本框 4147",
-      "type": "text",
-      "group_path": [],
-      "source_text": "首次传递长效经营价值\n23个案例入围，9个案例落地孵化，输出9大行业方案+2篇专家深度解读\n《长效经营绿皮书》发布",
-      "source_sample_chars": 57,
-      "max_chars": 40,
-      "typography_role": "chinese_body",
-      "bounds_emu_local": [
-        8343633,
-        3178901,
-        2908567,
-        1247008
-      ],
-      "semantic_path": "items[2].body",
-      "required": true,
-      "preserve_source_text_styles": true,
-      "max_lines": 3,
-      "max_width_units": 14
-    },
-    {
-      "field": "text_35",
-      "shape_id": 35,
-      "shape_name": "文本框 34",
-      "type": "text",
-      "group_path": [],
-      "source_text": "深挖客户诉求\n发布系列行业专题栏目—专题化输出教育资讯、旅游、金融电商、游戏、生活服务行业营销观察及解决方案",
-      "source_sample_chars": 54,
-      "max_chars": 24,
-      "typography_role": "chinese_body",
-      "bounds_emu_local": [
-        866062,
-        4730212,
-        2908567,
-        1195712
-      ],
-      "semantic_path": "items[0].note",
-      "required": true,
-      "preserve_source_text_styles": true,
-      "max_lines": 2,
-      "max_width_units": 14
-    },
-    {
-      "field": "text_36",
-      "shape_id": 36,
-      "shape_name": "文本框 35",
-      "type": "text",
-      "group_path": [],
-      "source_text": "行业头部客户深度交流\n2场Workshop，深度交流用户增长+长效经营解决方案",
-      "source_sample_chars": 39,
-      "max_chars": 24,
-      "typography_role": "chinese_body",
-      "bounds_emu_local": [
-        4556600,
-        4730212,
-        2908567,
-        973664
-      ],
-      "semantic_path": "items[1].note",
-      "required": true,
-      "preserve_source_text_styles": true,
-      "max_lines": 2,
-      "max_width_units": 14
-    },
-    {
-      "field": "text_4149",
-      "shape_id": 4149,
-      "shape_name": "文本框 4148",
-      "type": "text",
-      "group_path": [],
-      "source_text": "年度案例包装\n年度案例专刊：联合清华打造行业年度案例专刊，呈现5个精华案例",
-      "source_sample_chars": 37,
-      "max_chars": 30,
-      "typography_role": "chinese_body",
-      "bounds_emu_local": [
-        8343633,
-        4730212,
-        2908567,
-        973664
-      ],
-      "semantic_path": "items[2].note",
-      "required": true,
-      "preserve_source_text_styles": true,
-      "max_lines": 2,
-      "max_width_units": 20
-    },
-    {
-      "field": "text_54",
-      "shape_id": 54,
-      "shape_name": "文本框 53",
-      "type": "text",
-      "group_path": [],
-      "source_text": "01",
-      "source_sample_chars": 2,
-      "max_chars": 24,
-      "typography_role": "latin_numeric",
-      "semantic_role": "decoration_locked",
-      "bounds_emu_local": [
-        749597,
-        2157597,
-        1246423,
-        830997
-      ]
-    },
-    {
-      "field": "text_56",
-      "shape_id": 56,
-      "shape_name": "文本框 55",
-      "type": "text",
-      "group_path": [],
-      "source_text": "02",
-      "source_sample_chars": 2,
-      "max_chars": 24,
-      "typography_role": "latin_numeric",
-      "semantic_role": "decoration_locked",
-      "bounds_emu_local": [
-        4423441,
-        2157597,
-        1440941,
-        830997
-      ]
-    },
-    {
-      "field": "text_4151",
-      "shape_id": 4151,
-      "shape_name": "文本框 4150",
-      "type": "text",
-      "group_path": [],
-      "source_text": "03",
-      "source_sample_chars": 2,
-      "max_chars": 24,
-      "typography_role": "latin_numeric",
-      "semantic_role": "decoration_locked",
-      "bounds_emu_local": [
-        8185075,
-        2157597,
-        1440941,
-        830997
-      ]
+      "semantic_path": "overview.body",
+      "required": false,
+      "missing_action": "clear_text"
     }
   ],
   "objects": {
@@ -284,5 +300,5 @@
     "tables": [],
     "images": []
   },
-  "review": "visual index only; field semantics provisional"
+  "review": "deep-blue-tech structural body and text capacity"
 }

@@ -1,0 +1,347 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_281",
+      "shape_id": 281,
+      "shape_name": "文本框 280",
+      "type": "text",
+      "group_path": [],
+      "source_text": "团队协作能够集合众人之力，实现个人难以达成的目标 \n[通过团队协作，促进知识共享，提升团队整体能力",
+      "source_sample_chars": 49,
+      "max_chars": 47,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        788517,
+        3143684,
+        1863223,
+        1398653
+      ],
+      "semantic_key": "item_1.description",
+      "semantic_path": "pillar_cards[0].copy",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        23,
+        23
+      ],
+      "preserve_paragraph_styles": true
+    },
+    {
+      "field": "text_282",
+      "shape_id": 282,
+      "shape_name": "矩形: 剪去对角 281",
+      "type": "text",
+      "group_path": [],
+      "source_text": "团队协作",
+      "source_sample_chars": 4,
+      "max_chars": 6,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        857180,
+        2656500,
+        1725897,
+        382632
+      ],
+      "semantic_key": "item_1.title",
+      "semantic_path": "pillar_cards[0].title",
+      "max_lines": 1
+    },
+    {
+      "field": "text_283",
+      "shape_id": 283,
+      "shape_name": "文本框 282",
+      "type": "text",
+      "group_path": [],
+      "source_text": "在团队中，明确每个人的角色和责任，确保任务分配合理 \n每个人都要清楚自己的职责，并尽力完成",
+      "source_sample_chars": 45,
+      "max_chars": 47,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        2976453,
+        3275887,
+        1863222,
+        1178592
+      ],
+      "semantic_key": "item_2.description",
+      "semantic_path": "pillar_cards[1].copy",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        23,
+        23
+      ],
+      "preserve_paragraph_styles": true
+    },
+    {
+      "field": "text_285",
+      "shape_id": 285,
+      "shape_name": "文本框 284",
+      "type": "text",
+      "group_path": [],
+      "source_text": "信任是团队协作的基础，通过诚实、透明的沟通建立信任 \n信任能够增强团队凝聚力，提高团队效率",
+      "source_sample_chars": 45,
+      "max_chars": 47,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        5164389,
+        3376676,
+        1863222,
+        1178592
+      ],
+      "semantic_key": "item_3.description",
+      "semantic_path": "pillar_cards[2].copy",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        23,
+        23
+      ],
+      "preserve_paragraph_styles": true
+    },
+    {
+      "field": "text_289",
+      "shape_id": 289,
+      "shape_name": "文本框 288",
+      "type": "text",
+      "group_path": [],
+      "source_text": "学会与他人协同工作，发挥各自优势，弥补不足 \n协同工作能够提升工作效率，促进团队创新",
+      "source_sample_chars": 42,
+      "max_chars": 47,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        7398003,
+        3275887,
+        1771866,
+        1398653
+      ],
+      "semantic_key": "item_5.description",
+      "semantic_path": "pillar_cards[3].copy",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        23,
+        23
+      ],
+      "preserve_paragraph_styles": true
+    },
+    {
+      "field": "text_291",
+      "shape_id": 291,
+      "shape_name": "文本框 290",
+      "type": "text",
+      "group_path": [],
+      "source_text": "当团队取得成绩时，要及时庆祝，增强团队荣誉感 \n庆祝成功不仅能够激励团队成员，还能增强团队凝聚力",
+      "source_sample_chars": 48,
+      "max_chars": 47,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        9540261,
+        3143684,
+        1863223,
+        1398653
+      ],
+      "semantic_key": "item_6.description",
+      "semantic_path": "pillar_cards[4].copy",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        23,
+        23
+      ],
+      "preserve_paragraph_styles": true
+    },
+    {
+      "field": "text_293",
+      "shape_id": 293,
+      "shape_name": "文本框 292",
+      "type": "text",
+      "group_path": [],
+      "source_text": "项关键举措",
+      "source_sample_chars": 5,
+      "max_chars": 5,
+      "typography_role": "chinese_heading",
+      "bounds_emu_local": [
+        5497055,
+        5104147,
+        2492991,
+        646331
+      ],
+      "semantic_path": "count.caption",
+      "max_lines": 1
+    },
+    {
+      "field": "text_301",
+      "shape_id": 301,
+      "shape_name": "矩形: 剪去对角 300",
+      "type": "text",
+      "group_path": [],
+      "source_text": "庆祝成功",
+      "source_sample_chars": 4,
+      "max_chars": 6,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        9608924,
+        2656500,
+        1725897,
+        382632
+      ],
+      "semantic_key": "item_6.title",
+      "semantic_path": "pillar_cards[4].title",
+      "max_lines": 1
+    },
+    {
+      "field": "text_302",
+      "shape_id": 302,
+      "shape_name": "矩形: 剪去对角 301",
+      "type": "text",
+      "group_path": [],
+      "source_text": "协同工作",
+      "source_sample_chars": 4,
+      "max_chars": 6,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        7420987,
+        2788703,
+        1725897,
+        382632
+      ],
+      "semantic_key": "item_5.title",
+      "semantic_path": "pillar_cards[3].title",
+      "max_lines": 1
+    },
+    {
+      "field": "text_304",
+      "shape_id": 304,
+      "shape_name": "矩形: 剪去对角 303",
+      "type": "text",
+      "group_path": [],
+      "source_text": "建立信任",
+      "source_sample_chars": 4,
+      "max_chars": 6,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        5233052,
+        2889492,
+        1725896,
+        382632
+      ],
+      "semantic_key": "item_3.title",
+      "semantic_path": "pillar_cards[2].title",
+      "max_lines": 1
+    },
+    {
+      "field": "text_305",
+      "shape_id": 305,
+      "shape_name": "矩形: 剪去对角 304",
+      "type": "text",
+      "group_path": [],
+      "source_text": "角色与责任",
+      "source_sample_chars": 5,
+      "max_chars": 6,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        3045116,
+        2788703,
+        1725896,
+        382632
+      ],
+      "semantic_key": "item_2.title",
+      "semantic_path": "pillar_cards[1].title",
+      "max_lines": 1
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "文本框 23",
+      "type": "text",
+      "group_path": [
+        21,
+        23
+      ],
+      "source_text": "团队协作六项举措",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "bounds_emu_local": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ],
+      "semantic_path": "page.title",
+      "required": false,
+      "missing_action": "clear_text"
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "矩形 24",
+      "type": "text",
+      "group_path": [
+        21,
+        23
+      ],
+      "source_text": "通过角色分工、信任建设、有效沟通与成果激励打造高效团队",
+      "source_sample_chars": 27,
+      "max_chars": 40,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        1815439,
+        1056165,
+        8561121,
+        301041
+      ],
+      "semantic_path": "page.subtitle",
+      "required": false,
+      "missing_action": "clear_text"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 26,
+        "shape_name": "Freeform 3076",
+        "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+        "semantic_role": "source_decorative_locked",
+        "group_path": [
+          21,
+          22
+        ],
+        "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ]
+      },
+      {
+        "shape_id": 29,
+        "shape_name": "图片 28",
+        "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+        "semantic_role": "source_decorative_locked",
+        "group_path": [
+          21,
+          22
+        ],
+        "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ]
+      },
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          11057890,
+          6476365,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "deep-blue-tech structural body and text capacity"
+}
