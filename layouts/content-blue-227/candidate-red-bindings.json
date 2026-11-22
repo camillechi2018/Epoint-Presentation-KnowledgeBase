@@ -39,7 +39,7 @@
       "required": true,
       "preserve_source_text_styles": true,
       "max_lines": 1,
-      "max_width_units": 18
+      "max_width_units": 14
     },
     {
       "field": "text_126",
@@ -59,7 +59,7 @@
       "required": true,
       "preserve_source_text_styles": true,
       "max_lines": 1,
-      "max_width_units": 18
+      "max_width_units": 14
     },
     {
       "field": "text_127",
@@ -79,7 +79,7 @@
       "required": true,
       "preserve_source_text_styles": true,
       "max_lines": 1,
-      "max_width_units": 18
+      "max_width_units": 14
     },
     {
       "field": "text_128",
@@ -99,7 +99,7 @@
       "required": true,
       "preserve_source_text_styles": true,
       "max_lines": 1,
-      "max_width_units": 18
+      "max_width_units": 14
     },
     {
       "field": "text_129",
@@ -119,7 +119,7 @@
       "required": true,
       "preserve_source_text_styles": true,
       "max_lines": 1,
-      "max_width_units": 18
+      "max_width_units": 14
     },
     {
       "field": "text_72",

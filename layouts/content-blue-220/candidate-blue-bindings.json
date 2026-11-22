@@ -35,7 +35,7 @@
         372.5,
         39.1
       ],
-      "semantic_path": "items[0].heading",
+      "semantic_path": "items[0].plan.heading",
       "required": true,
       "preserve_source_text_styles": true,
       "max_lines": 1,
@@ -55,7 +55,7 @@
         372.5,
         39.1
       ],
-      "semantic_path": "items[1].heading",
+      "semantic_path": "items[1].plan.heading",
       "required": true,
       "preserve_source_text_styles": true,
       "max_lines": 1,
@@ -75,7 +75,7 @@
         372.5,
         39.1
       ],
-      "semantic_path": "items[2].heading",
+      "semantic_path": "items[2].plan.heading",
       "required": true,
       "preserve_source_text_styles": true,
       "max_lines": 1,
@@ -95,7 +95,7 @@
         372.5,
         39.1
       ],
-      "semantic_path": "items[3].heading",
+      "semantic_path": "items[3].plan.heading",
       "required": true,
       "preserve_source_text_styles": true,
       "max_lines": 1,
@@ -115,7 +115,7 @@
         363.8,
         41.9
       ],
-      "semantic_path": "items[0].first.body",
+      "semantic_path": "items[0].plan.tasks[0].body",
       "required": true,
       "preserve_source_text_styles": true,
       "max_lines": 1,
@@ -135,7 +135,7 @@
         363.8,
         41.9
       ],
-      "semantic_path": "items[1].first.body",
+      "semantic_path": "items[1].plan.tasks[0].body",
       "required": true,
       "preserve_source_text_styles": true,
       "max_lines": 1,
@@ -155,7 +155,7 @@
         363.8,
         41.9
       ],
-      "semantic_path": "items[2].first.body",
+      "semantic_path": "items[2].plan.tasks[0].body",
       "required": true,
       "preserve_source_text_styles": true,
       "max_lines": 1,
@@ -175,7 +175,7 @@
         363.8,
         41.9
       ],
-      "semantic_path": "items[3].first.body",
+      "semantic_path": "items[3].plan.tasks[0].body",
       "required": true,
       "preserve_source_text_styles": true,
       "max_lines": 1,
@@ -195,7 +195,7 @@
         363.8,
         41.9
       ],
-      "semantic_path": "items[0].second.body",
+      "semantic_path": "items[0].plan.tasks[1].body",
       "required": true,
       "preserve_source_text_styles": true,
       "max_lines": 1,
@@ -215,7 +215,7 @@
         363.8,
         41.9
       ],
-      "semantic_path": "items[1].second.body",
+      "semantic_path": "items[1].plan.tasks[1].body",
       "required": true,
       "preserve_source_text_styles": true,
       "max_lines": 1,
@@ -235,7 +235,7 @@
         363.8,
         41.9
       ],
-      "semantic_path": "items[2].second.body",
+      "semantic_path": "items[2].plan.tasks[1].body",
       "required": true,
       "preserve_source_text_styles": true,
       "max_lines": 1,
@@ -255,7 +255,7 @@
         363.8,
         41.9
       ],
-      "semantic_path": "items[3].second.body",
+      "semantic_path": "items[3].plan.tasks[1].body",
       "required": true,
       "preserve_source_text_styles": true,
       "max_lines": 1,
