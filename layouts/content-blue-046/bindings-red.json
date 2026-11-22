@@ -15,7 +15,9 @@
         823.9,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "page_title",
+      "semantic_path": "page.title",
+      "max_lines": 1
     },
     {
       "field": "text_19",
@@ -31,7 +33,9 @@
         61.5,
         154.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "axis_label",
+      "semantic_path": "labels.dimension",
+      "max_lines": 4
     },
     {
       "field": "text_6",
@@ -47,7 +51,9 @@
         183.5,
         50.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "category",
+      "semantic_path": "items[0].category",
+      "max_lines": 1
     },
     {
       "field": "text_9",
@@ -63,7 +69,9 @@
         183.5,
         50.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "category",
+      "semantic_path": "items[1].category",
+      "max_lines": 1
     },
     {
       "field": "text_11",
@@ -79,7 +87,9 @@
         183.5,
         50.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "category",
+      "semantic_path": "items[2].category",
+      "max_lines": 1
     },
     {
       "field": "text_16",
@@ -95,7 +105,9 @@
         183.5,
         50.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "category",
+      "semantic_path": "items[3].category",
+      "max_lines": 1
     },
     {
       "field": "text_7",
@@ -111,7 +123,9 @@
         171.7,
         23.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "challenge_title",
+      "semantic_path": "items[0].challenge_title",
+      "max_lines": 1
     },
     {
       "field": "text_32",
@@ -127,7 +141,9 @@
         171.7,
         76.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "challenge_body",
+      "semantic_path": "items[0].challenge_body",
+      "max_lines": 2
     },
     {
       "field": "text_33",
@@ -143,7 +159,9 @@
         171.7,
         23.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "challenge_title",
+      "semantic_path": "items[1].challenge_title",
+      "max_lines": 1
     },
     {
       "field": "text_34",
@@ -159,7 +177,9 @@
         171.7,
         23.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "challenge_title",
+      "semantic_path": "items[2].challenge_title",
+      "max_lines": 1
     },
     {
       "field": "text_35",
@@ -175,7 +195,9 @@
         171.7,
         23.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "challenge_title",
+      "semantic_path": "items[3].challenge_title",
+      "max_lines": 1
     },
     {
       "field": "text_36",
@@ -191,7 +213,9 @@
         171.7,
         23.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "solution_title",
+      "semantic_path": "items[0].solution_title",
+      "max_lines": 1
     },
     {
       "field": "text_37",
@@ -207,7 +231,9 @@
         171.7,
         23.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "solution_title",
+      "semantic_path": "items[1].solution_title",
+      "max_lines": 1
     },
     {
       "field": "text_38",
@@ -223,7 +249,9 @@
         171.7,
         23.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "solution_title",
+      "semantic_path": "items[2].solution_title",
+      "max_lines": 1
     },
     {
       "field": "text_39",
@@ -239,7 +267,9 @@
         171.7,
         23.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "solution_title",
+      "semantic_path": "items[3].solution_title",
+      "max_lines": 1
     },
     {
       "field": "text_40",
@@ -255,7 +285,9 @@
         171.7,
         76.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "challenge_body",
+      "semantic_path": "items[1].challenge_body",
+      "max_lines": 2
     },
     {
       "field": "text_41",
@@ -271,7 +303,9 @@
         171.7,
         76.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "challenge_body",
+      "semantic_path": "items[2].challenge_body",
+      "max_lines": 2
     },
     {
       "field": "text_42",
@@ -287,7 +321,9 @@
         171.7,
         76.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "challenge_body",
+      "semantic_path": "items[3].challenge_body",
+      "max_lines": 2
     },
     {
       "field": "text_43",
@@ -303,7 +339,9 @@
         171.7,
         76.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "solution_body",
+      "semantic_path": "items[0].solution_body",
+      "max_lines": 2
     },
     {
       "field": "text_44",
@@ -319,7 +357,9 @@
         171.7,
         76.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "solution_body",
+      "semantic_path": "items[1].solution_body",
+      "max_lines": 2
     },
     {
       "field": "text_45",
@@ -335,7 +375,9 @@
         171.7,
         76.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "solution_body",
+      "semantic_path": "items[2].solution_body",
+      "max_lines": 2
     },
     {
       "field": "text_46",
@@ -351,7 +393,9 @@
         171.7,
         76.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "solution_body",
+      "semantic_path": "items[3].solution_body",
+      "max_lines": 2
     },
     {
       "field": "text_49",
@@ -367,7 +411,9 @@
         47.3,
         94.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "axis_label",
+      "semantic_path": "labels.challenge",
+      "max_lines": 4
     },
     {
       "field": "text_52",
@@ -383,7 +429,9 @@
         47.3,
         94.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "axis_label",
+      "semantic_path": "labels.solution",
+      "max_lines": 4
     }
   ],
   "objects": {

@@ -15,7 +15,9 @@
         823.9,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "page_title",
+      "semantic_path": "page.title",
+      "max_lines": 1
     },
     {
       "field": "text_32",
@@ -31,7 +33,9 @@
         28.7,
         75.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "stage_label",
+      "semantic_path": "stages[0].vertical_label",
+      "max_lines": 4
     },
     {
       "field": "text_34",
@@ -47,7 +51,9 @@
         28.7,
         75.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "stage_label",
+      "semantic_path": "stages[1].vertical_label",
+      "max_lines": 4
     },
     {
       "field": "text_38",
@@ -63,7 +69,9 @@
         28.7,
         75.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "stage_label",
+      "semantic_path": "stages[2].vertical_label",
+      "max_lines": 4
     },
     {
       "field": "text_39",
@@ -79,7 +87,9 @@
         28.7,
         75.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "stage_label",
+      "semantic_path": "stages[3].vertical_label",
+      "max_lines": 4
     },
     {
       "field": "text_41",
@@ -95,7 +105,9 @@
         174.7,
         41.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "funnel_title",
+      "semantic_path": "stages[0].funnel_title",
+      "max_lines": 1
     },
     {
       "field": "text_42",
@@ -111,7 +123,9 @@
         174.7,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "funnel_title",
+      "semantic_path": "stages[1].funnel_title",
+      "max_lines": 1
     },
     {
       "field": "text_43",
@@ -127,7 +141,9 @@
         174.7,
         31.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "funnel_title",
+      "semantic_path": "stages[2].funnel_title",
+      "max_lines": 1
     },
     {
       "field": "text_44",
@@ -143,7 +159,9 @@
         174.7,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "funnel_title",
+      "semantic_path": "stages[3].funnel_title",
+      "max_lines": 1
     },
     {
       "field": "text_56",
@@ -159,7 +177,9 @@
         191.9,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "title",
+      "semantic_path": "stages[0].left_title",
+      "max_lines": 1
     },
     {
       "field": "text_58",
@@ -175,7 +195,9 @@
         191.9,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "stages[0].left_body",
+      "max_lines": 1
     },
     {
       "field": "text_59",
@@ -191,7 +213,9 @@
         191.9,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "title",
+      "semantic_path": "stages[1].left_title",
+      "max_lines": 1
     },
     {
       "field": "text_60",
@@ -207,7 +231,9 @@
         191.9,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "stages[1].left_body",
+      "max_lines": 1
     },
     {
       "field": "text_61",
@@ -223,7 +249,9 @@
         232.8,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "title",
+      "semantic_path": "stages[2].left_title",
+      "max_lines": 1
     },
     {
       "field": "text_62",
@@ -239,7 +267,9 @@
         232.8,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "stages[2].left_body",
+      "max_lines": 1
     },
     {
       "field": "text_63",
@@ -255,7 +285,9 @@
         232.2,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "title",
+      "semantic_path": "stages[0].right_title",
+      "max_lines": 1
     },
     {
       "field": "text_64",
@@ -271,7 +303,9 @@
         232.2,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "stages[0].right_body",
+      "max_lines": 1
     },
     {
       "field": "text_65",
@@ -287,7 +321,9 @@
         276.3,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "title",
+      "semantic_path": "stages[1].right_title",
+      "max_lines": 1
     },
     {
       "field": "text_66",
@@ -303,7 +339,9 @@
         276.3,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "stages[1].right_body",
+      "max_lines": 1
     },
     {
       "field": "text_67",
@@ -319,7 +357,9 @@
         275.7,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "title",
+      "semantic_path": "stages[2].right_title",
+      "max_lines": 1
     },
     {
       "field": "text_68",
@@ -335,7 +375,9 @@
         275.7,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "stages[2].right_body",
+      "max_lines": 1
     },
     {
       "field": "text_69",
@@ -351,7 +393,9 @@
         320.3,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "title",
+      "semantic_path": "stages[3].left_title",
+      "max_lines": 1
     },
     {
       "field": "text_70",
@@ -367,7 +411,9 @@
         320.3,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "stages[3].left_body",
+      "max_lines": 1
     },
     {
       "field": "text_71",
@@ -383,7 +429,9 @@
         319.7,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "title",
+      "semantic_path": "stages[3].right_title",
+      "max_lines": 1
     },
     {
       "field": "text_72",
@@ -399,7 +447,9 @@
         319.7,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "stages[3].right_body",
+      "max_lines": 1
     }
   ],
   "objects": {

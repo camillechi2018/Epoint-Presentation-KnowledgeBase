@@ -1587,8 +1587,8 @@
       "version": "1.0.0-draft",
       "collection": "new-template-content",
       "role": "content",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
+      "information_relation": "four-stage-funnel-with-two-sided-explanation",
+      "classification_status": "verified",
       "family_id": "content-035",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
@@ -1609,7 +1609,7 @@
       },
       "source_page": 35,
       "shape_count": 57,
-      "media_status": "unreviewed",
+      "media_status": "verified_brand_logo",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -1622,7 +1622,10 @@
       "red_source_logo_shape_id": 6,
       "red_bindings": "layouts/content-blue-035/bindings-red.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 35
+      "red_source_page": 35,
+      "semantic_review_status": "verified_blue_red_short_copy",
+      "pptx_support": "verified_static_draft",
+      "title_pressure_status": "tested_short_copy_only"
     },
     {
       "id": "content-blue-036",
@@ -2115,8 +2118,8 @@
       "version": "1.0.0-draft",
       "collection": "new-template-content",
       "role": "content",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
+      "information_relation": "four-challenge-solution-columns",
+      "classification_status": "verified",
       "family_id": "content-046",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
@@ -2137,7 +2140,7 @@
       },
       "source_page": 46,
       "shape_count": 44,
-      "media_status": "unreviewed",
+      "media_status": "verified_brand_logo",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -2150,7 +2153,10 @@
       "red_source_logo_shape_id": 3,
       "red_bindings": "layouts/content-blue-046/bindings-red.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 46
+      "red_source_page": 46,
+      "semantic_review_status": "verified_blue_red_short_copy",
+      "pptx_support": "verified_static_draft",
+      "title_pressure_status": "tested_short_copy_only"
     },
     {
       "id": "content-blue-047",
@@ -2640,8 +2646,8 @@
       "version": "1.0.0-draft",
       "collection": "new-template-content",
       "role": "content",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
+      "information_relation": "five-capability-list",
+      "classification_status": "verified",
       "family_id": "content-057",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
@@ -2662,7 +2668,7 @@
       },
       "source_page": 57,
       "shape_count": 49,
-      "media_status": "unreviewed",
+      "media_status": "verified_brand_logo",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -2675,7 +2681,10 @@
       "red_source_logo_shape_id": 6,
       "red_bindings": "layouts/content-blue-057/bindings-red.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 57
+      "red_source_page": 57,
+      "semantic_review_status": "verified_blue_red_short_copy",
+      "pptx_support": "verified_static_draft",
+      "title_pressure_status": "tested_short_copy_only"
     },
     {
       "id": "content-blue-058",
@@ -7623,8 +7632,8 @@
       "version": "1.0.0-draft",
       "collection": "new-template-content",
       "role": "content",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
+      "information_relation": "paired-three-by-three-work-life",
+      "classification_status": "verified",
       "family_id": "content-140",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
@@ -7645,7 +7654,7 @@
       },
       "source_page": 140,
       "shape_count": 41,
-      "media_status": "unreviewed",
+      "media_status": "verified_brand_logo",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -7658,7 +7667,10 @@
       "red_source_logo_shape_id": 3,
       "red_bindings": "layouts/content-blue-140/bindings-red.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 140
+      "red_source_page": 140,
+      "semantic_review_status": "verified_blue_red_short_copy",
+      "pptx_support": "verified_static_draft",
+      "title_pressure_status": "tested_conservative_limit"
     },
     {
       "id": "content-blue-141",

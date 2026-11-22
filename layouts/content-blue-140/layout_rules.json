@@ -1,6 +1,20 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
-  "source_count": null,
-  "reflow_status": "not_implemented"
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    6
+  ],
+  "source_count": 6,
+  "reflow_status": "not_implemented",
+  "validation_status": "verified",
+  "verified_counts": [
+    6
+  ],
+  "verified_short_title_chars_by_field": {
+    "text_21": 8,
+    "text_24": 6,
+    "text_49": 7,
+    "text_34": 6,
+    "text_35": 6,
+    "text_36": 7
+  }
 }
