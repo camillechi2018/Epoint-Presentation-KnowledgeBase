@@ -1461,8 +1461,8 @@
       "version": "1.0.0-draft",
       "collection": "new-template-content",
       "role": "content",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
+      "information_relation": "process",
+      "classification_status": "verified",
       "family_id": "content-032",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
@@ -1483,7 +1483,7 @@
       },
       "source_page": 32,
       "shape_count": 63,
-      "media_status": "unreviewed",
+      "media_status": "verified_brand_logo",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -1496,7 +1496,90 @@
       "red_source_logo_shape_id": 2,
       "red_bindings": "layouts/content-blue-032/bindings-red.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 32
+      "red_source_page": 32,
+      "bindings_by_count": {
+        "3": {
+          "blue": "layouts/content-blue-032/bindings-3-blue.json",
+          "red": "layouts/content-blue-032/bindings-3-red.json"
+        }
+      },
+      "canonical_relation": "process",
+      "structure_type": "process",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "pptx_support": "verified_static_body_draft",
+      "header_validation_status": "excluded_skill_managed",
+      "structure_review_status": "verified_blue_red_variable_count_capacity",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "process",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "items[0].body",
+          "items[1].body",
+          "items[2].body",
+          "items[3].body",
+          "items[0].title",
+          "items[1].title",
+          "items[2].title",
+          "items[3].title",
+          "page.title",
+          "intro.title",
+          "intro.body",
+          "items[0].label_1",
+          "items[0].label_2",
+          "items[1].label_1",
+          "items[1].label_2",
+          "items[2].label_1",
+          "items[2].label_2",
+          "items[3].label_1",
+          "items[3].label_2"
+        ],
+        "required_binding_paths_by_count": {
+          "3": [
+            "items[0].body",
+            "items[1].body",
+            "items[2].body",
+            "items[0].title",
+            "items[1].title",
+            "items[2].title",
+            "page.title",
+            "intro.title",
+            "intro.body",
+            "items[0].label_1",
+            "items[0].label_2",
+            "items[1].label_1",
+            "items[1].label_2",
+            "items[2].label_1",
+            "items[2].label_2"
+          ],
+          "4": [
+            "items[0].body",
+            "items[1].body",
+            "items[2].body",
+            "items[3].body",
+            "items[0].title",
+            "items[1].title",
+            "items[2].title",
+            "items[3].title",
+            "page.title",
+            "intro.title",
+            "intro.body",
+            "items[0].label_1",
+            "items[0].label_2",
+            "items[1].label_1",
+            "items[1].label_2",
+            "items[2].label_1",
+            "items[2].label_2",
+            "items[3].label_1",
+            "items[3].label_2"
+          ]
+        },
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-blue-033",
@@ -2794,8 +2877,8 @@
       "version": "1.0.0-draft",
       "collection": "new-template-content",
       "role": "content",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
+      "information_relation": "timeline",
+      "classification_status": "verified",
       "family_id": "content-056",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
@@ -2816,7 +2899,7 @@
       },
       "source_page": 56,
       "shape_count": 56,
-      "media_status": "unreviewed",
+      "media_status": "verified_brand_logo",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -2829,7 +2912,68 @@
       "red_source_logo_shape_id": 4,
       "red_bindings": "layouts/content-blue-056/bindings-red.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 56
+      "red_source_page": 56,
+      "bindings_by_count": {
+        "3": {
+          "blue": "layouts/content-blue-056/bindings-3-blue.json",
+          "red": "layouts/content-blue-056/bindings-3-red.json"
+        }
+      },
+      "canonical_relation": "timeline",
+      "structure_type": "timeline",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "pptx_support": "verified_static_body_draft",
+      "header_validation_status": "excluded_skill_managed",
+      "structure_review_status": "verified_blue_red_variable_count_capacity",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "timeline",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "items[0].title",
+          "items[1].title",
+          "items[2].title",
+          "items[3].title",
+          "items[0].body",
+          "items[2].body",
+          "items[1].body",
+          "items[3].body",
+          "page.title",
+          "intro.title",
+          "intro.body"
+        ],
+        "required_binding_paths_by_count": {
+          "3": [
+            "items[0].title",
+            "items[1].title",
+            "items[2].title",
+            "items[0].body",
+            "items[2].body",
+            "items[1].body",
+            "page.title",
+            "intro.title",
+            "intro.body"
+          ],
+          "4": [
+            "items[0].title",
+            "items[1].title",
+            "items[2].title",
+            "items[3].title",
+            "items[0].body",
+            "items[2].body",
+            "items[1].body",
+            "items[3].body",
+            "page.title",
+            "intro.title",
+            "intro.body"
+          ]
+        },
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-blue-057",
@@ -7061,8 +7205,8 @@
       "version": "1.0.0-draft",
       "collection": "new-template-content",
       "role": "content",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
+      "information_relation": "parallel-points",
+      "classification_status": "verified",
       "family_id": "content-121",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
@@ -7083,7 +7227,7 @@
       },
       "source_page": 121,
       "shape_count": 36,
-      "media_status": "unreviewed",
+      "media_status": "verified_brand_logo",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -7096,7 +7240,88 @@
       "red_source_logo_shape_id": 24,
       "red_bindings": "layouts/content-blue-121/bindings-red.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 121
+      "red_source_page": 121,
+      "bindings_by_count": {
+        "2": {
+          "blue": "layouts/content-blue-121/bindings-2-blue.json",
+          "red": "layouts/content-blue-121/bindings-2-red.json"
+        }
+      },
+      "canonical_relation": "parallel-points",
+      "structure_type": "parallel-points",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "pptx_support": "verified_static_body_draft",
+      "header_validation_status": "excluded_skill_managed",
+      "structure_review_status": "verified_blue_red_variable_count_capacity",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "parallel-points",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "items[0].title",
+          "items[1].title",
+          "items[2].title",
+          "items[0].label_1",
+          "items[0].label_2",
+          "items[1].label_1",
+          "items[1].label_2",
+          "items[2].label_1",
+          "items[2].label_2",
+          "items[0].body",
+          "items[1].body",
+          "items[2].body",
+          "items[0].label_3",
+          "items[1].label_3",
+          "items[2].label_3",
+          "items[0].caption",
+          "items[1].caption",
+          "items[2].caption",
+          "page.title"
+        ],
+        "required_binding_paths_by_count": {
+          "2": [
+            "items[0].title",
+            "items[1].title",
+            "items[0].label_1",
+            "items[0].label_2",
+            "items[1].label_1",
+            "items[1].label_2",
+            "items[0].body",
+            "items[1].body",
+            "items[0].label_3",
+            "items[1].label_3",
+            "items[0].caption",
+            "items[1].caption",
+            "page.title"
+          ],
+          "3": [
+            "items[0].title",
+            "items[1].title",
+            "items[2].title",
+            "items[0].label_1",
+            "items[0].label_2",
+            "items[1].label_1",
+            "items[1].label_2",
+            "items[2].label_1",
+            "items[2].label_2",
+            "items[0].body",
+            "items[1].body",
+            "items[2].body",
+            "items[0].label_3",
+            "items[1].label_3",
+            "items[2].label_3",
+            "items[0].caption",
+            "items[1].caption",
+            "items[2].caption",
+            "page.title"
+          ]
+        },
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-blue-122",

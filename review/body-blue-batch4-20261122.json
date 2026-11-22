@@ -1,0 +1,108 @@
+{
+  "layouts": {
+    "content-blue-032": {
+      "structure": "process",
+      "verified_counts": [
+        3,
+        4
+      ],
+      "body_bounds_emu": [
+        485421,
+        11661103
+      ],
+      "intro_capacity": [
+        8,
+        65
+      ],
+      "capacities": {
+        "3": {
+          "title": 8,
+          "body": [
+            40,
+            40
+          ],
+          "label_1": 6,
+          "label_2": 6
+        },
+        "4": {
+          "title": 8,
+          "body": [
+            28,
+            28
+          ],
+          "label_1": 6,
+          "label_2": 6
+        }
+      }
+    },
+    "content-blue-056": {
+      "structure": "timeline",
+      "verified_counts": [
+        3,
+        4
+      ],
+      "body_bounds_emu": [
+        0,
+        12192000
+      ],
+      "intro_capacity": [
+        8,
+        65
+      ],
+      "capacities": {
+        "3": {
+          "title": 13,
+          "body": [
+            39,
+            39
+          ]
+        },
+        "4": {
+          "title": 9,
+          "body": [
+            25,
+            25
+          ]
+        }
+      }
+    },
+    "content-blue-121": {
+      "structure": "parallel-points",
+      "verified_counts": [
+        2,
+        3
+      ],
+      "body_bounds_emu": [
+        548638,
+        11643351
+      ],
+      "intro_capacity": null,
+      "capacities": {
+        "2": {
+          "title": 16,
+          "body": 72,
+          "label_1": 20,
+          "label_2": 20,
+          "label_3": 20,
+          "caption": 19
+        },
+        "3": {
+          "title": 9,
+          "body": 48,
+          "label_1": 15,
+          "label_2": 15,
+          "label_3": 15,
+          "caption": 14
+        }
+      }
+    }
+  },
+  "themes": [
+    "blue",
+    "red"
+  ],
+  "powerpoint_passed": 24,
+  "text_overflows": 0,
+  "fixed_body_span": true,
+  "required_skill_commit": "a73a203cf210540414419e6f2e2425c167ab150d"
+}
