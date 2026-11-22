@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "group_path": [
+        117,
+        85
+      ],
+      "source_text": "连续12年全球最大网络零售市场；直播电商渗透率从2020年，4.9%跃升至2026年37.8%",
+      "source_sample_chars": 47,
+      "max_chars": 37,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        1097696,
+        2184573,
+        3993018,
+        634533
+      ],
+      "semantic_path": "pie_companion[0].copy",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        18,
+        18
+      ]
+    },
+    {
+      "field": "text_186",
+      "shape_id": 186,
+      "shape_name": "文本框 185",
+      "type": "text",
+      "group_path": [
+        182,
+        183
+      ],
+      "source_text": "行业增长企稳，营收和利润分别增长40%\n和39%；AI与数字资产是投资亮点",
+      "source_sample_chars": 37,
+      "max_chars": 37,
+      "typography_role": "chinese_body",
+      "bounds_emu_local": [
+        1097696,
+        2166993,
+        3993018,
+        669694
+      ],
+      "semantic_path": "pie_companion[1].copy",
+      "max_lines": 2,
+      "paragraph_max_chars": [
+        18,
+        18
+      ],
+      "preserve_paragraph_styles": true
+    }
+  ],
+  "objects": {
+    "charts": [
+      {
+        "shape_id": 26,
+        "shape_name": "图表 25",
+        "group_path": [],
+        "categories_max": 3,
+        "series_max": 1,
+        "series_min": 1,
+        "series_name_max_chars": 5,
+        "category_max_chars": 4,
+        "title_in_binding": true,
+        "count_matches_categories": true,
+        "minimum_slice_share": 0.12,
+        "value_range": [
+          1,
+          9999
+        ],
+        "category_label_shape_ids": [
+          42,
+          187
+        ]
+      }
+    ],
+    "tables": [],
+    "images": []
+  },
+  "review": "deep-blue-tech native chart validation"
+}

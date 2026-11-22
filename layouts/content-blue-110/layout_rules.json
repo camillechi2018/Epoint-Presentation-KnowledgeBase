@@ -5,8 +5,11 @@
   ],
   "source_count": 4,
   "reflow_status": "not_applicable_fixed_composition",
-  "count_evidence": "source_preview_only; not a validated reflow range",
-  "verified_counts": [],
-  "validation_status": "blocked_unsupported_native_3d_pie",
-  "composition": "dashboard_four_native_charts"
+  "count_evidence": "four native charts retained through PowerPoint editing and export",
+  "verified_counts": [
+    4
+  ],
+  "validation_status": "verified_fixed_count",
+  "composition": "dashboard_four_native_charts",
+  "body_slots": 39
 }
