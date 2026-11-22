@@ -1,0 +1,301 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "风险\n管理",
+      "bounds_pt": [
+        395.1,
+        255.6,
+        74.8,
+        75.1
+      ],
+      "semantic_path": "center.left",
+      "max_lines": 2,
+      "max_chars_per_line": 2,
+      "max_width_units": 4
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "max_chars": 5,
+      "source_sample_chars": 5,
+      "source_text": "应对\n策略",
+      "bounds_pt": [
+        490.1,
+        255.6,
+        74.8,
+        75.1
+      ],
+      "semantic_path": "center.right",
+      "max_lines": 2,
+      "max_chars_per_line": 2,
+      "max_width_units": 4
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 28,
+      "source_text": "团队成员之间或与客户的沟通不清晰可能导致误解及项目延误。",
+      "bounds_pt": [
+        157.3,
+        124.2,
+        184.5,
+        41.9
+      ],
+      "semantic_path": "pairs[0].left_body",
+      "max_lines": 1,
+      "max_width_units": 60
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 24,
+      "source_text": "任务安排不合理可能导致项目进度延误影响最终交付。",
+      "bounds_pt": [
+        157.3,
+        286.8,
+        184.5,
+        41.9
+      ],
+      "semantic_path": "pairs[1].left_body",
+      "max_lines": 1,
+      "max_width_units": 60
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 25,
+      "source_text": "团队成员的技能不足或不匹配可能影响工作效率和质量。",
+      "bounds_pt": [
+        157.3,
+        449.3,
+        184.5,
+        41.9
+      ],
+      "semantic_path": "pairs[2].left_body",
+      "max_lines": 1,
+      "max_width_units": 60
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 30,
+      "source_text": "定期召开项目会议，在重要决策时，书面确认关键信息和责任分配。",
+      "bounds_pt": [
+        618.1,
+        124.2,
+        184.5,
+        41.9
+      ],
+      "semantic_path": "pairs[0].right_body",
+      "max_lines": 1,
+      "max_width_units": 60
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "文本框 50",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 29,
+      "source_text": "制定详细的工作计划，并设置合理的优先级，定期检查工作进度。",
+      "bounds_pt": [
+        618.1,
+        286.8,
+        184.5,
+        41.9
+      ],
+      "semantic_path": "pairs[1].right_body",
+      "max_lines": 1,
+      "max_width_units": 60
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "文本框 51",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 32,
+      "source_text": "为团队成员提供培训机会，鼓励团队成员之间互相学习，增强技能水平。",
+      "bounds_pt": [
+        618.1,
+        449.3,
+        184.5,
+        41.9
+      ],
+      "semantic_path": "pairs[2].right_body",
+      "max_lines": 1,
+      "max_width_units": 60
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "文本框 53",
+      "type": "text",
+      "max_chars": 9,
+      "source_sample_chars": 9,
+      "source_text": "01.沟通交流不畅",
+      "bounds_pt": [
+        157.3,
+        97.8,
+        184.5,
+        26.7
+      ],
+      "semantic_path": "pairs[0].left_title",
+      "max_lines": 1,
+      "max_width_units": 18
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "文本框 56",
+      "type": "text",
+      "max_chars": 9,
+      "source_sample_chars": 9,
+      "source_text": "02.时间管理不当",
+      "bounds_pt": [
+        157.3,
+        259.8,
+        184.5,
+        26.7
+      ],
+      "semantic_path": "pairs[1].left_title",
+      "max_lines": 1,
+      "max_width_units": 18
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "文本框 57",
+      "type": "text",
+      "max_chars": 9,
+      "source_sample_chars": 9,
+      "source_text": "03.工作技能不强",
+      "bounds_pt": [
+        157.3,
+        421.9,
+        184.5,
+        26.7
+      ],
+      "semantic_path": "pairs[2].left_title",
+      "max_lines": 1,
+      "max_width_units": 18
+    },
+    {
+      "field": "text_60",
+      "shape_id": 60,
+      "shape_name": "文本框 59",
+      "type": "text",
+      "max_chars": 9,
+      "source_sample_chars": 9,
+      "source_text": "01.加强沟通交流",
+      "bounds_pt": [
+        618.1,
+        97.6,
+        184.5,
+        26.7
+      ],
+      "semantic_path": "pairs[0].right_title",
+      "max_lines": 1,
+      "max_width_units": 18
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "文本框 60",
+      "type": "text",
+      "max_chars": 9,
+      "source_sample_chars": 9,
+      "source_text": "02.合理时间规划",
+      "bounds_pt": [
+        618.1,
+        259.6,
+        184.5,
+        26.7
+      ],
+      "semantic_path": "pairs[1].right_title",
+      "max_lines": 1,
+      "max_width_units": 18
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "文本框 61",
+      "type": "text",
+      "max_chars": 9,
+      "source_sample_chars": 9,
+      "source_text": "03.技能训练评估",
+      "bounds_pt": [
+        618.1,
+        421.7,
+        184.5,
+        26.7
+      ],
+      "semantic_path": "pairs[2].right_title",
+      "max_lines": 1,
+      "max_width_units": 18
+    },
+    {
+      "field": "text_70",
+      "shape_id": 70,
+      "shape_name": "文本框 69",
+      "type": "text",
+      "max_chars": 2,
+      "source_sample_chars": 2,
+      "source_text": "重点",
+      "bounds_pt": [
+        454.1,
+        118.3,
+        52.1,
+        24.2
+      ],
+      "semantic_path": "center.upper_badge",
+      "max_lines": 1,
+      "max_width_units": 4
+    },
+    {
+      "field": "text_71",
+      "shape_id": 71,
+      "shape_name": "文本框 70",
+      "type": "text",
+      "max_chars": 2,
+      "source_sample_chars": 2,
+      "source_text": "重点",
+      "bounds_pt": [
+        453.6,
+        442.6,
+        52.1,
+        24.2
+      ],
+      "semantic_path": "center.lower_badge",
+      "max_lines": 1,
+      "max_width_units": 4
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

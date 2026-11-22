@@ -1,0 +1,263 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "椭圆 38",
+      "type": "text",
+      "max_chars": 2,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        214.4,
+        100.0,
+        57.1,
+        57.1
+      ],
+      "semantic_path": "items[0].number",
+      "max_lines": 1,
+      "max_width_units": 4
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "椭圆 40",
+      "type": "text",
+      "max_chars": 2,
+      "source_sample_chars": 2,
+      "source_text": "03",
+      "bounds_pt": [
+        303.5,
+        263.6,
+        57.1,
+        57.1
+      ],
+      "semantic_path": "items[2].number",
+      "max_lines": 1,
+      "max_width_units": 4
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "椭圆 39",
+      "type": "text",
+      "max_chars": 2,
+      "source_sample_chars": 2,
+      "source_text": "02",
+      "bounds_pt": [
+        279.3,
+        172.4,
+        57.1,
+        57.1
+      ],
+      "semantic_path": "items[1].number",
+      "max_lines": 1,
+      "max_width_units": 4
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "椭圆 42",
+      "type": "text",
+      "max_chars": 2,
+      "source_sample_chars": 2,
+      "source_text": "05",
+      "bounds_pt": [
+        214.4,
+        427.2,
+        57.1,
+        57.1
+      ],
+      "semantic_path": "items[3].number",
+      "max_lines": 1,
+      "max_width_units": 4
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 7,
+      "source_sample_chars": 8,
+      "source_text": "工作中的个人优势",
+      "bounds_pt": [
+        50.1,
+        294.6,
+        179.0,
+        31.5
+      ],
+      "semantic_path": "diagram.title",
+      "max_lines": 1,
+      "max_width_units": 14
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 12,
+      "source_sample_chars": 35,
+      "source_text": "Personal strengths in the workplace",
+      "bounds_pt": [
+        50.1,
+        321.4,
+        179.0,
+        31.5
+      ],
+      "semantic_path": "diagram.subtitle",
+      "max_lines": 1,
+      "max_width_units": 24
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "文本框 55",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 61,
+      "source_text": "我具备系统性战略思维和敏锐的市场洞察力，善于通过深入分析行业发展趋势和竞争格局，制定具有前瞻性的战略目标及清晰的实施路径。",
+      "bounds_pt": [
+        380.6,
+        111.2,
+        433.8,
+        41.9
+      ],
+      "semantic_path": "items[0].body",
+      "max_lines": 1,
+      "max_width_units": 180
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "文本框 57",
+      "type": "text",
+      "max_chars": 11,
+      "source_sample_chars": 6,
+      "source_text": "战略规划能力",
+      "bounds_pt": [
+        380.6,
+        91.2,
+        433.8,
+        26.7
+      ],
+      "semantic_path": "items[0].title",
+      "max_lines": 1,
+      "max_width_units": 22
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "文本框 58",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 76,
+      "source_text": "我拥有丰富的团队建设和管理经验，善于通过科学的激励机制和个性化培养方案，激发团队成员的工作热情和创造力，打造高绩效团队，并持续为组织培养和输送优秀人才。",
+      "bounds_pt": [
+        380.6,
+        196.9,
+        433.8,
+        41.9
+      ],
+      "semantic_path": "items[1].body",
+      "max_lines": 1,
+      "max_width_units": 180
+    },
+    {
+      "field": "text_60",
+      "shape_id": 60,
+      "shape_name": "文本框 59",
+      "type": "text",
+      "max_chars": 11,
+      "source_sample_chars": 6,
+      "source_text": "团队合作能力",
+      "bounds_pt": [
+        380.6,
+        174.6,
+        433.8,
+        26.7
+      ],
+      "semantic_path": "items[1].title",
+      "max_lines": 1,
+      "max_width_units": 22
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "文本框 60",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 76,
+      "source_text": "我擅长运用系统思维和科学方法分析复杂问题，能够快速定位问题本质，整合多方资源制定切实可行的解决方案，并在执行过程中持续优化改进，确保问题得到根本性解决。",
+      "bounds_pt": [
+        380.6,
+        282.5,
+        433.8,
+        41.9
+      ],
+      "semantic_path": "items[2].body",
+      "max_lines": 1,
+      "max_width_units": 180
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "文本框 61",
+      "type": "text",
+      "max_chars": 11,
+      "source_sample_chars": 6,
+      "source_text": "问题解决能力",
+      "bounds_pt": [
+        380.6,
+        260.2,
+        433.8,
+        26.7
+      ],
+      "semantic_path": "items[2].title",
+      "max_lines": 1,
+      "max_width_units": 22
+    },
+    {
+      "field": "text_65",
+      "shape_id": 65,
+      "shape_name": "文本框 64",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 69,
+      "source_text": "我拥有优秀的跨部门沟通和协调能力，善于搭建高效的协作平台，促进各部门之间的信息共享和资源整合，推动复杂项目的顺利实施，确保组织目标的达成。",
+      "bounds_pt": [
+        380.6,
+        453.8,
+        433.8,
+        41.9
+      ],
+      "semantic_path": "items[3].body",
+      "max_lines": 1,
+      "max_width_units": 180
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "文本框 65",
+      "type": "text",
+      "max_chars": 11,
+      "source_sample_chars": 6,
+      "source_text": "沟通协调能力",
+      "bounds_pt": [
+        380.6,
+        431.5,
+        433.8,
+        26.7
+      ],
+      "semantic_path": "items[3].title",
+      "max_lines": 1,
+      "max_width_units": 22
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}
