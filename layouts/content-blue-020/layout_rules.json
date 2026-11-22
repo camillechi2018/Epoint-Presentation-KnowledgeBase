@@ -1,6 +1,29 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
-  "source_count": null,
-  "reflow_status": "not_implemented"
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    3
+  ],
+  "source_count": 3,
+  "reflow_status": "not_implemented",
+  "verified_counts": [
+    3
+  ],
+  "validation_status": "verified_fixed_count",
+  "progress_rings": [
+    {
+      "arc_shape_id": 8,
+      "text_shape_id": 54,
+      "value_field": "metrics[0].value"
+    },
+    {
+      "arc_shape_id": 59,
+      "text_shape_id": 57,
+      "value_field": "metrics[1].value"
+    },
+    {
+      "arc_shape_id": 64,
+      "text_shape_id": 62,
+      "value_field": "metrics[2].value"
+    }
+  ]
 }

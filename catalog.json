@@ -105,13 +105,13 @@
       "id": "content-blue-003",
       "version": "1.0.0-draft",
       "collection": "new-template-content",
-      "role": "content",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
-      "family_id": "content-003",
+      "role": "hierarchy",
+      "information_relation": "hierarchy",
+      "classification_status": "verified",
+      "family_id": "batch-4a-content-blue-003",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
-      "bindings": "layouts/content-blue-003/bindings.json",
+      "bindings": "layouts/content-blue-003/candidate-blue-bindings.json",
       "spec": "layouts/content-blue-003/spec.md",
       "layout_rules": "layouts/content-blue-003/layout_rules.json",
       "motion": "layouts/content-blue-003/motion.json",
@@ -122,9 +122,8 @@
       ],
       "status": "draft_pending_review",
       "capacity": {
-        "body_slots": 34,
-        "item_title_slots": 0,
-        "cell_max_chars": 20
+        "body_slots": 30,
+        "item_title_slots": 3
       },
       "source_page": 3,
       "shape_count": 76,
@@ -139,21 +138,117 @@
       "source_logo_shape_id": 2,
       "source_logo_asset_sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
       "red_source_logo_shape_id": 2,
-      "red_bindings": "layouts/content-blue-003/bindings-red.json",
+      "red_bindings": "layouts/content-blue-003/candidate-red-bindings.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 3
+      "red_source_page": 3,
+      "canonical_relation": "hierarchy",
+      "search_label": "三段层级与组合说明",
+      "pptx_support": "verified_static",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "hierarchy",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "page.title",
+          "foundation.second.heading",
+          "foundation.first.body",
+          "foundation.first.heading",
+          "foundation.second.body",
+          "foundation.summary",
+          "outcome.summary",
+          "development.funnel.second",
+          "development.funnel.third",
+          "development.funnel.first",
+          "development.milestones[0].heading",
+          "development.milestones[1].heading",
+          "development.milestones[2].heading",
+          "outcome.metrics[0].heading",
+          "outcome.metrics[1].heading",
+          "outcome.metrics[2].heading",
+          "outcome.metrics[0].english",
+          "outcome.metrics[1].english",
+          "outcome.metrics[2].english",
+          "outcome.metrics[0].value",
+          "outcome.metrics[1].value",
+          "outcome.metrics[2].value",
+          "items[0].stage.heading",
+          "items[1].stage.heading",
+          "items[2].stage.heading",
+          "items[0].stage.period",
+          "items[1].stage.period",
+          "items[2].stage.period",
+          "items[0].stage.body",
+          "items[1].stage.body",
+          "items[2].stage.body"
+        ],
+        "access_mode": "field_complete"
+      },
+      "body_component_contract": {
+        "version": 2,
+        "themes": {
+          "blue": {
+            "asset": "layouts/content-blue-003/body-blue.pptx",
+            "sha256": "45080d22ef8b1a1d86cc1a61de0168f456760c3dccf215f81c8d870d4e9f2ce6",
+            "bindings": "layouts/content-blue-003/body-blue-bindings.json",
+            "bindings_sha256": "4250cc02598f19c222a32c39669c58be8a7ad12826bdf6b7cb1a8684f3ab139d",
+            "title_input": {
+              "field": "text_84",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              2,
+              84,
+              86
+            ],
+            "source": {
+              "source": "sources/blue.pptx",
+              "page": 3,
+              "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+            }
+          },
+          "red": {
+            "asset": "layouts/content-blue-003/body-red.pptx",
+            "sha256": "133ba8aa5ba91c37723a20afa4b8de0f5eb79ea7bc3e60a7db37b32785d9b3f4",
+            "bindings": "layouts/content-blue-003/body-red-bindings.json",
+            "bindings_sha256": "2db19f2051da251b21ccba74c34cffffb91ff0ea3c370354c9fad87cd2578174",
+            "title_input": {
+              "field": "text_84",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              2,
+              84,
+              86
+            ],
+            "source": {
+              "source": "sources/red.pptx",
+              "page": 3,
+              "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+            }
+          }
+        }
+      },
+      "original_bindings_by_theme": {
+        "blue": "layouts/content-blue-003/bindings.json",
+        "red": "layouts/content-blue-003/bindings-red.json"
+      }
     },
     {
       "id": "content-blue-004",
       "version": "1.0.0-draft",
       "collection": "new-template-content",
-      "role": "content",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
-      "family_id": "content-004",
+      "role": "framework",
+      "information_relation": "framework",
+      "classification_status": "verified",
+      "family_id": "batch-4a-content-blue-004",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
-      "bindings": "layouts/content-blue-004/bindings.json",
+      "bindings": "layouts/content-blue-004/candidate-blue-bindings.json",
       "spec": "layouts/content-blue-004/spec.md",
       "layout_rules": "layouts/content-blue-004/layout_rules.json",
       "motion": "layouts/content-blue-004/motion.json",
@@ -164,9 +259,8 @@
       ],
       "status": "draft_pending_review",
       "capacity": {
-        "body_slots": 27,
-        "item_title_slots": 0,
-        "cell_max_chars": 20
+        "body_slots": 22,
+        "item_title_slots": 4
       },
       "source_page": 4,
       "shape_count": 55,
@@ -181,21 +275,109 @@
       "source_logo_shape_id": 2,
       "source_logo_asset_sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
       "red_source_logo_shape_id": 6,
-      "red_bindings": "layouts/content-blue-004/bindings-red.json",
+      "red_bindings": "layouts/content-blue-004/candidate-red-bindings.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 4
+      "red_source_page": 4,
+      "canonical_relation": "framework",
+      "search_label": "四期目标与双区归纳",
+      "pptx_support": "verified_static",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "framework",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "page.title",
+          "period.first",
+          "period.second",
+          "items[0].goal.body",
+          "items[1].goal.body",
+          "items[2].goal.body",
+          "items[3].goal.body",
+          "items[0].focus.heading",
+          "items[1].focus.heading",
+          "items[2].focus.heading",
+          "items[3].focus.heading",
+          "items[0].focus.english",
+          "items[1].focus.english",
+          "items[2].focus.english",
+          "items[3].focus.english",
+          "items[0].review.heading",
+          "items[1].review.heading",
+          "items[2].review.heading",
+          "items[3].review.heading",
+          "items[0].review.body",
+          "items[1].review.body",
+          "items[2].review.body",
+          "items[3].review.body"
+        ],
+        "access_mode": "field_complete"
+      },
+      "body_component_contract": {
+        "version": 2,
+        "themes": {
+          "blue": {
+            "asset": "layouts/content-blue-004/body-blue.pptx",
+            "sha256": "580b0ee0c46a59c78f88881a21650ccec9d4e8bc43fccf98bacb4352a4b5aea6",
+            "bindings": "layouts/content-blue-004/body-blue-bindings.json",
+            "bindings_sha256": "06fbdb3ff89e577e1b68e11ea322f70a08cea1ef3a4bdb877b310e1e9ac86823",
+            "title_input": {
+              "field": "text_66",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              2,
+              66,
+              69
+            ],
+            "source": {
+              "source": "sources/blue.pptx",
+              "page": 4,
+              "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+            }
+          },
+          "red": {
+            "asset": "layouts/content-blue-004/body-red.pptx",
+            "sha256": "913a5303d5636409af56545f583887b57cf98051b0475b915398ba8f628b97f2",
+            "bindings": "layouts/content-blue-004/body-red-bindings.json",
+            "bindings_sha256": "6af266986b3ba9d0bde9e031a5aa664360f83ade235e50c43c27b69053f9dac1",
+            "title_input": {
+              "field": "text_66",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              6,
+              66,
+              69
+            ],
+            "source": {
+              "source": "sources/red.pptx",
+              "page": 4,
+              "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+            }
+          }
+        }
+      },
+      "original_bindings_by_theme": {
+        "blue": "layouts/content-blue-004/bindings.json",
+        "red": "layouts/content-blue-004/bindings-red.json"
+      }
     },
     {
       "id": "content-blue-005",
       "version": "1.0.0-draft",
       "collection": "new-template-content",
-      "role": "content",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
-      "family_id": "content-005",
+      "role": "framework",
+      "information_relation": "framework",
+      "classification_status": "verified",
+      "family_id": "batch-4a-content-blue-005",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
-      "bindings": "layouts/content-blue-005/bindings.json",
+      "bindings": "layouts/content-blue-005/candidate-blue-bindings.json",
       "spec": "layouts/content-blue-005/spec.md",
       "layout_rules": "layouts/content-blue-005/layout_rules.json",
       "motion": "layouts/content-blue-005/motion.json",
@@ -206,9 +388,8 @@
       ],
       "status": "draft_pending_review",
       "capacity": {
-        "body_slots": 38,
-        "item_title_slots": 0,
-        "cell_max_chars": 20
+        "body_slots": 37,
+        "item_title_slots": 4
       },
       "source_page": 5,
       "shape_count": 78,
@@ -223,21 +404,124 @@
       "source_logo_shape_id": 6,
       "source_logo_asset_sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
       "red_source_logo_shape_id": 7,
-      "red_bindings": "layouts/content-blue-005/bindings-red.json",
+      "red_bindings": "layouts/content-blue-005/candidate-red-bindings.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 5
+      "red_source_page": 5,
+      "canonical_relation": "framework",
+      "search_label": "四区分解与八项指标",
+      "pptx_support": "verified_static",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "framework",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "page.title",
+          "overview.heading",
+          "period.first",
+          "period.second",
+          "period.first_summary",
+          "period.second_summary",
+          "items[0].goal.heading",
+          "items[1].goal.heading",
+          "items[2].goal.heading",
+          "items[3].goal.heading",
+          "items[0].goal.first",
+          "items[1].goal.first",
+          "items[2].goal.first",
+          "items[3].goal.first",
+          "items[0].goal.second",
+          "items[1].goal.second",
+          "items[2].goal.second",
+          "items[3].goal.second",
+          "items[0].goal.period",
+          "items[1].goal.period",
+          "items[2].goal.period",
+          "items[3].goal.period",
+          "items[0].metric_a.heading",
+          "items[1].metric_a.heading",
+          "items[2].metric_a.heading",
+          "items[3].metric_a.heading",
+          "items[0].metric_a.value",
+          "items[1].metric_a.value",
+          "items[2].metric_a.value",
+          "items[3].metric_a.value",
+          "items[0].metric_b.heading",
+          "items[1].metric_b.heading",
+          "items[2].metric_b.heading",
+          "items[3].metric_b.heading",
+          "items[0].metric_b.value",
+          "items[1].metric_b.value",
+          "items[2].metric_b.value",
+          "items[3].metric_b.value"
+        ],
+        "access_mode": "field_complete"
+      },
+      "body_component_contract": {
+        "version": 2,
+        "themes": {
+          "blue": {
+            "asset": "layouts/content-blue-005/body-blue.pptx",
+            "sha256": "a4155b7719e68ca3c25cd73bd07c8577e616274cc14407231e622b2259492f84",
+            "bindings": "layouts/content-blue-005/body-blue-bindings.json",
+            "bindings_sha256": "8c2175f8663db62e14676a4e21908af59816d5cd6d97c458f2a0c4b4c6111895",
+            "title_input": {
+              "field": "text_89",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              6,
+              89,
+              92
+            ],
+            "source": {
+              "source": "sources/blue.pptx",
+              "page": 5,
+              "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+            }
+          },
+          "red": {
+            "asset": "layouts/content-blue-005/body-red.pptx",
+            "sha256": "346bac2807db24eb3cca42f5479c8463c864373e14332f8d2ec07effc4d34034",
+            "bindings": "layouts/content-blue-005/body-red-bindings.json",
+            "bindings_sha256": "119246ac72120cb2ec6d9c399ecd50230b26c0525e72bd1a1997f57a21cfdba8",
+            "title_input": {
+              "field": "text_89",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              7,
+              89,
+              92
+            ],
+            "source": {
+              "source": "sources/red.pptx",
+              "page": 5,
+              "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+            }
+          }
+        }
+      },
+      "original_bindings_by_theme": {
+        "blue": "layouts/content-blue-005/bindings.json",
+        "red": "layouts/content-blue-005/bindings-red.json"
+      }
     },
     {
       "id": "content-blue-006",
       "version": "1.0.0-draft",
       "collection": "new-template-content",
-      "role": "content",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
-      "family_id": "content-006",
+      "role": "framework",
+      "information_relation": "framework",
+      "classification_status": "verified",
+      "family_id": "batch-4a-content-blue-006",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
-      "bindings": "layouts/content-blue-006/bindings.json",
+      "bindings": "layouts/content-blue-006/candidate-blue-bindings.json",
       "spec": "layouts/content-blue-006/spec.md",
       "layout_rules": "layouts/content-blue-006/layout_rules.json",
       "motion": "layouts/content-blue-006/motion.json",
@@ -248,9 +532,8 @@
       ],
       "status": "draft_pending_review",
       "capacity": {
-        "body_slots": 44,
-        "item_title_slots": 0,
-        "cell_max_chars": 20
+        "body_slots": 43,
+        "item_title_slots": 3
       },
       "source_page": 6,
       "shape_count": 71,
@@ -265,9 +548,118 @@
       "source_logo_shape_id": 2,
       "source_logo_asset_sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
       "red_source_logo_shape_id": 3,
-      "red_bindings": "layouts/content-blue-006/bindings-red.json",
+      "red_bindings": "layouts/content-blue-006/candidate-red-bindings.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 6
+      "red_source_page": 6,
+      "canonical_relation": "framework",
+      "search_label": "三行四列职责矩阵",
+      "pptx_support": "verified_static",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "framework",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "page.title",
+          "axis.heading",
+          "axis.key_heading",
+          "axis.english",
+          "axis.columns[0].heading",
+          "axis.columns[1].heading",
+          "axis.columns[2].heading",
+          "axis.columns[3].heading",
+          "items[0].cells[0].heading",
+          "items[0].cells[0].body",
+          "items[1].cells[0].heading",
+          "items[1].cells[0].body",
+          "items[2].cells[0].heading",
+          "items[2].cells[0].body",
+          "items[0].cells[1].heading",
+          "items[0].cells[1].body",
+          "items[1].cells[1].heading",
+          "items[1].cells[1].body",
+          "items[2].cells[1].heading",
+          "items[2].cells[1].body",
+          "items[0].cells[2].heading",
+          "items[0].cells[2].body",
+          "items[1].cells[2].heading",
+          "items[1].cells[2].body",
+          "items[2].cells[2].heading",
+          "items[2].cells[2].body",
+          "items[0].cells[3].heading",
+          "items[0].cells[3].body",
+          "items[1].cells[3].heading",
+          "items[1].cells[3].body",
+          "items[2].cells[3].heading",
+          "items[2].cells[3].body",
+          "items[0].row.heading",
+          "items[1].row.heading",
+          "items[2].row.heading",
+          "items[0].row.english",
+          "items[1].row.english",
+          "items[2].row.english",
+          "items[0].row.key",
+          "items[1].row.key",
+          "items[2].row.key",
+          "items[0].row.summary",
+          "items[1].row.summary",
+          "items[2].row.summary"
+        ],
+        "access_mode": "field_complete"
+      },
+      "body_component_contract": {
+        "version": 2,
+        "themes": {
+          "blue": {
+            "asset": "layouts/content-blue-006/body-blue.pptx",
+            "sha256": "7f37b4c267f06da0d3bef72744dad62178b5c0a8f7b94affa2cde2691cec7a15",
+            "bindings": "layouts/content-blue-006/body-blue-bindings.json",
+            "bindings_sha256": "cdfe539a32830ee2c0f1cf85bb8d4558dd68311c304314b6ab58f62ae221b0af",
+            "title_input": {
+              "field": "text_6",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              2,
+              6,
+              8
+            ],
+            "source": {
+              "source": "sources/blue.pptx",
+              "page": 6,
+              "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+            }
+          },
+          "red": {
+            "asset": "layouts/content-blue-006/body-red.pptx",
+            "sha256": "6fd37f724f045ae43962c1c6a752aa797b26a4d50db562570bd7aa6ca6979724",
+            "bindings": "layouts/content-blue-006/body-red-bindings.json",
+            "bindings_sha256": "f2dcc1277a97e21dfc8084b3819e9b3b423c7dd32487725b2d627b8a8226c1f7",
+            "title_input": {
+              "field": "text_6",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              3,
+              6,
+              8
+            ],
+            "source": {
+              "source": "sources/red.pptx",
+              "page": 6,
+              "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+            }
+          }
+        }
+      },
+      "original_bindings_by_theme": {
+        "blue": "layouts/content-blue-006/bindings.json",
+        "red": "layouts/content-blue-006/bindings-red.json"
+      }
     },
     {
       "id": "content-blue-007",
@@ -591,13 +983,13 @@
       "id": "content-blue-010",
       "version": "1.0.0-draft",
       "collection": "new-template-content",
-      "role": "content",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
-      "family_id": "content-010",
+      "role": "comparison",
+      "information_relation": "comparison",
+      "classification_status": "verified",
+      "family_id": "batch-4a-content-blue-010",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
-      "bindings": "layouts/content-blue-010/bindings.json",
+      "bindings": "layouts/content-blue-010/candidate-blue-bindings.json",
       "spec": "layouts/content-blue-010/spec.md",
       "layout_rules": "layouts/content-blue-010/layout_rules.json",
       "motion": "layouts/content-blue-010/motion.json",
@@ -608,9 +1000,8 @@
       ],
       "status": "draft_pending_review",
       "capacity": {
-        "body_slots": 28,
-        "item_title_slots": 0,
-        "cell_max_chars": 20
+        "body_slots": 27,
+        "item_title_slots": 2
       },
       "source_page": 10,
       "shape_count": 56,
@@ -625,9 +1016,102 @@
       "source_logo_shape_id": 2,
       "source_logo_asset_sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
       "red_source_logo_shape_id": 3,
-      "red_bindings": "layouts/content-blue-010/bindings-red.json",
+      "red_bindings": "layouts/content-blue-010/candidate-red-bindings.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 10
+      "red_source_page": 10,
+      "canonical_relation": "comparison",
+      "search_label": "双区总结与三级归纳",
+      "pptx_support": "verified_static",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "comparison",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "page.title",
+          "conclusion.levels[0].heading",
+          "conclusion.levels[1].heading",
+          "conclusion.levels[2].heading",
+          "items[0].panel.heading",
+          "items[1].panel.heading",
+          "items[0].panel.english",
+          "items[1].panel.english",
+          "items[0].panel.period",
+          "items[1].panel.period",
+          "items[0].cards[0].heading",
+          "items[0].cards[0].body",
+          "items[0].cards[1].heading",
+          "items[0].cards[1].body",
+          "items[0].cards[2].heading",
+          "items[0].cards[2].body",
+          "items[1].cards[0].heading",
+          "items[1].cards[0].body",
+          "items[1].cards[1].heading",
+          "items[1].cards[1].body",
+          "items[1].cards[2].heading",
+          "items[1].cards[2].body",
+          "items[0].highlights[0].heading",
+          "items[0].highlights[1].heading",
+          "items[0].highlights[2].heading",
+          "items[1].highlights[0].heading",
+          "items[1].highlights[1].heading",
+          "items[1].highlights[2].heading"
+        ],
+        "access_mode": "field_complete"
+      },
+      "body_component_contract": {
+        "version": 2,
+        "themes": {
+          "blue": {
+            "asset": "layouts/content-blue-010/body-blue.pptx",
+            "sha256": "6b48bf35d4be6d4c69f40d90f5fcb9b78aed6632b742fc3a67be840dd358e950",
+            "bindings": "layouts/content-blue-010/body-blue-bindings.json",
+            "bindings_sha256": "aa826e8658885c3b10aaffa247df5d704cd07deb53caee8c288aa9e6065e2b7b",
+            "title_input": {
+              "field": "text_7",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              2,
+              7,
+              9
+            ],
+            "source": {
+              "source": "sources/blue.pptx",
+              "page": 10,
+              "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+            }
+          },
+          "red": {
+            "asset": "layouts/content-blue-010/body-red.pptx",
+            "sha256": "cfbd3e9fafd642bb431b669b2c1662475f4a80eb97b619ea2ffeb0ed7a26bc7a",
+            "bindings": "layouts/content-blue-010/body-red-bindings.json",
+            "bindings_sha256": "a7665ddd74dfa13cce4653fa1866832db08568c52774ec9799eb3df5cc239b93",
+            "title_input": {
+              "field": "text_7",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              3,
+              7,
+              9
+            ],
+            "source": {
+              "source": "sources/red.pptx",
+              "page": 10,
+              "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+            }
+          }
+        }
+      },
+      "original_bindings_by_theme": {
+        "blue": "layouts/content-blue-010/bindings.json",
+        "red": "layouts/content-blue-010/bindings-red.json"
+      }
     },
     {
       "id": "content-blue-011",
@@ -1406,13 +1890,13 @@
       "id": "content-blue-017",
       "version": "1.0.0-draft",
       "collection": "new-template-content",
-      "role": "content",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
-      "family_id": "content-017",
+      "role": "framework",
+      "information_relation": "framework",
+      "classification_status": "verified",
+      "family_id": "batch-4a-content-blue-017",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
-      "bindings": "layouts/content-blue-017/bindings.json",
+      "bindings": "layouts/content-blue-017/candidate-blue-bindings.json",
       "spec": "layouts/content-blue-017/spec.md",
       "layout_rules": "layouts/content-blue-017/layout_rules.json",
       "motion": "layouts/content-blue-017/motion.json",
@@ -1423,9 +1907,8 @@
       ],
       "status": "draft_pending_review",
       "capacity": {
-        "body_slots": 24,
-        "item_title_slots": 0,
-        "cell_max_chars": 20
+        "body_slots": 23,
+        "item_title_slots": 4
       },
       "source_page": 17,
       "shape_count": 55,
@@ -1440,9 +1923,98 @@
       "source_logo_shape_id": 2,
       "source_logo_asset_sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
       "red_source_logo_shape_id": 3,
-      "red_bindings": "layouts/content-blue-017/bindings-red.json",
+      "red_bindings": "layouts/content-blue-017/candidate-red-bindings.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 17
+      "red_source_page": 17,
+      "canonical_relation": "framework",
+      "search_label": "四节半环与右侧指标",
+      "pptx_support": "verified_static",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "framework",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "page.title",
+          "overview.heading",
+          "period.first",
+          "period.second",
+          "items[0].panel.heading",
+          "items[1].panel.heading",
+          "items[2].panel.heading",
+          "items[3].panel.heading",
+          "items[0].panel.english",
+          "items[1].panel.english",
+          "items[2].panel.english",
+          "items[3].panel.english",
+          "items[0].panel.body",
+          "items[1].panel.body",
+          "items[2].panel.body",
+          "items[3].panel.body",
+          "items[0].metric.heading",
+          "items[1].metric.heading",
+          "items[2].metric.heading",
+          "items[3].metric.heading",
+          "items[0].metric.value",
+          "items[1].metric.value",
+          "items[2].metric.value",
+          "items[3].metric.value"
+        ],
+        "access_mode": "field_complete"
+      },
+      "body_component_contract": {
+        "version": 2,
+        "themes": {
+          "blue": {
+            "asset": "layouts/content-blue-017/body-blue.pptx",
+            "sha256": "c7207afc01eb93b9e8b7e708fc4e817e2714e285bc7a427149f787a770b2f16c",
+            "bindings": "layouts/content-blue-017/body-blue-bindings.json",
+            "bindings_sha256": "98869a8d6167f879e0cd69b84d62a816e69a6b0f6bcfb3e206d7439e3653d562",
+            "title_input": {
+              "field": "text_7",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              2,
+              7,
+              9
+            ],
+            "source": {
+              "source": "sources/blue.pptx",
+              "page": 17,
+              "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+            }
+          },
+          "red": {
+            "asset": "layouts/content-blue-017/body-red.pptx",
+            "sha256": "eed420982faa238aef213f048ee085ac8c6b5cac2ce20601bbb4304ff1018341",
+            "bindings": "layouts/content-blue-017/body-red-bindings.json",
+            "bindings_sha256": "286c0187e504aace59a291d2fafc287a27794c38bdd2b23665a7096bfd1059e0",
+            "title_input": {
+              "field": "text_7",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              3,
+              7,
+              9
+            ],
+            "source": {
+              "source": "sources/red.pptx",
+              "page": 17,
+              "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+            }
+          }
+        }
+      },
+      "original_bindings_by_theme": {
+        "blue": "layouts/content-blue-017/bindings.json",
+        "red": "layouts/content-blue-017/bindings-red.json"
+      }
     },
     {
       "id": "content-blue-018",
@@ -1700,13 +2272,13 @@
       "id": "content-blue-020",
       "version": "1.0.0-draft",
       "collection": "new-template-content",
-      "role": "content",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
-      "family_id": "content-020",
+      "role": "framework",
+      "information_relation": "framework",
+      "classification_status": "verified",
+      "family_id": "batch-4a-content-blue-020",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
-      "bindings": "layouts/content-blue-020/bindings.json",
+      "bindings": "layouts/content-blue-020/candidate-blue-bindings.json",
       "spec": "layouts/content-blue-020/spec.md",
       "layout_rules": "layouts/content-blue-020/layout_rules.json",
       "motion": "layouts/content-blue-020/motion.json",
@@ -1717,9 +2289,8 @@
       ],
       "status": "draft_pending_review",
       "capacity": {
-        "body_slots": 17,
-        "item_title_slots": 0,
-        "cell_max_chars": 20
+        "body_slots": 13,
+        "item_title_slots": 3
       },
       "source_page": 20,
       "shape_count": 52,
@@ -1734,21 +2305,100 @@
       "source_logo_shape_id": 2,
       "source_logo_asset_sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
       "red_source_logo_shape_id": 4,
-      "red_bindings": "layouts/content-blue-020/bindings-red.json",
+      "red_bindings": "layouts/content-blue-020/candidate-red-bindings.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 20
+      "red_source_page": 20,
+      "canonical_relation": "framework",
+      "search_label": "三角三区及三项环形指标",
+      "pptx_support": "verified_static",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "framework",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "page.title",
+          "overview.heading",
+          "items[0].area.heading",
+          "items[1].area.heading",
+          "items[2].area.heading",
+          "items[0].area.body",
+          "items[1].area.body",
+          "items[2].area.body",
+          "metrics[0].heading",
+          "metrics[1].heading",
+          "metrics[2].heading",
+          "metrics[0].value",
+          "metrics[1].value",
+          "metrics[2].value"
+        ],
+        "access_mode": "field_complete"
+      },
+      "body_component_contract": {
+        "version": 2,
+        "themes": {
+          "blue": {
+            "asset": "layouts/content-blue-020/body-blue.pptx",
+            "sha256": "7267cc224b9547ff44de419e2a1e1123226546e71b6d24a5c6222cf0a256a666",
+            "bindings": "layouts/content-blue-020/body-blue-bindings.json",
+            "bindings_sha256": "0854ccf2ea09a9ce26f5af0298f368a5ce1d0c51a93d4877dc728e12ff453fca",
+            "title_input": {
+              "field": "text_50",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              2,
+              50,
+              52
+            ],
+            "source": {
+              "source": "sources/blue.pptx",
+              "page": 20,
+              "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+            }
+          },
+          "red": {
+            "asset": "layouts/content-blue-020/body-red.pptx",
+            "sha256": "b1705bce5a24ef478fc5c3ab41dce674f336e55fb5a13a6e8c08c915ea2dd941",
+            "bindings": "layouts/content-blue-020/body-red-bindings.json",
+            "bindings_sha256": "c15581d5ede2d64ddef328681cf83762e03adbacdee5a4bb098435a8831345f3",
+            "title_input": {
+              "field": "text_50",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              4,
+              50,
+              52
+            ],
+            "source": {
+              "source": "sources/red.pptx",
+              "page": 20,
+              "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+            }
+          }
+        }
+      },
+      "original_bindings_by_theme": {
+        "blue": "layouts/content-blue-020/bindings.json",
+        "red": "layouts/content-blue-020/bindings-red.json"
+      }
     },
     {
       "id": "content-blue-021",
       "version": "1.0.0-draft",
       "collection": "new-template-content",
-      "role": "content",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
-      "family_id": "content-021",
+      "role": "framework",
+      "information_relation": "framework",
+      "classification_status": "verified",
+      "family_id": "batch-4a-content-blue-021",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
-      "bindings": "layouts/content-blue-021/bindings.json",
+      "bindings": "layouts/content-blue-021/candidate-blue-bindings.json",
       "spec": "layouts/content-blue-021/spec.md",
       "layout_rules": "layouts/content-blue-021/layout_rules.json",
       "motion": "layouts/content-blue-021/motion.json",
@@ -1759,9 +2409,8 @@
       ],
       "status": "draft_pending_review",
       "capacity": {
-        "body_slots": 37,
-        "item_title_slots": 0,
-        "cell_max_chars": 20
+        "body_slots": 24,
+        "item_title_slots": 6
       },
       "source_page": 21,
       "shape_count": 48,
@@ -1776,9 +2425,99 @@
       "source_logo_shape_id": 2,
       "source_logo_asset_sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
       "red_source_logo_shape_id": 4,
-      "red_bindings": "layouts/content-blue-021/bindings-red.json",
+      "red_bindings": "layouts/content-blue-021/candidate-red-bindings.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 21
+      "red_source_page": 21,
+      "canonical_relation": "framework",
+      "search_label": "六节点环及双侧标签",
+      "pptx_support": "verified_static",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "framework",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "page.title",
+          "items[0].node.heading",
+          "items[1].node.heading",
+          "items[2].node.heading",
+          "items[3].node.heading",
+          "items[4].node.heading",
+          "items[5].node.heading",
+          "items[0].node.body",
+          "items[1].node.body",
+          "items[2].node.body",
+          "items[3].node.body",
+          "items[4].node.body",
+          "items[5].node.body",
+          "items[0].node.tag_a",
+          "items[1].node.tag_a",
+          "items[2].node.tag_a",
+          "items[3].node.tag_a",
+          "items[4].node.tag_a",
+          "items[5].node.tag_a",
+          "items[0].node.tag_b",
+          "items[1].node.tag_b",
+          "items[2].node.tag_b",
+          "items[3].node.tag_b",
+          "items[4].node.tag_b",
+          "items[5].node.tag_b"
+        ],
+        "access_mode": "field_complete"
+      },
+      "body_component_contract": {
+        "version": 2,
+        "themes": {
+          "blue": {
+            "asset": "layouts/content-blue-021/body-blue.pptx",
+            "sha256": "7a88e40ba933560f2d1b82b91bd7a6831c70b367d10faa040b59118168fd7496",
+            "bindings": "layouts/content-blue-021/body-blue-bindings.json",
+            "bindings_sha256": "31a8d50ca6d39896df3200bccf9c973e5e2bf3a768a50d163e68d5fc121aeae2",
+            "title_input": {
+              "field": "text_3",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              2,
+              3,
+              5
+            ],
+            "source": {
+              "source": "sources/blue.pptx",
+              "page": 21,
+              "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+            }
+          },
+          "red": {
+            "asset": "layouts/content-blue-021/body-red.pptx",
+            "sha256": "3fced4996a2e13014cdbd94523c61cba52b6dc7deace3640a599189e5411c076",
+            "bindings": "layouts/content-blue-021/body-red-bindings.json",
+            "bindings_sha256": "0e1259d8dbd5498bc32ba9865dd279ffb8670ab55bbf7f566545e9bfda3f0d64",
+            "title_input": {
+              "field": "text_3",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              3,
+              4,
+              5
+            ],
+            "source": {
+              "source": "sources/red.pptx",
+              "page": 21,
+              "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+            }
+          }
+        }
+      },
+      "original_bindings_by_theme": {
+        "blue": "layouts/content-blue-021/bindings.json",
+        "red": "layouts/content-blue-021/bindings-red.json"
+      }
     },
     {
       "id": "content-blue-022",
@@ -2556,13 +3295,13 @@
       "id": "content-blue-028",
       "version": "1.0.0-draft",
       "collection": "new-template-content",
-      "role": "content",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
-      "family_id": "content-028",
+      "role": "framework",
+      "information_relation": "framework",
+      "classification_status": "verified",
+      "family_id": "batch-4a-content-blue-028",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
-      "bindings": "layouts/content-blue-028/bindings.json",
+      "bindings": "layouts/content-blue-028/candidate-blue-bindings.json",
       "spec": "layouts/content-blue-028/spec.md",
       "layout_rules": "layouts/content-blue-028/layout_rules.json",
       "motion": "layouts/content-blue-028/motion.json",
@@ -2573,9 +3312,8 @@
       ],
       "status": "draft_pending_review",
       "capacity": {
-        "body_slots": 27,
-        "item_title_slots": 0,
-        "cell_max_chars": 20
+        "body_slots": 26,
+        "item_title_slots": 4
       },
       "source_page": 28,
       "shape_count": 57,
@@ -2590,9 +3328,101 @@
       "source_logo_shape_id": 4,
       "source_logo_asset_sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
       "red_source_logo_shape_id": 6,
-      "red_bindings": "layouts/content-blue-028/bindings-red.json",
+      "red_bindings": "layouts/content-blue-028/candidate-red-bindings.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 28
+      "red_source_page": 28,
+      "canonical_relation": "framework",
+      "search_label": "四列矩阵及摘要关键词",
+      "pptx_support": "verified_static",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "framework",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "page.title",
+          "axis.review",
+          "axis.period",
+          "axis.details",
+          "axis.keywords",
+          "items[0].column.heading",
+          "items[1].column.heading",
+          "items[2].column.heading",
+          "items[3].column.heading",
+          "items[0].column.period",
+          "items[1].column.period",
+          "items[2].column.period",
+          "items[3].column.period",
+          "items[0].column.body",
+          "items[1].column.body",
+          "items[2].column.body",
+          "items[3].column.body",
+          "items[0].column.tag_a",
+          "items[1].column.tag_a",
+          "items[2].column.tag_a",
+          "items[3].column.tag_a",
+          "items[0].column.tag_b",
+          "items[1].column.tag_b",
+          "items[2].column.tag_b",
+          "items[3].column.tag_b",
+          "items[2].column.caption",
+          "items[3].column.caption"
+        ],
+        "access_mode": "field_complete"
+      },
+      "body_component_contract": {
+        "version": 2,
+        "themes": {
+          "blue": {
+            "asset": "layouts/content-blue-028/body-blue.pptx",
+            "sha256": "9bf0fa9d40f61e72dcb9eda119642d56069de60e4878c1bffb18b903d9406958",
+            "bindings": "layouts/content-blue-028/body-blue-bindings.json",
+            "bindings_sha256": "0697c63ad368ecfcca5d779f146ae56e4bfffe3ebf632e1f01b98eb6478ccf01",
+            "title_input": {
+              "field": "text_10",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              4,
+              10,
+              12
+            ],
+            "source": {
+              "source": "sources/blue.pptx",
+              "page": 28,
+              "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+            }
+          },
+          "red": {
+            "asset": "layouts/content-blue-028/body-red.pptx",
+            "sha256": "3b723b23413cc492f8363cdc208bef040c195024176e38da223e1ad63ac30ec4",
+            "bindings": "layouts/content-blue-028/body-red-bindings.json",
+            "bindings_sha256": "94ca665182519d0118d7e4817b2783420e41186cdf77118bb516ab08044d656c",
+            "title_input": {
+              "field": "text_10",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              6,
+              10,
+              12
+            ],
+            "source": {
+              "source": "sources/red.pptx",
+              "page": 28,
+              "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+            }
+          }
+        }
+      },
+      "original_bindings_by_theme": {
+        "blue": "layouts/content-blue-028/bindings.json",
+        "red": "layouts/content-blue-028/bindings-red.json"
+      }
     },
     {
       "id": "content-blue-029",
@@ -2861,13 +3691,13 @@
       "id": "content-blue-031",
       "version": "1.0.0-draft",
       "collection": "new-template-content",
-      "role": "content",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
-      "family_id": "content-031",
+      "role": "framework",
+      "information_relation": "framework",
+      "classification_status": "verified",
+      "family_id": "batch-4a-content-blue-031",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
-      "bindings": "layouts/content-blue-031/bindings.json",
+      "bindings": "layouts/content-blue-031/candidate-blue-bindings.json",
       "spec": "layouts/content-blue-031/spec.md",
       "layout_rules": "layouts/content-blue-031/layout_rules.json",
       "motion": "layouts/content-blue-031/motion.json",
@@ -2878,9 +3708,8 @@
       ],
       "status": "draft_pending_review",
       "capacity": {
-        "body_slots": 26,
-        "item_title_slots": 0,
-        "cell_max_chars": 20
+        "body_slots": 21,
+        "item_title_slots": 4
       },
       "source_page": 31,
       "shape_count": 66,
@@ -2895,9 +3724,96 @@
       "source_logo_shape_id": 2,
       "source_logo_asset_sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
       "red_source_logo_shape_id": 11,
-      "red_bindings": "layouts/content-blue-031/bindings-red.json",
+      "red_bindings": "layouts/content-blue-031/candidate-red-bindings.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 31
+      "red_source_page": 31,
+      "canonical_relation": "framework",
+      "search_label": "四节半环各配双说明卡",
+      "pptx_support": "verified_static",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "framework",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "page.title",
+          "overview.heading",
+          "items[0].row.heading",
+          "items[1].row.heading",
+          "items[2].row.heading",
+          "items[3].row.heading",
+          "items[0].first.heading",
+          "items[1].first.heading",
+          "items[2].first.heading",
+          "items[3].first.heading",
+          "items[0].first.body",
+          "items[1].first.body",
+          "items[2].first.body",
+          "items[3].first.body",
+          "items[0].second.heading",
+          "items[1].second.heading",
+          "items[2].second.heading",
+          "items[3].second.heading",
+          "items[0].second.body",
+          "items[1].second.body",
+          "items[2].second.body",
+          "items[3].second.body"
+        ],
+        "access_mode": "field_complete"
+      },
+      "body_component_contract": {
+        "version": 2,
+        "themes": {
+          "blue": {
+            "asset": "layouts/content-blue-031/body-blue.pptx",
+            "sha256": "30b92d085531841313a5be0c826df26c77320553614a865c46ff4b07a64cfd6b",
+            "bindings": "layouts/content-blue-031/body-blue-bindings.json",
+            "bindings_sha256": "84e1e924111060346d64d8f07f54ca8fd4b47bc14c3db9b76534dc02abf7ddb2",
+            "title_input": {
+              "field": "text_10",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              2,
+              10,
+              12
+            ],
+            "source": {
+              "source": "sources/blue.pptx",
+              "page": 31,
+              "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+            }
+          },
+          "red": {
+            "asset": "layouts/content-blue-031/body-red.pptx",
+            "sha256": "59ed14420d3abf1925bbdd9ade9056dd635c21cf0a22ab20a7ecaeca83940c7f",
+            "bindings": "layouts/content-blue-031/body-red-bindings.json",
+            "bindings_sha256": "869795441634402d142272d497f3d3bf8d24528854ae49b61bf85d27a3662c35",
+            "title_input": {
+              "field": "text_10",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              10,
+              11,
+              12
+            ],
+            "source": {
+              "source": "sources/red.pptx",
+              "page": 31,
+              "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+            }
+          }
+        }
+      },
+      "original_bindings_by_theme": {
+        "blue": "layouts/content-blue-031/bindings.json",
+        "red": "layouts/content-blue-031/bindings-red.json"
+      }
     },
     {
       "id": "content-blue-032",
@@ -3614,6 +4530,67 @@
           "blue": "layouts/content-blue-035/bindings-3-blue.json",
           "red": "layouts/content-blue-035/bindings-3-red.json"
         }
+      },
+      "body_component_contract": {
+        "version": 2,
+        "themes": {
+          "blue": {
+            "asset": "layouts/content-blue-035/body-blue.pptx",
+            "sha256": "0766214c68f3a23a2d519e97b2c61322cd6a4b238bb8c7775b2f82ab17ad2484",
+            "bindings": "layouts/content-blue-035/body-blue-bindings.json",
+            "bindings_sha256": "6750d56b5fcbaff4fff04d1c8b19cf3bcfc3af564c02f01a1c6982b37ceff5c1",
+            "title_input": {
+              "field": "text_10",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              2,
+              10,
+              12
+            ],
+            "source": {
+              "source": "sources/blue.pptx",
+              "page": 35,
+              "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+            },
+            "bindings_by_count": {
+              "3": {
+                "bindings": "layouts/content-blue-035/body-3-blue-bindings.json",
+                "bindings_sha256": "c20bb533ed0d0cd08b05ea6986431981ddfa72c3cf376b971afc0727eea4300b"
+              }
+            }
+          },
+          "red": {
+            "asset": "layouts/content-blue-035/body-red.pptx",
+            "sha256": "58ca4a5bbd796ce4fd49367e831f1a29a16195733649f049cf677bf27bd07360",
+            "bindings": "layouts/content-blue-035/body-red-bindings.json",
+            "bindings_sha256": "b12e416c3ef157b95d49f26076e4a45cd17e2aa1279641862dee5750fb476718",
+            "title_input": {
+              "field": "text_10",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              6,
+              10,
+              12
+            ],
+            "source": {
+              "source": "sources/red.pptx",
+              "page": 35,
+              "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+            },
+            "bindings_by_count": {
+              "3": {
+                "bindings": "layouts/content-blue-035/body-3-red-bindings.json",
+                "bindings_sha256": "4114453b1a5d3886597ceaad0714646e590798480e653d56b5dc0411567d0ee2"
+              }
+            }
+          }
+        }
+      },
+      "original_bindings_by_theme": {
+        "blue": "layouts/content-blue-035/bindings.json",
+        "red": "layouts/content-blue-035/bindings-red.json"
       }
     },
     {
@@ -4441,6 +5418,67 @@
           ]
         },
         "access_mode": "field_complete"
+      },
+      "body_component_contract": {
+        "version": 2,
+        "themes": {
+          "blue": {
+            "asset": "layouts/content-blue-044/body-blue.pptx",
+            "sha256": "d6fcb3f6bf1f3f4e6b021b012463ef98e0c31d18d7f71a3092afe9127692a617",
+            "bindings": "layouts/content-blue-044/body-blue-bindings.json",
+            "bindings_sha256": "62bd70a3346d523a9a5ad7c77257d6b8f53eeec0778ff547867f11c1d32c53da",
+            "title_input": {
+              "field": "text_10",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              10,
+              12,
+              43
+            ],
+            "source": {
+              "source": "sources/blue.pptx",
+              "page": 44,
+              "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+            },
+            "bindings_by_count": {
+              "4": {
+                "bindings": "layouts/content-blue-044/body-4-blue-bindings.json",
+                "bindings_sha256": "074120b20ad6bd151ac81a3e598004de86047b23f843da30d3677cc333aae478"
+              }
+            }
+          },
+          "red": {
+            "asset": "layouts/content-blue-044/body-red.pptx",
+            "sha256": "0c3cbb94d275854e9743327d8d04cc63975eb48306a35010d483429e6569833a",
+            "bindings": "layouts/content-blue-044/body-red-bindings.json",
+            "bindings_sha256": "aed9f02bc9c4f58e45e31a6f061058607cc1aab853916b0dc6df1e48282df2d6",
+            "title_input": {
+              "field": "text_10",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              10,
+              11,
+              12
+            ],
+            "source": {
+              "source": "sources/red.pptx",
+              "page": 44,
+              "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+            },
+            "bindings_by_count": {
+              "4": {
+                "bindings": "layouts/content-blue-044/body-4-red-bindings.json",
+                "bindings_sha256": "ca3d0dc66586e5f992ebee5cbf03eb3ee66776e6c3dfd2761b6fe063b8c3ee08"
+              }
+            }
+          }
+        }
+      },
+      "original_bindings_by_theme": {
+        "blue": "layouts/content-blue-044/bindings.json",
+        "red": "layouts/content-blue-044/bindings-red.json"
       }
     },
     {
@@ -5151,6 +6189,67 @@
           ]
         },
         "access_mode": "field_complete"
+      },
+      "body_component_contract": {
+        "version": 2,
+        "themes": {
+          "blue": {
+            "asset": "layouts/content-blue-048/body-blue.pptx",
+            "sha256": "ac8a28b6acfef4880a61e0587b4cd1cfa7d2b3a2309994adb86147e05cf6c0fb",
+            "bindings": "layouts/content-blue-048/body-blue-bindings.json",
+            "bindings_sha256": "bef61ff037263c00ced86e815d34f92e2bb2a69818fd9acdfc73f094b8665895",
+            "title_input": {
+              "field": "text_5",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              2,
+              5,
+              7
+            ],
+            "source": {
+              "source": "sources/blue.pptx",
+              "page": 48,
+              "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+            },
+            "bindings_by_count": {
+              "4": {
+                "bindings": "layouts/content-blue-048/body-4-blue-bindings.json",
+                "bindings_sha256": "4b87c46c7508a713f5340126df716a78288ce5c12a0eccf247f227170a5b8d03"
+              }
+            }
+          },
+          "red": {
+            "asset": "layouts/content-blue-048/body-red.pptx",
+            "sha256": "afeca48b64fac3dc4d76ab8b5ac1e859e1472067accbae16766a1595a63c98da",
+            "bindings": "layouts/content-blue-048/body-red-bindings.json",
+            "bindings_sha256": "a4f1b8ab2654d36ce1d1ac92138845d7867f806328f87967d291b2e4b253d445",
+            "title_input": {
+              "field": "text_5",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              4,
+              5,
+              7
+            ],
+            "source": {
+              "source": "sources/red.pptx",
+              "page": 48,
+              "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+            },
+            "bindings_by_count": {
+              "4": {
+                "bindings": "layouts/content-blue-048/body-4-red-bindings.json",
+                "bindings_sha256": "53d2d30a79ec25d7cc80b3ce8a6bf3dc1384642adc3538772018a75299a09538"
+              }
+            }
+          }
+        }
+      },
+      "original_bindings_by_theme": {
+        "blue": "layouts/content-blue-048/bindings.json",
+        "red": "layouts/content-blue-048/bindings-red.json"
       }
     },
     {
@@ -5615,13 +6714,13 @@
       "id": "content-blue-052",
       "version": "1.0.0-draft",
       "collection": "new-template-content",
-      "role": "content",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
-      "family_id": "content-052",
+      "role": "hierarchy",
+      "information_relation": "hierarchy",
+      "classification_status": "verified",
+      "family_id": "batch-4a-content-blue-052",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
-      "bindings": "layouts/content-blue-052/bindings.json",
+      "bindings": "layouts/content-blue-052/candidate-blue-bindings.json",
       "spec": "layouts/content-blue-052/spec.md",
       "layout_rules": "layouts/content-blue-052/layout_rules.json",
       "motion": "layouts/content-blue-052/motion.json",
@@ -5632,9 +6731,8 @@
       ],
       "status": "draft_pending_review",
       "capacity": {
-        "body_slots": 21,
-        "item_title_slots": 0,
-        "cell_max_chars": 20
+        "body_slots": 15,
+        "item_title_slots": 5
       },
       "source_page": 52,
       "shape_count": 51,
@@ -5649,21 +6747,102 @@
       "source_logo_shape_id": 2,
       "source_logo_asset_sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
       "red_source_logo_shape_id": 3,
-      "red_bindings": "layouts/content-blue-052/bindings-red.json",
+      "red_bindings": "layouts/content-blue-052/candidate-red-bindings.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 52
+      "red_source_page": 52,
+      "canonical_relation": "hierarchy",
+      "search_label": "五层金字塔及横向说明",
+      "pptx_support": "verified_static",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "hierarchy",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "page.title",
+          "items[0].level.heading",
+          "items[1].level.heading",
+          "items[2].level.heading",
+          "items[3].level.heading",
+          "items[4].level.heading",
+          "items[0].detail.heading",
+          "items[1].detail.heading",
+          "items[2].detail.heading",
+          "items[3].detail.heading",
+          "items[4].detail.heading",
+          "items[0].detail.body",
+          "items[1].detail.body",
+          "items[2].detail.body",
+          "items[3].detail.body",
+          "items[4].detail.body"
+        ],
+        "access_mode": "field_complete"
+      },
+      "body_component_contract": {
+        "version": 2,
+        "themes": {
+          "blue": {
+            "asset": "layouts/content-blue-052/body-blue.pptx",
+            "sha256": "5e0a6c9512d8b4c5bd0946d3e97d75845b8e3e5e4a841f4ba106f38c471e7bc8",
+            "bindings": "layouts/content-blue-052/body-blue-bindings.json",
+            "bindings_sha256": "87b304e6f763a68d9e1a967c4b95ebdfcc7d041eea2bc8ff175c34ff08f606af",
+            "title_input": {
+              "field": "text_10",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              2,
+              10,
+              12
+            ],
+            "source": {
+              "source": "sources/blue.pptx",
+              "page": 52,
+              "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+            }
+          },
+          "red": {
+            "asset": "layouts/content-blue-052/body-red.pptx",
+            "sha256": "f66eba39c686541bed70db69b5270595e90fa82b596883b0d8287ab86f633f17",
+            "bindings": "layouts/content-blue-052/body-red-bindings.json",
+            "bindings_sha256": "1ad830e99ba32923b624fd7383a9b0eae09a7424f83ef19680aa0a8558c4b403",
+            "title_input": {
+              "field": "text_10",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              3,
+              10,
+              12
+            ],
+            "source": {
+              "source": "sources/red.pptx",
+              "page": 52,
+              "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+            }
+          }
+        }
+      },
+      "original_bindings_by_theme": {
+        "blue": "layouts/content-blue-052/bindings.json",
+        "red": "layouts/content-blue-052/bindings-red.json"
+      }
     },
     {
       "id": "content-blue-053",
       "version": "1.0.0-draft",
       "collection": "new-template-content",
-      "role": "content",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
-      "family_id": "content-053",
+      "role": "framework",
+      "information_relation": "framework",
+      "classification_status": "verified",
+      "family_id": "batch-4a-content-blue-053",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
-      "bindings": "layouts/content-blue-053/bindings.json",
+      "bindings": "layouts/content-blue-053/candidate-blue-bindings.json",
       "spec": "layouts/content-blue-053/spec.md",
       "layout_rules": "layouts/content-blue-053/layout_rules.json",
       "motion": "layouts/content-blue-053/motion.json",
@@ -5674,9 +6853,8 @@
       ],
       "status": "draft_pending_review",
       "capacity": {
-        "body_slots": 45,
-        "item_title_slots": 0,
-        "cell_max_chars": 20
+        "body_slots": 40,
+        "item_title_slots": 4
       },
       "source_page": 53,
       "shape_count": 67,
@@ -5691,21 +6869,127 @@
       "source_logo_shape_id": 17,
       "source_logo_asset_sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
       "red_source_logo_shape_id": 11,
-      "red_bindings": "layouts/content-blue-053/bindings-red.json",
+      "red_bindings": "layouts/content-blue-053/candidate-red-bindings.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 53
+      "red_source_page": 53,
+      "canonical_relation": "framework",
+      "search_label": "四行四列层级矩阵",
+      "pptx_support": "verified_static",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "framework",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "page.title",
+          "columns[0].heading",
+          "columns[1].heading",
+          "columns[2].heading",
+          "columns[3].heading",
+          "items[0].row.heading",
+          "items[1].row.heading",
+          "items[2].row.heading",
+          "items[3].row.heading",
+          "items[0].cells[0].heading",
+          "items[0].cells[0].body",
+          "items[1].cells[0].heading",
+          "items[1].cells[0].body",
+          "items[2].cells[0].heading",
+          "items[2].cells[0].body",
+          "items[3].cells[0].heading",
+          "items[3].cells[0].body",
+          "items[0].cells[1].heading",
+          "items[0].cells[1].body",
+          "items[1].cells[1].heading",
+          "items[1].cells[1].body",
+          "items[2].cells[1].heading",
+          "items[2].cells[1].body",
+          "items[3].cells[1].heading",
+          "items[3].cells[1].body",
+          "items[0].cells[2].heading",
+          "items[0].cells[2].body",
+          "items[1].cells[2].heading",
+          "items[1].cells[2].body",
+          "items[2].cells[2].heading",
+          "items[2].cells[2].body",
+          "items[3].cells[2].heading",
+          "items[3].cells[2].body",
+          "items[0].cells[3].heading",
+          "items[0].cells[3].body",
+          "items[1].cells[3].heading",
+          "items[1].cells[3].body",
+          "items[2].cells[3].heading",
+          "items[2].cells[3].body",
+          "items[3].cells[3].heading",
+          "items[3].cells[3].body"
+        ],
+        "access_mode": "field_complete"
+      },
+      "body_component_contract": {
+        "version": 2,
+        "themes": {
+          "blue": {
+            "asset": "layouts/content-blue-053/body-blue.pptx",
+            "sha256": "45888338880f40a602c3ca294794889d853710b06ea1d32cb24df015fe315ef8",
+            "bindings": "layouts/content-blue-053/body-blue-bindings.json",
+            "bindings_sha256": "a3d74772fbfaba634522111aed8b90fb429424b66b4de79d88a317948b46a1e7",
+            "title_input": {
+              "field": "text_10",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              10,
+              12,
+              17
+            ],
+            "source": {
+              "source": "sources/blue.pptx",
+              "page": 53,
+              "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+            }
+          },
+          "red": {
+            "asset": "layouts/content-blue-053/body-red.pptx",
+            "sha256": "5beb4272aad8039b6213f02427ef570fcd10a217f5d301b43d3fee357a3139bc",
+            "bindings": "layouts/content-blue-053/body-red-bindings.json",
+            "bindings_sha256": "fcaadd7280ea1e15b47ea8d28d3ade53f21a86024b4c80df9b1b13934af7c3cb",
+            "title_input": {
+              "field": "text_10",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              10,
+              11,
+              12
+            ],
+            "source": {
+              "source": "sources/red.pptx",
+              "page": 53,
+              "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+            }
+          }
+        }
+      },
+      "original_bindings_by_theme": {
+        "blue": "layouts/content-blue-053/bindings.json",
+        "red": "layouts/content-blue-053/bindings-red.json"
+      }
     },
     {
       "id": "content-blue-054",
       "version": "1.0.0-draft",
       "collection": "new-template-content",
-      "role": "content",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
-      "family_id": "content-054",
+      "role": "hierarchy",
+      "information_relation": "hierarchy",
+      "classification_status": "verified",
+      "family_id": "batch-4a-content-blue-054",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
-      "bindings": "layouts/content-blue-054/bindings.json",
+      "bindings": "layouts/content-blue-054/candidate-blue-bindings.json",
       "spec": "layouts/content-blue-054/spec.md",
       "layout_rules": "layouts/content-blue-054/layout_rules.json",
       "motion": "layouts/content-blue-054/motion.json",
@@ -5716,9 +7000,8 @@
       ],
       "status": "draft_pending_review",
       "capacity": {
-        "body_slots": 24,
-        "item_title_slots": 0,
-        "cell_max_chars": 20
+        "body_slots": 23,
+        "item_title_slots": 4
       },
       "source_page": 54,
       "shape_count": 39,
@@ -5733,9 +7016,98 @@
       "source_logo_shape_id": 3,
       "source_logo_asset_sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
       "red_source_logo_shape_id": 7,
-      "red_bindings": "layouts/content-blue-054/bindings-red.json",
+      "red_bindings": "layouts/content-blue-054/candidate-red-bindings.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 54
+      "red_source_page": 54,
+      "canonical_relation": "hierarchy",
+      "search_label": "四层阶梯和双侧说明",
+      "pptx_support": "verified_static",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "hierarchy",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "page.title",
+          "overview.left",
+          "overview.right",
+          "overview.heading",
+          "items[0].level.heading",
+          "items[1].level.heading",
+          "items[2].level.heading",
+          "items[3].level.heading",
+          "items[0].left.heading",
+          "items[1].left.heading",
+          "items[2].left.heading",
+          "items[3].left.heading",
+          "items[0].left.body",
+          "items[1].left.body",
+          "items[2].left.body",
+          "items[3].left.body",
+          "items[0].right.heading",
+          "items[1].right.heading",
+          "items[2].right.heading",
+          "items[3].right.heading",
+          "items[0].right.body",
+          "items[1].right.body",
+          "items[2].right.body",
+          "items[3].right.body"
+        ],
+        "access_mode": "field_complete"
+      },
+      "body_component_contract": {
+        "version": 2,
+        "themes": {
+          "blue": {
+            "asset": "layouts/content-blue-054/body-blue.pptx",
+            "sha256": "9d19172d805fbb2f560c7b3915b4f6a1bb6c18d68410183d1bdcc6c6a3e6ee9b",
+            "bindings": "layouts/content-blue-054/body-blue-bindings.json",
+            "bindings_sha256": "6f685fc8f1d5b6a14df49db909ffff639ca425f1317ab338ea88edd2e7a44cb6",
+            "title_input": {
+              "field": "text_10",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              3,
+              10,
+              12
+            ],
+            "source": {
+              "source": "sources/blue.pptx",
+              "page": 54,
+              "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+            }
+          },
+          "red": {
+            "asset": "layouts/content-blue-054/body-red.pptx",
+            "sha256": "fc36fd4b869d0d8622343557b4ea3394a24cf7eb45ef5afede558619b664cf8b",
+            "bindings": "layouts/content-blue-054/body-red-bindings.json",
+            "bindings_sha256": "44ee8abe48f017aa8581d7ff45693d626e9a9f06c3e7ac278f2c527893956542",
+            "title_input": {
+              "field": "text_10",
+              "semantic_path": "page.title"
+            },
+            "removed_shape_ids": [
+              7,
+              10,
+              12
+            ],
+            "source": {
+              "source": "sources/red.pptx",
+              "page": 54,
+              "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+            }
+          }
+        }
+      },
+      "original_bindings_by_theme": {
+        "blue": "layouts/content-blue-054/bindings.json",
+        "red": "layouts/content-blue-054/bindings-red.json"
+      }
     },
     {
       "id": "content-blue-055",

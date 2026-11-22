@@ -1,0 +1,844 @@
+{
+  "base": "9e4912c775bd26a2cd18a52d192bb12885d3f8b9",
+  "entries": [
+    {
+      "id": "content-blue-003",
+      "name": "三段层级与组合说明",
+      "native_count": 3,
+      "verified_counts": [
+        3
+      ],
+      "themes": {
+        "blue": {
+          "asset": "layouts/content-blue-003/body-blue.pptx",
+          "sha256": "45080d22ef8b1a1d86cc1a61de0168f456760c3dccf215f81c8d870d4e9f2ce6",
+          "bindings": "layouts/content-blue-003/body-blue-bindings.json",
+          "bindings_sha256": "4250cc02598f19c222a32c39669c58be8a7ad12826bdf6b7cb1a8684f3ab139d",
+          "title_input": {
+            "field": "text_84",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            84,
+            86
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 3,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-003/body-red.pptx",
+          "sha256": "133ba8aa5ba91c37723a20afa4b8de0f5eb79ea7bc3e60a7db37b32785d9b3f4",
+          "bindings": "layouts/content-blue-003/body-red-bindings.json",
+          "bindings_sha256": "2db19f2051da251b21ccba74c34cffffb91ff0ea3c370354c9fad87cd2578174",
+          "title_input": {
+            "field": "text_84",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            84,
+            86
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 3,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-004",
+      "name": "四期目标与双区归纳",
+      "native_count": 4,
+      "verified_counts": [
+        4
+      ],
+      "themes": {
+        "blue": {
+          "asset": "layouts/content-blue-004/body-blue.pptx",
+          "sha256": "580b0ee0c46a59c78f88881a21650ccec9d4e8bc43fccf98bacb4352a4b5aea6",
+          "bindings": "layouts/content-blue-004/body-blue-bindings.json",
+          "bindings_sha256": "06fbdb3ff89e577e1b68e11ea322f70a08cea1ef3a4bdb877b310e1e9ac86823",
+          "title_input": {
+            "field": "text_66",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            66,
+            69
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 4,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-004/body-red.pptx",
+          "sha256": "913a5303d5636409af56545f583887b57cf98051b0475b915398ba8f628b97f2",
+          "bindings": "layouts/content-blue-004/body-red-bindings.json",
+          "bindings_sha256": "6af266986b3ba9d0bde9e031a5aa664360f83ade235e50c43c27b69053f9dac1",
+          "title_input": {
+            "field": "text_66",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            6,
+            66,
+            69
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 4,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-005",
+      "name": "四区分解与八项指标",
+      "native_count": 4,
+      "verified_counts": [
+        4
+      ],
+      "themes": {
+        "blue": {
+          "asset": "layouts/content-blue-005/body-blue.pptx",
+          "sha256": "a4155b7719e68ca3c25cd73bd07c8577e616274cc14407231e622b2259492f84",
+          "bindings": "layouts/content-blue-005/body-blue-bindings.json",
+          "bindings_sha256": "8c2175f8663db62e14676a4e21908af59816d5cd6d97c458f2a0c4b4c6111895",
+          "title_input": {
+            "field": "text_89",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            6,
+            89,
+            92
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 5,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-005/body-red.pptx",
+          "sha256": "346bac2807db24eb3cca42f5479c8463c864373e14332f8d2ec07effc4d34034",
+          "bindings": "layouts/content-blue-005/body-red-bindings.json",
+          "bindings_sha256": "119246ac72120cb2ec6d9c399ecd50230b26c0525e72bd1a1997f57a21cfdba8",
+          "title_input": {
+            "field": "text_89",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            7,
+            89,
+            92
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 5,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-006",
+      "name": "三行四列职责矩阵",
+      "native_count": 3,
+      "verified_counts": [
+        3
+      ],
+      "themes": {
+        "blue": {
+          "asset": "layouts/content-blue-006/body-blue.pptx",
+          "sha256": "7f37b4c267f06da0d3bef72744dad62178b5c0a8f7b94affa2cde2691cec7a15",
+          "bindings": "layouts/content-blue-006/body-blue-bindings.json",
+          "bindings_sha256": "cdfe539a32830ee2c0f1cf85bb8d4558dd68311c304314b6ab58f62ae221b0af",
+          "title_input": {
+            "field": "text_6",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            6,
+            8
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 6,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-006/body-red.pptx",
+          "sha256": "6fd37f724f045ae43962c1c6a752aa797b26a4d50db562570bd7aa6ca6979724",
+          "bindings": "layouts/content-blue-006/body-red-bindings.json",
+          "bindings_sha256": "f2dcc1277a97e21dfc8084b3819e9b3b423c7dd32487725b2d627b8a8226c1f7",
+          "title_input": {
+            "field": "text_6",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            3,
+            6,
+            8
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 6,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-010",
+      "name": "双区总结与三级归纳",
+      "native_count": 2,
+      "verified_counts": [
+        2
+      ],
+      "themes": {
+        "blue": {
+          "asset": "layouts/content-blue-010/body-blue.pptx",
+          "sha256": "6b48bf35d4be6d4c69f40d90f5fcb9b78aed6632b742fc3a67be840dd358e950",
+          "bindings": "layouts/content-blue-010/body-blue-bindings.json",
+          "bindings_sha256": "aa826e8658885c3b10aaffa247df5d704cd07deb53caee8c288aa9e6065e2b7b",
+          "title_input": {
+            "field": "text_7",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            7,
+            9
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 10,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-010/body-red.pptx",
+          "sha256": "cfbd3e9fafd642bb431b669b2c1662475f4a80eb97b619ea2ffeb0ed7a26bc7a",
+          "bindings": "layouts/content-blue-010/body-red-bindings.json",
+          "bindings_sha256": "a7665ddd74dfa13cce4653fa1866832db08568c52774ec9799eb3df5cc239b93",
+          "title_input": {
+            "field": "text_7",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            3,
+            7,
+            9
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 10,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-017",
+      "name": "四节半环与右侧指标",
+      "native_count": 4,
+      "verified_counts": [
+        4
+      ],
+      "themes": {
+        "blue": {
+          "asset": "layouts/content-blue-017/body-blue.pptx",
+          "sha256": "c7207afc01eb93b9e8b7e708fc4e817e2714e285bc7a427149f787a770b2f16c",
+          "bindings": "layouts/content-blue-017/body-blue-bindings.json",
+          "bindings_sha256": "98869a8d6167f879e0cd69b84d62a816e69a6b0f6bcfb3e206d7439e3653d562",
+          "title_input": {
+            "field": "text_7",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            7,
+            9
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 17,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-017/body-red.pptx",
+          "sha256": "eed420982faa238aef213f048ee085ac8c6b5cac2ce20601bbb4304ff1018341",
+          "bindings": "layouts/content-blue-017/body-red-bindings.json",
+          "bindings_sha256": "286c0187e504aace59a291d2fafc287a27794c38bdd2b23665a7096bfd1059e0",
+          "title_input": {
+            "field": "text_7",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            3,
+            7,
+            9
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 17,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-020",
+      "name": "三角三区及三项环形指标",
+      "native_count": 3,
+      "verified_counts": [
+        3
+      ],
+      "themes": {
+        "blue": {
+          "asset": "layouts/content-blue-020/body-blue.pptx",
+          "sha256": "7267cc224b9547ff44de419e2a1e1123226546e71b6d24a5c6222cf0a256a666",
+          "bindings": "layouts/content-blue-020/body-blue-bindings.json",
+          "bindings_sha256": "0854ccf2ea09a9ce26f5af0298f368a5ce1d0c51a93d4877dc728e12ff453fca",
+          "title_input": {
+            "field": "text_50",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            50,
+            52
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 20,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-020/body-red.pptx",
+          "sha256": "b1705bce5a24ef478fc5c3ab41dce674f336e55fb5a13a6e8c08c915ea2dd941",
+          "bindings": "layouts/content-blue-020/body-red-bindings.json",
+          "bindings_sha256": "c15581d5ede2d64ddef328681cf83762e03adbacdee5a4bb098435a8831345f3",
+          "title_input": {
+            "field": "text_50",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            4,
+            50,
+            52
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 20,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-021",
+      "name": "六节点环及双侧标签",
+      "native_count": 6,
+      "verified_counts": [
+        6
+      ],
+      "themes": {
+        "blue": {
+          "asset": "layouts/content-blue-021/body-blue.pptx",
+          "sha256": "7a88e40ba933560f2d1b82b91bd7a6831c70b367d10faa040b59118168fd7496",
+          "bindings": "layouts/content-blue-021/body-blue-bindings.json",
+          "bindings_sha256": "31a8d50ca6d39896df3200bccf9c973e5e2bf3a768a50d163e68d5fc121aeae2",
+          "title_input": {
+            "field": "text_3",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            3,
+            5
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 21,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-021/body-red.pptx",
+          "sha256": "3fced4996a2e13014cdbd94523c61cba52b6dc7deace3640a599189e5411c076",
+          "bindings": "layouts/content-blue-021/body-red-bindings.json",
+          "bindings_sha256": "0e1259d8dbd5498bc32ba9865dd279ffb8670ab55bbf7f566545e9bfda3f0d64",
+          "title_input": {
+            "field": "text_3",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            3,
+            4,
+            5
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 21,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-028",
+      "name": "四列矩阵及摘要关键词",
+      "native_count": 4,
+      "verified_counts": [
+        4
+      ],
+      "themes": {
+        "blue": {
+          "asset": "layouts/content-blue-028/body-blue.pptx",
+          "sha256": "9bf0fa9d40f61e72dcb9eda119642d56069de60e4878c1bffb18b903d9406958",
+          "bindings": "layouts/content-blue-028/body-blue-bindings.json",
+          "bindings_sha256": "0697c63ad368ecfcca5d779f146ae56e4bfffe3ebf632e1f01b98eb6478ccf01",
+          "title_input": {
+            "field": "text_10",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            4,
+            10,
+            12
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 28,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-028/body-red.pptx",
+          "sha256": "3b723b23413cc492f8363cdc208bef040c195024176e38da223e1ad63ac30ec4",
+          "bindings": "layouts/content-blue-028/body-red-bindings.json",
+          "bindings_sha256": "94ca665182519d0118d7e4817b2783420e41186cdf77118bb516ab08044d656c",
+          "title_input": {
+            "field": "text_10",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            6,
+            10,
+            12
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 28,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-031",
+      "name": "四节半环各配双说明卡",
+      "native_count": 4,
+      "verified_counts": [
+        4
+      ],
+      "themes": {
+        "blue": {
+          "asset": "layouts/content-blue-031/body-blue.pptx",
+          "sha256": "30b92d085531841313a5be0c826df26c77320553614a865c46ff4b07a64cfd6b",
+          "bindings": "layouts/content-blue-031/body-blue-bindings.json",
+          "bindings_sha256": "84e1e924111060346d64d8f07f54ca8fd4b47bc14c3db9b76534dc02abf7ddb2",
+          "title_input": {
+            "field": "text_10",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            10,
+            12
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 31,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-031/body-red.pptx",
+          "sha256": "59ed14420d3abf1925bbdd9ade9056dd635c21cf0a22ab20a7ecaeca83940c7f",
+          "bindings": "layouts/content-blue-031/body-red-bindings.json",
+          "bindings_sha256": "869795441634402d142272d497f3d3bf8d24528854ae49b61bf85d27a3662c35",
+          "title_input": {
+            "field": "text_10",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            10,
+            11,
+            12
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 31,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-035",
+      "name": "漏斗及双侧说明",
+      "native_count": 4,
+      "verified_counts": [
+        3,
+        4
+      ],
+      "themes": {
+        "blue": {
+          "asset": "layouts/content-blue-035/body-blue.pptx",
+          "sha256": "0766214c68f3a23a2d519e97b2c61322cd6a4b238bb8c7775b2f82ab17ad2484",
+          "bindings": "layouts/content-blue-035/body-blue-bindings.json",
+          "bindings_sha256": "6750d56b5fcbaff4fff04d1c8b19cf3bcfc3af564c02f01a1c6982b37ceff5c1",
+          "title_input": {
+            "field": "text_10",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            10,
+            12
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 35,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          },
+          "bindings_by_count": {
+            "3": {
+              "bindings": "layouts/content-blue-035/body-3-blue-bindings.json",
+              "bindings_sha256": "c20bb533ed0d0cd08b05ea6986431981ddfa72c3cf376b971afc0727eea4300b"
+            }
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-035/body-red.pptx",
+          "sha256": "58ca4a5bbd796ce4fd49367e831f1a29a16195733649f049cf677bf27bd07360",
+          "bindings": "layouts/content-blue-035/body-red-bindings.json",
+          "bindings_sha256": "b12e416c3ef157b95d49f26076e4a45cd17e2aa1279641862dee5750fb476718",
+          "title_input": {
+            "field": "text_10",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            6,
+            10,
+            12
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 35,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          },
+          "bindings_by_count": {
+            "3": {
+              "bindings": "layouts/content-blue-035/body-3-red-bindings.json",
+              "bindings_sha256": "4114453b1a5d3886597ceaad0714646e590798480e653d56b5dc0411567d0ee2"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-044",
+      "name": "双环中心及双侧对照",
+      "native_count": 6,
+      "verified_counts": [
+        4,
+        6
+      ],
+      "themes": {
+        "blue": {
+          "asset": "layouts/content-blue-044/body-blue.pptx",
+          "sha256": "d6fcb3f6bf1f3f4e6b021b012463ef98e0c31d18d7f71a3092afe9127692a617",
+          "bindings": "layouts/content-blue-044/body-blue-bindings.json",
+          "bindings_sha256": "62bd70a3346d523a9a5ad7c77257d6b8f53eeec0778ff547867f11c1d32c53da",
+          "title_input": {
+            "field": "text_10",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            10,
+            12,
+            43
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 44,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          },
+          "bindings_by_count": {
+            "4": {
+              "bindings": "layouts/content-blue-044/body-4-blue-bindings.json",
+              "bindings_sha256": "074120b20ad6bd151ac81a3e598004de86047b23f843da30d3677cc333aae478"
+            }
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-044/body-red.pptx",
+          "sha256": "0c3cbb94d275854e9743327d8d04cc63975eb48306a35010d483429e6569833a",
+          "bindings": "layouts/content-blue-044/body-red-bindings.json",
+          "bindings_sha256": "aed9f02bc9c4f58e45e31a6f061058607cc1aab853916b0dc6df1e48282df2d6",
+          "title_input": {
+            "field": "text_10",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            10,
+            11,
+            12
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 44,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          },
+          "bindings_by_count": {
+            "4": {
+              "bindings": "layouts/content-blue-044/body-4-red-bindings.json",
+              "bindings_sha256": "ca3d0dc66586e5f992ebee5cbf03eb3ee66776e6c3dfd2761b6fe063b8c3ee08"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-048",
+      "name": "双圆中心及双侧清单",
+      "native_count": 6,
+      "verified_counts": [
+        4,
+        6
+      ],
+      "themes": {
+        "blue": {
+          "asset": "layouts/content-blue-048/body-blue.pptx",
+          "sha256": "ac8a28b6acfef4880a61e0587b4cd1cfa7d2b3a2309994adb86147e05cf6c0fb",
+          "bindings": "layouts/content-blue-048/body-blue-bindings.json",
+          "bindings_sha256": "bef61ff037263c00ced86e815d34f92e2bb2a69818fd9acdfc73f094b8665895",
+          "title_input": {
+            "field": "text_5",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            5,
+            7
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 48,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          },
+          "bindings_by_count": {
+            "4": {
+              "bindings": "layouts/content-blue-048/body-4-blue-bindings.json",
+              "bindings_sha256": "4b87c46c7508a713f5340126df716a78288ce5c12a0eccf247f227170a5b8d03"
+            }
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-048/body-red.pptx",
+          "sha256": "afeca48b64fac3dc4d76ab8b5ac1e859e1472067accbae16766a1595a63c98da",
+          "bindings": "layouts/content-blue-048/body-red-bindings.json",
+          "bindings_sha256": "a4f1b8ab2654d36ce1d1ac92138845d7867f806328f87967d291b2e4b253d445",
+          "title_input": {
+            "field": "text_5",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            4,
+            5,
+            7
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 48,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          },
+          "bindings_by_count": {
+            "4": {
+              "bindings": "layouts/content-blue-048/body-4-red-bindings.json",
+              "bindings_sha256": "53d2d30a79ec25d7cc80b3ce8a6bf3dc1384642adc3538772018a75299a09538"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-052",
+      "name": "五层金字塔及横向说明",
+      "native_count": 5,
+      "verified_counts": [
+        5
+      ],
+      "themes": {
+        "blue": {
+          "asset": "layouts/content-blue-052/body-blue.pptx",
+          "sha256": "5e0a6c9512d8b4c5bd0946d3e97d75845b8e3e5e4a841f4ba106f38c471e7bc8",
+          "bindings": "layouts/content-blue-052/body-blue-bindings.json",
+          "bindings_sha256": "87b304e6f763a68d9e1a967c4b95ebdfcc7d041eea2bc8ff175c34ff08f606af",
+          "title_input": {
+            "field": "text_10",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            10,
+            12
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 52,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-052/body-red.pptx",
+          "sha256": "f66eba39c686541bed70db69b5270595e90fa82b596883b0d8287ab86f633f17",
+          "bindings": "layouts/content-blue-052/body-red-bindings.json",
+          "bindings_sha256": "1ad830e99ba32923b624fd7383a9b0eae09a7424f83ef19680aa0a8558c4b403",
+          "title_input": {
+            "field": "text_10",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            3,
+            10,
+            12
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 52,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-053",
+      "name": "四行四列层级矩阵",
+      "native_count": 4,
+      "verified_counts": [
+        4
+      ],
+      "themes": {
+        "blue": {
+          "asset": "layouts/content-blue-053/body-blue.pptx",
+          "sha256": "45888338880f40a602c3ca294794889d853710b06ea1d32cb24df015fe315ef8",
+          "bindings": "layouts/content-blue-053/body-blue-bindings.json",
+          "bindings_sha256": "a3d74772fbfaba634522111aed8b90fb429424b66b4de79d88a317948b46a1e7",
+          "title_input": {
+            "field": "text_10",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            10,
+            12,
+            17
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 53,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-053/body-red.pptx",
+          "sha256": "5beb4272aad8039b6213f02427ef570fcd10a217f5d301b43d3fee357a3139bc",
+          "bindings": "layouts/content-blue-053/body-red-bindings.json",
+          "bindings_sha256": "fcaadd7280ea1e15b47ea8d28d3ade53f21a86024b4c80df9b1b13934af7c3cb",
+          "title_input": {
+            "field": "text_10",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            10,
+            11,
+            12
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 53,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-054",
+      "name": "四层阶梯和双侧说明",
+      "native_count": 4,
+      "verified_counts": [
+        4
+      ],
+      "themes": {
+        "blue": {
+          "asset": "layouts/content-blue-054/body-blue.pptx",
+          "sha256": "9d19172d805fbb2f560c7b3915b4f6a1bb6c18d68410183d1bdcc6c6a3e6ee9b",
+          "bindings": "layouts/content-blue-054/body-blue-bindings.json",
+          "bindings_sha256": "6f685fc8f1d5b6a14df49db909ffff639ca425f1317ab338ea88edd2e7a44cb6",
+          "title_input": {
+            "field": "text_10",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            3,
+            10,
+            12
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 54,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-054/body-red.pptx",
+          "sha256": "fc36fd4b869d0d8622343557b4ea3394a24cf7eb45ef5afede558619b664cf8b",
+          "bindings": "layouts/content-blue-054/body-red-bindings.json",
+          "bindings_sha256": "44ee8abe48f017aa8581d7ff45693d626e9a9f06c3e7ac278f2c527893956542",
+          "title_input": {
+            "field": "text_10",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            7,
+            10,
+            12
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 54,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    }
+  ]
+}
