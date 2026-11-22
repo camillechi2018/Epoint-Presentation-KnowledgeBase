@@ -1,0 +1,837 @@
+{
+  "scope": "固定原生项数、短文案、蓝红",
+  "entries": [
+    {
+      "id": "content-blue-218",
+      "name": "五段交错发展时间轴",
+      "native_count": 5,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 20,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-218/body-blue.pptx",
+          "sha256": "770a29359ff424ffa94fab305944a7fde270d8df47b91b4e174976d2057c529d",
+          "bindings": "layouts/content-blue-218/body-blue-bindings.json",
+          "bindings_sha256": "1ac370ecdc14b9305eca7e3e01d2eccc167410bc701281ce733e1b59bfa9dc1a",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            8,
+            25
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 218,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-218/body-red.pptx",
+          "sha256": "c1d157de7fce27d54fe4182916f0b07892ab1cf28202ae43baf031b2458ace53",
+          "bindings": "layouts/content-blue-218/body-red-bindings.json",
+          "bindings_sha256": "32f5ed7f3998462d9529a7f775a28d77cbf6381f5c149baa00c618239ebedb5f",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            4,
+            8
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 218,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-219",
+      "name": "七节点折返进度轴",
+      "native_count": 7,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 21,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-219/body-blue.pptx",
+          "sha256": "607cf671a3a6866dc24c7eaca00515361e9c61042d1e4f157d7966beca4f21cd",
+          "bindings": "layouts/content-blue-219/body-blue-bindings.json",
+          "bindings_sha256": "10f6d6a2852f65c350fdf0e84686284455e8328ec2e243809f9f3c998d7ef44a",
+          "title_input": {
+            "field": "text_20",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            20,
+            23
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 219,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-219/body-red.pptx",
+          "sha256": "b206ee8b7e6c71148e062b30b0161a4ee65ac3247d6eb29e486b12746fc5c7bf",
+          "bindings": "layouts/content-blue-219/body-red-bindings.json",
+          "bindings_sha256": "bdb8c959c93d926ca800b674aa58d180f7c318beae1d03f31f5f40c78885bb6c",
+          "title_input": {
+            "field": "text_20",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            3,
+            20,
+            23
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 219,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-220",
+      "name": "四季度交错工作计划",
+      "native_count": 4,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 12,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-220/body-blue.pptx",
+          "sha256": "fd2cc1ba7ef5e1897bba4e15364fc9c83db44778a3c5f6fbe9498172f9789640",
+          "bindings": "layouts/content-blue-220/body-blue-bindings.json",
+          "bindings_sha256": "8875361d8c72122827f45aad7fbdd1d4b3dae5143f3b602e949b75ea95996b0e",
+          "title_input": {
+            "field": "text_4",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            4,
+            6
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 220,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-220/body-red.pptx",
+          "sha256": "61cf02e6f8fc2cf0a7c01d402d0f0a6ee1056ff5a52e6418826e4bacbe68f1b8",
+          "bindings": "layouts/content-blue-220/body-red-bindings.json",
+          "bindings_sha256": "0f702f462549ffc5777b9463c389bcc99144e9bff8e2c96065e36470ebb7b8b0",
+          "title_input": {
+            "field": "text_4",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            4,
+            5,
+            6
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 220,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-221",
+      "name": "五年度上升路线与行动",
+      "native_count": 5,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 22,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-221/body-blue.pptx",
+          "sha256": "d336f49ae4c8ff2029e792132c8fd10ce012aed026e8603c27b29379cd7f35d9",
+          "bindings": "layouts/content-blue-221/body-blue-bindings.json",
+          "bindings_sha256": "4c7f67d40a5707e61711ed206c8e187cf3d3ce53d2eb3e554cdfd86c4c55a764",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            4,
+            6
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 221,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-221/body-red.pptx",
+          "sha256": "f892e1153d8bbc18d8337d51639e7014f4d28f94f25bed338c47a098e555ffac",
+          "bindings": "layouts/content-blue-221/body-red-bindings.json",
+          "bindings_sha256": "bb62b3b7bfe3ea2f8236e87448afc52f7f9905561c5583324242e8eeeb57bff6",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            3,
+            4
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 221,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-222",
+      "name": "四季度改进与汇总指标",
+      "native_count": 4,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 21,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-222/body-blue.pptx",
+          "sha256": "62e22e7deef4a165ae2bb3ebe81eb78aa630dd78c1dcdb777df37f855ca2c006",
+          "bindings": "layouts/content-blue-222/body-blue-bindings.json",
+          "bindings_sha256": "9a1c76c055cc1f0ac4a1d61d8fa56f8e1b7f44fd192b60db6afae10efc54143a",
+          "title_input": {
+            "field": "text_5",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            3,
+            5,
+            7
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 222,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-222/body-red.pptx",
+          "sha256": "e28bc160a71d2094194c5e6d21bddf7d7df2f92a1899433205338d6fb8465896",
+          "bindings": "layouts/content-blue-222/body-red-bindings.json",
+          "bindings_sha256": "846d18cd03df759c5a54b4fa881a8f2b6be581a1c4362924eb4587f08046554e",
+          "title_input": {
+            "field": "text_5",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            4,
+            5,
+            7
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 222,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-223",
+      "name": "五阶段推进及终点总结",
+      "native_count": 5,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 18,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-223/body-blue.pptx",
+          "sha256": "660f884d1ee020cab20e4b084704dbf024761bef8b4c62c4ca3359e7eb4b3158",
+          "bindings": "layouts/content-blue-223/body-blue-bindings.json",
+          "bindings_sha256": "8b1e5f3647235ff15bd2de51a8efe675a0cd952d8704c358911194586a5aecfc",
+          "title_input": {
+            "field": "text_5",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            4,
+            5,
+            20
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 223,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-223/body-red.pptx",
+          "sha256": "24cf15e341311383d58455cea42391b25bbdcca84cbdee2fa4b4d6cf987e976b",
+          "bindings": "layouts/content-blue-223/body-red-bindings.json",
+          "bindings_sha256": "a8c0cadb05b4a57248d2f2a6f1bd25b808d74b5fcbcba0f7a16d5c75407cee8d",
+          "title_input": {
+            "field": "text_5",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            5,
+            7,
+            20
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 223,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-224",
+      "name": "四季度推进及总结节点",
+      "native_count": 4,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 19,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-224/body-blue.pptx",
+          "sha256": "219746d9cb2dcb4125a9e4cede95b5255f2d611c3acbdb31936f05398f713f03",
+          "bindings": "layouts/content-blue-224/body-blue-bindings.json",
+          "bindings_sha256": "e7b8fd2d6e04cefc91bdb132d496c33fd2af30a5ef1de994c74cff7e89c89949",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            3,
+            26
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 224,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-224/body-red.pptx",
+          "sha256": "7b9d0c3a9c1ef1b945d84670391fe2619dd370d6dc5f80dd9f3fa083f4102186",
+          "bindings": "layouts/content-blue-224/body-red-bindings.json",
+          "bindings_sha256": "d90c1c29692e1a8838c25bd5e9a28887da74bc0f30609d166df41a455bab95ea",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            4,
+            26
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 224,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-225",
+      "name": "四季度复盘与双侧标签",
+      "native_count": 4,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 20,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-225/body-blue.pptx",
+          "sha256": "27a1618de65c5b35c42d23ea64810990263bc9a43eff3817b2d1c267f236a6c9",
+          "bindings": "layouts/content-blue-225/body-blue-bindings.json",
+          "bindings_sha256": "b5800db99ba1d1a04629577fbfa6456a0f36bf6cecf71ef4f8befc8d4da638eb",
+          "title_input": {
+            "field": "text_11",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            4,
+            11,
+            31
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 225,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-225/body-red.pptx",
+          "sha256": "b93ba60aa6f862559ecb7de218a15009ed344d51236a4096415a868b0b092a5e",
+          "bindings": "layouts/content-blue-225/body-red-bindings.json",
+          "bindings_sha256": "9837ebd9d9d4a931d2c473f7a3bd7037849e9fbde303af4085038151c78eaba7",
+          "title_input": {
+            "field": "text_11",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            5,
+            11,
+            31
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 225,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-226",
+      "name": "五节点计划与上下行动",
+      "native_count": 5,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 25,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-226/body-blue.pptx",
+          "sha256": "baff5bf76bdf9f8a558393415dc794d162a41a14fef151d1174370c94ca93ee7",
+          "bindings": "layouts/content-blue-226/body-blue-bindings.json",
+          "bindings_sha256": "cae3bd1dd97678ca18d790b64787a078b2d0002162b0190f8e3bcd59e52c2714",
+          "title_input": {
+            "field": "text_7",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            7,
+            9,
+            12
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 226,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-226/body-red.pptx",
+          "sha256": "f1b2cd223fadcb867dc77fc06dc1f1491c35fbfcbec015904f1d54592497714f",
+          "bindings": "layouts/content-blue-226/body-red-bindings.json",
+          "bindings_sha256": "2db4e5e06d8f0bb29e77821432f0bfc0f97d642b589456c02368e97a33bd1f27",
+          "title_input": {
+            "field": "text_7",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            7,
+            9,
+            11
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 226,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-227",
+      "name": "五阶段任务清单",
+      "native_count": 5,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 36,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-227/body-blue.pptx",
+          "sha256": "965e70d0ed82489cc72e20691e88749c124e9b1011b9e9132aacf4de55e88f91",
+          "bindings": "layouts/content-blue-227/body-blue-bindings.json",
+          "bindings_sha256": "e44f9b868949085d05fb16608c44eb0ad7476060b114bc705c800edd1afdd268",
+          "title_input": {
+            "field": "text_4",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            4,
+            6
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 227,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-227/body-red.pptx",
+          "sha256": "e7f5da23e82cdcdf4850c2d7c76f798d360066bfd89d4f1bc43e137c0ff3e889",
+          "bindings": "layouts/content-blue-227/body-red-bindings.json",
+          "bindings_sha256": "f4579624f6d0bfa96f7082553bc40e64c1cf72886be55c7a303a03503405569a",
+          "title_input": {
+            "field": "text_4",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            4,
+            6,
+            11
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 227,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-228",
+      "name": "四季度目标与资源",
+      "native_count": 4,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 16,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-228/body-blue.pptx",
+          "sha256": "f2b3473d7c486b58ef826e66dc1a6df5beb0f0e2a582c101d041d699c3d46a62",
+          "bindings": "layouts/content-blue-228/body-blue-bindings.json",
+          "bindings_sha256": "1a91ef0d2e72c921719e674af8a2bec0710c1060f02d50f2932cc4f6ca0b97d6",
+          "title_input": {
+            "field": "text_31",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            31,
+            33,
+            38
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 228,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-228/body-red.pptx",
+          "sha256": "c840734409ba2b659f6f2733a6dc6fef2f334393e41895dbf48656f9e67769c8",
+          "bindings": "layouts/content-blue-228/body-red-bindings.json",
+          "bindings_sha256": "55c2051ef78fcdcd30db2532775482a3c61a0bf331365cfc63e7f036f6ba3cfd",
+          "title_input": {
+            "field": "text_31",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            31,
+            32,
+            33
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 228,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-229",
+      "name": "六月环扣与交错说明",
+      "native_count": 6,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 12,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-229/body-blue.pptx",
+          "sha256": "35fd78ac633b6b2d39726bc5e23bc7be466bff27b71a3092562b28d7606965ff",
+          "bindings": "layouts/content-blue-229/body-blue-bindings.json",
+          "bindings_sha256": "db7c5da7e9838381069fae6afcec0e7823c6779569d5e340e5124fea19758870",
+          "title_input": {
+            "field": "text_29",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            6,
+            29,
+            31
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 229,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-229/body-red.pptx",
+          "sha256": "dc2d1e7350f8bd8144e42d1287d4b96619b9eb7916cdfe443619e32e3b36b11d",
+          "bindings": "layouts/content-blue-229/body-red-bindings.json",
+          "bindings_sha256": "5a6e34a2b82cb7c8e7e82d927468e95269dbfacec9a41b8df9a38dddca5a0381",
+          "title_input": {
+            "field": "text_29",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            29,
+            31
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 229,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-232",
+      "name": "双项目分类及四步骤",
+      "native_count": 2,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 10,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-232/body-blue.pptx",
+          "sha256": "c51ca54c6c0d665fed14df55724b33ea94c1962f21e44ce8b80ffc6475f5c13d",
+          "bindings": "layouts/content-blue-232/body-blue-bindings.json",
+          "bindings_sha256": "3f64580971e3374b716a3e02f798d06c9184d2a13af7d0de3826d48c9841296a",
+          "title_input": {
+            "field": "text_6",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            6,
+            8
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 232,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-232/body-red.pptx",
+          "sha256": "7fcea3b49c9f55acd7d5735b8b6a748e34875ad89d44322a17c800ad98bdee76",
+          "bindings": "layouts/content-blue-232/body-red-bindings.json",
+          "bindings_sha256": "e3bab8d6f5c4e290ae8ea9ee17bd897689823de22e98f27f01ee260bbef3e8f2",
+          "title_input": {
+            "field": "text_6",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            6,
+            7,
+            8
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 232,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-233",
+      "name": "五列阶段看板与双标签",
+      "native_count": 5,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 25,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-233/body-blue.pptx",
+          "sha256": "23069af1dba509344f27b9f9c685b8128a0a5ba0773cf934c3021d2e62eb3d20",
+          "bindings": "layouts/content-blue-233/body-blue-bindings.json",
+          "bindings_sha256": "9c973d1410beab625d9f6f18ceb2a83844f9afbd7456eea9c75077a54393e8ca",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            9,
+            10
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 233,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-233/body-red.pptx",
+          "sha256": "99ddfc0164acb71e8f2b0402e368062fdf050f7e88bfa1a8b2c72ed61da513f5",
+          "bindings": "layouts/content-blue-233/body-red-bindings.json",
+          "bindings_sha256": "2309ae2195663b9f578da50d488ec380780b441333f7c5403531192d3e0b419c",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            9,
+            11
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 233,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-234",
+      "name": "五步递进阶梯流程",
+      "native_count": 5,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 18,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-234/body-blue.pptx",
+          "sha256": "d4b57ce1543638fd294b463b9c6ae29b2eda1efd835f290c714a540effac338c",
+          "bindings": "layouts/content-blue-234/body-blue-bindings.json",
+          "bindings_sha256": "2121e03951fae6a04d9870646151e4c70d896a0ac0a0b6bfe22dba11f058b8b7",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            6,
+            13
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 234,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-234/body-red.pptx",
+          "sha256": "20d2cede465f9bdee5fd0d0d3379aee13af5b7a3b7dd5444f6425f8e64bf4802",
+          "bindings": "layouts/content-blue-234/body-red-bindings.json",
+          "bindings_sha256": "3aa4466f8f6728a92144d62066a6776707c5e805806ab12ac95ee158378c7951",
+          "title_input": {
+            "field": "text_2",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            2,
+            4,
+            13
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 234,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    },
+    {
+      "id": "content-blue-236",
+      "name": "五步流程与三段归纳",
+      "native_count": 5,
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "editable_fields": 18,
+      "body": {
+        "blue": {
+          "asset": "layouts/content-blue-236/body-blue.pptx",
+          "sha256": "fb2a2608c0ba7f3619c5cd524d5f2722631428026aa3bcf0316cd7bced934e8c",
+          "bindings": "layouts/content-blue-236/body-blue-bindings.json",
+          "bindings_sha256": "b5e208ea589ceed9ecebd9c21deaa8a26b5a18e1f7a8dcf9fcb7523f75ad144d",
+          "title_input": {
+            "field": "text_19",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            6,
+            19,
+            27
+          ],
+          "source": {
+            "source": "sources/blue.pptx",
+            "page": 236,
+            "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e"
+          }
+        },
+        "red": {
+          "asset": "layouts/content-blue-236/body-red.pptx",
+          "sha256": "7a540f6ac00fc6b70d25b689d12792e361cf9919d37fbd9aa61086094c62f517",
+          "bindings": "layouts/content-blue-236/body-red-bindings.json",
+          "bindings_sha256": "efe7015ba0d02aa2ae4d5cdde74609c687533582aaeede3cb909edc8e9b6496c",
+          "title_input": {
+            "field": "text_19",
+            "semantic_path": "page.title"
+          },
+          "removed_shape_ids": [
+            5,
+            19,
+            27
+          ],
+          "source": {
+            "source": "sources/red.pptx",
+            "page": 236,
+            "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104"
+          }
+        }
+      }
+    }
+  ]
+}
