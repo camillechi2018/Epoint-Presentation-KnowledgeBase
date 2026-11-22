@@ -28953,8 +28953,8 @@
       "style_family": "deep-blue-tech",
       "color_family": "deep-blue",
       "role": "data-chart",
-      "information_relation": "data-chart",
-      "classification_status": "visual_initial",
+      "information_relation": "trend",
+      "classification_status": "verified",
       "family_id": "tech-data-chart-070",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -28979,15 +28979,54 @@
         "cell_max_chars": 20
       },
       "shape_count": 58,
-      "media_status": "unreviewed",
+      "media_status": "verified_source_decorations",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "motion_suitability": "B",
-      "cardinality_status": "not_implemented",
+      "cardinality_status": "verified",
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 57,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "ready_source_by_theme": {
+        "deep-blue-tech": "layouts/data-chart-tech-070/ready-deep-blue-tech.pptx"
+      },
+      "canonical_relation": "trend",
+      "structure_type": "trend",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "header_validation_status": "excluded_skill_managed",
+      "structure_review_status": "verified_deep_blue_tech_body_capacity",
+      "pptx_support": "verified_static_body_draft",
+      "bindings_by_count": {
+        "4": {
+          "deep-blue-tech": "layouts/data-chart-tech-070/bindings-4-deep-blue-tech.json"
+        }
+      },
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "trend",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "combo_plot.note"
+        ],
+        "required_binding_paths_by_count": {
+          "4": [
+            "combo_plot.note"
+          ],
+          "5": [
+            "combo_plot.note"
+          ]
+        },
+        "access_mode": "field_complete",
+        "optional_binding_paths": [
+          "page.title",
+          "page.subtitle"
+        ]
+      }
     },
     {
       "id": "data-chart-tech-071",
@@ -29095,8 +29134,8 @@
       "style_family": "deep-blue-tech",
       "color_family": "deep-blue",
       "role": "data-chart",
-      "information_relation": "data-chart",
-      "classification_status": "visual_initial",
+      "information_relation": "comparison",
+      "classification_status": "verified",
       "family_id": "tech-data-chart-072",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -29121,15 +29160,57 @@
         "cell_max_chars": 20
       },
       "shape_count": 40,
-      "media_status": "unreviewed",
+      "media_status": "verified_source_decorations",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "motion_suitability": "B",
-      "cardinality_status": "not_implemented",
+      "cardinality_status": "verified",
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 3,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "ready_source_by_theme": {
+        "deep-blue-tech": "layouts/data-chart-tech-072/ready-deep-blue-tech.pptx"
+      },
+      "canonical_relation": "comparison",
+      "structure_type": "comparison",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "header_validation_status": "excluded_skill_managed",
+      "structure_review_status": "verified_deep_blue_tech_body_capacity",
+      "pptx_support": "verified_static_body_draft",
+      "bindings_by_count": {
+        "4": {
+          "deep-blue-tech": "layouts/data-chart-tech-072/bindings-4-deep-blue-tech.json"
+        }
+      },
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "comparison",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "doughnut_panels[0].heading",
+          "doughnut_panels[1].heading"
+        ],
+        "required_binding_paths_by_count": {
+          "4": [
+            "doughnut_panels[0].heading",
+            "doughnut_panels[1].heading"
+          ],
+          "5": [
+            "doughnut_panels[0].heading",
+            "doughnut_panels[1].heading"
+          ]
+        },
+        "access_mode": "field_complete",
+        "optional_binding_paths": [
+          "page.title",
+          "page.subtitle"
+        ]
+      }
     },
     {
       "id": "data-chart-tech-073",
@@ -29138,8 +29219,8 @@
       "style_family": "deep-blue-tech",
       "color_family": "deep-blue",
       "role": "data-chart",
-      "information_relation": "data-chart",
-      "classification_status": "visual_initial",
+      "information_relation": "trend",
+      "classification_status": "verified",
       "family_id": "tech-data-chart-073",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -29164,15 +29245,63 @@
         "cell_max_chars": 20
       },
       "shape_count": 35,
-      "media_status": "unreviewed",
+      "media_status": "verified_source_decorations",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "motion_suitability": "B",
-      "cardinality_status": "not_implemented",
+      "cardinality_status": "verified",
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 2,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "ready_source_by_theme": {
+        "deep-blue-tech": "layouts/data-chart-tech-073/ready-deep-blue-tech.pptx"
+      },
+      "canonical_relation": "trend",
+      "structure_type": "trend",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "header_validation_status": "excluded_skill_managed",
+      "structure_review_status": "verified_deep_blue_tech_body_capacity",
+      "pptx_support": "verified_static_body_draft",
+      "bindings_by_count": {
+        "6": {
+          "deep-blue-tech": "layouts/data-chart-tech-073/bindings-6-deep-blue-tech.json"
+        }
+      },
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "trend",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "summary_cards[0].value",
+          "summary_cards[0].description",
+          "summary_cards[1].description",
+          "summary_cards[1].value"
+        ],
+        "required_binding_paths_by_count": {
+          "6": [
+            "summary_cards[0].value",
+            "summary_cards[0].description",
+            "summary_cards[1].description",
+            "summary_cards[1].value"
+          ],
+          "7": [
+            "summary_cards[0].value",
+            "summary_cards[0].description",
+            "summary_cards[1].description",
+            "summary_cards[1].value"
+          ]
+        },
+        "access_mode": "field_complete",
+        "optional_binding_paths": [
+          "page.title",
+          "page.subtitle"
+        ]
+      }
     },
     {
       "id": "data-chart-tech-074",
@@ -29181,8 +29310,8 @@
       "style_family": "deep-blue-tech",
       "color_family": "deep-blue",
       "role": "data-chart",
-      "information_relation": "data-chart",
-      "classification_status": "visual_initial",
+      "information_relation": "composition",
+      "classification_status": "verified",
       "family_id": "tech-data-chart-074",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -29207,15 +29336,58 @@
         "cell_max_chars": 20
       },
       "shape_count": 80,
-      "media_status": "unreviewed",
+      "media_status": "verified_source_decorations",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "motion_suitability": "B",
-      "cardinality_status": "not_implemented",
+      "cardinality_status": "verified",
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 3,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "ready_source_by_theme": {
+        "deep-blue-tech": "layouts/data-chart-tech-074/ready-deep-blue-tech.pptx"
+      },
+      "canonical_relation": "composition",
+      "structure_type": "composition",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "header_validation_status": "excluded_skill_managed",
+      "structure_review_status": "verified_deep_blue_tech_body_capacity",
+      "pptx_support": "verified_static_body_draft",
+      "bindings_by_count": {
+        "2": {
+          "deep-blue-tech": "layouts/data-chart-tech-074/bindings-2-deep-blue-tech.json"
+        }
+      },
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "composition",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "pie_companion[0].copy",
+          "pie_companion[2].copy",
+          "pie_companion[1].copy"
+        ],
+        "required_binding_paths_by_count": {
+          "2": [
+            "pie_companion[0].copy",
+            "pie_companion[1].copy"
+          ],
+          "3": [
+            "pie_companion[0].copy",
+            "pie_companion[2].copy",
+            "pie_companion[1].copy"
+          ]
+        },
+        "access_mode": "field_complete",
+        "optional_binding_paths": [
+          "page.title"
+        ]
+      }
     },
     {
       "id": "data-chart-tech-075",
@@ -29323,8 +29495,8 @@
       "style_family": "deep-blue-tech",
       "color_family": "deep-blue",
       "role": "data-chart",
-      "information_relation": "data-chart",
-      "classification_status": "visual_initial",
+      "information_relation": "comparison",
+      "classification_status": "verified",
       "family_id": "tech-data-chart-076",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -29349,15 +29521,64 @@
         "cell_max_chars": 20
       },
       "shape_count": 62,
-      "media_status": "unreviewed",
+      "media_status": "verified_source_decorations",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "motion_suitability": "B",
-      "cardinality_status": "not_implemented",
+      "cardinality_status": "verified",
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 2,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "canonical_relation": "comparison",
+      "structure_type": "comparison",
+      "matching_policy": "structural",
+      "matching_activation": "structure_ready",
+      "header_validation_status": "excluded_skill_managed",
+      "structure_review_status": "verified_deep_blue_tech_body_capacity",
+      "pptx_support": "verified_static_body_draft",
+      "bindings_by_count": {
+        "2": {
+          "deep-blue-tech": "layouts/data-chart-tech-076/bindings-2-deep-blue-tech.json"
+        }
+      },
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "comparison",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "column_cards[2].heading",
+          "column_cards[0].heading",
+          "column_cards[1].heading",
+          "column_cards[0].copy",
+          "column_cards[1].copy",
+          "column_cards[2].copy"
+        ],
+        "required_binding_paths_by_count": {
+          "2": [
+            "column_cards[1].heading",
+            "column_cards[0].heading",
+            "column_cards[0].copy",
+            "column_cards[1].copy"
+          ],
+          "3": [
+            "column_cards[2].heading",
+            "column_cards[0].heading",
+            "column_cards[1].heading",
+            "column_cards[0].copy",
+            "column_cards[1].copy",
+            "column_cards[2].copy"
+          ]
+        },
+        "access_mode": "field_complete",
+        "optional_binding_paths": [
+          "page.title",
+          "page.subtitle"
+        ]
+      }
     },
     {
       "id": "content-tech-077",
